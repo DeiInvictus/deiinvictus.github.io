@@ -1,8 +1,8 @@
 ---
 title: "Inaugural Campaign Against Heresy: The Rise of Ordo Dei Invictus"
-date: 2024-09-27 01:15:00 -0500
+date: 2024-09-27 01:25:00 -0500
 categories: [Edict, Proclamation]
-tags: [inaugural] # TAG names should always be lowercase
+tags: [grandmaster, inaugural] # TAG names should always be lowercase
 author: grand_master
 published: true
 comments: false
@@ -32,7 +32,7 @@ Stand with me against this terrible evil that threatens the innocence of our chi
 
 Sincerely,
 
-&mdash; Grand Master of Ordo Dei Invictus
+Grand Master of Ordo Dei Invictus
 
 <!-- we cannot allow this cancer to metastasize -->
 
