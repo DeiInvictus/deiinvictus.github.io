@@ -1,6 +1,6 @@
 ---
 title: "Inaugural Campaign Against Heresy: The Rise of Ordo Dei Invictus"
-date: 2024-09-27 01:10:00 -0500
+date: 2024-09-27 01:15:00 -0500
 categories: [Edict, Proclamation]
 tags: [inaugural] # TAG names should always be lowercase
 author: grand_master
@@ -22,9 +22,11 @@ Dear children, cherished sons and daughters of the Most High, for many years we 
 
 With the voice God has given me through you, I have vanquished heresy, restored faith, and reignited the fervor of millions of souls with nearly 7.6 million likes and retweets through over 2.6 million tweets—an achievement that reflects the effort of roughly 100 lifetimes in only a seven year period, boldly triumphing over the very forces of darkness that seek to undermine our divine purpose. Nevertheless, we must reeducate those who have strayed, guiding them back to the path of truth and righteousness, ensuring that the brilliance of our message remains unwavering.
 
-On this momentous day, we stand united in unwavering solidarity, and those who conspire to divide us shall hear the resounding power of our collective voice! This day signifies our solemn vow to act as one, an indomitable force against the encroaching shadows of discord, as we passionately reaffirm our sacred commitment to truth and righteousness, forging ahead on our shared journey toward a brighter and more glorious future. Defenders of truth and righteousness, now is our time to rise! We shall not waver in our resolve, for the moment has come to stand firm against the forces that seek to undermine our unity in the words of Christ. Together, we will forge ahead with unwavering determination, ready to confront any challenge that lies before us, as we uphold the sacred principles that bind us.
+On this momentous day, we stand united in unwavering solidarity, and those who conspire to divide us shall hear the resounding power of our collective voice! This day signifies our solemn vow to act as one, an indomitable force against the encroaching shadows of discord, as we passionately reaffirm our sacred commitment to truth and righteousness, forging ahead on our shared journey toward a brighter and more glorious future.
 
 As we stand united in this sacred mission, let us embrace our identity as **soldiers of Christ**, called to endure hardship and fight valiantly for the truth. The Apostle Paul urges us to "endure suffering along with me, as a good soldier of Christ Jesus" (2 Timothy 2:3). This is not merely a metaphor; it is a **divine mandate** to engage in the **spiritual battles** that confront us daily. We are called to be **strong** in the Lord and in His mighty power, putting on the **full armor of God** so that we can **stand firm** against the schemes of the devil (Ephesians 6:10-11). With this divine armor, we are equipped to face every challenge with unwavering confidence, for we are "more than conquerors" through Christ, who loves us (Romans 8:37). Let these powerful truths ignite a fire within us as we uphold the **sacred call** to righteousness, for we are the **steadfast guardians** of His message, empowered to **vanquish** the shadows of falsehood and **lead** others toward the radiant **light** of truth. Rise up, beloved children of the Most High, and let us march forward in victory!
+
+Defenders of truth and righteousness, now is our time to rise! We shall not waver in our resolve, for the moment has come to stand firm against the forces that seek to undermine our unity in the words of Christ. Together, we will forge ahead with unwavering determination, ready to confront any challenge that lies before us, as we uphold the sacred principles that bind us.
 
 Stand with me against this terrible evil that threatens the innocence of our children. Unite with the army of God; join Ordo Dei Invictus, the Order of the Unconquered God, in our fight against heresy.
 
@@ -43,7 +45,7 @@ Sincerely,
 <script>
     var refTagger = {
         settings: {
-            bibleVersion: 'NLT'
+            bibleVersion: 'ESV'
         }
     };
 
