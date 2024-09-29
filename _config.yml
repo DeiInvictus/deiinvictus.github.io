@@ -59,7 +59,7 @@ webmaster_verifications:
 # Web Analytics Settings
 analytics:
   google:
-    id: # fill in your Google Analytics ID
+    id: G-J2HG6C33MS # fill in your Google Analytics ID
   goatcounter:
     id: deiinvictus # fill in your GoatCounter ID
   umami:
@@ -69,7 +69,7 @@ analytics:
     id: # fill in your Matomo ID
     domain: # fill in your Matomo domain
   cloudflare:
-    id: # fill in your Cloudflare Web Analytics token
+    id: 256ec66134664441a67fb6dc5c4d66f6 # fill in your Cloudflare Web Analytics token
   fathom:
     id: # fill in your Fathom Site ID
 
