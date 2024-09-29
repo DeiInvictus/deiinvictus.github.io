@@ -1,6 +1,6 @@
 ---
 title: "Inaugural Campaign Against Heresy: The Rise of Ordo Dei Invictus"
-date: 2024-09-27 01:30:00 -0500
+date: 2024-09-27 01:35:00 -0500
 categories: [Edict, Proclamation]
 tags: [grandmaster, inaugural] # TAG names should always be lowercase
 author: grand_master
@@ -18,7 +18,9 @@ The Faithful Remnant: Rising Against Heretical Deception
 A Campagin against heresy
 -->
 
-Dear children, cherished sons and daughters of the Most High, for many years we have endured the weight of oppression, marginalization, and persecution by heretics and cultists who sought to lead us into ignorance, sin, and death. Eight years ago, I called upon you for a voice to vanquish hypocrisy and corruption, and that voice was granted to me by God through you, you who have given me a voice to speak truth, the bearers of His message, and the steadfast guardians of our divine hope, who have stood unwaveringly with me as unshakeable pillars of righteousness, upholding the sacred call to repentance and vanquishing the shadows of false doctrine.
+Dear brothers and sisters,
+
+Cherished sons and daughters of the Most High, for many years we have endured the weight of oppression, marginalization, and persecution by heretics and cultists who sought to lead us into ignorance, sin, and death. Eight years ago, I called upon you for a voice to vanquish hypocrisy and corruption, and that voice was granted to me by God through you, you who have given me a voice to speak truth, the bearers of His message, and the steadfast guardians of our divine hope, who have stood unwaveringly with me as unshakeable pillars of righteousness, upholding the sacred call to repentance and vanquishing the shadows of false doctrine.
 
 <!-- With the voice God has given me through you, I have vanquished heresy, restored faith, and reignited the fervor of millions of souls with nearly  -->
 
