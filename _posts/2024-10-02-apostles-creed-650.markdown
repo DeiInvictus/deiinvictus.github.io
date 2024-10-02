@@ -1,6 +1,6 @@
 ---
 title: "Apostles’ Creed (A.D. 650)"
-date: 2024-10-02 01:25:00 -0500
+date: 2024-10-02 01:35:00 -0500
 categories: [Order, Creeds and Confessions]
 tags: [creeds, confessions] # TAG names should always be lowercase
 authors: [grand_master, chaplain]
@@ -12,6 +12,8 @@ pin: false
 Ordo Dei Invictus recognizes Apostles’ Creed (A.D. 650) as a legitimate creed.
 
 # Apostles’ Creed
+
+<br>
 
 I believe in God the Father Almighty,
 maker of heaven and earth;
@@ -35,6 +37,8 @@ the resurrection of the body;
 and the life everlasting.
 
 Amen.
+
+<br>
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Nicene Creed (A.D. 381)"
-date: 2024-10-02 01:30:00 -0500
+date: 2024-10-02 01:40:00 -0500
 categories: [Order, Creeds and Confessions]
 tags: [creeds, confessions] # TAG names should always be lowercase
 authors: [grand_master, chaplain]
@@ -12,6 +12,8 @@ pin: false
 Ordo Dei Invictus recognizes the Nicene Creed (A.D. 381) as a legitimate creed.
 
 # Nicene Creed
+
+<br>
 
 I believe in one God,<br>
 the Father Almighty,<br>
@@ -53,6 +55,8 @@ and I look for the resurrection of the dead,<br>
 and the life of the world to come.
 
 Amen.
+
+<br>
 
 ---
 
