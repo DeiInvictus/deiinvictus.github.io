@@ -1,6 +1,6 @@
 ---
 title: "New Hampshire Confession (1833)"
-date: 2024-10-02 01:00:00 -0500
+date: 2024-10-02 01:15:00 -0500
 categories: [Order, Creeds and Confessions]
 tags: [creeds, confessions] # TAG names should always be lowercase
 authors: [grand_master, chaplain]
@@ -16,7 +16,7 @@ Ordo Dei Invictus recognizes The New Hampshire Confession of Faith as a legitima
 
 Declaration of Faith -->
 
-<a name="contents" style="font-size:2.1em;color:White;">Contents</a>
+<a href="#" name="contents" style="font-size:2.1em;color:White;">Contents</a>
 
 1. <a href="#the-scriptures">Of the Scriptures</a>
 2. <a href="#the-true-God">Of the True God</a>
