@@ -1,8 +1,8 @@
 ---
 title: "Heidelberg Catechism (1563)"
-date: 2024-10-02 01:25:00 -0500
+date: 2024-10-02 01:30:00 -0500
 categories: [Order, Creeds and Confessions]
-tags: [creeds, confessions] # TAG names should always be lowercase
+tags: [confessions] # TAG names should always be lowercase
 authors: [grand_master, chaplain]
 published: true
 comments: false

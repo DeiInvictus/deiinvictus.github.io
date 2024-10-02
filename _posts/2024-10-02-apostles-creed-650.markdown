@@ -1,8 +1,8 @@
 ---
 title: "Apostles’ Creed (A.D. 650)"
-date: 2024-10-02 01:35:00 -0500
+date: 2024-10-02 01:40:00 -0500
 categories: [Order, Creeds and Confessions]
-tags: [creeds, confessions] # TAG names should always be lowercase
+tags: [creeds] # TAG names should always be lowercase
 authors: [grand_master, chaplain]
 published: true
 comments: false
