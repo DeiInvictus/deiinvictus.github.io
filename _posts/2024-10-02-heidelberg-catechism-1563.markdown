@@ -1,6 +1,6 @@
 ---
 title: "Heidelberg Catechism (1563)"
-date: 2024-10-02 01:40:00 -0500
+date: 2024-10-02 01:45:00 -0500
 categories: [Order, Creeds and Confessions]
 tags: [confessions] # TAG names should always be lowercase
 authors: [grand_master, chaplain]
@@ -10,7 +10,7 @@ pin: false
 toc: false
 ---
 
-Ordo Dei Invictus recognizes The Heidelberg Catechism (1563) as a legitimate confession.
+Ordo Dei Invictus recognizes The Heidelberg Catechism (1563).
 
 <a href="#" name="contents" style="font-size:2.1em;color:White;">Contents</a>
 

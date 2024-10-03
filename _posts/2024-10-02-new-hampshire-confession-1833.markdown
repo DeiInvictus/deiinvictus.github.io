@@ -1,6 +1,6 @@
 ---
 title: "New Hampshire Confession (1833)"
-date: 2024-10-02 01:27:00 -0500
+date: 2024-10-02 01:30:00 -0500
 categories: [Order, Creeds and Confessions]
 tags: [confessions] # TAG names should always be lowercase
 authors: [grand_master, chaplain]
@@ -10,7 +10,7 @@ pin: false
 toc: false
 ---
 
-Ordo Dei Invictus recognizes The New Hampshire Confession of Faith as a legitimate confession.
+Ordo Dei Invictus recognizes The New Hampshire Confession (1833).
 
 <!-- This Confession was drawn up by the Rev. John Newton Brown, D. D., of New Hampshire about 1833, and was adopted by the New Hampshire Convention, and widely accepted by Baptists, especially in the Northern and Western States, as a clear and concise statement of their faith, in harmony with the doctrines of older confessions, but expressed in milder form. The text is taken from the Baptist Church Manual, published by the American Baptist Publication Society, Philadelphia.
 
