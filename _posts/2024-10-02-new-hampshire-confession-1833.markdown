@@ -1,6 +1,6 @@
 ---
 title: "New Hampshire Confession (1833)"
-date: 2024-10-02 01:25:00 -0500
+date: 2024-10-02 01:27:00 -0500
 categories: [Order, Creeds and Confessions]
 tags: [confessions] # TAG names should always be lowercase
 authors: [grand_master, chaplain]
@@ -40,8 +40,6 @@ Declaration of Faith -->
 <br>
 
 ---
-
-<br>
 
 <a name="the-scriptures" href="#contents" style="font-weight:bold;font-size:1.6em;">Article 1.</a><br><span style="font-style:italic;font-weight:bold;">Of the Scriptures</span>
 
