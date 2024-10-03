@@ -1,6 +1,6 @@
 ---
 title: "Inaugural Campaign Against Heresy: The Rise of Ordo Dei Invictus"
-date: 2024-09-27 01:47:00 -0500
+date: 2024-09-27 02:00:00 -0500
 categories: [Edict, Proclamation]
 tags: [grandmaster, inaugural] # TAG names should always be lowercase
 author: grand_master
@@ -51,7 +51,8 @@ Grand Master of Ordo Dei Invictus
 <script>
     var refTagger = {
         settings: {
-            bibleVersion: 'ESV'
+            bibleVersion: 'ESV',
+            tooltipStyle: 'dark'
         }
     };
 

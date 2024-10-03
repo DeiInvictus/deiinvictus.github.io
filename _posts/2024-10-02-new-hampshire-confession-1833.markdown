@@ -1,6 +1,6 @@
 ---
 title: "New Hampshire Confession (1833)"
-date: 2024-10-02 01:20:00 -0500
+date: 2024-10-02 01:25:00 -0500
 categories: [Order, Creeds and Confessions]
 tags: [confessions] # TAG names should always be lowercase
 authors: [grand_master, chaplain]
@@ -275,7 +275,8 @@ Of the World to Come We believe that the end of the world is approaching;<sup st
 <script>
     var refTagger = {
         settings: {
-            bibleVersion: 'ESV'
+            bibleVersion: 'ESV',
+            tooltipStyle: 'dark'
         }
     };
 

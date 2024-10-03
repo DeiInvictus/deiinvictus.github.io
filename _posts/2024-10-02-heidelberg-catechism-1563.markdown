@@ -1,6 +1,6 @@
 ---
 title: "Heidelberg Catechism (1563)"
-date: 2024-10-02 01:30:00 -0500
+date: 2024-10-02 01:40:00 -0500
 categories: [Order, Creeds and Confessions]
 tags: [confessions] # TAG names should always be lowercase
 authors: [grand_master, chaplain]
@@ -20,7 +20,6 @@ Ordo Dei Invictus recognizes The Heidelberg Catechism (1563) as a legitimate con
 
 ---
 
-<br>
 
 <br><a name="Q1" href="#contents" style="font-weight:bold;font-size:1.2em;">Q1. What is your only comfort in life and death?</a><br>
 
@@ -1010,7 +1009,8 @@ A. Amen means: It is true and certain. For God has much more certainly heard my 
 <script>
     var refTagger = {
         settings: {
-            bibleVersion: 'ESV'
+            bibleVersion: 'ESV',
+            tooltipStyle: 'dark'
         }
     };
 

@@ -1,6 +1,6 @@
 ---
 title: "Apostles’ Creed (A.D. 650)"
-date: 2024-10-02 01:40:00 -0500
+date: 2024-10-02 01:45:00 -0500
 categories: [Order, Creeds and Confessions]
 tags: [creeds] # TAG names should always be lowercase
 authors: [grand_master, chaplain]
@@ -11,29 +11,29 @@ pin: false
 
 Ordo Dei Invictus recognizes Apostles’ Creed (A.D. 650) as a legitimate creed.
 
-# Apostles’ Creed
+---
 
 <br>
 
-I believe in God the Father Almighty,
-maker of heaven and earth;
+I believe in God the Father Almighty,<br>
+maker of heaven and earth;<br>
 
-And in Jesus Christ, his only Son, our Lord,
-which was conceived by the Holy Ghost,
-born of the Virgin Mary,
-suffered under Pontius Pilate,
-was crucified, dead, and buried:
-he descended into hell;<sup style="font-weight:bold;">†</sup>
-the third day he arose again from the dead;
-he ascended into heaven,
-and sitteth on the right hand of God the Father Almighty,
-from thence he shall come to judge the quick and the dead.
+And in Jesus Christ, his only Son, our Lord,<br>
+which was conceived by the Holy Ghost,<br>
+born of the Virgin Mary,<br>
+suffered under Pontius Pilate,<br>
+was crucified, dead, and buried:<br>
+he descended into hell;<sup style="font-weight:bold;">†</sup><br>
+the third day he arose again from the dead;<br>
+he ascended into heaven,<br>
+and sitteth on the right hand of God the Father Almighty,<br>
+from thence he shall come to judge the quick and the dead.<br>
 
-I believe in the Holy Ghost;
-the holy catholick<sup style="font-weight:bold;">‡</sup> church;
-the communion of saints;
-the forgiveness of sins;
-the resurrection of the body;
+I believe in the Holy Ghost;<br>
+the holy catholick<sup style="font-weight:bold;">‡</sup> church;<br>
+the communion of saints;<br>
+the forgiveness of sins;<br>
+the resurrection of the body;<br>
 and the life everlasting.
 
 Amen.
@@ -41,8 +41,6 @@ Amen.
 <br>
 
 ---
-
-<br>
 
 <sup style="font-weight:bold;">†</sup> <sup> Continued in the state of the dead, and under the power of death till the third day.</sup>
 
@@ -57,7 +55,8 @@ Amen.
 <script>
     var refTagger = {
         settings: {
-            bibleVersion: 'ESV'
+            bibleVersion: 'ESV',
+            tooltipStyle: 'dark'
         }
     };
 

@@ -1,6 +1,6 @@
 ---
 title: "Nicene Creed (A.D. 381)"
-date: 2024-10-02 02:00:00 -0500
+date: 2024-10-02 02:05:00 -0500
 categories: [Order, Creeds and Confessions]
 tags: [creeds] # TAG names should always be lowercase
 authors: [grand_master, chaplain]
@@ -11,7 +11,7 @@ pin: false
 
 Ordo Dei Invictus recognizes the Nicene Creed (A.D. 381) as a legitimate creed.
 
-# Nicene Creed
+---
 
 <br>
 
@@ -60,8 +60,6 @@ Amen.
 
 ---
 
-<br>
-
 <sup style="font-weight:bold;">†</sup> <sup>Catholic in this sense means &ldquo;*Universal*&rdquo;, and is referring to all believers throughout all ages. This is not speaking about the Roman Catholic church as an institution. It's also worth noting that [Ancient Catholic Orthodoxy](https://www.crossway.org/articles/10-things-you-should-know-about-reformed-theology-2/) is not Roman Catholicism.</sup>
 
 1. [Scots Confession (1560), Chapter 16.](https://sevenshepherd.github.io/scots-confession/#CH16)
@@ -73,7 +71,8 @@ Amen.
 <script>
     var refTagger = {
         settings: {
-            bibleVersion: 'ESV'
+            bibleVersion: 'ESV',
+            tooltipStyle: 'dark'
         }
     };
 
