@@ -16,7 +16,9 @@ timezone: America/Chicago
 
 title: Ordo Dei Invictus # the main title
 
-tagline: “who alone has immortality, who dwells in unapproachable light, whom no one has ever seen or can see. To him be honor and eternal dominion. Amen.” (1Tim 6:16) # it will display as the subtitle
+tagline: “Veritas Dei vincit” (The truth of God conquers)
+
+# “who alone has immortality, who dwells in unapproachable light, whom no one has ever seen or can see. To him be honor and eternal dominion. Amen.” (1Tim 6:16) # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Ordo Dei Invictus.
