@@ -15,7 +15,9 @@ Hail, I am Grand Master of [Ordo Dei Invictus](https://deiinvictus.com); I bid t
 
 Ordo Dei Invictus is a knightly order inspired by the courageous spirit of the Hussite Crusaders, embracing a path of direct allegiance to God while diverging from traditional Templar orders by rejecting papal authority. Its mission centers on unmediated spiritual warfare, where members are guided solely by divine sovereignty over the order, rather than by ecclesiastical structures. Ordo Dei Invictus serves as a beacon, fostering a deeper commitment to God’s will through unwavering resolve and direct action.
 
-We stand as a non-sectarian, inter-denominational and ecumenical assembly, a noble coalition of diverse Christians united in our quest to uphold divine truth. Free from the constraints of rigid man-made systems, we embrace a logical and reasoned approach to faith based on scripture, forging a path that transcends traditional boundaries and elevates our collective purpose.
+<!-- We stand as a non-sectarian, inter-denominational and ecumenical assembly, a noble coalition of diverse Christians united in our quest to uphold divine truth.  -->
+
+We stand as a non-sectarian, inter-denominational and ecumenical assembly, a noble coalition of diverse, theologically conservative Christians united in our quest to uphold divine truth. Free from the constraints of rigid man-made systems, we embrace a logical and reasoned approach to faith based on scripture, forging a path that transcends traditional boundaries and elevates our collective purpose.
 
 In our defense of divine truth, we honor the spirit of courage and resilience, committed to advancing our mission **through peaceful means**. We welcome those who are prepared to stand firm in their convictions and take action in the name of the faith.
 
