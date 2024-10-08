@@ -1,15 +1,15 @@
 ---
 title: "Athanasian Creed (A.D. 800)"
-date: 2024-10-02 01:50:00 -0500
+date: 2024-10-02 01:52:00 -0500
 categories: [Order, Creeds and Confessions]
 tags: [creeds] # TAG names should always be lowercase
 authors: [grand_master, chaplain]
-published: true
+published: false
 comments: false
 pin: false
 ---
 
-Ordo Dei Invictus recognizes Apostles’ Creed (A.D. 650).
+Ordo Dei Invictus recognizes the Athanasian Creed (A.D. 800).
 
 ---
 
