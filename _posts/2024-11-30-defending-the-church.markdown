@@ -6,7 +6,7 @@ tags: [grandmaster, directive] # TAG names should always be lowercase
 author: grand_master
 published: true
 comments: false
-pin: true
+pin: false
 ---
 
 ![Knight](/assets/knight2.png)
