@@ -1,7 +1,7 @@
 #  The contact options.
 
-- type: github
-  icon: "fab fa-github"
+# - type: github
+#  icon: "fab fa-github"
 
 - type: twitter
   icon: "fa-brands fa-x-twitter"
@@ -13,6 +13,10 @@
 - type: rss
   icon: "fas fa-rss"
   noblank: true
+
+- type: patreon
+  icon: "fa-brands fa-patreon"
+  url: "https://www.patreon.com/OrdoDeiInvictus"
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
