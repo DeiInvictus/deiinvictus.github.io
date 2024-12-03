@@ -1,6 +1,6 @@
 ---
 title: "As My Father Lay Dying"
-date: 2024-12-03 01:10:00 -0500
+date: 2024-12-03 01:15:00 -0500
 categories: [Declaration, Statement]
 tags: [grandmaster, directive] # TAG names should always be lowercase
 author: grand_master
@@ -17,7 +17,7 @@ I bore witness to the depths of total depravity, as those who claimed to be in t
 
 As my father lay dying,
 
-the weight of humiliation and degradation pressed down upon me, I felt the embers of anger ignite within my soul. Each sneer and whispered condemnation from those who cloaked themselves in false piety stung like a thousand barbs, deepening the wounds of my father's suffering. Yet, in that crucible of despair, a fierce resolve began to take shape. No longer would I be a silent witness to their hypocrisy; I would rise from the ashes of my shame, fueled by the memory of my father's unwavering faith. The very air around me crackled with a newfound intensity, as if the universe itself conspired to awaken the warrior within. I envisioned a reckoning, a fiery purge of their heretical dogma that masqueraded as light. With each heartbeat, my determination solidified, transforming my grief into a weapon, ready to dismantle the twisted beliefs that had brought so much pain. I would not rest until their false light was extinguished, and the truth—my father's truth—shone brightly in its place.
+the weight of humiliation and degradation pressed down upon me, I felt the embers of anger ignite within my soul. Each sneer and whispered condemnation from those who cloaked themselves in false piety stung like a thousand barbs, deepening the wounds of my father's suffering. Yet, in that crucible of despair, a fierce resolve began to take shape. No longer would I be a silent witness to their hypocrisy; I would rise from the ashes of my pain, fueled to action by their treachery. The very air around me crackled with a newfound intensity, as if the universe itself conspired to awaken the warrior within. I envisioned a reckoning, a fiery purge of their heretical dogma that masqueraded as light. With each heartbeat, my determination solidified, transforming my grief into a weapon, ready to dismantle the twisted beliefs that had brought so much pain. I would not rest until their false light was extinguished, and the truth—my father's truth—shone brightly in its place.
 
 ... as my father lay dying.
 
