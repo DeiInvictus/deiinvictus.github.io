@@ -1,6 +1,6 @@
 ---
 title: "As My Father Lay Dying"
-date: 2024-12-03 01:20:00 -0500
+date: 2024-12-03 01:25:00 -0500
 categories: [Declaration, Statement]
 tags: [grandmaster, directive] # TAG names should always be lowercase
 author: grand_master
@@ -21,6 +21,9 @@ the weight of humiliation and degradation pressed down upon me, I felt the ember
 
 ... as my father lay dying.
 
+As I knelt in fervent prayer, a divine miracle unfolded before my eyes—my father, once burdened by affliction, was restored to health by the grace of God. Now, as I lift my voice once more to the heavens, I beseech You, Father God, to vindicate my spirit. Grant me the unwavering strength to obliterate every heresy that seeks to distort Your truth and undermine Your holy word. Let Your righteous fury ignite within me, empowering me to confront and dismantle the falsehoods that threaten to lead Your people astray. With Your divine authority, I will stand as a beacon of truth, championing the purity of Your message and striking down every deception that dares to rise against Your glory!
+
+Our victory is foreordained before the foundation of the earth! Rise up. Together in action, united in spirit, and aligned in purpose.
 
 <!-- They saw his weakness as a sign of God's displeasure, a punishment for his supposed transgressions against their warped and idolatrous creed, and they mocked his vulnerability, his mortality, and his faith, as if their own lives were not fragile and fleeting, and as if their own souls were not damned by their own hand. But what they didn't realize, what they couldn't see, was that my father's faith was not shaken, not even in the face of death, and that God had other plans, plans that would defy their cruel expectations and bring my father back from the brink of death, a miracle that would leave them stunned and silent, a testament to the power of true faith and the love of God. -->
 
