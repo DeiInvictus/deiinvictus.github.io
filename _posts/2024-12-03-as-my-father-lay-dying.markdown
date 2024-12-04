@@ -1,10 +1,10 @@
 ---
 title: "As My Father Lay Dying"
-date: 2024-12-03 01:35:00 -0500
+date: 2024-12-03 01:40:00 -0500
 categories: [Declaration, Statement]
 tags: [grandmaster, directive] # TAG names should always be lowercase
 author: grand_master
-published: true
+published: false
 comments: false
 pin: false
 ---

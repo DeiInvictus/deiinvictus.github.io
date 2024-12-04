@@ -1,10 +1,10 @@
 ---
 title: "Shielding the Church: The Urgent Need to Confront False Teachers"
-date: 2024-11-29 01:00:00 -0500
+date: 2024-11-29 01:05:00 -0500
 categories: [Declaration, Statement]
 tags: [grandmaster, directive] # TAG names should always be lowercase
 author: grand_master
-published: true
+published: false
 comments: false
 pin: false
 ---
