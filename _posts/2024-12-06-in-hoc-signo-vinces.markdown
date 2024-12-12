@@ -1,6 +1,6 @@
 ---
 title: "In Hoc Signo Vinces"
-date: 2024-12-06 02:00:00 -0500
+date: 2024-12-06 02:05:00 -0500
 categories: [Declaration, Statement]
 tags: [grandmaster, directive] # TAG names should always be lowercase
 author: grand_master
