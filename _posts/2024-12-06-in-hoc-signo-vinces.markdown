@@ -1,6 +1,6 @@
 ---
 title: "In Hoc Signo Vinces"
-date: 2024-12-06 01:45:00 -0500
+date: 2024-12-06 02:00:00 -0500
 categories: [Declaration, Statement]
 tags: [grandmaster, directive] # TAG names should always be lowercase
 author: grand_master
@@ -21,7 +21,7 @@ When you find such a person, know that it is your responsibility to judge (rebuk
 
 > I meant that you are not to associate with anyone who claims to be a believer yet indulges in sexual sin, or is greedy, or worships idols, or is abusive, or is a drunkard, or cheats people. Don’t even eat with such people.
 >
-> It isn’t my responsibility to judge outsiders, but it certainly is your responsibility to judge those inside the church who are sinning. God will judge those on the outside; but as the Scriptures say, “You must remove the evil person from among you” (New Living Translation, 1996/2004/2015, 1 Corinthians 5:11-13).
+> It isn’t my responsibility to judge outsiders, but it certainly is your responsibility to judge those inside the church who are sinning. God will judge those on the outside; but as the Scriptures say, “You must remove the evil person from among you” (New Living Translation, 1996/2004/2015, 1Cor. 5:11-13).
 
 Remember to judge rightly, and not hypocritically:
 
