@@ -1,6 +1,6 @@
 ---
 title: "In Hoc Signo Vinces"
-date: 2024-12-06 01:40:00 -0500
+date: 2024-12-06 01:45:00 -0500
 categories: [Declaration, Statement]
 tags: [grandmaster, directive] # TAG names should always be lowercase
 author: grand_master
@@ -25,10 +25,29 @@ When you find such a person, know that it is your responsibility to judge (rebuk
 
 Remember to judge rightly, and not hypocritically:
 
-> Do not judge by appearances, but judge with right judgment (English Standard Version, 2001/2016, John 7:24).
+> Do not judge by appearances, but judge with right judgment (English Standard Version, 2016, John 7:24 ESV).
 
 <!-- “Those who sin should be reprimanded in front of the whole church; this will serve as a strong warning to others”... “it certainly is your responsibility to judge those inside the church who are sinning”... “You must remove the evil person from among you“ — The Apostle Paul -->
 
+
+<br>
+
+---
+
+<br>
+
+
+<div style="text-align:center;">References</div><br>
+
+*English Standard Version*. (2016). Crossway.
+
+<!-- *ESV Study Bible*. (2008). English Standard Version (Text edition: 2016). Crossway. -->
+
+<!-- (ESV Study Bible, 2008) -->
+
+*New Living Translation*. (2015). Tyndale House Publishers.
+
+<!-- <span style="margin-left:2.3em;">hanging indent</span> -->
 
 <br>
 
