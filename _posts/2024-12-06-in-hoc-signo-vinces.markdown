@@ -1,6 +1,6 @@
 ---
 title: "In Hoc Signo Vinces"
-date: 2024-12-06 02:10:00 -0500
+date: 2024-12-06 02:15:00 -0500
 categories: [Declaration, Statement]
 tags: [grandmaster, directive] # TAG names should always be lowercase
 author: grand_master
@@ -37,6 +37,8 @@ Remember to judge rightly, and not hypocritically:
 <br>
 
 <div style="text-align:center;">References</div>
+
+<span></span>
 
 *English Standard Version*. (2016). Crossway.
 
