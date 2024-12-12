@@ -1,6 +1,6 @@
 ---
 title: "We Uphold the Poor and Downtrodden—Believers in Poverty Should Glory in Their Spiritual Wealth, for God Has Elevated and Honored Them"
-date: 2024-12-06 01:25:00 -0500
+date: 2024-12-11 01:30:00 -0500
 categories: [Declaration, Statement]
 tags: [grandmaster, directive] # TAG names should always be lowercase
 author: grand_master
