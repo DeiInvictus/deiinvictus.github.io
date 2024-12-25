@@ -1,6 +1,6 @@
 ---
 title: "Identifying The Cults & Heretical Sects"
-date: 2024-12-25 01:55:00 -0500
+date: 2024-12-25 02:00:00 -0500
 categories: [Declaration, Statement]
 tags: [cult, heresy, sect] # TAG names should always be lowercase
 author: grand_master
@@ -9,7 +9,7 @@ comments: false
 pin: false
 ---
 
-<a name="contents" style="font-size:2.1em;color:black;">Contents</a>
+<a name="contents" href="#" style="font-size:2.1em;color:black;">Contents</a>
 
 1. <a href="#definitions">Sociological & Theological Cults</a>
 2. <a href="#antinomian-heretical-sects">Antinomian Heretical Sects</a>
@@ -21,7 +21,7 @@ pin: false
    - 2.6 <a href="#situationist">Situationist</a>
 3. <a href="#legalistic-heretical-sects">Legalistic Heretical Sects</a>
    - 2.1 <a href="#pharisaic">Pharisaic</a>
-   - 2.2 <a href="#Judaizing">Judaizing</a>
+   - 2.2 <a href="#judaizing">Judaizing</a>
 
 <br>
 
@@ -65,19 +65,19 @@ Given the general familiarity with the concept of a cult, this article seeks to 
 
 1\. Dr. J. I. Packer (PhD, University of Oxford). On [faith](https://youtu.be/jOFsFgUUdZo), on [repentance](https://youtu.be/gExLXpPJDd8).
 
-### <a name="spirit-centered" href="#contents">2.2 Spirit Centered Antinomianism</a>
+### <a name="spirit-centred" href="#contents">2.2 Spirit Centered Antinomianism</a>
 
 > **Spirit-centred antinomianism** puts such trust in the Holy Spirit’s inward prompting as to deny any need to be taught by the law how to live. Freedom from the law as a way of salvation is assumed to bring with it freedom from the law as a guide to conduct. In the first hundred and fifty years of the Reformation era this kind of antinomianism often threatened, and Paul’s insistence that a truly spiritual person acknowledges the authority of God’s Word through Christ’s apostles (1 Cor. 14:37; cf. 7:40) suggests that the Spirit-obsessed Corinthian church was in the grip of the same mindset (Packer, 2020, pp. 192-3).<sup>1</sup>
 
 1\. Dr. J. I. Packer (PhD, University of Oxford). On [faith](https://youtu.be/jOFsFgUUdZo), on [repentance](https://youtu.be/gExLXpPJDd8).
 
-### <a name="christ-centered" href="#contents">2.3 Christ-Centered Antinomianism (e.g. Hyper-Grace)</a>
+### <a name="christ-centred" href="#contents">2.3 Christ-Centered Antinomianism (e.g. Hyper-Grace)</a>
 
 > **Christ-centred antinomianism** argues that God sees no sin in believers, because they are in Christ, who kept the law for them, and therefore what they actually do makes no difference, provided that they keep believing. **But 1 John 1:8 – 2:1 (expounding 1Jn 1:7) and 1Jn 3:4–10 point in a different direction, showing that <span style="color:Crimson;">it is not possible to be in Christ and at the same time to embrace sin as a way of life</span>** (Packer, 2020, p. 193).<sup>1</sup>
 
 1\. Dr. J. I. Packer (PhD, University of Oxford). On [faith](https://youtu.be/jOFsFgUUdZo), on [repentance](https://youtu.be/gExLXpPJDd8).
 
-### <a name="christ-centered" href="#contents">2.4 Dispensational Antinomianism</a>
+### <a name="dispensational" href="#contents">2.4 Dispensational Antinomianism</a>
 
 While most forms of Dispensationalism lead to antinomianism, not all forms of Dispensationalism are antinomian. Safe teachers will acknowledge that we are no longer under the law (Ro 6:1-2,14-15; Gal 3:23-25; Gal 5:18; Col 2:14), **but we still uphold the law (Romans 3:31)**. For teachers who understand the scriptures and still teach Dispensationalism without the antinomianism: Chuck Smith, Ron Rhodes, and MacArthur are safe.
 
