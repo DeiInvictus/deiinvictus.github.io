@@ -1,6 +1,6 @@
 ---
 title: "Identifying The Enemies of God"
-date: 2024-12-25 01:10:00 -0500
+date: 2024-12-25 01:15:00 -0500
 categories: [Declaration, Statement]
 tags: [cult heresy sect] # TAG names should always be lowercase
 author: grand_master
@@ -10,7 +10,7 @@ pin: false
 ---
 
 ## ☠️ I. Sociological & Theological Cults
-<a name="sociological-theological" href="#contents" style="font-size:2.1em;"></a>
+<a name="sociological-theological" href="#" style="font-size:2.1em;"></a>
 
 The following definitions clarify the differences between cults and heretical sects. A cult is identified by both sociological and theological criteria (e.g., Jim Jones, David Koresh, Marshall Applewhite, David Berg, etc.), whereas a heretical sect is defined solely in the theological sense (e.g., Witnesses, Mormons, etc.). Given the general familiarity with the concept of a cult, this article seeks to deconstruct heretical sects and expose their insidious, deceitful, and nefarious false teachings. Generally, a group is exempt from the theological classification if it is both creedal and confessional, so we will be examining groups in rebellion against the Church and Church History.
 
