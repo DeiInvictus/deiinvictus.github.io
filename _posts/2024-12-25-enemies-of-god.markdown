@@ -1,6 +1,6 @@
 ---
-title: "Identifying The Enemies of God"
-date: 2024-12-25 01:15:00 -0500
+title: "Identifying The Enemies of God, The Church, and The Order"
+date: 2024-12-25 01:20:00 -0500
 categories: [Declaration, Statement]
 tags: [cult heresy sect] # TAG names should always be lowercase
 author: grand_master
@@ -12,12 +12,32 @@ pin: false
 ## ☠️ I. Sociological & Theological Cults
 <a name="sociological-theological" href="#" style="font-size:2.1em;"></a>
 
-The following definitions clarify the differences between cults and heretical sects. A cult is identified by both sociological and theological criteria (e.g., Jim Jones, David Koresh, Marshall Applewhite, David Berg, etc.), whereas a heretical sect is defined solely in the theological sense (e.g., Witnesses, Mormons, etc.). Given the general familiarity with the concept of a cult, this article seeks to deconstruct heretical sects and expose their insidious, deceitful, and nefarious false teachings. Generally, a group is exempt from the theological classification if it is both creedal and confessional, so we will be examining groups in rebellion against the Church and Church History.
+The following definitions clarify the differences between cults and heretical sects. A cult is identified by **both sociological and theological criteria** (e.g., Jim Jones, David Koresh, Marshall Applewhite, David Berg, etc.), whereas a heretical sect is defined solely in the theological sense (e.g., Witnesses, Mormons, etc.).
 
-> **The sociological sense** is used when discussing behavior or other sociological aspects: a group or movement may be a cult if it acts in ways that are illegal or otherwise unacceptable in a civilized society [(&ldquo;Cult Definition,&rdquo; 1996)](https://www.cultdefinition.com/#cult-meanings-of-the-term-vary).
+> **The sociological sense** is used when discussing behavior or other sociological aspects: a group or movement may be a cult if it acts in ways that are illegal or otherwise unacceptable in a civilized society (Apologetics Index, 1996).
 
-> **The theological sense** is used when discussing major religious differences: a group or movement is theologically a cult if it identifies itself as belonging to a mainstream, recognized religion — and yet rejects or otherwise violates one or more of the central, essential teachings of that religion [(&ldquo;Cult Definition,&rdquo; 1996)](https://www.cultdefinition.com/#cult-meanings-of-the-term-vary).
+> **The theological sense** is used when discussing major religious differences: a group or movement is theologically a cult if it identifies itself as belonging to a mainstream, recognized religion — and yet rejects or otherwise violates one or more of the central, essential teachings of that religion (Apologetics Index, 1996).
 
+
+## ☠️ I. Heretical Sects (Theological Cults)
+
+<!-- insidious, deceitful, and nefarious -->
+
+Given the general familiarity with the concept of a cult, this article seeks to specifically deconstruct heretical sects (theological cults) and expose their subtly deceptive and nuanced false teachings. Generally, **a group is exempt from the theological classification if it is both creedal and confessional**, so we will be examining groups in rebellion against the Church and Church History.
+
+<br>
+
+---
+
+<br>
+
+<div style="text-align:center;">References</div>
+
+<span></span>
+
+<!-- (Apologetics Index, 1996) -->
+
+Apologetics Index. (1996). *Cult Definition*. https://www.cultdefinition.com/#cult-meanings-of-the-term-vary
 
 <br>
 
