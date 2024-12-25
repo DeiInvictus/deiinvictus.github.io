@@ -1,6 +1,6 @@
 ---
 title: "Identifying The Enemies of God, The Church, and The Order"
-date: 2024-12-25 01:25:00 -0500
+date: 2024-12-25 01:30:00 -0500
 categories: [Declaration, Statement]
 tags: [cult heresy sect] # TAG names should always be lowercase
 author: grand_master
@@ -41,9 +41,9 @@ Given the general familiarity with the concept of a cult, this article seeks to 
 
 #### 2.1.4 Dispensational Antinomianism
 
-> **Dispensational antinomianism** holds that keeping the moral law is at no stage necessary for Christians, since we live under a dispensation of grace, not of law. Romans 3:31 and 1 Corinthians 6:9–11 clearly show, however, that law-keeping is a continuing obligation for Christians. ‘I am not free from God’s law but am under Christ’s law,’ says Paul (1 Cor. 9:21) (Packer, 2020, p. 193).
+While most forms of Dispensationalism lead to antinomianism, not all forms of Dispensationalism are antinomian. Safe teachers will acknowledge that we are no longer under the law (Ro 6:1-2,14-15; Gal 3:23-25; Gal 5:18; Col 2:14), **but we still uphold the law (Romans 3:31)**. For teachers who understand the scriptures and still teach Dispensationalism without the antinomianism: Chuck Smith, Ron Rhodes, and MacArthur are safe.
 
-ℹ️ Disclaimer: We are no longer under the law (Ro 6:1-2,14-15; Gal 3:23-25; Gal 5:18; Col 2:14), but we still uphold the law (Romans 3:31). For teachers who understand the scriptures and still teach Dispensationalism without the antinomianism: Chuck Smith, Ron Rhodes, and MacArthur are safe.
+> **Dispensational antinomianism** holds that keeping the moral law is at no stage necessary for Christians, since we live under a dispensation of grace, not of law. Romans 3:31 and 1 Corinthians 6:9–11 clearly show, however, that law-keeping is a continuing obligation for Christians. ‘I am not free from God’s law but am under Christ’s law,’ says Paul (1 Cor. 9:21) (Packer, 2020, p. 193).
 
 #### 2.1.5 Dialectical Antinomianism
 
@@ -65,7 +65,8 @@ Given the general familiarity with the concept of a cult, this article seeks to 
 
 <!-- (Apologetics Index, 1996) -->
 
-Apologetics Index. (1996). *Cult Definition*. https://www.cultdefinition.com/#cult-meanings-of-the-term-vary
+Apologetics Index. (1996). *Cult Definition*.<br>
+<span style="margin-left:2.3em;">https://www.cultdefinition.com/#cult-meanings-of-the-term-vary</span>
 
 Packer, J. I. (2020). *Concise Theology*. Crossway.
 
@@ -80,7 +81,8 @@ Together in action, united in spirit, aligned in purpose. Ordo Dei Invictus.
 <script>
     var refTagger = {
         settings: {
-            bibleVersion: 'NLT'
+            bibleVersion: 'ESV',
+            tooltipStyle: 'dark'
         }
     };
 
