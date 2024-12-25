@@ -1,9 +1,12 @@
 ---
-layout: post
 title: "Identifying The Enemies of God"
-date: 2024-12-25 1:00:00 -0500
-categories: cult heresy sect
+date: 2024-12-25 01:10:00 -0500
+categories: [Declaration, Statement]
+tags: [cult heresy sect] # TAG names should always be lowercase
+author: grand_master
 published: true
+comments: false
+pin: false
 ---
 
 ## ☠️ I. Sociological & Theological Cults
