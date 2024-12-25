@@ -1,6 +1,6 @@
 ---
 title: "Identifying The Cults & Heretical Sects"
-date: 2024-12-25 01:40:00 -0500
+date: 2024-12-25 01:45:00 -0500
 categories: [Declaration, Statement]
 tags: [cult heresy sect] # TAG names should always be lowercase
 author: grand_master
@@ -72,7 +72,7 @@ While most forms of Dispensationalism lead to antinomianism, not all forms of Di
 
 1\. Dr. J. I. Packer (PhD, University of Oxford). On [faith](https://youtu.be/jOFsFgUUdZo), on [repentance](https://youtu.be/gExLXpPJDd8).
 
-## 2.2 Legalistic Heretical Sects
+## III. Legalistic Heretical Sects (Theological Cults)
 
 > 65\. LEGALISM<br>
 > WORKING FOR GOD’S FAVOUR FORFEITS IT
@@ -93,13 +93,13 @@ While most forms of Dispensationalism lead to antinomianism, not all forms of Di
 
 1\. Dr. J. I. Packer (PhD, University of Oxford). On [faith](https://youtu.be/jOFsFgUUdZo), on [repentance](https://youtu.be/gExLXpPJDd8).
 
-### Pharisaic legalism
+### 3.1 Pharisaic legalism
 
 > The Pharisees were formalists, focusing entirely on the externals of action, disregarding motives and purposes, and reducing life to mechanical rule-keeping. They thought themselves faithful law-keepers although (a) they majored in minors, neglecting what matters most (Matt. 23:23–24); (b) their casuistry negated the law’s spirit and aim (Matt. 15:3–9; 23:16–24); (c) they treated traditions of practice as part of God’s authoritative law, thus binding consciences where God had left them free (Mark 2:16 – 3:6; 7:1–8); (d) they were hypocrites at heart, angling for man’s approval all the time (Luke 20:45–47; Matt. 6:1–8; 23:2–7). Jesus was very sharp with them on these points (Packer, 2020, pp. 190).<sup>1</sup>
 
 1\. Dr. J. I. Packer (PhD, University of Oxford). On [faith](https://youtu.be/jOFsFgUUdZo), on [repentance](https://youtu.be/gExLXpPJDd8).
 
-### Judaizing legalism
+### 3.2 Judaizing legalism
 
 > In Galatians, Paul condemns the Judaizers’ ‘Christ-plus’ message as obscuring and indeed denying the all-sufficiency of the grace revealed in Jesus (Gal. 3:1–3; 4:21; 5:2–6). In Colossians, he conducts a similar polemic against a similar ‘Christ-plus’ formula for ‘fullness’ (i.e. spiritual completion: Col. 2:8–23). Any ‘plus’ that requires us to take action in order to add to what Christ has given us is a reversion to legalism and, in truth, an insult to Christ (Packer, 2020, pp. 190-1).<sup>1</sup>
 
