@@ -1,6 +1,6 @@
 ---
 title: "Identifying The Cults & Heretical Sects"
-date: 2024-12-25 01:50:00 -0500
+date: 2024-12-25 01:55:00 -0500
 categories: [Declaration, Statement]
 tags: [cult, heresy, sect] # TAG names should always be lowercase
 author: grand_master
@@ -9,14 +9,33 @@ comments: false
 pin: false
 ---
 
+<a name="contents" style="font-size:2.1em;color:black;">Contents</a>
+
+1. <a href="#definitions">Sociological & Theological Cults</a>
+2. <a href="#antinomian-heretical-sects">Antinomian Heretical Sects</a>
+   - 2.1 <a href="#dualistic">Dualistic</a>
+   - 2.2 <a href="#spirit-centred">Spirit-centred</a>
+   - 2.3 <a href="#christ-centred">Christ-centred</a>
+   - 2.4 <a href="#dispensational">Dispensational</a>
+   - 2.5 <a href="#dialectical">Dialectical</a>
+   - 2.6 <a href="#situationist">Situationist</a>
+3. <a href="#legalistic-heretical-sects">Legalistic Heretical Sects</a>
+   - 2.1 <a href="#pharisaic">Pharisaic</a>
+   - 2.2 <a href="#Judaizing">Judaizing</a>
+
+<br>
+
+---
+
+<br>
+
 <!-- Clarifying what we mean when we say "enemies" of God.
 
 For the Son of Man came to seek and to save the lost.
 
 > The Lord is not ·slow [or late] in doing what he promised—the way some people understand ·slowness [lateness; Hab. 2:3]. But God is being patient with you [Ex. 34:6]. He does not want anyone to ·be lost [perish], but he wants all people to ·change their hearts and lives [<sup>L</sup> come to repentance]. -->
 
-## I. Sociological & Theological Cults
-<a name="sociological-theological" href="#" style="font-size:2.1em;"></a>
+## <a name="definitions" href="#contents">I. Sociological & Theological Cults</a>
 
 The following definitions clarify the differences between cults and heretical sects. A cult is identified by **both sociological and theological criteria** (e.g., Jim Jones of People's Temple, David Koresh of Branch Davidians, Marshall Applewhite of Heaven's Gate, David Berg of Children of God, etc.), whereas **a heretical sect is defined solely in the theological sense** (e.g., Charles Taze Russell of the Witnesses, Joseph Smith of Mormonism, etc.).
 
@@ -26,7 +45,7 @@ The following definitions clarify the differences between cults and heretical se
 
 <!-- insidious, deceitful, and nefarious -->
 
-Given the general familiarity with the concept of a cult, this article seeks to specifically deconstruct heretical sects (theological cults) and expose their subtly deceptive and nuanced false teachings. Generally, **a group is exempt from the theological classification if it is both creedal and confessional**, so we will be examining groups in rebellion against the Church and Church History.
+Given the general familiarity with the concept of a cult, this article seeks to specifically deconstruct heretical sects (theological cults) and expose their subtly deceptive and nuanced false teachings. Generally, **a group is exempt from the &ldquo;theological cult&rdquo; classification if it is both creedal and confessional**, so we will be examining groups in rebellion against the Church and Church History.
 
 1. Verses against legalism (Eph 2:8-10; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28).
 2. Verses against antinomianism (1 Jn 3:6-10; 5:18; Jd 4 NET; Ro 6:1-2,15; 3:8,31; Heb 10:26-31; 6:4-6; Lk 9:62).
@@ -37,29 +56,28 @@ Given the general familiarity with the concept of a cult, this article seeks to 
 7. The Holy Spirit produces the fruit, not human decision (Ga 5:22-23 NLT; Jn 15:4-5; 1Cor 3:6-7).
 
 
-## II. Antinomian Heretical Sects (Theological Cults)
+## <a name="antinomian-heretical-sects" href="#contents">II. Antinomian Heretical Sects (Theological Cults)</a>
 
 
-
-### 2.1 Dualistic Antinomianism (e.g. Gnosticism)
+### <a name="dualistic" href="#contents">2.1 Dualistic Antinomianism (e.g. Gnosticism)</a>
 
 > **Dualistic antinomianism** appears in the Gnostic heretics against whom Jude and Peter wrote (Jude 4–19; 2 Pet. 2). This view sees salvation as for the soul only, and bodily behaviour as irrelevant both to God’s interest and to the soul’s health, so one may behave riotously and it will not matter (Packer, 2020, p. 192).<sup>1</sup>
 
 1\. Dr. J. I. Packer (PhD, University of Oxford). On [faith](https://youtu.be/jOFsFgUUdZo), on [repentance](https://youtu.be/gExLXpPJDd8).
 
-### 2.2 Spirit Centered Antinomianism
+### <a name="spirit-centered" href="#contents">2.2 Spirit Centered Antinomianism</a>
 
 > **Spirit-centred antinomianism** puts such trust in the Holy Spirit’s inward prompting as to deny any need to be taught by the law how to live. Freedom from the law as a way of salvation is assumed to bring with it freedom from the law as a guide to conduct. In the first hundred and fifty years of the Reformation era this kind of antinomianism often threatened, and Paul’s insistence that a truly spiritual person acknowledges the authority of God’s Word through Christ’s apostles (1 Cor. 14:37; cf. 7:40) suggests that the Spirit-obsessed Corinthian church was in the grip of the same mindset (Packer, 2020, pp. 192-3).<sup>1</sup>
 
 1\. Dr. J. I. Packer (PhD, University of Oxford). On [faith](https://youtu.be/jOFsFgUUdZo), on [repentance](https://youtu.be/gExLXpPJDd8).
 
-### 2.3 Christ-Centered Antinomianism (e.g. Hyper-Grace)
+### <a name="christ-centered" href="#contents">2.3 Christ-Centered Antinomianism (e.g. Hyper-Grace)</a>
 
 > **Christ-centred antinomianism** argues that God sees no sin in believers, because they are in Christ, who kept the law for them, and therefore what they actually do makes no difference, provided that they keep believing. **But 1 John 1:8 – 2:1 (expounding 1Jn 1:7) and 1Jn 3:4–10 point in a different direction, showing that <span style="color:Crimson;">it is not possible to be in Christ and at the same time to embrace sin as a way of life</span>** (Packer, 2020, p. 193).<sup>1</sup>
 
 1\. Dr. J. I. Packer (PhD, University of Oxford). On [faith](https://youtu.be/jOFsFgUUdZo), on [repentance](https://youtu.be/gExLXpPJDd8).
 
-### 2.4 Dispensational Antinomianism
+### <a name="christ-centered" href="#contents">2.4 Dispensational Antinomianism</a>
 
 While most forms of Dispensationalism lead to antinomianism, not all forms of Dispensationalism are antinomian. Safe teachers will acknowledge that we are no longer under the law (Ro 6:1-2,14-15; Gal 3:23-25; Gal 5:18; Col 2:14), **but we still uphold the law (Romans 3:31)**. For teachers who understand the scriptures and still teach Dispensationalism without the antinomianism: Chuck Smith, Ron Rhodes, and MacArthur are safe.
 
@@ -67,19 +85,19 @@ While most forms of Dispensationalism lead to antinomianism, not all forms of Di
 
 1\. Dr. J. I. Packer (PhD, University of Oxford). On [faith](https://youtu.be/jOFsFgUUdZo), on [repentance](https://youtu.be/gExLXpPJDd8).
 
-### 2.5 Dialectical Antinomianism
+### <a name="dialectical" href="#contents">2.5 Dialectical Antinomianism</a>
 
 > **Dialectical antinomianism**, as in Barth and Brunner, denies that biblical law is God’s direct command and affirms that the Bible’s imperative statements trigger the Word of the Spirit, which when it comes may or may not correspond exactly to what is written. The inadequacy of the neoorthodox view of biblical authority, which explains the inspiration of Scripture in terms of the Bible’s instrumentality as a channel for God’s present-day utterances to his people, is evident here (Packer, 2020, p. 193).<sup>1</sup>
 
 1\. Dr. J. I. Packer (PhD, University of Oxford). On [faith](https://youtu.be/jOFsFgUUdZo), on [repentance](https://youtu.be/gExLXpPJDd8).
 
-### 2.6 Situationist Antinomianism
+### <a name="situationist" href="#contents">2.6 Situationist Antinomianism</a>
 
 > **Situationist antinomianism** says that a motive and intention of love is all that God now requires of Christians, and the commands of the Decalogue and other ethical parts of Scripture, for all that they are ascribed to God directly, are mere rules of thumb for loving, rules that love may at any time disregard. But Romans 13:8–10, to which this view appeals, teaches that without love as a motive these specific commands cannot be fulfilled. Once more an unacceptably weak view of Scripture surfaces (Packer, 2020, p. 193).<sup>1</sup>
 
 1\. Dr. J. I. Packer (PhD, University of Oxford). On [faith](https://youtu.be/jOFsFgUUdZo), on [repentance](https://youtu.be/gExLXpPJDd8).
 
-## III. Legalistic Heretical Sects (Theological Cults)
+## <a name="legalistic-heretical-sects" href="#contents">III. Legalistic Heretical Sects (Theological Cults)</a>
 
 > 65\. LEGALISM<br>
 > WORKING FOR GOD’S FAVOUR FORFEITS IT
@@ -100,13 +118,14 @@ While most forms of Dispensationalism lead to antinomianism, not all forms of Di
 
 1\. Dr. J. I. Packer (PhD, University of Oxford). On [faith](https://youtu.be/jOFsFgUUdZo), on [repentance](https://youtu.be/gExLXpPJDd8).
 
-### 3.1 Pharisaic legalism
+### <a name="pharisaic" href="#contents">3.1 Pharisaic legalism</a>
 
 > The Pharisees were formalists, focusing entirely on the externals of action, disregarding motives and purposes, and reducing life to mechanical rule-keeping. They thought themselves faithful law-keepers although (a) they majored in minors, neglecting what matters most (Matt. 23:23–24); (b) their casuistry negated the law’s spirit and aim (Matt. 15:3–9; 23:16–24); (c) they treated traditions of practice as part of God’s authoritative law, thus binding consciences where God had left them free (Mark 2:16 – 3:6; 7:1–8); (d) they were hypocrites at heart, angling for man’s approval all the time (Luke 20:45–47; Matt. 6:1–8; 23:2–7). Jesus was very sharp with them on these points (Packer, 2020, pp. 190).<sup>1</sup>
 
 1\. Dr. J. I. Packer (PhD, University of Oxford). On [faith](https://youtu.be/jOFsFgUUdZo), on [repentance](https://youtu.be/gExLXpPJDd8).
 
-### 3.2 Judaizing legalism
+### <a name="judaizing" href="#contents">3.2 Judaizing legalism (i.e. Synergism)</a>
+
 
 > In Galatians, Paul condemns the Judaizers’ ‘Christ-plus’ message as obscuring and indeed denying the all-sufficiency of the grace revealed in Jesus (Gal. 3:1–3; 4:21; 5:2–6). In Colossians, he conducts a similar polemic against a similar ‘Christ-plus’ formula for ‘fullness’ (i.e. spiritual completion: Col. 2:8–23). Any ‘plus’ that requires us to take action in order to add to what Christ has given us is a reversion to legalism and, in truth, an insult to Christ (Packer, 2020, pp. 190-1).<sup>1</sup>
 
