@@ -1,6 +1,6 @@
 ---
-title: "Identifying The Cults & Heretical Sects"
-date: 2024-12-25 02:10:00 -0500
+title: "Identifying the Cults & Heretical Sects"
+date: 2024-12-25 02:15:00 -0500
 categories: [Declaration, Statement]
 tags: [cult, heresy, sect] # TAG names should always be lowercase
 author: grand_master
@@ -137,13 +137,13 @@ One could say that progressive forms of christianity  -->
 
 1\. Dr. J. I. Packer (PhD, University of Oxford). On [faith](https://youtu.be/jOFsFgUUdZo), on [repentance](https://youtu.be/gExLXpPJDd8).
 
-### <a name="pharisaic" href="#contents">3.1 Pharisaic legalism</a>
+### <a name="pharisaic" href="#contents">3.1 Pharisaic Legalism</a>
 
 > The Pharisees were formalists, focusing entirely on the externals of action, disregarding motives and purposes, and reducing life to mechanical rule-keeping. They thought themselves faithful law-keepers although (a) they majored in minors, neglecting what matters most (Matt. 23:23–24); (b) their casuistry negated the law’s spirit and aim (Matt. 15:3–9; 23:16–24); (c) they treated traditions of practice as part of God’s authoritative law, thus binding consciences where God had left them free (Mark 2:16 – 3:6; 7:1–8); (d) they were hypocrites at heart, angling for man’s approval all the time (Luke 20:45–47; Matt. 6:1–8; 23:2–7). Jesus was very sharp with them on these points (Packer, 2020, pp. 190).<sup>1</sup>
 
 1\. Dr. J. I. Packer (PhD, University of Oxford). On [faith](https://youtu.be/jOFsFgUUdZo), on [repentance](https://youtu.be/gExLXpPJDd8).
 
-### <a name="judaizing" href="#contents">3.2 Judaizing legalism (i.e. Synergism)</a>
+### <a name="judaizing" href="#contents">3.2 Judaizing Legalism (i.e. Synergism)</a>
 
 <!-- ![plus](/assets/meme/mormon-meme.jpg) -->
 
