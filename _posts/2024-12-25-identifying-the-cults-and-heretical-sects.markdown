@@ -1,6 +1,6 @@
 ---
 title: "Identifying the Cults & Heretical Sects"
-date: 2024-12-25 02:15:00 -0500
+date: 2024-12-25 02:20:00 -0500
 categories: [Declaration, Statement]
 tags: [cult, heresy, sect] # TAG names should always be lowercase
 author: grand_master
@@ -176,19 +176,19 @@ The Bible is against the heresy of antinomianism:
 
 #### 4.1.2 As the Apostle Jude Forewarned, the Condemned and Ungodly Abuse the Precious Grace of Our God, Twisting It into a License to Sin.
 
-> For certain men have secretly slipped in among you—men who long ago were marked out for the condemnation I am about to describe—ungodly men who have turned the grace of our God into a license for evil[f] and who deny our only Master and Lord, Jesus Christ (Biblical Studies Press, L.L.C., 2019, Jude 4).
+> For certain men have secretly slipped in among you—men who long ago were marked out for the condemnation I am about to describe—ungodly men who have turned the grace of our God into a license for evil[f] and who deny our only Master and Lord, Jesus Christ (The NET Bible: Full Notes Edition, 2019, Jude 4).
 >
->> **F** tn Grk “debauchery.” This is the same word Peter uses to predict what the false teachers will be like (2 Pet 2:2, 7, 18). sn Turned the grace of our God into a license for evil. One of the implications that the gospel in the apostolic period was truly a gospel of grace was the fact that the enemies of the gospel could pervert it into license. If it were a gospel of works, no such abuse could be imagined. Along these lines, note Rom 6:1—“Are we to remain in sin so that grace may increase?” This question could not have even been asked had the gospel been one of works. But grace is easily misunderstood by those who would abuse it (Biblical Studies Press, L.L.C., 2019, Jude 4).
+>> **F** tn Grk “debauchery.” This is the same word Peter uses to predict what the false teachers will be like (2 Pet 2:2, 7, 18). sn Turned the grace of our God into a license for evil. One of the implications that the gospel in the apostolic period was truly a gospel of grace was the fact that the enemies of the gospel could pervert it into license. If it were a gospel of works, no such abuse could be imagined. Along these lines, note Rom 6:1—“Are we to remain in sin so that grace may increase?” This question could not have even been asked had the gospel been one of works. But grace is easily misunderstood by those who would abuse it (The NET Bible: Full Notes Edition, 2019, Jude 4).
 >
->> 4 Description of the False Teachers and Their Teaching. **crept in unnoticed**. Jude begins his account of the false teachers by describing the devious way they have slipped into the church. They began by acting like Christians and operating subversively. **Designated** translates Greek prographō, “to write or designate beforehand.” The false teachers did not take God by surprise, for he predicted their coming and their **condemnation** long before they even existed. They **pervert** (that is, twist and distort) God’s **grace** (esp. his free forgiveness of sin) into a license for **sensuality** (see note on 2 Pet. 2:2), and they **deny** the **Lord, Jesus Christ**, apparently using the gospel teaching about grace as an excuse for ungodly living (cf. Rom. 3:8; 6:1, 15; 2 Pet. 3:15–16) (Crossway, 2008, Jude 4).
+>> 4 Description of the False Teachers and Their Teaching. **crept in unnoticed**. Jude begins his account of the false teachers by describing the devious way they have slipped into the church. They began by acting like Christians and operating subversively. **Designated** translates Greek prographō, “to write or designate beforehand.” The false teachers did not take God by surprise, for he predicted their coming and their **condemnation** long before they even existed. They **pervert** (that is, twist and distort) God’s **grace** (esp. his free forgiveness of sin) into a license for **sensuality** (see note on 2 Pet. 2:2), and they **deny** the **Lord, Jesus Christ**, apparently using the gospel teaching about grace as an excuse for ungodly living (cf. Rom. 3:8; 6:1, 15; 2 Pet. 3:15–16) (ESV Study Bible, 2008, Jude 4).
 >
->> 4 **For**. Introduces the reason that Jude “felt compelled” to change the subject of his letter (v. 3). **certain individuals**. False teachers (cf. Matt 7:15; 2 Pet 2). **condemnation**. Cf. 2 Pet 2:3–9, 12–13, 17. **secretly slipped in**. Sneaked in stealthily; crept in unnoticed. Jude’s readers must “contend” (v. 3) with false teachers within the church. **ungodly**. Unrighteous (cf. 2 Pet 2:9; 3:7). Jude’s letter focuses not on their false doctrine but on their wicked lifestyle. **pervert**. Change. The false teachers turn something good (“the grace of our God”) into something perverse (“a license for immorality”)—a constant temptation for Christians (cf. Rom 6). **deny**. Repudiate or disown, probably by their wicked lifestyle (Zondervan, 2018, "Annotations for Jude" section).
+>> 4 **For**. Introduces the reason that Jude “felt compelled” to change the subject of his letter (v. 3). **certain individuals**. False teachers (cf. Matt 7:15; 2 Pet 2). **condemnation**. Cf. 2 Pet 2:3–9, 12–13, 17. **secretly slipped in**. Sneaked in stealthily; crept in unnoticed. Jude’s readers must “contend” (v. 3) with false teachers within the church. **ungodly**. Unrighteous (cf. 2 Pet 2:9; 3:7). Jude’s letter focuses not on their false doctrine but on their wicked lifestyle. **pervert**. Change. The false teachers turn something good (“the grace of our God”) into something perverse (“a license for immorality”)—a constant temptation for Christians (cf. Rom 6). **deny**. Repudiate or disown, probably by their wicked lifestyle (NIV biblical theology study Bible, 2018, "Annotations for Jude" section).
 >
->> **3–4: Occasion of letter**. *Intruders have stolen in among the addressees*. These intruders are obviously followers of Jesus, but ones whose faith and life the author considers deficient. Saints, lit., “holy ones.” **4**: The author anticipates the main themes of his argument against the intruders: their appearance and condemnation were predicted, and **they deny . . . Jesus by behaving immorally** (Oxford University Press, 2018, Jude 4).
+>> **3–4: Occasion of letter**. *Intruders have stolen in among the addressees*. These intruders are obviously followers of Jesus, but ones whose faith and life the author considers deficient. Saints, lit., “holy ones.” **4**: The author anticipates the main themes of his argument against the intruders: their appearance and condemnation were predicted, and **they deny . . . Jesus by behaving immorally** (The new Oxford annotated Bible, 2018, Jude 4).
 >
->> **3–4: Reason for the letter**. An otherwise commendable community must be warned against devious intruders. The community is “saved” from being ungodly and from licentiousness, but also for the faith . . . entrusted to the saints. Salvation we share, communal salvation was a hope shared in this period by Jews (whose covenant bound them through history) and followers of Jesus (who understood God’s saving acts as binding them together as a new people). Long ago . . . designated for this condemnation, as in many apocalyptic communities, like that at Qumran (which divided humanity into “children of light” and “children of darkness,” 1QS 1.9–11), humanity has already been divided into camps of saved and condemned. Licentiousness, accusations against the intruders are vague but suggest sexual immorality (Oxford University Press, 2011, Jude 4).
+>> **3–4: Reason for the letter**. An otherwise commendable community must be warned against devious intruders. The community is “saved” from being ungodly and from licentiousness, but also for the faith . . . entrusted to the saints. Salvation we share, communal salvation was a hope shared in this period by Jews (whose covenant bound them through history) and followers of Jesus (who understood God’s saving acts as binding them together as a new people). Long ago . . . designated for this condemnation, as in many apocalyptic communities, like that at Qumran (which divided humanity into “children of light” and “children of darkness,” 1QS 1.9–11), humanity has already been divided into camps of saved and condemned. Licentiousness, accusations against the intruders are vague but suggest sexual immorality (The Jewish annotated New Testament, 2011, Jude 4).
 >
->> 4 **The heretics were subtle.** Their primary tactics were to pervert God’s grace and to deny the authority of the Lord (see rov. 1:29). They were clever enough to have infiltrated the Christian community, even though they were ungodly. Jesus anticipated this kind of people when He spoke about wolves in sheep’s clothing (see att. 7:15). turn the grace of our God into lewdness: **The teaching of grace can be dangerous when perverted by false teachers or carnal people who believe that because they have been saved by grace they may live as they please (see Rom. 6:1, 2)**. the only Lord God and our Lord Jesus Christ: These false teachers not only lived immorally, they rejected the authority of Christ. The first Greek word translated Lord here means “Master.” It identifies one who possesses absolute power and thus commands obedience. In the original wording it is clear that the entire statement refers to Christ: Jesus is both our absolute Sovereign and our God (Thomas Nelson, Inc., 2014, Jude 4).
+>> 4 **The heretics were subtle.** Their primary tactics were to pervert God’s grace and to deny the authority of the Lord (see rov. 1:29). They were clever enough to have infiltrated the Christian community, even though they were ungodly. Jesus anticipated this kind of people when He spoke about wolves in sheep’s clothing (see att. 7:15). turn the grace of our God into lewdness: **The teaching of grace can be dangerous when perverted by false teachers or carnal people who believe that because they have been saved by grace they may live as they please (see Rom. 6:1, 2)**. the only Lord God and our Lord Jesus Christ: These false teachers not only lived immorally, they rejected the authority of Christ. The first Greek word translated Lord here means “Master.” It identifies one who possesses absolute power and thus commands obedience. In the original wording it is clear that the entire statement refers to Christ: Jesus is both our absolute Sovereign and our God (NKJV study Bible, Inc., 2014, Jude 4).
 
 #### 4.1.3 The Apostle John Reveals That a True Born Again Cannot Practice Sin; He Is Protected by Christ.
 
@@ -248,27 +248,30 @@ The Bible is against the heresy of legalism, but supports Christ's fruit-bearing
 Apologetics Index. (1996). *Cult definition*.<br>
 <span style="margin-left:2.3em;">https://www.cultdefinition.com/#cult-meanings-of-the-term-vary</span>
 
-<!-- Biblical Studies Press, L.L.C. (2019). *The NET Bible: New English translation (full notes edition)*. Thomas Nelson. -->
-
-Biblical Studies Press, L.L.C. (2019). *The NET Bible (full notes edition)*. Thomas Nelson.
-
-Crossway. (2008). *ESV study Bible* (ESV Text Edition: 2016). Crossway.
-
 Demarest, B. (2006). *The cross and salvation*. Crossway Books.
 
-Oxford University Press. (2011).<br>
-<span style="margin-left:2.3em;">*The Jewish annotated New Testament: New Revised Standard Version Bible translation*.</span><br>
-<span style="margin-left:2.3em;">Oxford University Press.</span>
+<!-- *The Expanded Bible*. (2011). Thomas Nelson. -->
 
-Oxford University Press. (2018).<br>
+*ESV Study Bible* (ESV Text Edition: 2016). (2008). Crossway.
+
+*NET Bible: Full notes edition*. (2019). Biblical Studies Press, L.L.C.
+
+*NIV biblical theology study Bible*. (2018). Zondervan.
+
+*NKJV study Bible* (2nd ed., full-color ed.). (2014). Thomas Nelson.
+
+*The Jewish annotated New Testament: New Revised Standard Version Bible translation*. (2011). Oxford University Press.
+
+*The new Oxford annotated Bible* (with the Apocrypha). (2018). Oxford University Press.
+
+<!-- Oxford University Press. (2018).<br>
 <span style="margin-left:2.3em;">*The new Oxford annotated Bible (with the Apocrypha)*.</span><br>
-<span style="margin-left:2.3em;">Oxford University Press.</span>
+<span style="margin-left:2.3em;">Oxford University Press.</span> -->
 
 Packer, J. I. (2020). *Concise theology*. Crossway.
 
-Thomas Nelson. (2014). NKJV study Bible (2nd ed., full-color ed.). Thomas Nelson.
 
-Zondervan. (2018). *NIV biblical theology study Bible*. Zondervan.
+
 
 <br>
 
