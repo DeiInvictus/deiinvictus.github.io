@@ -1,6 +1,6 @@
 ---
 title: "Identifying The Cults & Heretical Sects"
-date: 2024-12-25 02:05:00 -0500
+date: 2024-12-25 02:10:00 -0500
 categories: [Declaration, Statement]
 tags: [cult, heresy, sect] # TAG names should always be lowercase
 author: grand_master
@@ -226,7 +226,7 @@ The Apostle Paul calls on us to examine or test our faith, to see if it is genui
 
 > Examine yourselves to see if your faith is genuine. Test yourselves. Surely you know that Jesus Christ is among you; if not, you have failed the test of genuine faith. &mdash; 2 Cor. 13:5 NLT
 
-### <a name="warnings-legalism" href="#contents">4.1 Scriptural Warnings Against Legalism</a>
+### <a name="warnings-legalism" href="#contents">4.2 Scriptural Warnings Against Legalism</a>
 
 The Bible is against the heresy of legalism, but supports Christ's fruit-bearing metaphor of resulting obedience to God.
 - Justification is by faith alone (Eph 2:8-10; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28), but the faith that saves is never alone in the person justified (1Jn 2:3-6; 3:6-10; 5:3-4 Jn 14:15,21; 15:10).
