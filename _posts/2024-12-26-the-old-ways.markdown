@@ -1,6 +1,6 @@
 ---
-title: "The Old Ways — The Ancient Paths — The Old Religion"
-date: 2024-12-26 01:00:00 -0500
+title: "The Old Ways — The Ancient Paths"
+date: 2024-12-26 01:05:00 -0500
 categories: [Declaration, Statement]
 tags: [religion, history, theology] # TAG names should always be lowercase
 author: grand_master
@@ -11,7 +11,7 @@ pin: false
 
 ## Introduction
 
-The true Church has existed in every generation since the time of Christ, when He proclaimed, &ldquo;... upon this rock I will build my church, and all the powers of hell will not conquer it.&rdquo; Many generations have passed since Christ walked the earth over 20 centuries ago (2000+ years), but the truth has been with us since the very beginning.
+The true Church has existed in every generation since the time of Christ, when He proclaimed, &ldquo;... upon this rock I will build my church, and all the powers of hell will not conquer it&rdquo; (New Living Translation, 2015, Matt. 16:18). Many generations have passed since Christ walked the earth over 20 centuries ago (2000+ years), but the truth has been with us since the very beginning.
 
 > <sup style="font-weight:bold;">18</sup> So I tell you, you are Peter <span style="color:LightSteelBlue;">[<sup>C</sup>the Greek petros, like the Aramaic cephas, means “rock” or “stone”]</span>. On this rock I will build my church, and the ·power of death <span style="color:LightSteelBlue;">[<sup>L</sup>gates of Hades/the underworld]</span> will not be able to ·defeat <span style="color:LightSteelBlue;">[overpower; conquer; prevail against]</span> it (Expanded Bible, 2011, Matt. 16:18).
 
@@ -19,16 +19,52 @@ Consider this: Do your current beliefs have roots in every generation since the 
 
 > Remember **the days of old**; consider the years of many generations; ask your father, and he will show you, your elders, and they will tell you (ESV Study Bible, 2008, Deut. 32:7).
 
-The Word of God instructs us to turn to past generations in our pursuit of truth, assuring us that if we earnestly seek, we will find (Matt. 7:7-8). The challenge lies in the fact that many parents today are as adrift in contemporary movements as the children they have inadvertently misled. It is incumbent upon us to fulfill our duty by embracing the old ways and ancient paths, rather than succumbing to the ignorance of modern movements. Ironically, biblical language scholarship and ecumenical academicians are on our side; more on that later.
+The Word of God instructs us to turn to past generations in our pursuit of truth, assuring us that if we earnestly seek, we will find (Matt. 7:7-8). The challenge lies in the fact that many parents today are as adrift in contemporary movements as the children they have inadvertently misled. It is incumbent upon us to fulfill our duty by embracing the old ways and ancient paths, rather than succumbing to the ignorance of modernity. Ironically, biblical language scholarship and ecumenical academicians are on our side; more on that later.
 
-> Thus says the Lord: “Stand by the roads, and look, and ask for **the ancient paths**, where the good way is; and walk in it, and find rest for your souls. But they said, ‘We will not walk in it.’ (Jeremiah 6:16 ESV).
->> This is what the Lord says: “Stop at the crossroads and look around. Ask for the old, godly way, and walk in it. Travel its path, and you will find rest for your souls. **But you reply, ‘No, that’s not the road we want!’** (New Living Translation, 2015, Jer. 6:16 NLT).
+> Thus says the Lord: “Stand by the roads, and look, and ask for **the ancient paths**, where the good way is; and walk in it, and find rest for your souls. But they said, ‘We will not walk in it.’ (ESV Study Bible, 2008, Jeremiah 6:16 ESV).
+>> This is what the Lord says: “Stop at the crossroads and look around. Ask for **the old, godly way**, and walk in it. Travel its path, and you will find rest for your souls. **But you reply, ‘No, that’s not the road we want!’** (New Living Translation, 2015, Jer. 6:16 NLT).
 
 Christianity today is populated by individuals who have chosen to abandon the old ways and ancient paths, instead accumulating false teachers who entice them with **new things** and deceive them into believing they can live lifestyles of sin contrary to Scripture (1Jn 3:4-10; 5:18), all to satisfy their itching ears. In their pursuit of novelty, they forsake the wisdom of the past, while those who remain steadfast in the ancient truths stand as a testament to genuine faith.
 
-> For there will be a time when people will not tolerate sound teaching. Instead, following their own desires, they will accumulate teachers for themselves, because they have an insatiable curiosity to hear **new things**<sup>1</sup>. And they will turn away from hearing the truth, but on the other hand they will turn aside to myths (The NET Bible: Full Notes Edition, 2019, 2Tim. 4:3-4 NET).
+> For there will be a time when people will not tolerate sound teaching. Instead, following their own desires, they will accumulate teachers for themselves, because they have an insatiable curiosity to hear **new things**. And they will turn away from hearing the truth, but on the other hand they will turn aside to myths (The NET Bible: Full Notes Edition, 2019, 2Tim. 4:3-4 NET).
 
-The essential question then becomes: How can we shield ourselves from the "new things" that cultivate ignorance, lead to destruction, and ultimately result in apostasy? How can we be confident that we are adhering to the old ways and the ancient paths? One thing is certain: if we confine ourselves to a single point of view, we risk falling into an echo chamber of groupthink, where the blind lead the blind, pulling us into a quagmire of fables and ignorance (frequently propagated by contemporary movements).
+The essential question then becomes: How can we shield ourselves from the "new things" that cultivate ignorance, lead to destruction, and ultimately result in apostasy? How can we be confident that we are adhering to the old ways and the ancient paths? One thing is certain: if we confine ourselves to a single point of view, we risk falling into an echo chamber of groupthink, where the blind lead the blind, pulling us into a quagmire of fables and ignorance (frequently propagated by contemporary movements). Dr. Heiser (2015), biblical language scholar and master of Biblical Hebrew and Ancient Egyptian, reveals:
+
+> 1\. *We’ve been trained to think that the history<br><span style="margin-left:2.3em;">of Christianity is the true context of the Bible</span>*<br>
+>
+> We talk a lot about interpreting the Bible in context, but Christian history is not<br>
+the context of the biblical writers. The proper context for interpreting the Bible is<br>
+not Augustine or any other church father. It is not the Catholic Church. It is not<br>
+the rabbinic movements of late antiquity and the Middle Ages. It is not the<br>
+Reformation or the Puritans. It is not evangelicalism in any of its flavors. **It is<br>
+not the modern world at all**, or any period of its history.
+>
+> <span style="margin-left:2.3em;">The proper context for interpreting the Bible is the context of the biblical</span><br>
+writers&mdash;the context that produced the Bible [Second Temple period].<sup>1</sup>   **Every other context is alien to the<br>
+biblical writers and, therefore, to the Bible.** ... (p. 16).
+>
+> <small>1. We do not share the cognitive framework of the biblical writers. <br>While the implications may seem uncomfortable, it is hermeneutically<br>pointless to pretend otherwise. ...</small>
+
+
+<!-- Yet there is a pervasive tendency in<br>
+the believing Church to filter the Bible through creeds, confessions, and<br>
+denominational preferences.
+>
+> <span style="margin-left:2.3em;">I’m not arguing that we should ignore our Christian forefathers. I’m simply</span><br>
+saying that we should give their words and their thought the proper perspective<br>
+and priority. Creeds serve a useful purpose. They distill important, albeit<br>
+carefully selected, theological ideas. But they are not inspired. They are no<br>
+substitute for the biblical text.
+>
+> The biblical text was produced by men who lived in the ancient Near East<br>
+and Mediterranean between the second millennium BC and the first century AD.<br>
+To understand how biblical writers thought, we need to tap into the intellectual<br>
+output of that world. A vast amount of that material is available to us, thanks to<br>
+modern technology. As our understanding of the worldview of the biblical<br>
+writers grows, so does our understanding of what they intended to say—and the<br>
+mosaic of their thinking takes shape in our minds (p. 16). -->
+
+It's clear that the late Dr. Heiser spent vast amounts of time traversing the old ways and ancient paths.
 
 ## Navigating the Seas of Time
 
@@ -121,6 +157,8 @@ Paul's point here is to emphasize unity in Christ rather than division by allegi
 <span></span>
 
 *ESV Study Bible* (ESV Text Edition: 2016). (2008). Crossway.
+
+Heiser, M. S. (2015). *The unseen realm* (1st ed.). Lexham Press.
 
 *NET Bible: Full notes edition*. (2019). Biblical Studies Press, L.L.C.
 
