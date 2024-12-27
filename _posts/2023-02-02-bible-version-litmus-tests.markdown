@@ -1,6 +1,6 @@
 ---
 title: "⚖️ Litmus Test Quick Reference"
-date: 2023-02-02 03:20:00 -0500
+date: 2023-02-02 03:25:00 -0500
 categories: [Reference, Versions]
 tags: [bible, version] # TAG names should always be lowercase
 author: seven_shepherd
@@ -22,7 +22,7 @@ Keep in mind that scholarship has proven that **no cardinal doctrine is affected
 <!-- &mdash; [Dr. Daniel B. Wallace, Senior Research Professor of New Testament Studies (PhD, Dallas)](https://youtu.be/NikVdhp0YFs) -->
 
 
-<!-- <span style="font-style:Italic;font-size:2.1em;"><a herf="https://drmsh.com/bible-versions/">SevenShepherd</a></span> -->
+<!-- <span style="font-style:Italic;font-size:2.1em;"><a href="https://drmsh.com/bible-versions/">SevenShepherd</a></span> -->
 
 <span style="font-style:Italic;font-size:2.1em;">Too Long Didn't Read (TL;DR)</span>
 
@@ -191,7 +191,7 @@ This is the worlds best optimal equivalent Bible, and best for textual critics a
 |    <span style="font-weight:bold;color:#efcc00;">YLT</span>    |    ❌     |     ✔️     |    ✔️     |     ✔️      |
 
 
-<!-- <span style="font-style:Italic;font-size:2.1em;"><a herf="https://drmsh.com/bible-versions/">Dr. Daniel B. Wallace</a></span>
+<!-- <span style="font-style:Italic;font-size:2.1em;"><a href="https://drmsh.com/bible-versions/">Dr. Daniel B. Wallace</a></span>
 
 "Come" (6:1) & "Tree of Life" (22:19) come from deductions made in NET Translator's Notes, a bible version wallace was directly involved in, and 14:12 from his [blog](https://bible.org/article/lucifer-devil-isaiah-1412-kjv-argument-against-modern-translations). I decided to group these under this section with 22:14, a deduction made by MacLaren’s Expositions. -->
 
@@ -264,7 +264,10 @@ This is the worlds best optimal equivalent Bible, and best for textual critics a
 
 <span style="font-style:Italic;font-size:2.1em;">Sons of God, Worship, & Singular God</span>
 
-> My test case for this is Deuteronomy 32:8 and Deuteronomy 32:43. The former should read “sons of God” (**ESV**; cp. “gods” in **NRSV**), or something like “heavenly beings” (**NET** Bible) or “heavenly court” (**NLT**) instead of “sons of Israel.” Verse 43 should read “bow down to Him, all you gods” (ESV, NRSV) or something akin to it like NLT’s “let all God’s angels worship him.” &mdash;  <a herf="https://drmsh.com/bible-versions/">Dr. Michael S. Heiser</a>
+> My test case for this is Deuteronomy 32:8 and Deuteronomy 32:43. The former should read “sons of God” (**ESV**; cp. “gods” in **NRSV**), or something like “heavenly beings” (**NET** Bible) or “heavenly court” (**NLT**) instead of “sons of Israel.” Verse 43 should read “bow down to Him, all you gods” (ESV, NRSV) or something akin to it like NLT’s “let all God’s angels worship him” (Heiser, n.d., para. 6).
+
+
+<!-- &mdash; <a href="https://drmsh.com/bible-versions/">Dr. Michael S. Heiser</a> -->
 
 |                            Version                             | Deut. 32:8 | Deut. 32:43 | Deut. 32:17 |
 | :------------------------------------------------------------: | :--------: | :---------: | :---------: |
@@ -544,6 +547,8 @@ This is the worlds best optimal equivalent Bible, and best for textual critics a
 <div style="text-align:center;">References</div>
 
 <span></span>
+
+Heiser, M. S. (n.d.). *Versions*. Dr. Michael S. Heiser. https://drmsh.com/bible-versions/
 
 Wallace, Daniel B. (2019, March 5). *How can you trust the New Testament when the original manuscripts are different?* [Video]. Zondervan. https://youtu.be/NikVdhp0YFs
 
