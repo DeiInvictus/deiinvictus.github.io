@@ -1,6 +1,6 @@
 ---
 title: "The Old Ways — The Ancient Paths"
-date: 2024-12-26 01:05:00 -0500
+date: 2024-12-26 01:10:00 -0500
 categories: [Declaration, Statement]
 tags: [religion, history, theology] # TAG names should always be lowercase
 author: grand_master
@@ -30,20 +30,19 @@ Christianity today is populated by individuals who have chosen to abandon the ol
 
 The essential question then becomes: How can we shield ourselves from the "new things" that cultivate ignorance, lead to destruction, and ultimately result in apostasy? How can we be confident that we are adhering to the old ways and the ancient paths? One thing is certain: if we confine ourselves to a single point of view, we risk falling into an echo chamber of groupthink, where the blind lead the blind, pulling us into a quagmire of fables and ignorance (frequently propagated by contemporary movements). Dr. Heiser (2015), biblical language scholar and master of Biblical Hebrew and Ancient Egyptian, reveals:
 
-> 1\. *We’ve been trained to think that the history<br><span style="margin-left:2.3em;">of Christianity is the true context of the Bible</span>*<br>
+> 1\. *We’ve been trained to think that the history of Christianity is the true context of the Bible</span>*
 >
-> We talk a lot about interpreting the Bible in context, but Christian history is not<br>
-the context of the biblical writers. The proper context for interpreting the Bible is<br>
-not Augustine or any other church father. It is not the Catholic Church. It is not<br>
-the rabbinic movements of late antiquity and the Middle Ages. It is not the<br>
-Reformation or the Puritans. It is not evangelicalism in any of its flavors. **It is<br>
+> We talk a lot about interpreting the Bible in context, but Christian history is not
+the context of the biblical writers. The proper context for interpreting the Bible is
+not Augustine or any other church father. It is not the Catholic Church. It is not
+the rabbinic movements of late antiquity and the Middle Ages. It is not the
+Reformation or the Puritans. It is not evangelicalism in any of its flavors. **It is
 not the modern world at all**, or any period of its history.
 >
-> <span style="margin-left:2.3em;">The proper context for interpreting the Bible is the context of the biblical</span><br>
-writers&mdash;the context that produced the Bible [Second Temple period].<sup>1</sup>   **Every other context is alien to the<br>
-biblical writers and, therefore, to the Bible.** ... (p. 16).
+> The proper context for interpreting the Bible is the context of the biblical</span>
+writers&mdash;the context that produced the Bible [Second Temple period].<sup>1</sup> **Every other context is alien to the biblical writers and, therefore, to the Bible.** ... (p. 16).
 >
-> <small>1. We do not share the cognitive framework of the biblical writers. <br>While the implications may seem uncomfortable, it is hermeneutically<br>pointless to pretend otherwise. ...</small>
+> <small>1. We do not share the cognitive framework of the biblical writers. While the implications may seem uncomfortable, it is hermeneutically pointless to pretend otherwise. ...</small>
 
 
 <!-- Yet there is a pervasive tendency in<br>
