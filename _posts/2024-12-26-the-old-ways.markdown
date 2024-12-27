@@ -1,6 +1,6 @@
 ---
 title: "The Old Ways — The Ancient Paths"
-date: 2024-12-26 01:30:00 -0500
+date: 2024-12-26 01:35:00 -0500
 categories: [Declaration, Statement]
 tags: [religion, history, theology] # TAG names should always be lowercase
 author: grand_master
@@ -21,7 +21,7 @@ Consider this: Do your current beliefs have roots in every generation since the 
 
 The Word of God instructs us to turn to past generations in our pursuit of truth, assuring us that if we earnestly seek, we will find (Matt. 7:7-8). The challenge lies in the fact that many parents today are as adrift in contemporary movements as the children they have inadvertently misled. It is incumbent upon us to fulfill our duty by embracing the old ways and ancient paths, rather than succumbing to the ignorance of modernity. Ironically, biblical language scholarship and ecumenical academicians are on our side; more on that later.
 
-> Thus says the Lord: “Stand by the roads, and look, and ask for **the ancient paths**, where the good way is; and walk in it, and find rest for your souls. But they said, ‘We will not walk in it.’ (ESV Study Bible, 2008, Jeremiah 6:16 ESV).
+> Thus says the Lord: “Stand by the roads, and look, and ask for **the ancient paths**, where the good way is; and walk in it, and find rest for your souls. But they said, ‘We will not walk in it.’ (ESV Study Bible, 2008, Jeremiah 6:16).
 >> This is what the Lord says: “Stop at the crossroads and look around. Ask for **the old, godly way**, and walk in it. Travel its path, and you will find rest for your souls. **But you reply, ‘No, that’s not the road we want!’** (New Living Translation, 2015, Jer. 6:16 NLT).
 
 Christianity today is populated by individuals who have chosen to abandon the old ways and ancient paths, instead accumulating false teachers who entice them with **new things** and deceive them into believing they can live lifestyles of sin contrary to Scripture (1Jn 3:4-10; 5:18), all to satisfy their itching ears. In their pursuit of justifying their sin, they forsake the wisdom of the past, while those who remain steadfast in the ancient truths stand as a testament to genuine faith.
@@ -63,7 +63,35 @@ modern technology. As our understanding of the worldview of the biblical<br>
 writers grows, so does our understanding of what they intended to say—and the<br>
 mosaic of their thinking takes shape in our minds (p. 16). -->
 
-It's clear that the late Dr. Heiser spent vast amounts of time traversing the old ways and ancient paths.
+It's clear that the late Dr. Heiser spent vast amounts of time traversing the old ways and ancient paths. A comparable and earlier admonition can be found in the writings of the Apostle Paul, who cautions against labeling ourselves after specific leaders. This guidance is articulated in the following scripture:
+
+> "What I mean is that each one of you says, “I follow Paul,” or “I follow Apollos,” or “I follow Cephas,” or “I follow Christ.” Is Christ divided? Was Paul crucified for you? Or were you baptized in the name of Paul?" (ESV Study Bible, 2008, 1Cor. 1:12-13)
+
+Paul's point here is to emphasize unity in Christ rather than division by allegiance to specific human leaders. If you label yourselves with Catholicism (of the Pope), **Luther**anism (of Martin Luther), **Calvin**ism (of John Calvin), **Arminian**ism (of Jacobus Arminius), **Wesley**anism (of John Wesley), **Amyra**ldism (of Moses Amyraut), **Mol**inism (Luis de Molina), **Chafer**anism (of Lewis Sperry Chafer), you are going directly against the word of God and **your doctrine is not sound**. The Bible warns that people like this have created divisions because they are devoid of the spirit:
+
+> These people are the ones who are creating divisions among you. They follow their natural instincts because **they do not have God’s Spirit in them** (New Living Translation, 2015, Jude 19).
+
+If you find yourself ensnared in one of the numerous man-made systematic theologies that are rife with errors and various &lsquo;isms that contradict the inspired Word of God, I urge you to **turn away** from these false teachings in the unfeigned contrition of repentance and **return to sound doctrine**. The Bible instructs us to **&ldquo;Call no man your teacher&rdquo;** for you have only one teacher, Christ Jesus, and all of you are equal as brothers and sisters (New Living Translation, 2015, Matt. 23:8-9 NLT).
+
+> You call me ‘Teacher’ and ‘Lord,’ and do so correctly, for that is what I am (The NET Bible: Full Notes Edition, 2019, John 13:13 NET).
+
+> “Don’t let anyone call you ‘Rabbi,’ for you have only one teacher, and all of you are equal as brothers and sisters. And don’t address anyone here on earth as ‘Father,’ for only God in heaven is your Father (New Living Translation, 2015, Matt. 23:8-9 NLT).
+
+Teachers who promote man-made systems are the epitome of the teaching of the blind guides. The scriptures tell us to flee from them!
+
+> Leave them! They are blind guides. If someone who is blind leads another who is blind, both will fall into a pit.” (The NET Bible: Full Notes Edition, 2019, Matt. 15:14 NET)
+
+It's time for many of us to pull our heads out of the theological sand. It's time for us to give the Bible another chance. **The world can never know God through human wisdom**. Remember that men are not meant to interpret scripture for you&mdash;that right belongs to the Holy Spirit (1Jn 2:27; Jn 14:26;16:13; 2Pe 1:20-21; 1 Cor 2:12-14). Instead, open your Bible and fellowship with Christ.
+
+> But the anointing that you received from him abides in you, and **you have no need that anyone should teach you**. But as his anointing teaches you about everything, and is true, and is no lie—just as it has taught you, **abide in him** (ESV Study Bible, 2008, 1John 2:27; cf. John 15:4-5 NLT).
+>
+>> But you have received the Holy Spirit, and he lives within you, so you don’t need anyone to teach you what is true. For the Spirit teaches you everything you need to know, and what he teaches is true—it is not a lie. So just as he has taught you, remain in fellowship with Christ (New Living Translation, 2015, 1John 2:27).
+
+> And we impart this in words **not taught by human wisdom** but taught by the Spirit, interpreting spiritual truths to those who are spiritual. (ESV Study Bible, 2008, 1Cor 2:13)
+
+> <sup style="font-weight:bold">20</sup> So where does this leave the philosophers, the scholars, and the world’s brilliant debaters? God has made the wisdom of this world look foolish. <sup style="font-weight:bold">21</sup> Since <span style="font-weight:bold">God in his wisdom saw to it that the world would never know him through human wisdom</span>, he has used our foolish preaching to save those who believe (New Living Translation, 2015, 1 Cor 1:20-21 NLT).
+
+Pick up a Bible, pick up a lexicon it was made for English readers like you. You don't need some false teacher to spin the scriptures to you and indoctrinate you into some man-made system. Let us all return to the old ways and the ancient paths. Biblical language scholarship and essential doctrine will bring you closest to the words of Christ. **Bibles, Lexicons, Interlinears, and textual criticism are all you need to bridge the language gap, and Christ is your only teacher.** Systemless does not mean theology-less or churchless.
 
 <!-- ## Navigating the Seas of Time
 
@@ -138,11 +166,6 @@ This is systemless Christianity directly from Christ and the Apostles. The terms
 ### 11. Pentecostalism (Azusa Street Revival, 1906; Formation of the Assemblies of God, 1914)
 ### 12. Contemporary Movements -->
 
-<!-- The verse where Paul advises against labeling ourselves after specific leaders is found in 1 Corinthians 1:12-13. It states:
-
-> "What I mean is that each one of you says, “I follow Paul,” or “I follow Apollos,” or “I follow Cephas,” or “I follow Christ.” 13 Is Christ divided? Was Paul crucified for you? Or were you baptized in the name of Paul?" (ESV)
-
-Paul's point here is to emphasize unity in Christ rather than division by allegiance to specific human leaders. If you label yourselves with **Calvin**ism, **Arminian**ism, **Chafer**anism, you are going directly against the word of God and **your doctrine is not sound**. Cease divisions (Jude 1:19). -->
 
 
 <br>
