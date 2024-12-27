@@ -1,6 +1,6 @@
 ---
 title: "⚖️ Litmus Test Quick Reference"
-date: 2023-02-02 03:15:00 -0500
+date: 2023-02-02 03:20:00 -0500
 categories: [Reference, Versions]
 tags: [bible, version] # TAG names should always be lowercase
 author: seven_shepherd
@@ -16,7 +16,11 @@ pin: false
 
 Keep in mind that scholarship has proven that **no cardinal doctrine is affected** by any viable variant. Regardless of what text is used, **Jesus is affirmed as God in the flesh, as rising from the dead bodily, as ascending to heaven and as coming again some day.**
 
-> "**99.8% of textual variants affect nothing**, most are spelling differences. there's different ways to spell John, there's different ways to spell Mary, they're not going to affect anything, but **the one-fifth of 1% that do affect things are the ones that scholars talk about**. The bottom line is it does not matter in some respects which New Testament you use because **no essential doctrine is jeopardized** by any of these textual variants" &mdash; [Dr. Daniel B. Wallace, Senior Research Professor of New Testament Studies (PhD, Dallas)](https://youtu.be/NikVdhp0YFs)
+> "**99.8% of textual variants affect nothing**, most are spelling differences. there's different ways to spell John, there's different ways to spell Mary, they're not going to affect anything, but **the one-fifth of 1% that do affect things are the ones that scholars talk about**. The bottom line is it does not matter in some respects which New Testament you use because **no essential doctrine is jeopardized** by any of these textual variants" (Wallace, 2019, 1:56).
+
+
+<!-- &mdash; [Dr. Daniel B. Wallace, Senior Research Professor of New Testament Studies (PhD, Dallas)](https://youtu.be/NikVdhp0YFs) -->
+
 
 <!-- <span style="font-style:Italic;font-size:2.1em;"><a herf="https://drmsh.com/bible-versions/">SevenShepherd</a></span> -->
 
@@ -530,6 +534,26 @@ This is the worlds best optimal equivalent Bible, and best for textual critics a
 - Worldwide English (New Testament) (WE) © 1969, 1971, 1996, 1998 by SOON Educational Publications
 - Wycliffe Bible (WYC) 2001 by Terence P. Noble
 - Young's Literal Translation (YLT) by Public Domain
+
+<br>
+
+---
+
+<br>
+
+<div style="text-align:center;">References</div>
+
+<span></span>
+
+Wallace, Daniel B. (2019, March 5). *How can you trust the New Testament when the original manuscripts are different?* [Video]. Zondervan. https://youtu.be/NikVdhp0YFs
+
+<br>
+
+---
+
+<br>
+
+Together in action, united in spirit, aligned in purpose. Ordo Dei Invictus.
 
 <script>
     var refTagger = {
