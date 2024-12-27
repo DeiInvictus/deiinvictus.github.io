@@ -1,6 +1,6 @@
 ---
 title: "⚖️ Litmus Test Quick Reference"
-date: 2023-02-02 03:30:00 -0500
+date: 2023-02-02 03:35:00 -0500
 categories: [Reference, Versions]
 tags: [bible, version] # TAG names should always be lowercase
 author: seven_shepherd
@@ -475,7 +475,7 @@ This is the worlds best optimal equivalent Bible, and best for textual critics a
 
 Heiser, M. S. (n.d.). *Versions*. Dr. Michael S. Heiser. https://drmsh.com/bible-versions/
 
-Wallace, Daniel B. (2019, March 5). *How can you trust the New Testament when the original manuscripts are different?* [Video]. Zondervan. https://youtu.be/NikVdhp0YFs
+Wallace, D. B. (2019, March 5). *How can you trust the New Testament when the original manuscripts are different?* [Video]. Zondervan. https://youtu.be/NikVdhp0YFs
 
 <br>
 
