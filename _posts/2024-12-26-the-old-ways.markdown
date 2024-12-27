@@ -1,6 +1,6 @@
 ---
 title: "The Old Ways — The Ancient Paths"
-date: 2024-12-26 01:20:00 -0500
+date: 2024-12-26 01:25:00 -0500
 categories: [Declaration, Statement]
 tags: [religion, history, theology] # TAG names should always be lowercase
 author: grand_master
@@ -24,7 +24,7 @@ The Word of God instructs us to turn to past generations in our pursuit of truth
 > Thus says the Lord: “Stand by the roads, and look, and ask for **the ancient paths**, where the good way is; and walk in it, and find rest for your souls. But they said, ‘We will not walk in it.’ (ESV Study Bible, 2008, Jeremiah 6:16 ESV).
 >> This is what the Lord says: “Stop at the crossroads and look around. Ask for **the old, godly way**, and walk in it. Travel its path, and you will find rest for your souls. **But you reply, ‘No, that’s not the road we want!’** (New Living Translation, 2015, Jer. 6:16 NLT).
 
-Christianity today is populated by individuals who have chosen to abandon the old ways and ancient paths, instead accumulating false teachers who entice them with **new things** and deceive them into believing they can live lifestyles of sin contrary to Scripture (1Jn 3:4-10; 5:18), all to satisfy their itching ears. In their pursuit of novelty, they forsake the wisdom of the past, while those who remain steadfast in the ancient truths stand as a testament to genuine faith.
+Christianity today is populated by individuals who have chosen to abandon the old ways and ancient paths, instead accumulating false teachers who entice them with **new things** and deceive them into believing they can live lifestyles of sin contrary to Scripture (1Jn 3:4-10; 5:18), all to satisfy their itching ears. In their pursuit of justifying their sin, they forsake the wisdom of the past, while those who remain steadfast in the ancient truths stand as a testament to genuine faith.
 
 > For there will be a time when people will not tolerate sound teaching. Instead, following their own desires, they will accumulate teachers for themselves, because they have an insatiable curiosity to hear **new things**. And they will turn away from hearing the truth, but on the other hand they will turn aside to myths (The NET Bible: Full Notes Edition, 2019, 2Tim. 4:3-4 NET).
 
