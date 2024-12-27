@@ -1,6 +1,6 @@
 ---
 title: "The Old Ways — The Ancient Paths"
-date: 2024-12-26 01:25:00 -0500
+date: 2024-12-26 01:30:00 -0500
 categories: [Declaration, Statement]
 tags: [religion, history, theology] # TAG names should always be lowercase
 author: grand_master
@@ -9,7 +9,7 @@ comments: false
 pin: false
 ---
 
-## Introduction
+<!-- ## Introduction -->
 
 The true Church has existed in every generation since the time of Christ, when He proclaimed, &ldquo;... upon this rock I will build my church, and all the powers of hell will not conquer it&rdquo; (New Living Translation, 2015, Matt. 16:18). Many generations have passed since Christ walked the earth over 20 centuries ago (2000+ years), but the truth has been with us since the very beginning.
 
@@ -65,7 +65,7 @@ mosaic of their thinking takes shape in our minds (p. 16). -->
 
 It's clear that the late Dr. Heiser spent vast amounts of time traversing the old ways and ancient paths.
 
-## Navigating the Seas of Time
+<!-- ## Navigating the Seas of Time
 
 Now, I shall digress. Let us embark on a quest to explore the old ways and ancient paths by first charting the course of history to discern what can be classified as old and new. The first two groups are viewed as sanctuaries of truth: **ἡ ὁδός (hē hodós)** is primarily associated with the Apostolic Age, while **Χριστιανισμός (Christianismos)** is more associated with the Ante-Nicene Period.
 
@@ -77,7 +77,7 @@ This is systemless Christianity directly from Christ and the Apostles. The terms
 - **ἡ ὁδός (hē hodós)** – Followers of "The Way":
    - This term is associated with the **Apostolic Age**, which is the period during the lifetime of the apostles, roughly from the time of Jesus' resurrection (c. AD 30) to the death of the last apostle, John (c. AD 100). It was used to describe the early Christian movement in its initial stages.
    - Example: Acts 9:2, where Saul (later Paul) sought to persecute followers of "The Way."
-   - See also: Acts 9:2 (c. AD 34-36); Acts 19:9 (c. AD 54-56); Acts 19:23 (c. AD 54-56); Acts 22:4 (c. AD 57); Acts 24:14 (c. AD 57); Acts 24:22 (c. AD 57)
+   - See also: Acts 9:2 (c. AD 34-36); Acts 19:9 (c. AD 54-56); Acts 19:23 (c. AD 54-56); Acts 22:4 (c. AD 57); Acts 24:14 (c. AD 57); Acts 24:22 (c. AD 57) -->
 
 <!-- - Jesus & The Apostles (1st Century): The teachings of Jesus Christ and the writings of the Apostles recorded in the New Testament, which form the foundation of Christian doctrine and belief.
 
@@ -112,19 +112,19 @@ This is systemless Christianity directly from Christ and the Apostles. The terms
   - Epaphroditus (Died Unknown)
   see Philippians 2:25 -->
 
-### 2. Ante-Nicene Period Christianity (Χριστιανισμός)
+<!-- ### 2. Ante-Nicene Period Christianity (Χριστιανισμός)
 #### c. AD 100 to AD 325
 
 - **Χριστιανισμός (Christianismos)** – Christianity:
    - This term, and the related term **Χριστιανός (Christianos)** meaning "Christian," became more common in the **Ante-Nicene Period**, which extends from the end of the Apostolic Age (c. AD 100) to the First Council of Nicaea in AD 325. By this time, the term "Christian" had become widely accepted as the standard designation for followers of Jesus Christ.
    - Example: Acts 11:26, where the disciples were first called Christians in Antioch.
-   - See also: Acts 11:26 (c. AD 47-48); Acts 26:28 (c. AD 59-60); 1 Peter 4:16 (c. AD 64-65).
+   - See also: Acts 11:26 (c. AD 47-48); Acts 26:28 (c. AD 59-60); 1 Peter 4:16 (c. AD 64-65). -->
 
 <!-- Consider my articles on being a systemless moderate and basic protestant. -->
 <!-- - [Call no man your teacher](https://sevenshepherd.github.io/call-no-man-your-teacher/).
 - [The Hierarchy of Authority & How To Be A Good Berean](https://sevenshepherd.github.io/hierarchy-of-authority/). -->
 
-### ⚠️ Under Construction
+<!-- ### ⚠️ Under Construction
 ### 2. Ancient Catholic Orthodoxy (Council of Nicaea, 325; Council of Constantinople, 381)
 ### 3. Roman Catholicism (Development of papal authority, 5th-8th centuries)
 ### 4. Eastern Orthodoxy (Great Schism, 1054)
@@ -136,7 +136,7 @@ This is systemless Christianity directly from Christ and the Apostles. The terms
 ### 9. Baptist (First Baptist Church, 1609; Philadelphia Confession, 1742)
 ### 10. Methodism (Founding of the Methodist movement, 1738; General Conference, 1784)
 ### 11. Pentecostalism (Azusa Street Revival, 1906; Formation of the Assemblies of God, 1914)
-### 12. Contemporary Movements
+### 12. Contemporary Movements -->
 
 <!-- The verse where Paul advises against labeling ourselves after specific leaders is found in 1 Corinthians 1:12-13. It states:
 
