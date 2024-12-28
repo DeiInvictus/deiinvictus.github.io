@@ -1,6 +1,6 @@
 ---
 title: "The Old Ways — The Ancient Paths"
-date: 2024-12-26 01:50:00 -0500
+date: 2024-12-26 01:55:00 -0500
 categories: [Declaration, Statement]
 tags: [religion, history, theology] # TAG names should always be lowercase
 author: grand_master
@@ -83,7 +83,7 @@ Teachers who promote man-made systems are the epitome of the teaching of the bli
 
 It's time for many of us to pull our heads out of the theological sand. It's time for us to give the Bible another chance. **The world can never know God through human wisdom**. Remember that men are not meant to interpret scripture for you&mdash;that right belongs to the Holy Spirit (1Jn 2:27; Jn 14:26;16:13; 2Pe 1:20-21; 1 Cor 2:12-14). Instead, open your Bible and fellowship with Christ.
 
-> But the anointing that you received from him abides in you, and **you have no need that anyone should teach you**. But as his anointing teaches you about everything, and is true, and is no lie—just as it has taught you, **abide in him** (ESV Study Bible, 2008, 1John 2:27; cf. John 15:4-5 NLT).
+> But the anointing that you received from him abides in you, and **you have no need that anyone should teach you**. But as his anointing teaches you about everything, and is true, and is no lie—just as it has taught you, **abide in him** (ESV Study Bible, 2008, 1John 2:27; cf. John 15:4-5 ESV).
 >
 >> But you have received the Holy Spirit, and he lives within you, so you don’t need anyone to teach you what is true. For the Spirit teaches you everything you need to know, and what he teaches is true—it is not a lie. So just as he has taught you, remain in fellowship with Christ (New Living Translation, 2015, 1John 2:27).
 
@@ -91,7 +91,7 @@ It's time for many of us to pull our heads out of the theological sand. It's tim
 
 > So where does this leave the philosophers, the scholars, and **the world’s** brilliant debaters? God has made **the wisdom of this world** look foolish. Since **God in his wisdom saw to it that the world would never know him through human wisdom**, he has used our foolish preaching to save those who believe (New Living Translation, 2015, 1 Cor 1:20-21 NLT).
 
-In unity, let us distance ourselves from the misleading teachings and philosophies of this world, and instead turn towards the faithful educators of scripture who do not indoctrinate us into man-made systems. Dr. Heiser (2021) exemplifies the faithful *didaskalos* when he stated:
+In unity, let us distance ourselves from the misleading teachings and philosophies of this world, and instead turn towards the Scriptures, and secondly, to the faithful educators of Scripture who do not indoctrinate us into man-made systems. Dr. Heiser (2021) exemplifies the faithful *didaskalos* when he stated:
 
 > "This is why the Scripture says what it says. Now again, **I don't care how that fits into your system**. Okay, I really don't. **We don't need systems**. We need to pay attention to the text, and we need to be consistent across the Testaments. That's what we need" (8:38-49).
 
