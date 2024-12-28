@@ -1,6 +1,6 @@
 ---
 title: "The Old Ways — The Ancient Paths"
-date: 2024-12-26 02:05:00 -0500
+date: 2024-12-26 02:15:00 -0500
 categories: [Declaration, Statement]
 tags: [religion, history, theology] # TAG names should always be lowercase
 author: grand_master
@@ -14,7 +14,7 @@ pin: false
 ![Followers of the Way](/assets/images/Apostolic%20Age%20followers%20of%20'The%20Way'%20(ἡ%20ὁδός%20-%20hė%20hodós).png)
 
 <sup>
-Apostolic Age Followers of “The Way” (ἡ ὁδός - hė hodós) c. AD 30 to c. AD 100 (1st Century). See Acts 9:2; Acts 19:9; Acts 19:23; Acts 22:4; Acts 24:14; Acts 24:22 (c. A.D. 61 &ndash; 64).</sup>
+Apostolic Age Followers of “The Way” (ἡ ὁδός - hė hodós) c. AD 30 to c. AD 100 (1st Century). See Acts 9:2; 19:9, 23; 22:4; 24:14, 22 (c. A.D. 61 &ndash; 64).</sup>
 
 ---
 
@@ -140,11 +140,18 @@ I strongly advocate for, and highly recommend, prioritizing direct engagement wi
 - ESV Study Bible / NIV Biblical Theology Study Bible (Bible study)
 - https://kjvparallelbible.org/ (textual criticism)
 - Systemless Biblical Language Scholars and Theologians
-  - C.S. Lewis (Oxford and Cambridge)
-  - Dr. Carson (PhD, University of Cambridge)
+  - Dr. D. A. Carson (PhD, University of Cambridge)
+    - Divine Sovereingty & Human Responsibility
+    - The Gospel according to John
+    - The Difficult Doctrine of the Love of God
   - Dr. Michael S. Heiser (PhD, University of Wisconsin-Madison)
-  - Dr. Hugh Ross (Ph.D., Astrophysicist at University of Toronto)
-  - Dr. Alister McGrath (Ph.D., Molecular Biophysics at Oxford; D.D., Theology at Oxford; D.Litt., Intellectual History at Oxford)
+  - C.S. Lewis (Oxford and Cambridge)
+    - Mere Christianity
+  - Dr. Alister McGrath (PhD, Molecular Biophysics at Oxford; D.D., Theology at Oxford; D.Litt., Intellectual History at Oxford)
+  - Dr. Hugh Ross (PhD, Astrophysicist at University of Toronto)
+    - Beyond The Cosmos
+  - Dr. Daniel B. Wallace (PhD, Dallas Theological Seminary)
+    - Reinventing Jesus
 - The ecumenical creeds
   - [Nicene Creed (A.D. 381)](https://deiinvictus.com/posts/nicene-creed-381/)
   - [Apostles’ Creed (A.D. 650)](https://deiinvictus.com/posts/apostles-creed-650/)
