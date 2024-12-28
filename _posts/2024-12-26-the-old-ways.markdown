@@ -1,6 +1,6 @@
 ---
 title: "The Old Ways — The Ancient Paths"
-date: 2024-12-26 01:55:00 -0500
+date: 2024-12-26 02:00:00 -0500
 categories: [Declaration, Statement]
 tags: [religion, history, theology] # TAG names should always be lowercase
 author: grand_master
@@ -10,6 +10,8 @@ pin: false
 ---
 
 <!-- ## Introduction -->
+
+![Followers of the Way](/assets/images/Apostolic%20Age%20followers%20of%20'The%20Way'%20(ἡ%20ὁδός%20-%20hė%20hodós).png)
 
 The true Church has existed in every generation since the time of Christ, when He proclaimed, &ldquo;... upon this rock I will build my church, and all the powers of hell will not conquer it&rdquo; (New Living Translation, 2015, Matt. 16:18). Many generations have passed since Christ walked the earth over 20 centuries ago (2000+ years), but the truth has been with us since the very beginning.
 
