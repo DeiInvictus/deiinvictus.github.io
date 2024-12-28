@@ -1,6 +1,6 @@
 ---
 title: "The Old Ways — The Ancient Paths"
-date: 2024-12-26 01:40:00 -0500
+date: 2024-12-26 01:45:00 -0500
 categories: [Declaration, Statement]
 tags: [religion, history, theology] # TAG names should always be lowercase
 author: grand_master
@@ -99,7 +99,7 @@ In unity, let us distance ourselves from the misleading teachings and philosophi
 
 I strongly advocate for, and highly recommend, prioritizing direct engagement with Scripture and the guidance of the Holy Spirit (1 John 2:27), supported by high-quality scholarly resources, over adherence to rigid theological systems. The Bible cautions against the divisiveness inherent in man-made systems and promotes a more personal, less doctrinally divided approach to faith. The hierarchy of authority presented in the Bible underscores the importance of divine guidance and the original biblical texts (i.e., biblical language scholarship), placing them above human interpretations and systematic theology. **Bibles, lexicons, interlinears, and textual criticism are all you need to bridge the language gap, and Christ is your only teacher.** **Being systemless does not mean being theology-less or churchless.** Here are my recommendations:
 
-- BDAG & HALOT Lexicons (word study)
+<!-- - BDAG & HALOT Lexicons (word study)
     - The world's most authoritative lexicons
 - ESV Reverse Interlinear (word study)
 - NET Full Notes (textual criticism)
@@ -108,6 +108,28 @@ I strongly advocate for, and highly recommend, prioritizing direct engagement wi
     - Notes are an unparalleled treasure trove of textual criticism
 - ESV Study Bible / NIV Biblical Theology Study Bible (Bible study)
 - https://kjvparallelbible.org/ (textual criticism)
+- Systemless Biblical Language Scholars and Theologians
+  - C.S. Lewis (Oxford & Cambridge)
+  - Dr. Carson (PhD, University of Cambridge)
+  - Dr. Michael S. Heiser (PhD, University of Wisconsin-Madison)
+  - Dr. Hugh Ross (Ph.D., Astrophysicist at University of Toronto)
+  - Dr. Alister McGrath (Ph.D., Molecular Biophysics at Oxford; D.D., Theology at Oxford; D.Litt., Intellectual History at Oxford) -->
+
+- BDAG and HALOT Lexicons (word study)
+    - The world's most authoritative lexicons
+- ESV Reverse Interlinear (word study)
+- NET Full Notes (textual criticism)
+    - World’s foremost biblical scholars
+    - Non-sectarian and inter-denominational
+    - Notes are an unparalleled treasure trove of textual criticism
+- ESV Study Bible / NIV Biblical Theology Study Bible (Bible study)
+- https://kjvparallelbible.org/ (textual criticism)
+- Systemless Biblical Language Scholars and Theologians
+  - C.S. Lewis (Oxford and Cambridge)
+  - Dr. Carson (PhD, University of Cambridge)
+  - Dr. Michael S. Heiser (PhD, University of Wisconsin-Madison)
+  - Dr. Hugh Ross (Ph.D., Astrophysicist at University of Toronto)
+  - Dr. Alister McGrath (Ph.D., Molecular Biophysics at Oxford; D.D., Theology at Oxford; D.Litt., Intellectual History at Oxford)
 
 
 <!-- ## Navigating the Seas of Time
