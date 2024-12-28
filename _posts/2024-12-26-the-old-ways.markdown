@@ -1,6 +1,6 @@
 ---
 title: "The Old Ways — The Ancient Paths"
-date: 2024-12-26 01:45:00 -0500
+date: 2024-12-26 01:50:00 -0500
 categories: [Declaration, Statement]
 tags: [religion, history, theology] # TAG names should always be lowercase
 author: grand_master
@@ -130,6 +130,13 @@ I strongly advocate for, and highly recommend, prioritizing direct engagement wi
   - Dr. Michael S. Heiser (PhD, University of Wisconsin-Madison)
   - Dr. Hugh Ross (Ph.D., Astrophysicist at University of Toronto)
   - Dr. Alister McGrath (Ph.D., Molecular Biophysics at Oxford; D.D., Theology at Oxford; D.Litt., Intellectual History at Oxford)
+- The ecumenical creeds
+  - [Nicene Creed (A.D. 381)](https://deiinvictus.com/posts/nicene-creed-381/)
+  - [Apostles’ Creed (A.D. 650)](https://deiinvictus.com/posts/apostles-creed-650/)
+- The moderate confessions
+  - [Thirty Nine Articles of Religion (1562)](https://deiinvictus.com/posts/thirty-nine-articles-1562/)
+  - [Heidelberg Catechism (1563)](https://deiinvictus.com/posts/heidelberg-catechism-1563/)
+  - [New Hampshire Confession (1833)](https://deiinvictus.com/posts/new-hampshire-confession-1833/)
 
 
 <!-- ## Navigating the Seas of Time
