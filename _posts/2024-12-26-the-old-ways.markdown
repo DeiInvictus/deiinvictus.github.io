@@ -1,6 +1,6 @@
 ---
 title: "The Old Ways — The Ancient Paths"
-date: 2024-12-26 02:00:00 -0500
+date: 2024-12-26 02:05:00 -0500
 categories: [Declaration, Statement]
 tags: [religion, history, theology] # TAG names should always be lowercase
 author: grand_master
@@ -12,6 +12,19 @@ pin: false
 <!-- ## Introduction -->
 
 ![Followers of the Way](/assets/images/Apostolic%20Age%20followers%20of%20'The%20Way'%20(ἡ%20ὁδός%20-%20hė%20hodós).png)
+
+<sup>
+Apostolic Age Followers of “The Way” (ἡ ὁδός - hė hodós) c. AD 30 to c. AD 100 (1st Century). See Acts 9:2; Acts 19:9; Acts 19:23; Acts 22:4; Acts 24:14; Acts 24:22 (c. A.D. 61 &ndash; 64).</sup>
+
+---
+
+<!-- This is systemless Christianity directly from Christ and the Apostles. The terms **ἡ ὁδός (hē hodós)** and **Χριστιανισμός (Christianismos)** refer to different periods and aspects of early Christianity:
+
+- **ἡ ὁδός (hē hodós)** – Followers of "The Way":
+   - This term is associated with the **Apostolic Age**, which is the period during the lifetime of the apostles, roughly from the time of Jesus' resurrection (c. AD 30) to the death of the last apostle, John (c. AD 100). It was used to describe the early Christian movement in its initial stages.
+   - Example: Acts 9:2, where Saul (later Paul) sought to persecute followers of "The Way."
+   - See also: Acts 9:2 (c. AD 34-36); Acts 19:9 (c. AD 54-56); Acts 19:23 (c. AD 54-56); Acts 22:4 (c. AD 57); Acts 24:14 (c. AD 57); Acts 24:22 (c. AD 57)
+</small> -->
 
 The true Church has existed in every generation since the time of Christ, when He proclaimed, &ldquo;... upon this rock I will build my church, and all the powers of hell will not conquer it&rdquo; (New Living Translation, 2015, Matt. 16:18). Many generations have passed since Christ walked the earth over 20 centuries ago (2000+ years), but the truth has been with us since the very beginning.
 
@@ -99,7 +112,7 @@ In unity, let us distance ourselves from the misleading teachings and philosophi
 
 <!-- (Heiser, 2021, 8:46) -->
 
-I strongly advocate for, and highly recommend, prioritizing direct engagement with Scripture and the guidance of the Holy Spirit (1 John 2:27), supported by high-quality scholarly resources, over adherence to rigid theological systems. The Bible cautions against the divisiveness inherent in man-made systems and promotes a more personal, less doctrinally divided approach to faith. The hierarchy of authority presented in the Bible underscores the importance of divine guidance and the original biblical texts (i.e., biblical language scholarship), placing them above human interpretations and systematic theology. **Bibles, lexicons, interlinears, and textual criticism are all you need to bridge the language gap, and Christ is your only teacher.** **Being systemless does not mean being theology-less or churchless.** Here are my recommendations:
+I strongly advocate for, and highly recommend, prioritizing direct engagement with Scripture and the guidance of the Holy Spirit (1 John 2:27), supported by high-quality scholarly resources, over adherence to rigid theological systems. The Bible cautions against the divisiveness inherent in man-made systems and promotes a more personal, less doctrinally divided approach to faith. The hierarchy of authority presented in the Bible underscores the importance of divine guidance and the original biblical texts (via biblical language scholarship), placing them above human interpretations and systematic theology. **Bibles, lexicons, interlinears, and textual criticism are all you need to bridge the language gap, and Christ is your only teacher.** **Being systemless does not mean being theology-less or churchless.** Here are my recommendations:
 
 <!-- - BDAG & HALOT Lexicons (word study)
     - The world's most authoritative lexicons
