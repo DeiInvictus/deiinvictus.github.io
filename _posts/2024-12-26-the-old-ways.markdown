@@ -1,6 +1,6 @@
 ---
 title: "The Old Ways — The Ancient Paths"
-date: 2024-12-26 01:35:00 -0500
+date: 2024-12-26 01:40:00 -0500
 categories: [Declaration, Statement]
 tags: [religion, history, theology] # TAG names should always be lowercase
 author: grand_master
@@ -89,9 +89,26 @@ It's time for many of us to pull our heads out of the theological sand. It's tim
 
 > And we impart this in words **not taught by human wisdom** but taught by the Spirit, interpreting spiritual truths to those who are spiritual. (ESV Study Bible, 2008, 1Cor 2:13)
 
-> <sup style="font-weight:bold">20</sup> So where does this leave the philosophers, the scholars, and the world’s brilliant debaters? God has made the wisdom of this world look foolish. <sup style="font-weight:bold">21</sup> Since <span style="font-weight:bold">God in his wisdom saw to it that the world would never know him through human wisdom</span>, he has used our foolish preaching to save those who believe (New Living Translation, 2015, 1 Cor 1:20-21 NLT).
+> So where does this leave the philosophers, the scholars, and **the world’s** brilliant debaters? God has made **the wisdom of this world** look foolish. Since **God in his wisdom saw to it that the world would never know him through human wisdom**, he has used our foolish preaching to save those who believe (New Living Translation, 2015, 1 Cor 1:20-21 NLT).
 
-Pick up a Bible, pick up a lexicon it was made for English readers like you. You don't need some false teacher to spin the scriptures to you and indoctrinate you into some man-made system. Let us all return to the old ways and the ancient paths. Biblical language scholarship and essential doctrine will bring you closest to the words of Christ. **Bibles, Lexicons, Interlinears, and textual criticism are all you need to bridge the language gap, and Christ is your only teacher.** Systemless does not mean theology-less or churchless.
+In unity, let us distance ourselves from the misleading teachings and philosophies of this world, and instead turn towards the faithful educators of scripture who do not indoctrinate us into man-made systems. Dr. Heiser (2021) exemplifies the faithful *didaskalos* when he stated:
+
+> "This is why the Scripture says what it says. Now again, **I don't care how that fits into your system**. Okay, I really don't. **We don't need systems**. We need to pay attention to the text, and we need to be consistent across the Testaments. That's what we need" (8:38-49).
+
+<!-- (Heiser, 2021, 8:46) -->
+
+I strongly advocate for, and highly recommend, prioritizing direct engagement with Scripture and the guidance of the Holy Spirit (1 John 2:27), supported by high-quality scholarly resources, over adherence to rigid theological systems. The Bible cautions against the divisiveness inherent in man-made systems and promotes a more personal, less doctrinally divided approach to faith. The hierarchy of authority presented in the Bible underscores the importance of divine guidance and the original biblical texts (i.e., biblical language scholarship), placing them above human interpretations and systematic theology. **Bibles, lexicons, interlinears, and textual criticism are all you need to bridge the language gap, and Christ is your only teacher.** **Being systemless does not mean being theology-less or churchless.** Here are my recommendations:
+
+- BDAG & HALOT Lexicons (word study)
+    - The world's most authoritative lexicons
+- ESV Reverse Interlinear (word study)
+- NET Full Notes (textual criticism)
+    - World’s foremost biblical scholars
+    - Non-sectarian and inter-denominational
+    - Notes are an unparalleled treasure trove of textual criticism
+- ESV Study Bible / NIV Biblical Theology Study Bible (Bible study)
+- https://kjvparallelbible.org/ (textual criticism)
+
 
 <!-- ## Navigating the Seas of Time
 
@@ -181,6 +198,10 @@ This is systemless Christianity directly from Christ and the Apostles. The terms
 *ESV Study Bible* (ESV Text Edition: 2016). (2008). Crossway.
 
 Heiser, M. S. (2015). *The unseen realm* (1st ed.). Lexham Press.
+
+Heiser, M. S. (2021, July 12). *Can an Apostate Turn Back to God?* [Video]. Dr. Michael S. Heiser. https://youtu.be/0vgF6UMdm6Y&t=526
+
+<!-- Dr. Michael S. Heiser. (2021, July 12). *Can an Apostate Turn Back to God?* [Video]. YouTube. https://youtu.be/0vgF6UMdm6Y&t=526 -->
 
 *NET Bible: Full notes edition*. (2019). Biblical Studies Press, L.L.C.
 
