@@ -1,6 +1,6 @@
 ---
 title: "The Old Ways — The Ancient Paths"
-date: 2024-12-26 02:15:00 -0500
+date: 2024-12-26 02:25:00 -0500
 categories: [Declaration, Statement]
 tags: [religion, history, theology] # TAG names should always be lowercase
 author: grand_master
@@ -82,7 +82,7 @@ It's clear that the late Dr. Heiser spent vast amounts of time traversing the ol
 
 > "What I mean is that each one of you says, “I follow Paul,” or “I follow Apollos,” or “I follow Cephas,” or “I follow Christ.” Is Christ divided? Was Paul crucified for you? Or were you baptized in the name of Paul?" (ESV Study Bible, 2008, 1Cor. 1:12-13)
 
-Paul's point here is to emphasize unity in Christ rather than division by allegiance to specific human leaders. If you label yourselves with Catholicism (of the Pope), **Luther**anism (of Martin Luther), **Calvin**ism (of John Calvin), **Arminian**ism (of Jacobus Arminius), **Wesley**anism (of John Wesley), **Amyra**ldism (of Moses Amyraut), **Mol**inism (Luis de Molina), **Chafer**anism (of Lewis Sperry Chafer), you are going directly against the word of God and **your doctrine is not sound**. The Bible warns that people like this have created divisions because they are devoid of the spirit:
+Paul's point here is to emphasize unity in Christ rather than division by allegiance to specific human leaders. If you label yourselves with Catholicism (of the Pope), **Luther**anism (of Martin Luther), **Calvin**ism (of John Calvin), **Arminian**ism (of Jacobus Arminius), **Wesley**anism (of John Wesley), **Amyra**ldism (of Moses Amyraut), **Mol**inism (Luis de Molina), **Chafer**anism (of Lewis Sperry Chafer), you are going directly against the word of God and **your doctrine is not sound**. The Bible warns that some of these people **may** have created divisions because they are devoid of the spirit:
 
 > These people are the ones who are creating divisions among you. They follow their natural instincts because **they do not have God’s Spirit in them** (New Living Translation, 2015, Jude 19).
 
@@ -131,27 +131,29 @@ I strongly advocate for, and highly recommend, prioritizing direct engagement wi
   - Dr. Alister McGrath (Ph.D., Molecular Biophysics at Oxford; D.D., Theology at Oxford; D.Litt., Intellectual History at Oxford) -->
 
 - BDAG and HALOT Lexicons (word study)
-    - The world's most authoritative lexicons
+  - The world's most authoritative lexicons
 - ESV Reverse Interlinear (word study)
 - NET Full Notes (textual criticism)
-    - World’s foremost biblical scholars
-    - Non-sectarian and inter-denominational
-    - Notes are an unparalleled treasure trove of textual criticism
+  - World’s foremost biblical scholars
+  - Non-sectarian and inter-denominational
+  - Notes are an unparalleled treasure trove of textual criticism
 - ESV Study Bible / NIV Biblical Theology Study Bible (Bible study)
 - https://kjvparallelbible.org/ (textual criticism)
-- Systemless Biblical Language Scholars and Theologians
+- Systemless Biblical Language Scholars
+  - Dr. Michael S. Heiser (PhD, University of Wisconsin-Madison)
+  - Dr. Daniel B. Wallace (PhD, Dallas Theological Seminary)
+    - Reinventing Jesus
+- Systemless Theologians
   - Dr. D. A. Carson (PhD, University of Cambridge)
     - Divine Sovereingty & Human Responsibility
     - The Gospel according to John
     - The Difficult Doctrine of the Love of God
-  - Dr. Michael S. Heiser (PhD, University of Wisconsin-Madison)
   - C.S. Lewis (Oxford and Cambridge)
     - Mere Christianity
+- Systemless Scientist Theologians
   - Dr. Alister McGrath (PhD, Molecular Biophysics at Oxford; D.D., Theology at Oxford; D.Litt., Intellectual History at Oxford)
   - Dr. Hugh Ross (PhD, Astrophysicist at University of Toronto)
     - Beyond The Cosmos
-  - Dr. Daniel B. Wallace (PhD, Dallas Theological Seminary)
-    - Reinventing Jesus
 - The ecumenical creeds
   - [Nicene Creed (A.D. 381)](https://deiinvictus.com/posts/nicene-creed-381/)
   - [Apostles’ Creed (A.D. 650)](https://deiinvictus.com/posts/apostles-creed-650/)
