@@ -1,6 +1,6 @@
 ---
 title: "The Old Ways — The Ancient Paths"
-date: 2024-12-26 02:35:00 -0500
+date: 2024-12-26 02:40:00 -0500
 categories: [Declaration, Statement]
 tags: [religion, history, theology] # TAG names should always be lowercase
 author: grand_master
@@ -34,11 +34,11 @@ The true Church has existed in every generation since the time of Christ, when H
 >
 >> The theological messaging couldn’t be more dramatic. Jesus says he will build his church—and the “gates of hell” will not prevail against it. We often think of this phrase as though God’s people are in a posture of having to bravely fend off Satan and his demons. This simply isn’t correct. Gates are defensive structures, not offensive weapons. The kingdom of God is the aggressor. <sup>16</sup> Jesus begins at ground zero in the cosmic geography of both testaments to announce the great reversal. It is the gates of hell that are under assault—and they will not hold up against the Church. Hell will one day be Satan’s tomb (Heiser, 2015, pp. 284-5).
 
-Consider this: Do your current beliefs have roots in every generation since the time of Christ, or can you trace them only to a specific historical period? If your beliefs cannot be linked to earlier generations, they may be false, lacking the historical foundation that the true Church has upheld since Christ's declaration.
+Consider this: Do your current beliefs have roots in every generation since the time of Christ, or can you trace them only to a specific historical period? If your beliefs cannot be linked to earlier generations, they may be false, lacking the historical foundation that the true Church has upheld since Christ's declaration. The Word of God instructs us to turn to past generations in our pursuit of truth, assuring us that if we earnestly seek, we will find (Matt. 7:7-8):
 
 > Remember **the days of old**; consider the years of many generations; ask your father, and he will show you, your elders, and they will tell you (ESV Study Bible, 2008, Deut. 32:7).
 
-The Word of God instructs us to turn to past generations in our pursuit of truth, assuring us that if we earnestly seek, we will find (Matt. 7:7-8). The challenge lies in the fact that many parents today are as adrift in contemporary movements as the children they have inadvertently misled. It is incumbent upon us to fulfill our duty by embracing the old ways and ancient paths, rather than succumbing to the ignorance of modernity. Ironically, biblical language scholarship and ecumenical academicians are on our side; more on that later.
+The challenge lies in the fact that many parents today are as adrift in contemporary movements as the children they have inadvertently misled. It is incumbent upon us to fulfill our duty by embracing the old ways and ancient paths, rather than succumbing to the ignorance of modernity. Ironically, biblical language scholarship and ecumenical academicians are on our side; more on that later.
 
 > Thus says the Lord: “Stand by the roads, and look, and ask for **the ancient paths**, where the good way is; and walk in it, and find rest for your souls. But they said, ‘We will not walk in it.’ (ESV Study Bible, 2008, Jeremiah 6:16).
 >> This is what the Lord says: “Stop at the crossroads and look around. Ask for **the old, godly way**, and walk in it. Travel its path, and you will find rest for your souls. **But you reply, ‘No, that’s not the road we want!’** (New Living Translation, 2015, Jer. 6:16 NLT).
@@ -90,7 +90,7 @@ Paul's point here is to emphasize unity in Christ rather than division by allegi
 
 > These people are the ones who are creating divisions among you. They follow their natural instincts because **they do not have God’s Spirit in them** (New Living Translation, 2015, Jude 19).
 
-If you find yourself ensnared in one of the numerous man-made systematic theologies that are rife with errors and various &lsquo;isms that contradict the inspired Word of God, I urge you to **turn away** from these false teachings in the unfeigned contrition of repentance and **return to sound doctrine**. The Bible instructs us to **&ldquo;Call no man your teacher&rdquo;** for you have only one teacher, Christ Jesus, and all of you are equal as brothers and sisters (New Living Translation, 2015, Matt. 23:8-9 NLT).
+If you find yourself ensnared in one of the numerous man-made systematic theologies that are rife with errors and various &lsquo;isms that contradict the inspired Word of God, I urge you to **turn away** from these deviations in the unfeigned contrition of repentance and **return to sound doctrine**. The Bible instructs us to **&ldquo;Call no man your teacher&rdquo;** for you have only one teacher, Christ Jesus, and all of you are equal as brothers and sisters (New Living Translation, 2015, Matt. 23:8-9 NLT). At the very least, backup into basic protestant solas without the 'isms.
 
 > You call me ‘Teacher’ and ‘Lord,’ and do so correctly, for that is what I am (The NET Bible: Full Notes Edition, 2019, John 13:13 NET).
 
