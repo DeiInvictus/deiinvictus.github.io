@@ -1,6 +1,6 @@
 ---
 title: "The Old Ways — The Ancient Paths"
-date: 2024-12-26 02:30:00 -0500
+date: 2024-12-26 02:35:00 -0500
 categories: [Declaration, Statement]
 tags: [religion, history, theology] # TAG names should always be lowercase
 author: grand_master
@@ -32,7 +32,7 @@ The true Church has existed in every generation since the time of Christ, when H
 >
 >> The basis for Catholicism’s contention that the Church is built on Peter’s leadership is that his name means “stone.”<sup>14</sup> For sure there is wordplay going on in Peter’s confession, but I would suggest there is also an important double entendre: the “rock” refers to the mountain location where Jesus makes the statement. When viewed from this perspective, Peter confesses Jesus as the Christ, the Son of the living God, at “this rock” (this mountain—Mount Hermon). Why? This place was considered the “gates of hell,” the gateway to the realm of the dead, in Old Testament times.<sup>15</sup>
 >
->> The theological messaging couldn’t be more dramatic. Jesus says he will build his church—and the “gates of hell” will not prevail against it. We often think of this phrase as though God’s people are in a posture of having to bravely fend off Satan and his demons. This simply isn’t correct. Gates are defensive structures, not offensive weapons. The kingdom of God is the aggressor. <sup>16</sup> Jesus begins at ground zero in the cosmic geography of both testaments to announce the great reversal. It is the gates of hell that are under assault—and they will not hold up against the Church. Hell will one day be Satan’s tomb. (Heiser, 2015, pp. 284-5).
+>> The theological messaging couldn’t be more dramatic. Jesus says he will build his church—and the “gates of hell” will not prevail against it. We often think of this phrase as though God’s people are in a posture of having to bravely fend off Satan and his demons. This simply isn’t correct. Gates are defensive structures, not offensive weapons. The kingdom of God is the aggressor. <sup>16</sup> Jesus begins at ground zero in the cosmic geography of both testaments to announce the great reversal. It is the gates of hell that are under assault—and they will not hold up against the Church. Hell will one day be Satan’s tomb (Heiser, 2015, pp. 284-5).
 
 Consider this: Do your current beliefs have roots in every generation since the time of Christ, or can you trace them only to a specific historical period? If your beliefs cannot be linked to earlier generations, they may be false, lacking the historical foundation that the true Church has upheld since Christ's declaration.
 
@@ -145,6 +145,7 @@ I strongly advocate for, and highly recommend, prioritizing direct engagement wi
 - https://kjvparallelbible.org/ (textual criticism)
 - Systemless Biblical Language Scholars
   - Dr. Michael S. Heiser (PhD, University of Wisconsin-Madison)
+    - The Unseen Realm; Demons; Angels
   - Dr. Daniel B. Wallace (PhD, Dallas Theological Seminary)
     - Reinventing Jesus
 - Systemless Theologians
