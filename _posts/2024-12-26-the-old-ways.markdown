@@ -1,6 +1,6 @@
 ---
 title: "The Old Ways — The Ancient Paths"
-date: 2024-12-26 02:25:00 -0500
+date: 2024-12-26 02:30:00 -0500
 categories: [Declaration, Statement]
 tags: [religion, history, theology] # TAG names should always be lowercase
 author: grand_master
@@ -29,6 +29,10 @@ Apostolic Age Followers of “The Way” (ἡ ὁδός - hė hodós) c. AD 30 t
 The true Church has existed in every generation since the time of Christ, when He proclaimed, &ldquo;... upon this rock I will build my church, and all the powers of hell will not conquer it&rdquo; (New Living Translation, 2015, Matt. 16:18). Many generations have passed since Christ walked the earth over 20 centuries ago (2000+ years), but the truth has been with us since the very beginning.
 
 > <sup style="font-weight:bold;">18</sup> So I tell you, you are Peter <span style="color:LightSteelBlue;">[<sup>C</sup>the Greek petros, like the Aramaic cephas, means “rock” or “stone”]</span>. On this rock I will build my church, and the ·power of death <span style="color:LightSteelBlue;">[<sup>L</sup>gates of Hades/the underworld]</span> will not be able to ·defeat <span style="color:LightSteelBlue;">[overpower; conquer; prevail against]</span> it (Expanded Bible, 2011, Matt. 16:18).
+>
+>> The basis for Catholicism’s contention that the Church is built on Peter’s leadership is that his name means “stone.”<sup>14</sup> For sure there is wordplay going on in Peter’s confession, but I would suggest there is also an important double entendre: the “rock” refers to the mountain location where Jesus makes the statement. When viewed from this perspective, Peter confesses Jesus as the Christ, the Son of the living God, at “this rock” (this mountain—Mount Hermon). Why? This place was considered the “gates of hell,” the gateway to the realm of the dead, in Old Testament times.<sup>15</sup>
+>
+>> The theological messaging couldn’t be more dramatic. Jesus says he will build his church—and the “gates of hell” will not prevail against it. We often think of this phrase as though God’s people are in a posture of having to bravely fend off Satan and his demons. This simply isn’t correct. Gates are defensive structures, not offensive weapons. The kingdom of God is the aggressor. <sup>16</sup> Jesus begins at ground zero in the cosmic geography of both testaments to announce the great reversal. It is the gates of hell that are under assault—and they will not hold up against the Church. Hell will one day be Satan’s tomb. (Heiser, 2015, pp. 284-5).
 
 Consider this: Do your current beliefs have roots in every generation since the time of Christ, or can you trace them only to a specific historical period? If your beliefs cannot be linked to earlier generations, they may be false, lacking the historical foundation that the true Church has upheld since Christ's declaration.
 
