@@ -1,6 +1,6 @@
 ---
 title: "🧬 Protestants Dominate the Sciences"
-date: 2022-05-10 01:40:00 -0500
+date: 2022-05-10 01:45:00 -0500
 categories: [Science, Protestants]
 tags: [science, protestant, newton, leibniz, faraday, maxwell, tesla, einstein, gödel, planck, schrödinger] # TAG names should always be lowercase
 author: seven_shepherd
@@ -29,7 +29,7 @@ According to 100 Years of Nobel Prize (2005), a review of Nobel prizes awarded b
 
 <!-- (4 January 1643 to 31 March 1727) -->
 
-Isaac Newton stands as one of the most brilliant intellects in history, credited with achieving the First Great Unification in physics and independently developing Calculus alongside Gottfried Wilhelm Leibniz. His seminal work, Philosophiæ Naturalis Principia Mathematica, is regarded as one of the most significant contributions to the field of science. Additionally, Newton was a deeply devout Christian. Isaac Newton was raised in the Church of England, an Anglican denomination within the broader Protestant tradition.
+Isaac Newton stands as one of the most brilliant intellects in history, credited with achieving <span style="font-weight:bold;color:GoldenRod;">the First Great Unification in physics</span> and independently developing Calculus alongside Gottfried Wilhelm Leibniz. His seminal work, Philosophiæ Naturalis Principia Mathematica, is regarded as one of the most significant contributions to the field of science. Additionally, Newton was a deeply devout Christian. Isaac Newton was raised in the Church of England, an Anglican denomination within the broader Protestant tradition.
 
 <!-- Isaac Newton is one of the greatest minds the word has ever produced. responsible for the ***The First Great Unification in physics, and the invention of Calculus*** independently from Gottfried Wilhelm Leibniz. Philosophiæ Naturalis Principia Mathematica is considered one of the most important works in the history of science. Newton was a devout Christian. -->
 
@@ -64,7 +64,6 @@ The following are direct quotes from Sir Isaac Newton:
 <!-- Scholium Generale (1713; 1726) From The Mathematical Principles of Natural Philosophy (1729) as translated by Andrew Motte (1846) -->
 
 ## Gottfried Wilhelm Leibniz (1 July 1646 – 14 November 1716)
-<!-- 1 July 1646 to 14 November 1716 -->
 
 <!-- Created calculus independently from Newton and [autodidactically](https://en.wikipedia.org/wiki/List_of_autodidacts), and paved the way for Einstein’s theory of relativity. Einstein, who called himself a “Leibnizian” even wrote that Leibnizianism was superior to Newtonianism, and his ideas would have dominated over Newton’s had it not been for the poor technological tools of the time. -->
 
@@ -112,19 +111,20 @@ The following are direct quotes from Michael Faraday:
 > I cannot tell when I wrote you last. Of late years I have kept a note, but I suppose I have forgotten to note. Having no science to talk to you about, a motive, which was very strong in former times, is now wanting. But your last letter reminds me of another motive, which I hope is stronger than science with both of us, and that is the future life which lies before us. I am, I hope, very thankful that in the withdrawal of the powers and things of this life, the good hope is left with me, which makes the contemplation of death a comfort-not a fear. **Such peace is alone in the gift of God, and as it is He who gives it, why should we be afraid? His unspeakable gift in His beloved Son** is the ground of no doubtful hope, and there is the rest for those who (like you and me) are drawing near the latter end of our terms here below. I do not know, however, why I should join you with me in years. I forget your age. But this I know (and feel as well) that next Sabbath day (the 22nd) I shall complete my 70th year. I can hardly think myself so old as I write to you-so much of cheerful spirit, ease and general health is left to me, and if my memory fails, why it causes that I forget troubles as well as pleasure and the end is, I am happy and content (Faraday, 1999, p. 199).
 
 ## James Clerk Maxwell (13 June 1831 – 5 November 1879)
-<!-- 13 June 1831 to 5 November 1879 -->
 
-Physicist and mathematician, who is credited with formulating classical electromagnetic theory and whose contributions to science are considered to be of the same magnitude to those of Einstein and Newton. Maxwell was a devout Christian responsible for the ***The Second Great Unification in physics***. When Einstein was asked if he stood on the shoulders of Newton, he replied “No, on the shoulders of Maxwell”
+<!-- Physicist and mathematician, who is credited with formulating classical electromagnetic theory and whose contributions to science are considered to be of the **same magnitude to those of Einstein and Newton**. Maxwell was a devout Christian responsible for the <span style="font-weight:bold;color:GoldenRod;">The Second Great Unification in physics</span>. When Einstein was asked if he stood on the shoulders of Newton, he replied “No I don't. I stand on the shoulders of Maxwell” (Thompson, 2009, p. 103). -->
 
-> “I have looked into most philosophical systems and I have seen that none will work without God.”
->
-“Science is incompetent to reason upon the creation of matter itself out of nothing. We have reached the utmost limit of our thinking faculties when we have admitted that because matter cannot be eternal and self-existent it must have been created.”
+A luminary in the realms of physics and mathematics, is celebrated as the architect of classical electromagnetic theory, his groundbreaking contributions to science revered as monumental, **rivaling the legacies of titans such as Einstein and Newton**. A devout Christian, Maxwell is often hailed as a pivotal figure in <span style="font-weight:bold;color:GoldenRod;">the Second Great Unification of physics</span>, a testament to his profound influence on the field. When asked whether he stood on the shoulders of Newton, Einstein replied, “No I don't. I stand on the shoulders of Maxwell” (Thompson, 2009, p. 103).
 
-> "Man's chief end is to glorify God and to enjoy him for ever." &mdash; Quotations from The Life of James Clerk Maxwell (1882) by Lewis Campbell and William Garnett
+> I have looked into most philosophical systems and I have seen that none will work without God (Maxwell, 2011, p. 376).
+
+> Science is incompetent to reason upon the creation of matter itself out of nothing. We have reached the utmost limit of our thinking faculties when we have admitted that because matter cannot be eternal and self-existent it must have been created (Maxwell, 2011, p. 376).
+
+> Man's chief end is to glorify God and to enjoy him for ever (Campbell et al., 2020)
 
 > I think men of science as well as other men need to learn from Christ, and I think Christians whose minds are scientific are bound to study science that their view of the glory of God may be as extensive as their being is capable. &mdash; Draft of a reply to an invitation to join the Victoria Institute (1875), in Ch. 12 : Cambridge 1871 To 1879, p. 404
 
-> ... I have the capacity of being more wicked than any example that man could set me, and ... if I escape, it is only by God's grace helping me to get rid of myself, partially in science, more completely in society, —but not perfectly except by committing myself to God ...&mdash; Letter to Rev. C. B. Tayler ( 8 July 1853) in Ch. 6 : Undergraduate Life At Cambridge October 1850 to January 1854 — ÆT. 19-22, p. 189
+> ... I have the capacity of being more wicked than any example that man could set me, and ... if I escape, it is only by God's grace helping me to get rid of myself, partially in science, more completely in society, —but not perfectly except by committing myself to God ... &mdash; Letter to Rev. C. B. Tayler ( 8 July 1853) in Ch. 6 : Undergraduate Life At Cambridge October 1850 to January 1854 — ÆT. 19-22, p. 189
 
 > Christianity—that is, the religion of the Bible—is the only scheme or form of belief which disavows any possessions on such a tenure. Here alone all is free. You may fly to the ends of the world and find no God but the Author of Salvation. You may search the Scriptures and not find a text to stop you in your explorations. ... &mdash; "James Clerk Maxwell and the Christian Proposition". MIT IAP Seminar. Archived from the original on 25 October 2014. Retrieved 13 October 2014.
 
@@ -321,6 +321,8 @@ Amazon. (n.d.). *About the author*. https://www.amazon.com/stores/author/B001KCG
 
 Baggot, J. (1991, September 21). *The myth of Michael Faraday: Michael Faraday was not just one of Britain's greatest experimenters. A closer look at the man and his work reveals that he was also a clever theoretician*. New Scientist, (1787). https://www.newscientist.com/article/mg13117874-600-the-myth-of-michael-faraday-michael-faraday-was-not-just-one-of-britains-greatest-experimenters-a-closer-look-at-the-man-and-his-work-reveals-that-he-was-also-a-clever-theoretician/
 
+Campbell, L., Garnett, W., & Rautio, J. C. (2020). The life of James Clerk Maxwell (Illustrated ed.). Independently published. (Original work published 1882)
+
 Faraday, M. (1859). *Experimental researches in chemistry and physics*. Richard Taylor and William Francis.
 
 Faraday, M. (1999). *The philosopher's tree: A selection of Michael Faraday's writings* (P. Day, Ed.). Institute of Physics Publishing.
@@ -337,7 +339,9 @@ Leibniz, G. W. (1993). *Discours de métaphysique et correspondance avec Arnauld
 
 Leibniz, G. W. (2007). *Theodicy: Essays on the goodness of God, the freedom of man and the origin of evil* (A. Farrer, Ed.; E. M. Huggard, Trans.). BiblioBazaar. (Original work published 1710)
 
-Newton, I. (1934). Mathematical principles of natural philosophy and his system of the world (A. Motte, Trans.). University of California Press. (Original work published 1686)
+Maxwell, J. C. (2011). *The scientific papers of James Clerk Maxwell* (W. D. Niven, Ed.). Cambridge University Press.
+
+Newton, I. (1934). *Mathematical principles of natural philosophy and his system of the world* (A. Motte, Trans.). University of California Press. (Original work published 1686)
 
 <!-- Homer. (2018). The odyssey (E. Wilson, Trans.). W. W. Norton & Company. (Original work published ca. 725–675 B.C.E.) -->
 
@@ -346,6 +350,8 @@ Shalev, B. A. (2002). *100 years of nobel prizes* (2nd ed.). Americas Group.
 Strickland, L. (2006). *The shorter Leibniz texts: A collection of new translations* (Illustrated ed.). Bloomsbury Academic.
 
 Strickland, L. (2014). *Leibniz’s Monadology: A new translation and guide* (Originally published in 1714). Edinburgh University Press.
+
+Thompson, M. S. (2009). *The Fire l' the Flint*. Four Courts.
 
 <!-- WIRED. (2021, July 29). *Dr. Michio Kaku answers physics questions from Twitter* [Video]. YouTube. https://youtu.be/bUmULlGACEI?t=430 -->
 
