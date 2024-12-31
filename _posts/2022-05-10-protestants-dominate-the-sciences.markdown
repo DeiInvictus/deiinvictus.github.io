@@ -1,6 +1,6 @@
 ---
 title: "🧬 Protestants Dominate the Sciences"
-date: 2022-05-10 02:25:00 -0500
+date: 2022-05-10 02:30:00 -0500
 categories: [Science, Protestants]
 tags: [science, protestant, newton, leibniz, faraday, maxwell, tesla, einstein, gödel, planck, schrödinger] # TAG names should always be lowercase
 author: seven_shepherd
@@ -151,6 +151,8 @@ A luminary in the realms of physics and mathematics, is celebrated as the archit
 ## Nikola Tesla (10 July 1856 – 7 January 1943)
 
 ![Portrait of Tesla](/assets/images/science/Tesla%20(c.1890).jpeg)
+
+<sup>Sarony, N. (c. 1890). *Nikola Tesla at age 34* [Photograph]. Tesla Museum, Belgrade, Serbia. https://radiographics.rsna.org</sup>
 
 The inventor and futurist scientist known for numerous inventions, but best known for his contributions to the design of the modern alternating current (AC) electrical supply system. Tesla was the winner of: Edison Medal (1916); Elliott Cresson Medal (1894); John Scott Medal (1934). Tesla was of Eastern Orthodoxy.
 
