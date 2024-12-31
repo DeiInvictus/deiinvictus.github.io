@@ -1,12 +1,12 @@
 ---
 title: "🧬 Protestants Dominate the Sciences"
-date: 2022-05-10 02:10:00 -0500
+date: 2022-05-10 02:20:00 -0500
 categories: [Science, Protestants]
 tags: [science, protestant, newton, leibniz, faraday, maxwell, tesla, einstein, gödel, planck, schrödinger] # TAG names should always be lowercase
 author: seven_shepherd
 published: true
 comments: false
-pin: false
+pin: True
 ---
 
 <!-- <style>
@@ -30,6 +30,8 @@ In a profound analysis by Baruch Shalev, it is revealed that between 1901 and 20
 ## Sir Isaac Newton (25 December 1642 – 20 March 1726/27)
 
 ![Portrait of Newton (1689)](/assets/images/science/Newton%20(1689).jpg)
+
+<sup>Kneller, G. (1689). *Porträt des Isaac Newton* [Painting]. Isaac Newton Institute.</sup>
 
 <!-- (4 January 1643 to 31 March 1727) -->
 
@@ -71,6 +73,8 @@ The following are direct quotes from Sir Isaac Newton:
 
 ![Portrait of Leibniz](/assets/images/science/Leibniz%20(ca.1695).jpg)
 
+<sup>Francke, C. B. (1695). *Bildnis des Philosophen Gottfried Wilhelm Freiherr von Leibniz* [Painting]. Herzog Anton Ulrich Museum.</sup>
+
 <!-- Created calculus independently from Newton and [autodidactically](https://en.wikipedia.org/wiki/List_of_autodidacts), and paved the way for Einstein’s theory of relativity. Einstein, who called himself a “Leibnizian” even wrote that Leibnizianism was superior to Newtonianism, and his ideas would have dominated over Newton’s had it not been for the poor technological tools of the time. -->
 
 Leibniz developed calculus independently of Newton through self-directed study ([autodidactically](https://en.wikipedia.org/wiki/List_of_autodidacts)), paving the way for Einstein's theory of relativity. Einstein, who referred to himself as a "Leibnizian," wrote that Leibnizianism was superior to Newtonianism, asserting that Leibniz's ideas would have dominated over Newton's had it not been for the technological limitations of the time. Leibniz was a Protestant and Trinitarian. Leibniz devoted considerable intellectual and diplomatic effort to what would now be called an ecumenical endeavor, seeking to reconcile the Roman Catholic and Lutheran churches.
@@ -105,6 +109,8 @@ The following are direct quotes from Gottfried Wilhelm Leibniz: -->
 
 ![Portrait of Faraday](/assets/images/science/Faraday%20(1842).jpg)
 
+<sup>Phillips, T. (1842). *Michael Faraday* [Painting]. National Portrait Gallery.</sup>
+
 The greatest self-taught experimental physicist, and one of the most influential scientists in history. Albert Einstein kept a picture of Michael Faraday on his study wall, alongside pictures of Isaac Newton and James Clerk Maxwell at his apartment in Berlin, Germany.
 
 > Faraday found no conflict between his religious beliefs and his activities as a scientist and philosopher. He viewed his discoveries of nature's laws as part of the continual process of "reading the book of nature", no different in principle from the process of reading the Bible to discover God's laws. A strong sense of the unity of God and nature pervaded Faraday's life and work (Baggot, 1991).
@@ -121,9 +127,11 @@ The following are direct quotes from Michael Faraday:
 
 ![Portrait of Maxwell](/assets/images/science/Maxwell%20(1875).webp)
 
+<sup>Bianchetti, S. (1875). *Portrait of James Clerk Maxwell* [Photograph]. Corbis Historical.</sup>
+
 <!-- Physicist and mathematician, who is credited with formulating classical electromagnetic theory and whose contributions to science are considered to be of the **same magnitude to those of Einstein and Newton**. Maxwell was a devout Christian responsible for the <span style="font-weight:bold;color:GoldenRod;">The Second Great Unification in physics</span>. When Einstein was asked if he stood on the shoulders of Newton, he replied “No I don't. I stand on the shoulders of Maxwell” (Thompson, 2009, p. 103). -->
 
-A luminary in the realms of physics and mathematics, is celebrated as the architect of classical electromagnetic theory, his groundbreaking contributions to science revered as monumental, **rivaling the legacies of titans such as Einstein and Newton**. A devout Christian, Maxwell is often hailed as a pivotal figure in <span style="font-weight:bold;color:GoldenRod;">the Second Great Unification of physics</span>, a testament to his profound influence on the field. When asked whether he stood on the shoulders of Newton, Einstein replied, “No I don't. I stand on the shoulders of Maxwell” (Thompson, 2009, p. 103).
+A luminary in the realms of physics and mathematics, is celebrated as the architect of classical electromagnetic theory, his groundbreaking contributions to science revered as monumental, **rivaling the legacies of titans such as Einstein and Newton**. A devout Christian, Maxwell is often hailed as a pivotal figure in <span style="font-weight:bold;color:GoldenRod;">the Second Great Unification of physics</span>, a testament to his profound influence on the field. When asked whether he stood on the shoulders of Newton, Einstein replied, “No I don't. I stand on the shoulders of Maxwell” (Thompson, 2009, p. 103). Maxwell was an evangelical Presbyterian and in his later years became an Elder of the Church of Scotland. Maxwell was an evangelical Presbyterian and, in his later years, ascended to the position of Elder within the Church of Scotland.
 
 > I have looked into most philosophical systems and I have seen that none will work without God (Maxwell, 2011, p. 376).
 
@@ -140,12 +148,21 @@ A luminary in the realms of physics and mathematics, is celebrated as the archit
 > "I have been thinking how very gently I have always been dealt with. I have never had a violent shove all my life. The only desire which I can have is like David to serve my own generation by the will of God, and then fall asleep." &mdash; As death approached Maxwell told a Cambridge colleague, "James Clerk Maxwell and the Christian Proposition". MIT IAP Seminar. Archived from the original on 25 October 2014. Retrieved 13 October 2014.
 
 
-## Nikola Tesla
-<!-- 10 July 1856 to 7 January 1943 -->
+## Nikola Tesla (10 July 1856 – 7 January 1943)
 
-The inventor and futurist scientist known for numerous inventions, but best known for his contributions to the design of the modern alternating current (AC) electrical supply system. Tesla was the winner of: Edison Medal (1916); Elliott Cresson Medal (1894); John Scott Medal (1934)
+![Portrait of Tesla](/assets/images/science/Tesla%20(c.1890).jpeg)
+
+The inventor and futurist scientist known for numerous inventions, but best known for his contributions to the design of the modern alternating current (AC) electrical supply system. Tesla was the winner of: Edison Medal (1916); Elliott Cresson Medal (1894); John Scott Medal (1934). Tesla was of Eastern Orthodoxy.
 
 > “The gift of mental power comes from God, Divine Being, and if we concentrate our minds on that truth, we become in tune with this great power.”
+
+
+My Inventions (1919)
+"My Inventions" first published in Electrical Experimenter magazine (1919); republished as My Inventions : The Autobiography of Nikola Tesla (1983)
+
+Chapter 5 : The Influences That Shape Our Destiny
+
+The gift of mental power comes from God, Divine Being, and if we concentrate our minds on that truth, we become in tune with this great power. My Mother had taught me to seek all truth in the Bible.
 
 ## Albert Einstein
 <!-- 14 March 1879 to 18 April 1955 -->
