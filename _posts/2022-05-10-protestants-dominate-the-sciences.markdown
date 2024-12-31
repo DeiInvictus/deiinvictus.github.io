@@ -1,6 +1,6 @@
 ---
 title: "🧬 Protestants Dominate the Sciences"
-date: 2022-05-10 02:30:00 -0500
+date: 2022-05-10 02:35:00 -0500
 categories: [Science, Protestants]
 tags: [science, protestant, newton, leibniz, faraday, maxwell, tesla, einstein, gödel, planck, schrödinger] # TAG names should always be lowercase
 author: seven_shepherd
@@ -158,7 +158,6 @@ The inventor and futurist scientist known for numerous inventions, but best know
 
 > “The gift of mental power comes from God, Divine Being, and if we concentrate our minds on that truth, we become in tune with this great power.”
 
-
 My Inventions (1919)
 "My Inventions" first published in Electrical Experimenter magazine (1919); republished as My Inventions : The Autobiography of Nikola Tesla (1983)
 
@@ -166,10 +165,15 @@ Chapter 5 : The Influences That Shape Our Destiny
 
 The gift of mental power comes from God, Divine Being, and if we concentrate our minds on that truth, we become in tune with this great power. My Mother had taught me to seek all truth in the Bible.
 
-## Albert Einstein
-<!-- 14 March 1879 to 18 April 1955 -->
+## Albert Einstein (14 March 1879 – 18 April 1955)
 
-Einstein’s theory of general relativity comprises the finalization of Newton’s assumption of gravitation and further encompasses Mach’s vision of the relativity of all motion; his theory of special relativity incorporates the finalization of the work of Maxwell and Lorentz. While Einstein didn't believe in a personal God, he did believe in a God. Einstein (called himself a “Leibnizian,” and was also a Spinozist)
+![Portrait of Einstein](/assets/images/science/Einstein%20(1947).webp)
+
+<sup>Halsman, P. (1947). *Albert Einstein* [Silver gelatin print photograph]. Princeton, NJ.</sup>
+
+<!-- <sup>Schmutzer, F. (1921). Albert Einstein during a lecture in Vienna [Photograph]. National Library of Austria. http://www.bhm.ch/de/news_04a.cfm?bid=4&jahr=2006</sup> -->
+
+Einstein’s theory of general relativity comprises the finalization of Newton’s assumption of gravitation and further encompasses Mach’s vision of the relativity of all motion; his theory of special relativity incorporates the finalization of the work of Maxwell and Lorentz. **While Einstein didn't believe in a personal God, he did believe in a God.** Einstein (called himself a “Leibnizian,” and was also a Spinozist)
 
 > "The more I study science, the more I believe in God."
 >
