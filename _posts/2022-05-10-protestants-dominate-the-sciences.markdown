@@ -1,6 +1,6 @@
 ---
 title: "🧬 Protestants Dominate the Sciences"
-date: 2022-05-10 01:35:00 -0500
+date: 2022-05-10 01:40:00 -0500
 categories: [Science, Protestants]
 tags: [science, protestant, newton, leibniz, faraday, maxwell, tesla, einstein, gödel, planck, schrödinger] # TAG names should always be lowercase
 author: seven_shepherd
@@ -97,18 +97,21 @@ The following are direct quotes from Gottfried Wilhelm Leibniz: -->
 <!-- Leibniz famously tried to show that ours is the best of all possible worlds (see also Monadologie (53 & 54) below and compare Maimonides from Guide for the Perplexed (c. 1190), "Whatever is formed of matter receives the most perfect form possible in that species of matter.") These attempts were mercilessly parodied in Voltaire's Candide. Quotations from Voltaire's novel are often mistakenly attributed to Leibniz. Other statements by Leibniz upon the subject include these: -->
 
 
-## Michael Faraday
-<!-- 22 September 1791 to 25 August 1867 -->
+## Michael Faraday (22 September 1791 – 25 August 1867)
 
 The greatest self-taught experimental physicist, and one of the most influential scientists in history. Albert Einstein kept a picture of Michael Faraday on his study wall, alongside pictures of Isaac Newton and James Clerk Maxwell at his apartment in Berlin, Germany.
 
-> The book of nature which we have to read is written by the finger of God. — Michael Faraday
+> Faraday found no conflict between his religious beliefs and his activities as a scientist and philosopher. He viewed his discoveries of nature's laws as part of the continual process of "reading the book of nature", no different in principle from the process of reading the Bible to discover God's laws. A strong sense of the unity of God and nature pervaded Faraday's life and work (Baggot, 1991).
 
-> Since peace is alone in the gift of God; and since it is He who gives it, why should we be afraid? His unspeakable gift in His beloved Son is the ground of no doubtful hope. — Michael Faraday
+The following are direct quotes from Michael Faraday:
 
-> "Faraday found no conflict between his religious beliefs and his activities as a scientist and philosopher. He viewed his discoveries of nature's laws as part of the continual process of "reading the book of nature", no different in principle from the process of reading the Bible to discover God's laws. A strong sense of the unity of God and nature pervaded Faraday's life and work." &mdash; Jim Baggot, in "The myth of Michael Faraday: Michael Faraday was not just one of Britain's greatest experimenters. A closer look at the man and his work reveals that he was also a clever theoretician" in New Scientist No. 1787 (21 September 1991)
+> **The book of nature which we have to read is written by the finger of God** (Faraday, 1859, p. 471).
 
-## James Clerk Maxwell
+> To his old friend Auguste de la Rive, Professor of Physics at Geneva University, and a correspondent for 30 years, Faraday’s religious faith came most strongly to the surface: hope for a life to come comforted his final years:
+>
+> I cannot tell when I wrote you last. Of late years I have kept a note, but I suppose I have forgotten to note. Having no science to talk to you about, a motive, which was very strong in former times, is now wanting. But your last letter reminds me of another motive, which I hope is stronger than science with both of us, and that is the future life which lies before us. I am, I hope, very thankful that in the withdrawal of the powers and things of this life, the good hope is left with me, which makes the contemplation of death a comfort-not a fear. **Such peace is alone in the gift of God, and as it is He who gives it, why should we be afraid? His unspeakable gift in His beloved Son** is the ground of no doubtful hope, and there is the rest for those who (like you and me) are drawing near the latter end of our terms here below. I do not know, however, why I should join you with me in years. I forget your age. But this I know (and feel as well) that next Sabbath day (the 22nd) I shall complete my 70th year. I can hardly think myself so old as I write to you-so much of cheerful spirit, ease and general health is left to me, and if my memory fails, why it causes that I forget troubles as well as pleasure and the end is, I am happy and content (Faraday, 1999, p. 199).
+
+## James Clerk Maxwell (13 June 1831 – 5 November 1879)
 <!-- 13 June 1831 to 5 November 1879 -->
 
 Physicist and mathematician, who is credited with formulating classical electromagnetic theory and whose contributions to science are considered to be of the same magnitude to those of Einstein and Newton. Maxwell was a devout Christian responsible for the ***The Second Great Unification in physics***. When Einstein was asked if he stood on the shoulders of Newton, he replied “No, on the shoulders of Maxwell”
@@ -316,6 +319,12 @@ who won the 1923 Nobel Prize in Physics for his work on the elementary charge of
 
 Amazon. (n.d.). *About the author*. https://www.amazon.com/stores/author/B001KCGGRI/about?ingress=0&visitId=fd988831-ce13-4a84-915c-0cca0180d37d&ref_=sr_ntt_srch_lnk_4
 
+Baggot, J. (1991, September 21). *The myth of Michael Faraday: Michael Faraday was not just one of Britain's greatest experimenters. A closer look at the man and his work reveals that he was also a clever theoretician*. New Scientist, (1787). https://www.newscientist.com/article/mg13117874-600-the-myth-of-michael-faraday-michael-faraday-was-not-just-one-of-britains-greatest-experimenters-a-closer-look-at-the-man-and-his-work-reveals-that-he-was-also-a-clever-theoretician/
+
+Faraday, M. (1859). *Experimental researches in chemistry and physics*. Richard Taylor and William Francis.
+
+Faraday, M. (1999). *The philosopher's tree: A selection of Michael Faraday's writings* (P. Day, Ed.). Institute of Physics Publishing.
+
 <!-- Kaku, M. (2021, July 29). *Dr. Michio Kaku answers physics questions from Twitter*. [Video]. WIRED. https://youtu.be/bUmULlGACEI?t=430 -->
 
 Jean, R. V., & Barabé, D. (1998). Symmetry in plants. World Scientific Pub Co Inc.
@@ -334,7 +343,7 @@ Newton, I. (1934). Mathematical principles of natural philosophy and his system 
 
 Shalev, B. A. (2002). *100 years of nobel prizes* (2nd ed.). Americas Group.
 
-Strickland, L. (Ed.). (2006). *The shorter Leibniz texts: A collection of new translations* (Illustrated ed.). Bloomsbury Academic.
+Strickland, L. (2006). *The shorter Leibniz texts: A collection of new translations* (Illustrated ed.). Bloomsbury Academic.
 
 Strickland, L. (2014). *Leibniz’s Monadology: A new translation and guide* (Originally published in 1714). Edinburgh University Press.
 
