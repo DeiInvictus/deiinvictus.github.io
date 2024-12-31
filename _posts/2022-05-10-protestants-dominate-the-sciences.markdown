@@ -1,6 +1,6 @@
 ---
 title: "🧬 Protestants Dominate the Sciences"
-date: 2022-05-10 02:35:00 -0500
+date: 2022-05-10 02:45:00 -0500
 categories: [Science, Protestants]
 tags: [science, protestant, newton, leibniz, faraday, maxwell, tesla, einstein, gödel, planck, schrödinger] # TAG names should always be lowercase
 author: seven_shepherd
@@ -189,8 +189,11 @@ Einstein’s theory of general relativity comprises the finalization of Newton�
 >
 “In view of such harmony in the cosmos which I, with my limited human mind, am able to recognize, there are yet people who say there is no God. But what really makes me angry is that they quote me for the support of such views.” (Clark, Ronald W. (1971). Einstein: The Life and Times. New York: World Publishing Company)
 
-## Kurt Friedrich Gödel
-<!-- April 28, 1906 to January 14, 1978 -->
+## Kurt Friedrich Gödel (April 28, 1906 – January 14, 1978)
+
+![Gödel Kurt Gödel (left) and Albert Einstein in Princeton, New Jersey, in (1950).](/assets/images/science/Gödel%20Kurt%20Gödel%20(left)%20and%20Albert%20Einstein%20in%20Princeton,%20New%20Jersey,%20in%20(1950)..webp)
+
+<sup>Author Unknown. (1950). *Kurt Gödel and Albert Einstein in Princeton, New Jersey* [Photograph].</sup>
 
 The Greatest Logician & Analytic Philosopher, Kurt Gödel’s astonishing discovery and proof, published in 1931, that even in elementary parts of arithmetic there exist propositions which cannot be proved or disproved within the system, is one of the most important contributions to logic since Aristotle. Gödel was a Christian. He believed that God was personal, and called his philosophy "rationalistic, idealistic, optimistic, and theological"
 
@@ -201,6 +204,10 @@ The Greatest Logician & Analytic Philosopher, Kurt Gödel’s astonishing discov
 > In an unmailed answer to a questionnaire, Gödel described his religion as "baptized Lutheran (but not member of any religious congregation). My belief is theistic, not pantheistic, following Leibniz rather than Spinoza." Of religion(s) in general, he said: "Religions are, for the most part, bad—but religion is not". According to his wife Adele, "Gödel, although he did not go to church, was religious and read the Bible in bed every Sunday morning".
 
 ## Max Planck
+
+![Portrait of Max Planck](/assets/images/science/Max%20Planck%20(c.%201930).webp)
+
+<sup>Unknown author. (circa 1930). *Max Planck* [Photograph]. Transocean Berlin. https://library.si.edu/image-gallery/73553</sup>
 
 The Nobel Prize winning physicist who made the crucial scientific contribution of founding quantum physics. Planck was a Christian and a member of the Lutheran Church in Germany.
 
