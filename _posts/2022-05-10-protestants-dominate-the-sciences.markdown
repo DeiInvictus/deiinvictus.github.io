@@ -1,6 +1,6 @@
 ---
 title: "🧬 Protestants Dominate the Sciences"
-date: 2022-05-10 02:00:00 -0500
+date: 2022-05-10 02:10:00 -0500
 categories: [Science, Protestants]
 tags: [science, protestant, newton, leibniz, faraday, maxwell, tesla, einstein, gödel, planck, schrödinger] # TAG names should always be lowercase
 author: seven_shepherd
@@ -28,6 +28,8 @@ In a profound analysis by Baruch Shalev, it is revealed that between 1901 and 20
 > <small>1. Baruch Aba Shalev is a geneticist headquartered in Israel. He earned his Bachelor of Science degree from the Hebrew University of Jerusalem, and his Masters from the University of California, Davis. His Ph.D. in genetics was awarded by the University of Reading in the United Kingdom (Amazon, n.d., "About the author" section).</small>
 
 ## Sir Isaac Newton (25 December 1642 – 20 March 1726/27)
+
+![Portrait of Newton (1689)](/assets/images/science/Newton%20(1689).jpg)
 
 <!-- (4 January 1643 to 31 March 1727) -->
 
@@ -67,6 +69,8 @@ The following are direct quotes from Sir Isaac Newton:
 
 ## Gottfried Wilhelm Leibniz (1 July 1646 – 14 November 1716)
 
+![Portrait of Leibniz](/assets/images/science/Leibniz%20(ca.1695).jpg)
+
 <!-- Created calculus independently from Newton and [autodidactically](https://en.wikipedia.org/wiki/List_of_autodidacts), and paved the way for Einstein’s theory of relativity. Einstein, who called himself a “Leibnizian” even wrote that Leibnizianism was superior to Newtonianism, and his ideas would have dominated over Newton’s had it not been for the poor technological tools of the time. -->
 
 Leibniz developed calculus independently of Newton through self-directed study ([autodidactically](https://en.wikipedia.org/wiki/List_of_autodidacts)), paving the way for Einstein's theory of relativity. Einstein, who referred to himself as a "Leibnizian," wrote that Leibnizianism was superior to Newtonianism, asserting that Leibniz's ideas would have dominated over Newton's had it not been for the technological limitations of the time. Leibniz was a Protestant and Trinitarian. Leibniz devoted considerable intellectual and diplomatic effort to what would now be called an ecumenical endeavor, seeking to reconcile the Roman Catholic and Lutheran churches.
@@ -97,8 +101,9 @@ The following are direct quotes from Gottfried Wilhelm Leibniz: -->
 
 <!-- Leibniz famously tried to show that ours is the best of all possible worlds (see also Monadologie (53 & 54) below and compare Maimonides from Guide for the Perplexed (c. 1190), "Whatever is formed of matter receives the most perfect form possible in that species of matter.") These attempts were mercilessly parodied in Voltaire's Candide. Quotations from Voltaire's novel are often mistakenly attributed to Leibniz. Other statements by Leibniz upon the subject include these: -->
 
-
 ## Michael Faraday (22 September 1791 – 25 August 1867)
+
+![Portrait of Faraday](/assets/images/science/Faraday%20(1842).jpg)
 
 The greatest self-taught experimental physicist, and one of the most influential scientists in history. Albert Einstein kept a picture of Michael Faraday on his study wall, alongside pictures of Isaac Newton and James Clerk Maxwell at his apartment in Berlin, Germany.
 
@@ -113,6 +118,8 @@ The following are direct quotes from Michael Faraday:
 > I cannot tell when I wrote you last. Of late years I have kept a note, but I suppose I have forgotten to note. Having no science to talk to you about, a motive, which was very strong in former times, is now wanting. But your last letter reminds me of another motive, which I hope is stronger than science with both of us, and that is the future life which lies before us. I am, I hope, very thankful that in the withdrawal of the powers and things of this life, the good hope is left with me, which makes the contemplation of death a comfort-not a fear. **Such peace is alone in the gift of God, and as it is He who gives it, why should we be afraid? His unspeakable gift in His beloved Son** is the ground of no doubtful hope, and there is the rest for those who (like you and me) are drawing near the latter end of our terms here below. I do not know, however, why I should join you with me in years. I forget your age. But this I know (and feel as well) that next Sabbath day (the 22nd) I shall complete my 70th year. I can hardly think myself so old as I write to you-so much of cheerful spirit, ease and general health is left to me, and if my memory fails, why it causes that I forget troubles as well as pleasure and the end is, I am happy and content (Faraday, 1999, p. 199).
 
 ## James Clerk Maxwell (13 June 1831 – 5 November 1879)
+
+![Portrait of Maxwell](/assets/images/science/Maxwell%20(1875).webp)
 
 <!-- Physicist and mathematician, who is credited with formulating classical electromagnetic theory and whose contributions to science are considered to be of the **same magnitude to those of Einstein and Newton**. Maxwell was a devout Christian responsible for the <span style="font-weight:bold;color:GoldenRod;">The Second Great Unification in physics</span>. When Einstein was asked if he stood on the shoulders of Newton, he replied “No I don't. I stand on the shoulders of Maxwell” (Thompson, 2009, p. 103). -->
 
