@@ -1,6 +1,6 @@
 ---
 title: "🧬 Protestants Dominate the Sciences"
-date: 2022-05-10 01:45:00 -0500
+date: 2022-05-10 02:00:00 -0500
 categories: [Science, Protestants]
 tags: [science, protestant, newton, leibniz, faraday, maxwell, tesla, einstein, gödel, planck, schrödinger] # TAG names should always be lowercase
 author: seven_shepherd
@@ -19,7 +19,9 @@ I am meticulously and gradually organizing this information to ensure it is form
 
 ![christians-dominate-the-sciences.png](/assets/images/science/christians-dominate-the-sciences.png)
 
-According to 100 Years of Nobel Prize (2005), a review of Nobel prizes awarded between 1901 and 2000, 65.4% of Nobel Prize Laureates have identified Christianity as their religious preference (427 prizes). Overall, Christians have won a total of 78.3% of all the Nobel Prizes in Peace, 72.5% in Chemistry, 65.3% in Physics, 62% in Medicine, 54% in Economics.
+<!-- According to 100 Years of Nobel Prize (2005), a review of Nobel prizes awarded between 1901 and 2000, 65.4% of Nobel Prize Laureates have identified Christianity as their religious preference (427 prizes). Overall, Christians have won a total of 78.3% of all the Nobel Prizes in Peace, 72.5% in Chemistry, 65.3% in Physics, 62% in Medicine, 54% in Economics. -->
+
+In a profound analysis by Baruch Shalev, it is revealed that between 1901 and 2000, an astonishing 65.4% of Nobel Prize laureates were either Christians or hailed from a Christian background, illuminating the indelible influence of Christian thought on the pinnacle of human achievement. Among these luminaries, an extraordinary 78.3% of Nobel laureates in Peace, 72.5% in Chemistry, 65.3% in Physics, 62% in Medicine, 54% in Economics, and 49.5% in Literature proudly identified as Christians or possessed Christian roots. This remarkable representation not only underscores the monumental contributions of these intellectual titans but also celebrates their pivotal role in shaping the course of human progress and enlightenment.
 
 > A review of the Nobel awards between 1901 and 2000 reveals that 654 Laureates belong to 28 different religions. Most (65.4%) have identified Christianity in its various forms as their religious preference. While separating Roman Catholic from Protestants among Christians proved difficult in some cases, available information suggests that **more Protestants were involved in the scientific categories** and more Catholics were involved in the Literature and Peace categories (Shalev, 2001/2002, p. 57).<sup>1</sup>
 
