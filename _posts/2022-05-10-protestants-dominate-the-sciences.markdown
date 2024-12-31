@@ -1,6 +1,6 @@
 ---
 title: "🧬 Protestants Dominate the Sciences"
-date: 2022-05-10 02:45:00 -0500
+date: 2022-05-10 03:00:00 -0500
 categories: [Science, Protestants]
 tags: [science, protestant, newton, leibniz, faraday, maxwell, tesla, einstein, gödel, planck, schrödinger] # TAG names should always be lowercase
 author: seven_shepherd
@@ -191,7 +191,7 @@ Einstein’s theory of general relativity comprises the finalization of Newton�
 
 ## Kurt Friedrich Gödel (April 28, 1906 – January 14, 1978)
 
-![Gödel Kurt Gödel (left) and Albert Einstein in Princeton, New Jersey, in (1950).](/assets/images/science/Gödel%20Kurt%20Gödel%20(left)%20and%20Albert%20Einstein%20in%20Princeton,%20New%20Jersey,%20in%20(1950)..webp)
+![Gödel Kurt Gödel (left) and Albert Einstein in Princeton, New Jersey, in (1950).](/assets/images/science/Gödel%20(1950).webp)
 
 <sup>Author Unknown. (1950). *Kurt Gödel and Albert Einstein in Princeton, New Jersey* [Photograph].</sup>
 
