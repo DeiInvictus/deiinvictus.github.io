@@ -1,6 +1,6 @@
 ---
 title: "🧬 Protestants Dominate the Sciences"
-date: 2022-05-10 01:30:00 -0500
+date: 2022-05-10 01:35:00 -0500
 categories: [Science, Protestants]
 tags: [science, protestant, newton, leibniz, faraday, maxwell, tesla, einstein, gödel, planck, schrödinger] # TAG names should always be lowercase
 author: seven_shepherd
@@ -19,7 +19,7 @@ I am meticulously and gradually organizing this information to ensure it is form
 
 ![christians-dominate-the-sciences.png](/assets/images/science/christians-dominate-the-sciences.png)
 
-According to 100 Years of Nobel Prize (2005), a review of Nobel prizes awarded between 1901 and 2000, 65.4% of Nobel Prize Laureates have identified Christianity as their religious preference (427 prizes). Overall, Christians have won a total of 78.3% of all the Nobel Prizes in Peace, 72.5% in Chemistry, 65.3% in Physics, 62% in Medicine.
+According to 100 Years of Nobel Prize (2005), a review of Nobel prizes awarded between 1901 and 2000, 65.4% of Nobel Prize Laureates have identified Christianity as their religious preference (427 prizes). Overall, Christians have won a total of 78.3% of all the Nobel Prizes in Peace, 72.5% in Chemistry, 65.3% in Physics, 62% in Medicine, 54% in Economics.
 
 > A review of the Nobel awards between 1901 and 2000 reveals that 654 Laureates belong to 28 different religions. Most (65.4%) have identified Christianity in its various forms as their religious preference. While separating Roman Catholic from Protestants among Christians proved difficult in some cases, available information suggests that **more Protestants were involved in the scientific categories** and more Catholics were involved in the Literature and Peace categories (Shalev, 2001/2002, p. 57).<sup>1</sup>
 
@@ -34,7 +34,6 @@ Isaac Newton stands as one of the most brilliant intellects in history, credited
 <!-- Isaac Newton is one of the greatest minds the word has ever produced. responsible for the ***The First Great Unification in physics, and the invention of Calculus*** independently from Gottfried Wilhelm Leibniz. Philosophiæ Naturalis Principia Mathematica is considered one of the most important works in the history of science. Newton was a devout Christian. -->
 
 <!-- [The greatest scientific mind the world has ever produced](https://youtu.be/bUmULlGACEI?t=430), responsible for the ***The First Great Unification in physics, and the invention of Calculus*** independently from Gottfried Wilhelm Leibniz. -->
-
 
 > "My favorite physicist is Isaac Newton. ... one of the greatest minds in history ... Einstein is way up there. So is Richard Feynman. But, **Isaac Newton tops them all**" (Kaku, 2021, 7:10).
 
@@ -73,21 +72,27 @@ Leibniz developed calculus independently of Newton through self-directed study (
 
 <!-- > We never have a full demonstration, although there is always an underlying reason for the truth, even if **it is only perfectly understood by God, who alone penetrated the infinite series in one stroke of the mind** (Strickland, 2006). -->
 
+<!-- > Perhaps never has a man read as much, studied as much, meditated more, and written more than Leibniz ... What he has composed on the world, God, nature, and the soul is of the most sublime eloquence. If his ideas had been expressed with the flair of Plato, the philosopher of Leipzig would cede nothing to the philosopher of Athens. &mdash; Denis Diderot, Oeuvres complètes, vol. 7, p. 709, quoted in "Gottfried Wilhelm Leibniz" (2013) by Brandon C. Look
+
+> It was thus that Leibnitz saw in his binary arithmetic the image of creation. He imagined that Unity represented God, and Zero the void; and that the Supreme Being drew all beings from the void, just as unity and zero express all numbers in this system of numeration. &mdash; Pierre-Simon Laplace, Essai Philosophique sur les Probabilitésas (1814) p. 82, partially quoted in Tobias Dantzig, Number: The Language of Science (1930) p. 15 and in Richard Courant, Herbert Robbins What is Mathematics? (1941) revised by Ian Stewart (1996)
+
+The following are direct quotes from Gottfried Wilhelm Leibniz: -->
+
 > In contingent propositions, however, the analysis continues to infinity through reasons of reasons, so that we never have a full demonstration, although there is always an underlying reason for the truth, even if **it is only perfectly understood by God, who alone penetrates an infinite series in one stroke of the mind** (Strickland, 2006, p. 111).
 
 > Every substance is as a world apart, independent of everything else except God (Leibniz, 1993).
 
 > In whatever manner God created the world, it would always have been regular and in a certain general order. God, however, has chosen the most perfect, that is to say, the one which is at the same time the simplest in hypothesis and the richest in phenomena (Leibniz, 1993).
 
-> If there were no best among all possible worlds, God would not have created one. &mdash; Théodicée (1710)ː I. 8
+<!-- > If there were no best among all possible worlds, God would not have created one. -->
 
-> The love of God consists in an ardent desire to procure the general welfare, and reason teaches me that there is nothing which contributes more to the general welfare of mankind than the perfection of reason. &mdash; Closing sentence of the Preface to the general science (1677) (in P. Wiener (ed.), Leibniz Selections, Macmilland Press Ltd, 1951).
+> 8\. Now this supreme wisdom, united to a goodness that is no less infinite, cannot but have chosen the best. For as a lesser evil is a kind of good, even so a lesser good is a kind of evil if it stands in the way of a greater good; and there would be something to correct in the actions of God if it were possible to do better. As in mathematics, when there is no maximum nor minimum, in short nothing distinguished, everything is done equally, or when that is not possible nothing at all is done: so it may be said likewise in respect of perfect wisdom, which is no less orderly than mathematics, that **if there were not the best (optimum) among all possible worlds, God would not have produced any [created one].** I call ‘World’ the whole succession and the whole agglomeration of all existent things, lest it be said that several worlds could have existed in different times and different places. For they must needs be reckoned all together as one world or, if you will, as one Universe. And even though one should fill all times and all places, it still remains true that one might have filled them in innumerable ways, and that there is an infinitude of possible worlds among which God must needs have chosen the best, since he does nothing without acting in accordance with supreme reason (Leibniz, 2007, p. 131).
 
-> Now, as there is an infinity of possible universes in the Ideas of God, and as only one of them can exist, there must be a sufficient reason for God's choice, which determines him toward one rather than another. And this reason can be found only in the fitness, or the degrees of perfection, that these worlds contain, since each possible thing has the right to claim existence in proportion to the perfection it involves. &mdash; La monadologie (53 & 54).
+> But I have much stronger reasons for thinking so, since the religion I follow closely assures me that **the love of God consists in an ardent desire to procure the general welfare, and reason teaches me that there is nothing which contributes more to the general welfare of mankind than the perfection of reason** (Leibniz, 1951, p. 17).
 
-> Perhaps never has a man read as much, studied as much, meditated more, and written more than Leibniz… What he has composed on the world, God, nature, and the soul is of the most sublime eloquence. If his ideas had been expressed with the flair of Plato, the philosopher of Leipzig would cede nothing to the philosopher of Athens. &mdash; Denis Diderot, Oeuvres complètes, vol. 7, p. 709, quoted in "Gottfried Wilhelm Leibniz" (2013) by Brandon C. Look
-
-> It was thus that Leibnitz saw in his binary arithmetic the image of creation. He imagined that Unity represented God, and Zero the void; and that the Supreme Being drew all beings from the void, just as unity and zero express all numbers in this system of numeration. &mdash; Pierre-Simon Laplace, Essai Philosophique sur les Probabilitésas (1814) p. 82, partially quoted in Tobias Dantzig, Number: The Language of Science (1930) p. 15 and in Richard Courant, Herbert Robbins What is Mathematics? (1941) revised by Ian Stewart (1996)
+> 53\. Now as **there is an infinity of possible universes in the ideas of God, and as only one of them can exist, there must be a sufficient reason for God’s choice**, determining him to one rather than to another.
+>
+> 54\. And this reason can only be found in the fittingness, or in the degrees of perfection, which these worlds contain, each possible world having the right to claim existence in proportion to the perfection it contains. [Thus there is nothing which is wholly arbitrary.] (Leibniz, 2014, pp. 24-25).
 
 <!-- Leibniz famously tried to show that ours is the best of all possible worlds (see also Monadologie (53 & 54) below and compare Maimonides from Guide for the Perplexed (c. 1190), "Whatever is formed of matter receives the most perfect form possible in that species of matter.") These attempts were mercilessly parodied in Voltaire's Candide. Quotations from Voltaire's novel are often mistakenly attributed to Leibniz. Other statements by Leibniz upon the subject include these: -->
 
@@ -317,7 +322,11 @@ Jean, R. V., & Barabé, D. (1998). Symmetry in plants. World Scientific Pub Co I
 
 Kaku, M. (2021, July 29). *Dr. Michio Kaku answers physics questions from Twitter*. WIRED. https://www.wired.com/video/watch/tech-support-dr-michio-kaku-answers-physics-questions-from-twitter
 
+Leibniz, G. W. (1951). *Leibniz selections* (P. Wiener, Ed.). Charles Scribner's Sons. (Original work published 1677)
+
 Leibniz, G. W. (1993). *Discours de métaphysique et correspondance avec Arnauld* (G. Le Roy, Introduction & Commentary). Librarie Philosophique J. Vrin. (Original work published 1686)
+
+Leibniz, G. W. (2007). *Theodicy: Essays on the goodness of God, the freedom of man and the origin of evil* (A. Farrer, Ed.; E. M. Huggard, Trans.). BiblioBazaar. (Original work published 1710)
 
 Newton, I. (1934). Mathematical principles of natural philosophy and his system of the world (A. Motte, Trans.). University of California Press. (Original work published 1686)
 
@@ -326,6 +335,8 @@ Newton, I. (1934). Mathematical principles of natural philosophy and his system 
 Shalev, B. A. (2002). *100 years of nobel prizes* (2nd ed.). Americas Group.
 
 Strickland, L. (Ed.). (2006). *The shorter Leibniz texts: A collection of new translations* (Illustrated ed.). Bloomsbury Academic.
+
+Strickland, L. (2014). *Leibniz’s Monadology: A new translation and guide* (Originally published in 1714). Edinburgh University Press.
 
 <!-- WIRED. (2021, July 29). *Dr. Michio Kaku answers physics questions from Twitter* [Video]. YouTube. https://youtu.be/bUmULlGACEI?t=430 -->
 
