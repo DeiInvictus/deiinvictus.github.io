@@ -1,6 +1,6 @@
 ---
 title: "🧬 Protestants Dominate the Sciences"
-date: 2022-05-10 03:05:00 -0500
+date: 2022-05-10 03:10:00 -0500
 categories: [Science, Protestants]
 tags: [science, protestant, newton, leibniz, faraday, maxwell, tesla, einstein, gödel, planck, schrödinger] # TAG names should always be lowercase
 author: seven_shepherd
@@ -122,6 +122,18 @@ The following are direct quotes from Michael Faraday:
 > To his old friend Auguste de la Rive, Professor of Physics at Geneva University, and a correspondent for 30 years, Faraday’s religious faith came most strongly to the surface: hope for a life to come comforted his final years:
 >
 > I cannot tell when I wrote you last. Of late years I have kept a note, but I suppose I have forgotten to note. Having no science to talk to you about, a motive, which was very strong in former times, is now wanting. But your last letter reminds me of another motive, which I hope is stronger than science with both of us, and that is the future life which lies before us. I am, I hope, very thankful that in the withdrawal of the powers and things of this life, the good hope is left with me, which makes the contemplation of death a comfort-not a fear. **Such peace is alone in the gift of God, and as it is He who gives it, why should we be afraid? His unspeakable gift in His beloved Son** is the ground of no doubtful hope, and there is the rest for those who (like you and me) are drawing near the latter end of our terms here below. I do not know, however, why I should join you with me in years. I forget your age. But this I know (and feel as well) that next Sabbath day (the 22nd) I shall complete my 70th year. I can hardly think myself so old as I write to you-so much of cheerful spirit, ease and general health is left to me, and if my memory fails, why it causes that I forget troubles as well as pleasure and the end is, I am happy and content (Faraday, 1999, p. 199).
+
+## Gregor Mendel (20 July 1822 – 6 January 1884)
+
+![Portrait of Gregor Mendel](/assets/images/science/Mendel.jpg)
+
+Gregor Mendel is often referred to as "the father of modern genetics" due to his groundbreaking research on plant hybridization. In addition to his scientific contributions, Mendel was an Augustinian friar and a Catholic priest. The passage above is an excerpt from an Easter sermon he delivered, which, although undated, was given after he assumed the role of abbot in 1867. This excerpt is published in Folia Mendeliana (1966), Volume 1, by the Moravian Museum in Brünn and was initially made public by the Mendel Museum.
+
+<!-- Mendel was a Catholic priest, an Augustinian monk, and abbot. -->
+
+> Jesus appeared to the disciples after the resurrection in various forms. He appeared to Mary Magdalene so that they might take him for a gardener. Very ingeniously these manifestation of Jesus is to our minds difficult to penetrate. (He appears) as a gardener. The gardener plants seedlings in prepared soil. The soil must exert a physical and chemical influence so that the seed of the plant can grow. Yet this is not sufficient. The warmth and light of the sun must be added, together with rain, in order that growth may result. The seed of supernatural life, of sanctifying grace, cleanses from sin, so preparing the soul of man, and man must seek to preserve this life by his good works. He still needs the supernatural food, the body of the Lord, which received continually, develops and brings to completion of the life. So natural and supernatural must unite to the realization of the holiness to the people. Man must contribute his minimum work of toil, and God gives the growth. Truly, the seed, the talent, the grace of God is there, and man has simply to work, take the seeds to bring them to the bankers. So that we "may have life, and abundantly" (Mendel, 1966).
+
+<!-- >> Jesus erschien den Jüngern nach der Auferstehung in verschiedener Gestalt. Der Maria Magdalena erschien er so, daß sie ihn für einen Gärtner halten mochte. Sehr sinnreich sind diese Erscheinungen Jesu und unser Verstand vermag sie schwer zu durchdringen. (Er erscheint) als Gärtner. Dieser pflanzt den Samen in den zubereiteten Boden. Das Erdreich muss physikalisch-chemisch Einwirkung ausüben, damit der Same aufgeht. Doch reicht das nicht hin, es muß noch Sonnenwärme und Licht hinzukommen nebst Regen, damit das Gedeihen zustandekommt. Das übernatürliche Leben in seinem Keim, der heiligmachenden Gnade wird in die von der Sünde gereinigte, also vorbereitete Seele des Menschen hineingesenkt und es muß der Mensch durch seine guten Werke dieses Leben zu erhalten suchen. Es muss noch die übernatürliche Nahrung dazukommen, der Leib des Herrn, der das Leben weiter erhält, entwickelt und zur Vollendung bringt. So muss Natur und Übernatur sich vereinigen, um das Zustandekommen der Heiligkeit des Menschen. Der Mensch muß sein Scherflein Arbeit hinzugeben, und Gott gibt das Gedeihen. Es ist wahr, den Samen, das Talent, die Gnade gibt der liebe Gott, und der Mensch hat bloß die Arbeit, den Samen aufzunehmen, das Geld zu Wechslern zu tragen. Damit wir »das Leben haben und im Überflusse haben. -->
 
 ## James Clerk Maxwell (13 June 1831 – 5 November 1879)
 
@@ -391,6 +403,8 @@ Leibniz, G. W. (1993). *Discours de métaphysique et correspondance avec Arnauld
 Leibniz, G. W. (2007). *Theodicy: Essays on the goodness of God, the freedom of man and the origin of evil* (A. Farrer, Ed.; E. M. Huggard, Trans.). BiblioBazaar. (Original work published 1710)
 
 Maxwell, J. C. (2011). *The scientific papers of James Clerk Maxwell* (W. D. Niven, Ed.). Cambridge University Press.
+
+Mendel, G. (1966). Excerpt from a sermon on Easter. In Folia Mendeliana (Vol. 1). Moravian Museum.
 
 Newton, I. (1934). *Mathematical principles of natural philosophy and his system of the world* (A. Motte, Trans.). University of California Press. (Original work published 1686)
 
