@@ -1,6 +1,6 @@
 ---
 title: "🧬 Protestants Dominate the Sciences"
-date: 2022-05-10 03:10:00 -0500
+date: 2022-05-10 03:20:00 -0500
 categories: [Science, Protestants]
 tags: [science, protestant, newton, leibniz, faraday, maxwell, tesla, einstein, gödel, planck, schrödinger] # TAG names should always be lowercase
 author: seven_shepherd
@@ -134,6 +134,26 @@ Gregor Mendel is often referred to as "the father of modern genetics" due to his
 > Jesus appeared to the disciples after the resurrection in various forms. He appeared to Mary Magdalene so that they might take him for a gardener. Very ingeniously these manifestation of Jesus is to our minds difficult to penetrate. (He appears) as a gardener. The gardener plants seedlings in prepared soil. The soil must exert a physical and chemical influence so that the seed of the plant can grow. Yet this is not sufficient. The warmth and light of the sun must be added, together with rain, in order that growth may result. The seed of supernatural life, of sanctifying grace, cleanses from sin, so preparing the soul of man, and man must seek to preserve this life by his good works. He still needs the supernatural food, the body of the Lord, which received continually, develops and brings to completion of the life. So natural and supernatural must unite to the realization of the holiness to the people. Man must contribute his minimum work of toil, and God gives the growth. Truly, the seed, the talent, the grace of God is there, and man has simply to work, take the seeds to bring them to the bankers. So that we "may have life, and abundantly" (Mendel, 1966).
 
 <!-- >> Jesus erschien den Jüngern nach der Auferstehung in verschiedener Gestalt. Der Maria Magdalena erschien er so, daß sie ihn für einen Gärtner halten mochte. Sehr sinnreich sind diese Erscheinungen Jesu und unser Verstand vermag sie schwer zu durchdringen. (Er erscheint) als Gärtner. Dieser pflanzt den Samen in den zubereiteten Boden. Das Erdreich muss physikalisch-chemisch Einwirkung ausüben, damit der Same aufgeht. Doch reicht das nicht hin, es muß noch Sonnenwärme und Licht hinzukommen nebst Regen, damit das Gedeihen zustandekommt. Das übernatürliche Leben in seinem Keim, der heiligmachenden Gnade wird in die von der Sünde gereinigte, also vorbereitete Seele des Menschen hineingesenkt und es muß der Mensch durch seine guten Werke dieses Leben zu erhalten suchen. Es muss noch die übernatürliche Nahrung dazukommen, der Leib des Herrn, der das Leben weiter erhält, entwickelt und zur Vollendung bringt. So muss Natur und Übernatur sich vereinigen, um das Zustandekommen der Heiligkeit des Menschen. Der Mensch muß sein Scherflein Arbeit hinzugeben, und Gott gibt das Gedeihen. Es ist wahr, den Samen, das Talent, die Gnade gibt der liebe Gott, und der Mensch hat bloß die Arbeit, den Samen aufzunehmen, das Geld zu Wechslern zu tragen. Damit wir »das Leben haben und im Überflusse haben. -->
+
+## Louis Pasteur (27 December 1822 – 28 September 1895)
+
+![Portrait of Louis Pasteur](/assets/images/science/Pasteur%20(1895).jpg)
+
+<sup>Nadar, P. (c. 1895). *Studio portrait of Louis Pasteur* [Photograph]. Photo by Paul Nadar.</sup>
+
+Louis Pasteur (27 December 1822 – 28 September 1895) was a pioneering French chemist, pharmacist, and microbiologist, widely recognized as the founder of microbiology and immunology. A devout Christian, Pasteur made significant contributions to the principles of vaccination, microbial fermentation, and pasteurization, the latter of which bears his name. His groundbreaking research transformed the understanding of disease causation and prevention, establishing the foundations of hygiene, public health, and modern medicine. Pasteur's development of vaccines for rabies and anthrax is credited with saving millions of lives. He is celebrated as a key figure in the field of bacteriology, often referred to as the "father of microbiology" alongside Robert Koch and Antonie van Leeuwenhoek.
+
+> Posterity will one day laugh at the foolishness of modern materialistic philosophers. **The more I study nature, the more I stand amazed at the work of the Creator**. I pray while I am engaged at my work in the laboratory &mdash; As quoted in The Literary Digest (18 October 1902)
+
+<!-- > (The Literary Digest, 1902). -->
+
+<!-- As quoted in The Literary Digest (18 October 1902) -->
+<!-- Pasteur, L. (1902, October 18). [Quote]. *The Literary Digest*. -->
+
+> Le premier regard de l'homme jeté sur l'univers n'y découvre que variété, diversité, multiplicité des phénomènes. Que ce regard soit illuminé par la science, — **par la science qui rapproche l'homme de Dieu** [**Science brings men nearer to God**], — et la simplicité et l'unité brillent de toutes parts (Leahy, 2007, p. 61).
+
+<!-- “In good philosophy, the word cause ought to be reserved to the single Divine impulse that has formed the universe.” -->
+
 
 ## James Clerk Maxwell (13 June 1831 – 5 November 1879)
 
@@ -298,16 +318,6 @@ Who was noted for his theoretical work on thermodynamics, the concept of absolut
 >
 “If you study science deep enough and long enough, it will force you to believe in God.”
 
-## Louis Pasteur
-
-The founder of microbiology and immunology. Pasteur was a devout Christian.
-
-> “The more I study nature, the more I stand amazed at the work of the Creator. Science brings men nearer to God.”
->
-“In good philosophy, the word cause ought to be reserved to the single Divine impulse that has formed the universe.”
->
-“Little science takes you away from God but more of it takes you to Him.”
-
 ## Sir Francis Bacon
 
 The 17th century scientist and philosopher of science who is credited with discovering and popularizing the scientific method, whereby the laws of science are discovered by gathering and analyzing data from experiments and observations. Bacon was a devout Christian.
@@ -396,6 +406,8 @@ Jean, R. V., & Barabé, D. (1998). Symmetry in plants. World Scientific Pub Co I
 
 Kaku, M. (2021, July 29). *Dr. Michio Kaku answers physics questions from Twitter*. WIRED. https://www.wired.com/video/watch/tech-support-dr-michio-kaku-answers-physics-questions-from-twitter
 
+Leahy, M. P. (2007). *Letter to an atheist*. Harpeth River Press.
+
 Leibniz, G. W. (1951). *Leibniz selections* (P. Wiener, Ed.). Charles Scribner's Sons. (Original work published 1677)
 
 Leibniz, G. W. (1993). *Discours de métaphysique et correspondance avec Arnauld* (G. Le Roy, Introduction & Commentary). Librarie Philosophique J. Vrin. (Original work published 1686)
@@ -404,9 +416,13 @@ Leibniz, G. W. (2007). *Theodicy: Essays on the goodness of God, the freedom of 
 
 Maxwell, J. C. (2011). *The scientific papers of James Clerk Maxwell* (W. D. Niven, Ed.). Cambridge University Press.
 
-Mendel, G. (1966). Excerpt from a sermon on Easter. In Folia Mendeliana (Vol. 1). Moravian Museum.
+Mendel, G. (1966). Excerpt from a sermon on Easter. In *Folia Mendeliana* (Vol. 1). Moravian Museum.
+
+Nadar, P. (c. 1895). *Studio portrait of Louis Pasteur* [Photograph]. Photo by Paul Nadar. https://upload.wikimedia.org/wikipedia/commons/a/a6/Louis_Pasteur%2C_foto_av_Paul_Nadar%2C_Crisco_edit.jpg
 
 Newton, I. (1934). *Mathematical principles of natural philosophy and his system of the world* (A. Motte, Trans.). University of California Press. (Original work published 1686)
+
+<!-- Pasteur, L. (1902, October 18). [Quote]. *The Literary Digest*. -->
 
 <!-- Homer. (2018). The odyssey (E. Wilson, Trans.). W. W. Norton & Company. (Original work published ca. 725–675 B.C.E.) -->
 
