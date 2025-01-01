@@ -1,6 +1,6 @@
 ---
 title: "🧬 Protestants Dominate the Sciences"
-date: 2022-05-10 03:00:00 -0500
+date: 2022-05-10 03:05:00 -0500
 categories: [Science, Protestants]
 tags: [science, protestant, newton, leibniz, faraday, maxwell, tesla, einstein, gödel, planck, schrödinger] # TAG names should always be lowercase
 author: seven_shepherd
@@ -165,6 +165,20 @@ Chapter 5 : The Influences That Shape Our Destiny
 
 The gift of mental power comes from God, Divine Being, and if we concentrate our minds on that truth, we become in tune with this great power. My Mother had taught me to seek all truth in the Bible.
 
+## Max Planck (23 April 1858 – 4 October 1947)
+
+![Portrait of Max Planck](/assets/images/science/Max%20Planck%20(c.%201930).webp)
+
+<sup>Unknown author. (circa 1930). *Max Planck* [Photograph]. Transocean Berlin. https://library.si.edu/image-gallery/73553</sup>
+
+The illustrious Nobel Prize-winning physicist, Max Planck, stands as a towering figure in the annals of science, renowned for his groundbreaking role in the establishment of quantum physics—a pivotal advancement that transformed our understanding of the natural world. A devout Christian, Planck was a dedicated member of the Lutheran Church in Germany, embodying a profound synthesis of faith and scientific inquiry. His contributions not only reshaped the landscape of modern physics but also left an indelible mark on the intellectual heritage of humanity.
+
+> “Both religion and science require a belief in God. For believers, God is in the beginning, and for physicists He is at the end of all considerations… To the former He is the foundation, to the latter, the crown of the edifice of every generalized world view.”
+>
+“There can never be any real opposition between religion and science; for the one is the complement of the other. Every serious and reflective person realizes, I think, that the religious element in his nature must be recognized and cultivated if all the powers of the human soul are to act together in perfect balance and harmony. And indeed it was not by accident that the greatest thinkers of all ages were deeply religious souls.”
+
+Religion and Natural Science (Lecture Given 1937) Scientific Autobiography and Other Papers, trans. F. Gaynor (New York, 1949), pp. 184
+
 ## Albert Einstein (14 March 1879 – 18 April 1955)
 
 ![Portrait of Einstein](/assets/images/science/Einstein%20(1947).webp)
@@ -191,9 +205,9 @@ Einstein’s theory of general relativity comprises the finalization of Newton�
 
 ## Kurt Friedrich Gödel (April 28, 1906 – January 14, 1978)
 
-![Gödel Kurt Gödel (left) and Albert Einstein in Princeton, New Jersey, in (1950).](/assets/images/science/Gödel%20(1950).webp)
+![Kurt Gödel (left) and Albert Einstein in Princeton, New Jersey, in (1950).](/assets/images/science/Gödel%20(1950).webp)
 
-<sup>Author Unknown. (1950). *Kurt Gödel and Albert Einstein in Princeton, New Jersey* [Photograph].</sup>
+<sup>Author Unknown. (1950). *Kurt Gödel (left) and Albert Einstein in Princeton, New Jersey* [Photograph].</sup>
 
 The Greatest Logician & Analytic Philosopher, Kurt Gödel’s astonishing discovery and proof, published in 1931, that even in elementary parts of arithmetic there exist propositions which cannot be proved or disproved within the system, is one of the most important contributions to logic since Aristotle. Gödel was a Christian. He believed that God was personal, and called his philosophy "rationalistic, idealistic, optimistic, and theological"
 
@@ -203,19 +217,15 @@ The Greatest Logician & Analytic Philosopher, Kurt Gödel’s astonishing discov
 
 > In an unmailed answer to a questionnaire, Gödel described his religion as "baptized Lutheran (but not member of any religious congregation). My belief is theistic, not pantheistic, following Leibniz rather than Spinoza." Of religion(s) in general, he said: "Religions are, for the most part, bad—but religion is not". According to his wife Adele, "Gödel, although he did not go to church, was religious and read the Bible in bed every Sunday morning".
 
-## Max Planck
+## Sir Joseph John Thomson (18 December 1856 – 30 August 1940)
 
-![Portrait of Max Planck](/assets/images/science/Max%20Planck%20(c.%201930).webp)
+![Portrait of Sir Joseph John Thomson](/assets/images/science/Thomson%20(1920).webp)
 
-<sup>Unknown author. (circa 1930). *Max Planck* [Photograph]. Transocean Berlin. https://library.si.edu/image-gallery/73553</sup>
+<sup>Hoppe, E. O. (1920). *Intermittent* [Photograph]. Hulton Archive.</sup>
 
-The Nobel Prize winning physicist who made the crucial scientific contribution of founding quantum physics. Planck was a Christian and a member of the Lutheran Church in Germany.
+Joseph John Thomson was a renowned English physicist who made groundbreaking contributions to the understanding of atomic structure. His discovery of the electron in 1897 revealed that cathode rays consisted of tiny, negatively charged particles with a high charge-to-mass ratio. Thomson also discovered the first evidence of isotopes in a stable element in 1913, while studying canal rays. His work with Francis William Aston on positively charged particles led to the development of mass spectrometry and the mass spectrograph. Thomson's achievements were recognized with the 1906 Nobel Prize in Physics for his research on the conduction of electricity in gases.
 
-Religion and Natural Science (Lecture Given 1937) Scientific Autobiography and Other Papers, trans. F. Gaynor (New York, 1949), pp. 184
-
-> “Both religion and science require a belief in God. For believers, God is in the beginning, and for physicists He is at the end of all considerations… To the former He is the foundation, to the latter, the crown of the edifice of every generalized world view.”
->
-“There can never be any real opposition between religion and science; for the one is the complement of the other. Every serious and reflective person realizes, I think, that the religious element in his nature must be recognized and cultivated if all the powers of the human soul are to act together in perfect balance and harmony. And indeed it was not by accident that the greatest thinkers of all ages were deeply religious souls.”
+> As we conquer peak after peak we see in front of us regions full of interest and beauty, but we do not see our goal, we do not see the horizon; in the distance tower still higher peaks, which will yield to those who ascend them still wider prospects, and deepen the feeling, the truth of which is emphasised by every advance in science, that &ldquo;Great are the Works of the Lord&rdquo; (Foley, 1910, p. 456).
 
 ## Erwin Schrödinger
 
@@ -365,6 +375,8 @@ Campbell, L., Garnett, W., & Rautio, J. C. (2020). The life of James Clerk Maxwe
 Faraday, M. (1859). *Experimental researches in chemistry and physics*. Richard Taylor and William Francis.
 
 Faraday, M. (1999). *The philosopher's tree: A selection of Michael Faraday's writings* (P. Day, Ed.). Institute of Physics Publishing.
+
+Foley, A. L. (1910). Recent developments in physical science. *The Popular Science Monthly*, 76, 456.
 
 <!-- Kaku, M. (2021, July 29). *Dr. Michio Kaku answers physics questions from Twitter*. [Video]. WIRED. https://youtu.be/bUmULlGACEI?t=430 -->
 
