@@ -1,6 +1,6 @@
 ---
 title: "⛏️ Do you believe that you have the free will to renounce your faith and forfeit salvation? If the answer is no, then you do believe in some form of predestination."
-date: 2024-02-01 12:25:00 -0500
+date: 2024-02-01 12:30:00 -0500
 categories: [Theology, Predestination]
 tags: [election, predestination] # TAG names should always be lowercase
 author: seven_shepherd
@@ -739,7 +739,7 @@ I wrote an entire book addressing the posed question: Beyond the Cosmos, now in 
 
 #### <a name="carson" href="#contents" style="font-size:1.2em;">1.2.1.2 Dr. D.A. Carson (PhD, University of Cambridge)</a>
 
-<!-- <a name="carson-contents" style="color:black;">Carson Contents</a> -->
+<!-- <a name="carson-contents" href="#" style="color:black;">Carson Contents</a> -->
 
 - 1.2.1.2.1 <a href="#men-as-responsible">Men As Responsible</a>
 - 1.2.1.2.2 <a href="#god-as-sovereign">God As Sovereign</a>
@@ -1744,7 +1744,7 @@ be none other than the salvation of the world, given men and women’s creation 
 
 ## <a name="BDAG" href="#contents" style="font-size:1.6em;">6.1 Bauer-Danker-Arndt-Gingrich (BDAG)</a>
 
-![Foreknowledge](/assets/BDAG/proginosko.png)
+![Foreknowledge](/assets/images/greek/BDAG/proginosko.png)
 
 ## <a name="TDNT" href="#contents" style="font-size:1.6em;">6.2 TDNT "Kittel"</a>
 
