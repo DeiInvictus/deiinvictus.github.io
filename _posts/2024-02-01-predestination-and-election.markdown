@@ -1,6 +1,6 @@
 ---
 title: "⛏️ Do you believe that you have the free will to renounce your faith and forfeit salvation? If the answer is no, then you do believe in some form of predestination."
-date: 2024-02-01 1:20:00 -0500
+date: 2024-02-01 1:25:00 -0500
 categories: [Theology, Predestination]
 tags: [election, predestination] # TAG names should always be lowercase
 author: seven_shepherd
@@ -79,7 +79,7 @@ Ron Rhodes Against Double Predestination
 >
 &mdash; [Molinism vs Calvinism](https://www.reasonablefaith.org/writings/question-answer/molinism-vs.-calvinism)
 
-> ... In light of this, the use of this text to promote **“double predestination” seems completely wrong** &mdash; Dr. John C. Lennox (PhD, University of Cambridge; DPhil, Emeritus Professor of Mathematics at the University of Oxford; DSc, Cardiff University), [*Determined to Believe?*]() p. 246.
+> ... In light of this, the use of this text to promote **“double predestination” seems completely wrong** &mdash; Dr. John C. Lennox (PhD, University of Cambridge; DPhil, Emeritus Professor of Mathematics at the University of Oxford; DSc, Cardiff University), *Determined to Believe?* p. 246.
 
 > There are some who take these texts to mean that in eternity God mysteriously or even arbitrarily chose who was to be a vessel of wrath and who was to be a vessel of mercy; and that choice permanently and unconditionally fixes their destinies. There is a fundamental flaw in this reasoning, even apart from the fact that it makes no moral sense. **The flaw is to assume that, if someone is a vessel of wrath, they can never become a vessel of mercy.** But **that is false**, as Jeremiah’s use of the potter analogy indicates. **Paul was a vessel of wrath who became a vessel of mercy.** Also, in Ephesians, Paul describes the believers as having once been children of wrath, but because they had repented and trusted Christ as Saviour and Lord they had become vessels of mercy (see Ephesians 2:3–4) (Lennox, 2018, p. 272).<sup>1</sup>
 
