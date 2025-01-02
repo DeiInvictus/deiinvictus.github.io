@@ -1,6 +1,6 @@
 ---
 title: "⛏️ Do you believe that you have the free will to renounce your faith and forfeit salvation? If the answer is no, then you do believe in some form of predestination."
-date: 2024-02-01 1:40:00 -0500
+date: 2024-02-01 1:45:00 -0500
 categories: [Theology, Predestination]
 tags: [election, predestination] # TAG names should always be lowercase
 author: seven_shepherd
@@ -21,8 +21,8 @@ pin: true
 2. <a href="#indeterminism">☠️ Indeterminism & Libertarianism</a>
     - 2.1 <a href="#libertarian-free-will">Libertarian Free Will</a>
 3. <a href="#compatibilism">⚖️ Theological Compatibilism</a>
-    - 3.1 <a href="#wesleyan-foreknowledge">Wesleyan Foreknowledge</a>
-    - 3.2 <a href="#reformed-compatibilism">Reformed Compatibilism</a>
+    - 3.1 <a href="#double-foreknowledge">Double Foreknowledge</a>
+    - 3.2 <a href="#asymmetrical-compatibilism">Asymmetrical Compatibilism</a>
 4. <a href="#conclusion">⚖️ Conclusion</a>
 
 ---
@@ -108,7 +108,7 @@ In contrast to Reformed compatibilism, which advocates for unconditional single 
 
 ## II. <a name="indeterminism" href="#Contents">☠️ Indeterminism & Libertarianism</a>
 
-<sup>🟢 Demonstrated as possible by Heisenberg's Uncertainty Principle.</sup>
+<sup>🟡 Demonstrated as possible by Heisenberg's Uncertainty Principle.</sup>
 
 This view posits that not all events are determined by preceding causes, allowing for randomness or chance. Indeterminism opens the door for a form of free will, as it suggests that some events (including human decisions) can occur without being predetermined.
 
@@ -145,9 +145,9 @@ Compatibilism recognizes God's sovereignty alongside Heisenberg's Uncertainty Pr
 1\. Dr. Ron Rhodes (ThD, Dallas Theological Seminary)<br>
 </small>
 
-### 3.1 <a name="wesleyan-foreknowledge" href="#Contents">Wesleyan Foreknowledge</a>
+### 3.1 <a name="double-foreknowledge" href="#Contents">Double Foreknowledge</a>
 
-The Wesleyan Foreknowledge view can be interpreted as a variant of Compatibilism, as it posits that God predestines individuals based on His foreknowledge of their foreseen faith, even prior to their existence. Dr. Rhodes (2016) articulates their perspective as follows:
+Conditional Election, also known as the Wesleyan Foreknowledge view, can be interpreted as a variant of Compatibilism, as it posits that God predestines individuals based on His foreknowledge of their foreseen faith, even prior to their existence. The only way to know if you are one of the elect is to come to faith. Dr. Rhodes (2016) articulates their perspective as follows:
 
 > Arminians will come in and say that God's predetermination or election is based on his foreknowledge, in other words, God looks down through the corridors of time and decides who's going to respond positively to the gospel and then he will elect those individuals to salvation ... (2:58).
 
@@ -160,9 +160,11 @@ Chuck Smith also taught the Wesleyan Foreknowledge view of election.
 2\. Chuck Smith (BS, Life Pacific College).
 </small>
 
-### 3.2 <a name="reformed-compatibilism" href="#Contents">Reformed Compatibilism</a>
+### 3.2 <a name="asymmetrical-compatibilism" href="#Contents">Asymmetrical Compatibilism</a>
 
-Reformed variants of Compatibilism assert a definitive emphasis on foreordination rather than foreknowledge. They maintain that we possess free will, but rather than associating it with a prescient foreknowledge, they align it with unconditional single election.
+Reformed variants of Compatibilism assert a definitive emphasis on foreordination rather than foreknowledge. They maintain that we possess free will, but rather than associating it with a prescient foreknowledge, they align it with unconditional single election. While supralapsarian high-Calvinists advocate for a symmetrical double foreordination and Arminians support a symmetrical double prescient foreknowledge, this perspective asserts that foreordination applies solely to election, with foreknowledge pertaining to reprobation. The distinction between this asymmetry and that of infralapsarian orthodox Calvinists lies in the fact that this model contrasts God's sovereignty with free will, rather than with the freedom of inclination. In layman's terms, there's predestination and free will.
+
+<!-- Whereas supralapsarian high-Calvinists believe in a symmetrical double foreordination, and the Arminians believe in a symmetrical double prescient foreknowledge, this view posits foreordination only in election and foreknowledge in reprobation. The difference between this asymmetry and that of the infralapsarian orthodox Calvinists is that this form of asymmetry is between God's sovereignty and free will instead of God's sovereignty and freedom of inclination. -->
 
 > Arminians will come in and say that God's predetermination or election is based on his foreknowledge, in other words, God looks down through the corridors of time and decides who's going to respond positively to the gospel and then he will elect those individuals to salvation **the problem with that view is that the Bible doesn't indicate that God just knows things in advance but he actually determines things in advance he determines what will happen** (Rhodes, 2016, 2:58).<sup>1</sup>
 
