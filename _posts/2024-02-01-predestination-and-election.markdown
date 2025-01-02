@@ -1,6 +1,6 @@
 ---
 title: "⛏️ Do you believe that you have the free will to renounce your faith and forfeit salvation? If the answer is no, then you do believe in some form of predestination."
-date: 2024-02-01 12:30:00 -0500
+date: 2024-02-01 12:35:00 -0500
 categories: [Theology, Predestination]
 tags: [election, predestination] # TAG names should always be lowercase
 author: seven_shepherd
@@ -12,7 +12,10 @@ pin: true
 
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/Jint5kjoy6I?si=8F9Ao0TkqlvfQtEw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
 
-<a name="Contents" href="#"></a>
+# <a name="Contents" href="#">Contents</a>
+- Will be added shortly
+
+---
 
 Any intelligent examination of the Bible leads to a belief in the doctrine of election. As Articulated by Jesus in the book of Matthew:
 
