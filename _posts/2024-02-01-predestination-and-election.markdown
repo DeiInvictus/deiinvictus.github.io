@@ -1,6 +1,6 @@
 ---
 title: "⛏️ Do you believe that you have the free will to renounce your faith and forfeit salvation? If the answer is no, then you do believe in some form of predestination."
-date: 2024-02-01 12:35:00 -0500
+date: 2024-02-01 12:40:00 -0500
 categories: [Theology, Predestination]
 tags: [election, predestination] # TAG names should always be lowercase
 author: seven_shepherd
@@ -13,7 +13,12 @@ pin: true
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/Jint5kjoy6I?si=8F9Ao0TkqlvfQtEw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
 
 # <a name="Contents" href="#">Contents</a>
-- Will be added shortly
+
+1. <a href="newtonian-determinism">Determinism & Fatalism</a>
+2. <a href="indeterminism">Indeterminism & Libertarianism</a>
+3. <a href="compatibilism">Compatibilism</a>
+   1. <a href="wesleyan-foreknowledge">Wesleyan Foreknowledge</a>
+   2. <a href="reformed-compatibilism">Reformed Compatibilism</a>
 
 ---
 
