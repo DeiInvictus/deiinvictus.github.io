@@ -1,6 +1,6 @@
 ---
 title: "⛏️ Do you believe that you have the free will to renounce your faith and forfeit salvation? If the answer is no, then you do believe in some form of predestination."
-date: 2024-02-01 12:40:00 -0500
+date: 2024-02-01 12:45:00 -0500
 categories: [Theology, Predestination]
 tags: [election, predestination] # TAG names should always be lowercase
 author: seven_shepherd
@@ -14,11 +14,11 @@ pin: true
 
 # <a name="Contents" href="#">Contents</a>
 
-1. <a href="newtonian-determinism">Determinism & Fatalism</a>
-2. <a href="indeterminism">Indeterminism & Libertarianism</a>
-3. <a href="compatibilism">Compatibilism</a>
-   1. <a href="wesleyan-foreknowledge">Wesleyan Foreknowledge</a>
-   2. <a href="reformed-compatibilism">Reformed Compatibilism</a>
+1. <a href="#newtonian-determinism">Determinism & Fatalism</a>
+2. <a href="#indeterminism">Indeterminism & Libertarianism</a>
+3. <a href="#compatibilism">Compatibilism</a>
+   1. <a href="#wesleyan-foreknowledge">Wesleyan Foreknowledge</a>
+   2. <a href="#reformed-compatibilism">Reformed Compatibilism</a>
 
 ---
 
@@ -42,7 +42,7 @@ Different types of Free Will:
 - Libertarian Free Will: &ldquo;I possess the power to choose heaven, yet I can also forfeit my salvation and shatter my seal.&rdquo; -->
 
 
-## I. <a name="newtonian-determinism" href="Contents">Determinism & Fatalism</a>
+## I. <a name="newtonian-determinism" href="#Contents">Determinism & Fatalism</a>
 
 Many of history's most brilliant thinkers, including both **Newton and Einstein**, subscribed to the philosophy of determinism. This view holds that all events, including human actions, are determined by preceding events in accordance with the laws of nature. Free will is an illusion, and thus, moral responsibility is also negated. However, this understanding was fundamentally shaken by the advent of Heisenberg's Uncertainty Principle.
 
@@ -61,7 +61,7 @@ Fatalism suggests that events are predetermined and inevitable, regardless of hu
 
 <small>1. Dr. Michio Kaku (PhD, Berkeley).</small>
 
-## II. <a name="indeterminism" href="Contents">Indeterminism & Libertarianism</a>
+## II. <a name="indeterminism" href="#Contents">Indeterminism & Libertarianism</a>
 
 This view posits that not all events are determined by preceding causes, allowing for randomness or chance. Indeterminism opens the door for a form of free will, as it suggests that some events (including human decisions) can occur without being predetermined.
 
@@ -77,7 +77,7 @@ Libertarianism takes this discovery to an illogical extreme, asserting that indi
 
 <small>1. Dr. Michio Kaku (PhD, Berkeley).</small>
 
-## III. <a name="compatibilism" href="Contents">Compatibilism</a>
+## III. <a name="compatibilism" href="#Contents">Compatibilism</a>
 
 For the Christian, the challenge posed by libertarianism lies in its complete neglect of God's sovereignty and utter disregard for the Scriptures. Compatibilism argues that determinism (God's sovereignty) and free will are not mutually exclusive, in other words, they exist at the same time. Compatibilists believe that individuals can be considered free in their choices, even if those choices are determined by prior causes. They redefine free will to fit within a deterministic framework, or in this context, free will is reconceptualized to align with God's sovereignty. **This is where you will find the world's brightest theologians and biblical language scholars.**
 
@@ -87,7 +87,7 @@ For the Christian, the challenge posed by libertarianism lies in its complete ne
 1\. Dr. Ron Rhodes (ThD, Dallas Theological Seminary)<br>
 </small>
 
-### 3.1 <a name="wesleyan-foreknowledge" href="Contents">Wesleyan Foreknowledge</a>
+### 3.1 <a name="wesleyan-foreknowledge" href="#Contents">Wesleyan Foreknowledge</a>
 
 The Wesleyan Foreknowledge view can be interpreted as a variant of Compatibilism, as it posits that God predestines individuals based on His foreknowledge of their foreseen faith, even prior to their existence. Dr. Rhodes (2016) articulates their perspective as follows:
 
@@ -102,7 +102,7 @@ Chuck Smith also taught the Wesleyan Foreknowledge view of election.
 2\. Chuck Smith (BS, Life Pacific College).
 </small>
 
-### 3.2 <a name="reformed-compatibilism" href="Contents">Reformed Compatibilism</a>
+### 3.2 <a name="reformed-compatibilism" href="#Contents">Reformed Compatibilism</a>
 
 Reformed variants of Compatibilism assert a definitive emphasis on foreordination rather than foreknowledge. They maintain that we possess free will, but rather than associating it with a prescient foreknowledge, they align it with unconditional single election.
 
