@@ -1,6 +1,6 @@
 ---
 title: "⛏️ Do you believe that you have the free will to renounce your faith and forfeit salvation? If the answer is no, then you do believe in some form of predestination."
-date: 2024-02-01 12:45:00 -0500
+date: 2024-02-01 12:50:00 -0500
 categories: [Theology, Predestination]
 tags: [election, predestination] # TAG names should always be lowercase
 author: seven_shepherd
@@ -21,6 +21,8 @@ pin: true
    2. <a href="#reformed-compatibilism">Reformed Compatibilism</a>
 
 ---
+
+<br>
 
 Any intelligent examination of the Bible leads to a belief in the doctrine of election. As Articulated by Jesus in the book of Matthew:
 
@@ -44,7 +46,7 @@ Different types of Free Will:
 
 ## I. <a name="newtonian-determinism" href="#Contents">Determinism & Fatalism</a>
 
-Many of history's most brilliant thinkers, including both **Newton and Einstein**, subscribed to the philosophy of determinism. This view holds that all events, including human actions, are determined by preceding events in accordance with the laws of nature. Free will is an illusion, and thus, moral responsibility is also negated. However, this understanding was fundamentally shaken by the advent of Heisenberg's Uncertainty Principle.
+Many of history's most brilliant thinkers, including both **Newton and Einstein**, subscribed to the philosophy of determinism. This view holds that all events, including human actions, are determined by preceding events in accordance with the laws of nature. Free will is an illusion, and thus, moral responsibility is also negated. However, this understanding was fundamentally shaken by the advent of Heisenberg's Uncertainty Principle. **Individuals who adhere to the doctrine of double predestination can be categorized within this group.**
 
 <!-- Both Heisenberg's and Gödel's findings suggest that there are fundamental limits to what can be known or measured, whether in the realm of physics or mathematics. -->
 
@@ -59,7 +61,7 @@ Fatalism suggests that events are predetermined and inevitable, regardless of hu
 
 > Later doctrines of fatalism may be described loosely as synonymous with determinism, but it is useful to make a distinction. Whereas determinism can be represented as compatible with moral responsibility, fatalism properly understood would reduce practical ethics to nothing but the advice that humans should resign themselves indifferently to the course of events. Strict fatalism, therefore, is not to be sought in the major Christian controversies arising from differences between Augustinian and Pelagian, semi-Pelagian, or Molinist doctrine on free will, on grace, and on predestination. Among Christians, the Quietists, with their uncritical reliance on inspiration, may be regarded as having approached more closely to the fatalistic norm of behaviour than any of the commonly recognized partisans of determinism, such as Calvinists or Jansenists (Britannica, 2017, para. 2).
 
-<small>1. Dr. Michio Kaku (PhD, Berkeley).</small>
+<small>1. Dr. Michio Kaku (PhD, University of California, Berkeley).</small>
 
 ## II. <a name="indeterminism" href="#Contents">Indeterminism & Libertarianism</a>
 
@@ -73,9 +75,14 @@ This view posits that not all events are determined by preceding causes, allowin
 
 Libertarianism takes this discovery to an illogical extreme, asserting that individuals possess free will and that their choices are not influenced by preceding events. Proponents of libertarianism advocate for a form of indeterminism, positing that humans are capable of making authentic choices that are not predetermined.
 
+> The fact that God knows possibilities, and all possibilities don't happen. tells you that God's foreknowledge of those possibilities did not result in the predestination of all those possibilities. foreknowledge and predestination are not inextricably linked, **foreknowledge does not necessitate predestination**. God knowing all things real and possible actually undermines that idea (Heiser, 2021a, 0:48).<sup>2</sup>
+
 > Libertarianism is vulnerable to what is called the “intelligibility” objection, which points out that people can have no more control over a purely random action than they have over an action that is deterministically inevitable; in neither case does free will enter the picture. Hence, if human actions are indeterministic, free will does not exist. (Britannica, 2024, para. 5).
 
-<small>1. Dr. Michio Kaku (PhD, Berkeley).</small>
+<small>
+1\. Dr. Michio Kaku (PhD, University of California, Berkeley)<br>
+2\. Dr. Michael S. Heiser (PhD, Hebrew Bible and Semitic Languages at the University of Wisconsin-Madison)<br>
+</small>
 
 ## III. <a name="compatibilism" href="#Contents">Compatibilism</a>
 
@@ -120,17 +127,17 @@ Reformed variants of Compatibilism assert a definitive emphasis on foreordinatio
 
 <!-- > [@20:25](https://youtu.be/uuUKE5resPs?si=h3FO_qxcKIjM7uF7&t=1225) ... head of Christ and that no flesh should be able to glory in its own sight but whoever makes an appearance before the throne of the Lord his glory will be in the lord of hosts now some may say that's the sovereignty of God hallelujah **but what about my free will, well it's not as free as you think it is, you are free to make choices but you are not free to enforce all of them** ... there is freedom but it's quite limited. In lots of respects, you have not chosen me I've chosen you means that God had the last word ...&mdash; [Dr. Walter Martin (PhD, University of California Coast)](https://youtu.be/uuUKE5resPs?si=h3FO_qxcKIjM7uF7&t=1225) -->
 
-> If what Carson means is that that John believes in both God’s sovereignty and human responsibility, and that both must be held equally firmly, however paradoxical the resulting tension may appear to us, then **that would be fine**. However, the term “compatibilism”, as we mentioned earlier, is normally used by philosophers who hold that human freedom and responsibility is compatible with determinism – a very different matter; unless, of course, one interprets sovereignty as determinism (Lennox, 2018, p. 101).<sup>3</sup>
+> Chapter Three, GOD AS SOVEREIGN. ... Chance is excluded; and if here and there we read of something that might be considered a chance event, it is not really thought of apart from God's direction (1 Sam. 6.9; 20.26; 1 Kgs. 22.34; Ruth 2.3; 2 Chr. 18.33). Hence the lot is used to discover Yahweh's will, 'and is didactically recognised as under His control' (Prov. 16.33; cf. Josh. 7.16; 14.2; 18.6; 1 Sam. 10.19-21; Jonah 1.7). ... Human thoughts and decisions are often attributed directly to God's determining (e.g. 2 Sam. 24.1; Isa. 19.13f.; 37.7; Prov. 21.1; Ezra 1.1; 7.6, 27f.; Neh. 2.11f.). ... Examples are so numerous that only a few instances may be cited. Micaiah's description of the heavenly courts and the selection of a lying spirit whose success is guaranteed (1 Kgs. 22.19-22; 2 Chr. 18.18-22), the inciting of David to evil purpose (2 Sam. 24.1), the selling of Joseph into slavery (Gen. 50.20), the sending forth of evil spirits to their appointed tasks (e.g. Judg. 9.23ff.; 1 Sam. 16.14; 18.10), the prologue of Job, not to mention the specific remarks of the prophets (e.g. Does evil (rā'āh) befall a city, unless the LORD has done it?" Amos 3.6; cf. Isa. 14.24-7; 45.7), all clamour for attention. ... God is also said to control the minds of his people for good. Sometimes he is petitioned to do so. Such expressions are particularly common in the prophets who look forward to the new covenant (cf. Jer. 31.31-4; 32.40; Ezek. 11.19f.; 36.22ff.; Zeph. 3.9-13; etc.), but are certainly not restricted to such a framework (e.g. 1 Chr. 29.17-19). ... Yahweh is holy, sovereign, full of special regard for his elect, and personally ruling in the affairs of men. This view of God makes the perplexity of his people understandable when, from the human perspective, it appears that Yahweh has dealt harshly (Ruth 1.20f.), unfairly (Job 3ff.), or without due consideration of the wickedness of other men (Habbakuk; Ps. 73). It prompts a cry like that in Isaiah 63.17: 'O LORD, why dost thou make us err from thy ways, and harden our heart, so that we fear thee not? Return for the sake of thy servants, for the tribes of thy heritage. (Cf. also Isa. 64.76.). ... Concluding remarks** **The idea that God really is the sovereign disposer of all is consistently woven into the fabric of the Old Testament, even if there is relatively infrequent explicit reflection on the sovereignty-responsibility tension. Taken as a whole, the all-embracing activity of the sovereign God in the Old Testament must be distinguished from deism, which cuts the world off from him; from cosmic dualism, which divides the control of the world between God and other(s); from determinism, which posits such a direct and rigid control, or such an impersonal one, that human responsibility is destroyed; from indeterminism and chance, which deny either the existence or the rationality of a sovereign God; and from pantheism, which virtually identifies God with the world ... (Carson, 2002, pp. 24-38).
 
-> the fact that God knows possibilities, and all possibilities don't happen. tells you that God's foreknowledge of those possibilities did not result in the predestination of all those possibilities. foreknowledge and predestination are not inextricably linked, **foreknowledge does not necessitate predestination**. God knowing all things real and possible actually undermines that idea (Heiser, 2021a, 0:48).<sup>4</sup>
+> If what Carson means is that that John believes in both God’s sovereignty and human responsibility, and that both must be held equally firmly, however paradoxical the resulting tension may appear to us, then **that would be fine**. However, the term “compatibilism”, as we mentioned earlier, is normally used by philosophers who hold that human freedom and responsibility is compatible with determinism – a very different matter; unless, of course, one interprets sovereignty as determinism (Lennox, 2018, p. 101).<sup>4</sup>
 
 > I wrote an entire book addressing the posed question: Beyond the Cosmos, now in its third edition. ... In that book I explain why each of Calvinism, Arminianism, and Traditionalism are inadequate by themselves to address all that the Bible teaches on sotierology and our relationship with Christ. I point out, for example, that **the Bible teaches that both divine predetermination and human free will simultaneously operate.** <span style="font-weight:bold;color:darkred;">I explain why there is no possible resolution of this paradox within the spacetime dimensions of the universe.</span> However, the Bible teaches and the spacetime theorems prove that God created the cosmic spacetime dimensions and in no way is limited by them. <span style="font-weight:bold;color:green;">I show three different ways how the paradox of divine predetermination and human free will can be resolved in the extra- and trans-dimensional context of God.</span> I also show how several other biblical paradoxes can be resolved from God’s extra-/trans-dimensional perspective (Ross, 2020, para. 2).<sup>5</sup>
 
 <small>
 1\. Dr. Ron Rhodes (Th.D., Dallas Theological Seminary)<br>
 2\. Dr. Bruce Demarest (Ph.D., University of Manchester)<br>
-3\. Dr. John C. Lennox (PhD, Mathematics at the University of Cambridge)<br>
-4\. Dr. Michael S. Heiser (PhD, Hebrew Bible and Semitic Languages at the University of Wisconsin-Madison)<br>
+3\. Dr. D. A. Carson (PhD, University of Cambridge)<br>
+4\. Dr. John C. Lennox (PhD, Mathematics at the University of Cambridge)<br>
 5\. Dr. Hugh Ross (PhD, Astrophysicist at the University of Toronto)
 </small>
 
@@ -149,6 +156,8 @@ Reformed variants of Compatibilism assert a definitive emphasis on foreordinatio
 Britannica, T. Editors of Encyclopaedia. (2017, August 31). *Fatalism*. Encyclopedia Britannica. https://www.britannica.com/topic/fatalism
 
 Britannica, T. Editors of Encyclopaedia. (2024, November 15). *Free will*. Encyclopedia Britannica. https://www.britannica.com/topic/free-will
+
+Carson, D. A. (2002). *Divine sovereignty and human responsibility: Biblical perspectives in tension*. Wipf and Stock Publishers.
 
 Demarest, B. (2006). *The cross and salvation*. Crossway Books.
 
