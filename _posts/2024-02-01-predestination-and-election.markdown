@@ -1,6 +1,6 @@
 ---
 title: "⛏️ Do you believe that you have the free will to renounce your faith and forfeit salvation? If the answer is no, then you do believe in some form of predestination."
-date: 2024-02-01 2:00:00 -0500
+date: 2024-02-01 2:05:00 -0500
 categories: [Theology, Predestination]
 tags: [election, predestination] # TAG names should always be lowercase
 author: seven_shepherd
@@ -21,7 +21,7 @@ pin: true
 2. <a href="#indeterminism">☠️ Indeterminism & Libertarianism</a>
     - 2.1 <a href="#libertarian-free-will">Libertarian Free Will</a>
 3. <a href="#compatibilism">⚖️ Theological Compatibilism</a>
-    - 3.1 <a href="#double-foreknowledge">Double Foreknowledge</a>
+    - 3.1 <a href="#double-foreknowledge">Double Foreknowledge & Free Will</a>
     - 3.2 <a href="#asymmetrical-compatibilism">Single Election & Free Will</a>
 4. <a href="#conclusion">⚖️ Conclusion</a>
 
@@ -51,9 +51,9 @@ Different types of Free Will:
 
 ## I. <a name="newtonian-determinism" href="#Contents">🤖 Determinism & Fatalism</a>
 
-<sup>🔴 Debunked by Heisenberg's Uncertainty Principle.</sup>
+<sup>🔴 Discredited by Heisenberg's Uncertainty Principle.</sup>
 
-Many of history's most brilliant thinkers, including both **Newton and Einstein**, subscribed to the philosophy of determinism. This view holds that all events, including human actions, are determined by preceding events in accordance with the laws of nature. Free will is an illusion, and thus, moral responsibility is also negated. However, this understanding was fundamentally shaken by the advent of Heisenberg's Uncertainty Principle.
+Many of history's most brilliant thinkers, including **Newton, Leibniz, and Einstein**, subscribed to the philosophy of determinism. This view holds that all events, including human actions, are determined by preceding events in accordance with the laws of nature. Free will is an illusion, and thus, moral responsibility is also negated. However, this understanding was fundamentally shaken by the advent of Heisenberg's Uncertainty Principle.
 
 > Newtonian Determinism says that the universe is a clock, a gigantic clock that’s wound up in the beginning of time and has been ticking ever since according to Newton’s laws of motion. So what you’re going to eat 10 years from now on January 1st has already been fixed. It’s already known using Newton’s laws of motion. Einstein believed in that. Einstein was a determinist.
 >
@@ -70,7 +70,7 @@ Fatalism suggests that events are predetermined and inevitable, regardless of hu
 
 ### 1.1 <a href="#Contents" name="double-predestination">Double Predestination</a>
 
-<sup>🔴 Debunked by Heisenberg's Uncertainty Principle.</sup>
+<sup>🔴 Discredited by Heisenberg's Uncertainty Principle.</sup>
 
 Individuals who adhere to the doctrine of double predestination can be categorized within determinism. This doctrine asserts that God sovereignly determines both the election of individuals to salvation **and their reprobation** to damnation prior to their existence.
 
@@ -92,7 +92,7 @@ Ron Rhodes Against Double Predestination
 1\. Dr. John C. Lennox (PhD, Mathematics at the University of Cambridge)<br>
 </small>
 
-### 1.2 <a href="#Contents" name="unconditional-single-election">Unconditional Single Election</a>
+### 1.2 <a href="#Contents" name="unconditional-single-election">Unconditional Single Election & Freedom of Inclination</a>
 
 <sup>🟡 Heisenberg's Uncertainty Principle places significant strain on the concept of Freedom of Inclination.</sup>
 
@@ -145,7 +145,7 @@ Compatibilism recognizes God's sovereignty alongside Heisenberg's Uncertainty Pr
 1\. Dr. Ron Rhodes (ThD, Dallas Theological Seminary)<br>
 </small>
 
-### 3.1 <a name="double-foreknowledge" href="#Contents">Double Foreknowledge</a>
+### 3.1 <a name="double-foreknowledge" href="#Contents">Double Foreknowledge & Free Will</a>
 
 The double foreknowledge espoused by Romanists and Arminians, as articulated in Conditional Election&mdash;commonly referred to as the Wesleyan Foreknowledge&mdash;can be interpreted as a variant of Compatibilism, as it posits that God predestines individuals based on His foreknowledge of their foreseen faith, even prior to their existence. The only way to know if you are one of the elect is to come to faith. Dr. Rhodes (2016) articulates their perspective as follows:
 
@@ -160,9 +160,9 @@ Chuck Smith also taught the Wesleyan Foreknowledge view of election.
 2\. Chuck Smith (BS, Life Pacific College).
 </small>
 
-### 3.2 <a name="asymmetrical-compatibilism" href="#Contents">Asymmetrical Compatibilism</a>
+### 3.2 <a name="asymmetrical-compatibilism" href="#Contents">Single Unconditional Election & Free Will</a>
 
-Reformed variants of Compatibilism assert a definitive emphasis on foreordination rather than foreknowledge. They maintain that we possess free will, but rather than associating it with a prescient foreknowledge, they align it with unconditional single election. While supralapsarian high-Calvinists advocate for a symmetrical double foreordination and Arminians support a symmetrical double prescient foreknowledge, this perspective asserts that foreordination applies solely to election, with foreknowledge pertaining to reprobation. The distinction between this asymmetry and that of infralapsarian orthodox Calvinists lies in the fact that this model contrasts God's sovereignty with free will, rather than with freedom of inclination. In layman's terms, there's election and free will.
+Reformed variants of asymmetrical Compatibilism assert a definitive emphasis on foreordination rather than foreknowledge. They maintain that we possess free will, but rather than associating it with a prescient foreknowledge, they align it with unconditional single election. While supralapsarian high-Calvinists advocate for a symmetrical double foreordination and Arminians support a symmetrical double prescient foreknowledge, this perspective asserts that foreordination applies solely to election, with foreknowledge pertaining to reprobation. The distinction between this asymmetry and that of infralapsarian orthodox Calvinists lies in the fact that this model contrasts God's sovereignty with free will, rather than with freedom of inclination. In layman's terms, there's election and free will.
 
 <!-- Whereas supralapsarian high-Calvinists believe in a symmetrical double foreordination, and the Arminians believe in a symmetrical double prescient foreknowledge, this view posits foreordination only in election and foreknowledge in reprobation. The difference between this asymmetry and that of the infralapsarian orthodox Calvinists is that this form of asymmetry is between God's sovereignty and free will instead of God's sovereignty and freedom of inclination. -->
 
