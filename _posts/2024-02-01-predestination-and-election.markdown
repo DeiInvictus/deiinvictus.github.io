@@ -1,6 +1,6 @@
 ---
 title: "⛏️ Do you believe that you have the free will to renounce your faith and forfeit salvation? If the answer is no, then you do believe in some form of predestination."
-date: 2024-02-01 1:15:00 -0500
+date: 2024-02-01 1:20:00 -0500
 categories: [Theology, Predestination]
 tags: [election, predestination] # TAG names should always be lowercase
 author: seven_shepherd
@@ -63,7 +63,9 @@ Fatalism suggests that events are predetermined and inevitable, regardless of hu
 
 > Later doctrines of fatalism may be described loosely as synonymous with determinism, but it is useful to make a distinction. Whereas determinism can be represented as compatible with moral responsibility, fatalism properly understood would reduce practical ethics to nothing but the advice that humans should resign themselves indifferently to the course of events. Strict fatalism, therefore, is not to be sought in the major Christian controversies arising from differences between Augustinian and Pelagian, semi-Pelagian, or Molinist doctrine on free will, on grace, and on predestination. Among Christians, the Quietists, with their uncritical reliance on inspiration, may be regarded as having approached more closely to the fatalistic norm of behaviour than any of the commonly recognized partisans of determinism, such as Calvinists or Jansenists (Britannica, 2017, para. 2).
 
-### 1.1 <a name="double-predestination" href="#Contents">Double Predestination</a>
+<small>1. Dr. Michio Kaku (PhD, University of California, Berkeley).</small>
+
+### 1.1 <a href="#Contents" name="double-predestination">Double Predestination</a>
 
 Individuals who adhere to the doctrine of double predestination can be categorized within determinism. This doctrine asserts that God sovereignly determines both the election of individuals to salvation **and their reprobation** to damnation prior to their existence.
 
@@ -77,18 +79,15 @@ Ron Rhodes Against Double Predestination
 >
 &mdash; [Molinism vs Calvinism](https://www.reasonablefaith.org/writings/question-answer/molinism-vs.-calvinism)
 
+> ... In light of this, the use of this text to promote **“double predestination” seems completely wrong** &mdash; Dr. John C. Lennox (PhD, University of Cambridge; DPhil, Emeritus Professor of Mathematics at the University of Oxford; DSc, Cardiff University), [*Determined to Believe?*]() p. 246.
 
-> ... In light of this, the use of this text to promote **“double
-predestination” seems completely wrong** &mdash; Dr. John C. Lennox (PhD, University of Cambridge; DPhil, Emeritus Professor of Mathematics at the University of Oxford; DSc, Cardiff University), [*Determined to Believe?*]() p. 246.
+> There are some who take these texts to mean that in eternity God mysteriously or even arbitrarily chose who was to be a vessel of wrath and who was to be a vessel of mercy; and that choice permanently and unconditionally fixes their destinies. There is a fundamental flaw in this reasoning, even apart from the fact that it makes no moral sense. **The flaw is to assume that, if someone is a vessel of wrath, they can never become a vessel of mercy.** But **that is false**, as Jeremiah’s use of the potter analogy indicates. **Paul was a vessel of wrath who became a vessel of mercy.** Also, in Ephesians, Paul describes the believers as having once been children of wrath, but because they had repented and trusted Christ as Saviour and Lord they had become vessels of mercy (see Ephesians 2:3–4) (Lennox, 2018, p. 272).<sup>1</sup>
 
-> There are some who take these texts to mean that in eternity God mysteriously or even arbitrarily chose who was to be a vessel of wrath and who was to be a vessel of mercy; and that choice permanently and unconditionally fixes their destinies. There is a fundamental flaw in this reasoning, even apart from the fact that it makes no moral sense. **The flaw is to assume that, if someone is a vessel of wrath, they can never become a vessel of mercy.** But **that is false**, as Jeremiah’s use of the potter analogy indicates. **Paul was a vessel of wrath who became a vessel of mercy.** Also, in Ephesians, Paul describes the believers as having once been children of wrath, but because they had repented and trusted Christ as Saviour and Lord they had become vessels of mercy (see Ephesians 2:3–4) (Lennox, 2018, p. 272).
+<small>
+1\. Dr. John C. Lennox (PhD, Mathematics at the University of Cambridge)<br>
+</small>
 
-
-<!-- &mdash; Dr. John C. Lennox (PhD, University of Cambridge; DPhil, Emeritus Professor of Mathematics at the University of Oxford; DSc, Cardiff University), [*Determined to Believe?*](). p. 272. -->
-
-<small>1. Dr. Michio Kaku (PhD, University of California, Berkeley).</small>
-
-### 1.2 <a name="unconditional-single-election" href="#Contents">Unconditional Single Election</a>
+### 1.2 <a href="#Contents" name="unconditional-single-election">Unconditional Single Election</a>
 
 In contrast to Reformed compatibilism, which advocates for unconditional single election in conjunction with free will, this perspective promotes unconditional single election alongside the concept of freedom of inclination. This distinction positions it within the determinist camp.
 
