@@ -1,6 +1,6 @@
 ---
 title: "⛏️ Do you believe that you have the free will to renounce your faith and forfeit salvation? If the answer is no, then you do believe in some form of predestination."
-date: 2024-02-01 1:55:00 -0500
+date: 2024-02-01 2:00:00 -0500
 categories: [Theology, Predestination]
 tags: [election, predestination] # TAG names should always be lowercase
 author: seven_shepherd
@@ -147,7 +147,7 @@ Compatibilism recognizes God's sovereignty alongside Heisenberg's Uncertainty Pr
 
 ### 3.1 <a name="double-foreknowledge" href="#Contents">Double Foreknowledge</a>
 
-The double foreknowledge of the romanists and arminians through Conditional Election, also known as the Wesleyan Foreknowledge view, can be interpreted as a variant of Compatibilism, as it posits that God predestines individuals based on His foreknowledge of their foreseen faith, even prior to their existence. The only way to know if you are one of the elect is to come to faith. Dr. Rhodes (2016) articulates their perspective as follows:
+The double foreknowledge espoused by Romanists and Arminians, as articulated in Conditional Election&mdash;commonly referred to as the Wesleyan Foreknowledge&mdash;can be interpreted as a variant of Compatibilism, as it posits that God predestines individuals based on His foreknowledge of their foreseen faith, even prior to their existence. The only way to know if you are one of the elect is to come to faith. Dr. Rhodes (2016) articulates their perspective as follows:
 
 > Arminians will come in and say that God's predetermination or election is based on his foreknowledge, in other words, God looks down through the corridors of time and decides who's going to respond positively to the gospel and then he will elect those individuals to salvation ... (2:58).
 
