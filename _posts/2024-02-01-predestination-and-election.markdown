@@ -1,6 +1,6 @@
 ---
 title: "⛏️ Do you believe that you have the free will to renounce your faith and forfeit salvation? If the answer is no, then you do believe in some form of predestination."
-date: 2024-02-01 1:05:00 -0500
+date: 2024-02-01 1:15:00 -0500
 categories: [Theology, Predestination]
 tags: [election, predestination] # TAG names should always be lowercase
 author: seven_shepherd
@@ -71,9 +71,7 @@ Individuals who adhere to the doctrine of double predestination can be categoriz
 
 > I cannot image a more ready instrument in the hands of Satan for the ruin of souls than a minister who tells sinners it is not their duty to repent of their sins [and] who has the arrogance to call himself a gospel minister, while he teaches that God hates some men infinitely and unchangeably for no reason whatever but simply because he chooses to do so. O my brethren! may the Lord save you from the charmer, and keep you ever deaf to the voice of error. &mdash; In Murray, Spurgeon v. Hyper-Calvinism, 155–56.
 
-Ron Rhodes Against Double-Predestination
-
-<iframe width="385" height="315" src="https://www.youtube.com/embed/sg58iXqJRco?si=82r34cYewJ29lob6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+Ron Rhodes Against Double Predestination
 
 > **3\.** ***Universal, divine, determinism makes God the author of sin and precludes human responsibility.*** In contrast to the Molinist view, on the deterministic view even the movement of the human will is caused by God. God moves people to choose evil, and they cannot do otherwise. God determines their choices and makes them do wrong. If it is evil to make another person do wrong, then on this view God is not only the cause of sin and evil, but becomes evil Himself, which is absurd. By the same token, all human responsibility for sin has been removed. For our choices are not really up to us: God causes us to make them. We cannot be responsible for our actions, for nothing we think or do is up to us.
 >
@@ -123,7 +121,7 @@ Libertarianism extends this concept to an illogical extreme. For Christians, the
 2\. Dr. Michael S. Heiser (PhD, Hebrew Bible and Semitic Languages at the University of Wisconsin-Madison)<br>
 </small>
 
-## III. <a name="compatibilism" href="#Contents">⚖️ Compatibilism</a>
+## III. <a name="compatibilism" href="#Contents">⚖️ Theological Compatibilism</a>
 
 Compatibilism argues that determinism (God's sovereignty) and free will are not mutually exclusive, in other words, they exist at the same time. Compatibilists believe that individuals can be considered free in their choices, even if those choices are determined by prior causes. They redefine free will to fit within a deterministic framework, or in this context, free will is reconceptualized to align with God's sovereignty. **This is where you will find the world's brightest theologians and biblical language scholars.**
 
