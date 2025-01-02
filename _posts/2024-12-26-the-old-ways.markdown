@@ -1,6 +1,6 @@
 ---
 title: "The Old Ways — The Ancient Paths"
-date: 2024-12-26 02:40:00 -0500
+date: 2024-12-26 02:45:00 -0500
 categories: [Declaration, Statement]
 tags: [religion, history, theology] # TAG names should always be lowercase
 author: grand_master
@@ -150,7 +150,7 @@ I strongly advocate for, and highly recommend, prioritizing direct engagement wi
     - Reinventing Jesus
 - Systemless Theologians
   - Dr. D. A. Carson (PhD, University of Cambridge)
-    - Divine Sovereingty & Human Responsibility
+    - Divine Sovereignty & Human Responsibility
     - The Gospel according to John
     - The Difficult Doctrine of the Love of God
   - C.S. Lewis (Oxford and Cambridge)
