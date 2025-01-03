@@ -1,6 +1,6 @@
 ---
 title: "⛏️ Do you believe that you have the free will to renounce your faith and forfeit salvation? If the answer is no, then you do believe in some form of predestination."
-date: 2024-02-01 2:35:00 -0500
+date: 2024-02-01 2:40:00 -0500
 categories: [Theology, Predestination]
 tags: [election, predestination] # TAG names should always be lowercase
 author: seven_shepherd
@@ -139,7 +139,7 @@ Libertarianism extends this concept to an illogical extreme. For Christians, the
 
 ## III. <a name="compatibilism" href="#Contents">⚖️ Theological Compatibilism</a>
 
-<sup>🟢 Highly likely accounting for God's sovereignty and free will via Heisenberg's Uncertainty Principle.</sup>
+<sup>🟢 Highly likely, as it accounts for God's sovereignty and free will via Heisenberg's Uncertainty Principle.</sup>
 
 Compatibilism recognizes God's sovereignty alongside Heisenberg's Uncertainty Principle. Compatibilism argues that determinism (God's sovereignty) and free will are not mutually exclusive, in other words, they exist at the same time. Compatibilists believe that individuals can be considered free in their choices, even if those choices are determined by prior causes. They redefine free will to fit within a deterministic framework, or in this context, free will is reconceptualized to align with God's sovereignty. **This is where you will find the world's brightest theologians and biblical language scholars.**
 
