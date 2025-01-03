@@ -1,6 +1,6 @@
 ---
 title: "⛏️ Do you believe that you have the free will to renounce your faith and forfeit salvation? If the answer is no, then you do believe in some form of predestination."
-date: 2024-02-01 2:25:00 -0500
+date: 2024-02-01 2:30:00 -0500
 categories: [Theology, Predestination]
 tags: [election, predestination] # TAG names should always be lowercase
 author: seven_shepherd
@@ -24,6 +24,9 @@ pin: true
     - 3.1 <a href="#double-foreknowledge">Cond. Double Foreknowledge & Free Will</a>
     - 3.2 <a href="#asymmetrical-compatibilism">Uncond. Single Election & Free Will</a>
 4. <a href="#conclusion">⚖️ Conclusion</a>
+    - 4.1 <a href="#men-as-responsible">Men as Responsible</a>
+    - 4.2 <a href="#god-as-sovereign">God as Sovereign</a>
+
 
 ---
 
@@ -192,6 +195,20 @@ Reformed variants of asymmetrical Compatibilism assert a definitive emphasis on 
 ## IV. <a name="conclusion" href="#Contents">⚖️ Conclusion</a>
 
 Both Heisenberg's Uncertainty Principle and, potentially, Gödel's incompleteness theorems indicate that there are inherent limits to what can be known or measured in both physics and mathematics, thereby negating Newtonian determinism. Given that Scripture affirms God's absolute sovereignty while also holding individuals accountable for their actions, compatibilism emerges as the most logical conclusion.
+
+### 4.1 <a name="men-as-responsible" href="#Contents">Men as Responsible</a>
+
+Dr. Carson elaborates on the concept of human responsibility in Chapter 3 of his book *Divine Sovereignty and Human Responsibility: Biblical Perspectives in Tension*. The following are section headings:
+
+> Men face a plethora of exhortations and commands; men are said to obey, believe, choose; men sin and rebel; men's sins are judged by God. Men are not held to be responsible in some merely abstract fashion; they are responsible to someone; men are tested by God; men receive divine rewards; human responsibility may arise out of God's initiative; the prayers of men are not mere showpieces; and God utters pleas for repentance (Carson, 2002, pp. 18-23).<sup>1</sup>.
+
+<small>
+1\. Dr. D. A. Carson (PhD, University of Cambridge)<br>
+</small>
+
+### 4.2 <a name="god-as-sovereign" href="#Contents">God as Sovereign</a>
+
+Dr. Carson elaborates on the concept of God's Sovereignty in Chapter 3 of his book *Divine Sovereignty and Human Responsibility: Biblical Perspectives in Tension*, stating that:
 
 > Chapter Three, GOD AS SOVEREIGN. ... Chance is excluded; and if here and there we read of something that might be considered a chance event, it is not really thought of apart from God's direction (1 Sam. 6.9; 20.26; 1 Kgs. 22.34; Ruth 2.3; 2 Chr. 18.33). Hence the lot is used to discover Yahweh's will, 'and is didactically recognised as under His control' (Prov. 16.33; cf. Josh. 7.16; 14.2; 18.6; 1 Sam. 10.19-21; Jonah 1.7). ... Human thoughts and decisions are often attributed directly to God's determining (e.g. 2 Sam. 24.1; Isa. 19.13f.; 37.7; Prov. 21.1; Ezra 1.1; 7.6, 27f.; Neh. 2.11f.). ... Examples are so numerous that only a few instances may be cited. Micaiah's description of the heavenly courts and the selection of a lying spirit whose success is guaranteed (1 Kgs. 22.19-22; 2 Chr. 18.18-22), the inciting of David to evil purpose (2 Sam. 24.1), the selling of Joseph into slavery (Gen. 50.20), the sending forth of evil spirits to their appointed tasks (e.g. Judg. 9.23ff.; 1 Sam. 16.14; 18.10), the prologue of Job, not to mention the specific remarks of the prophets (e.g. Does evil (rā'āh) befall a city, unless the LORD has done it?" Amos 3.6; cf. Isa. 14.24-7; 45.7), all clamour for attention. ... God is also said to control the minds of his people for good. Sometimes he is petitioned to do so. Such expressions are particularly common in the prophets who look forward to the new covenant (cf. Jer. 31.31-4; 32.40; Ezek. 11.19f.; 36.22ff.; Zeph. 3.9-13; etc.), but are certainly not restricted to such a framework (e.g. 1 Chr. 29.17-19). ... Yahweh is holy, sovereign, full of special regard for his elect, and personally ruling in the affairs of men. This view of God makes the perplexity of his people understandable when, from the human perspective, it appears that Yahweh has dealt harshly (Ruth 1.20f.), unfairly (Job 3ff.), or without due consideration of the wickedness of other men (Habbakuk; Ps. 73). It prompts a cry like that in Isaiah 63.17: 'O LORD, why dost thou make us err from thy ways, and harden our heart, so that we fear thee not? Return for the sake of thy servants, for the tribes of thy heritage. (Cf. also Isa. 64.76.). ... Concluding remarks: The idea that God really is the sovereign disposer of all is consistently woven into the fabric of the Old Testament, even if there is relatively infrequent explicit reflection on the sovereignty-responsibility tension. Taken as a whole, the all-embracing activity of the sovereign God in the Old Testament must be distinguished from deism, which cuts the world off from him; from cosmic dualism, which divides the control of the world between God and other(s); from determinism, which posits such a direct and rigid control, or such an impersonal one, that human responsibility is destroyed; from indeterminism and chance, which deny either the existence or the rationality of a sovereign God; and from pantheism, which virtually identifies God with the world ... (Carson, 2002, pp. 24-38).<sup>1</sup>
 
