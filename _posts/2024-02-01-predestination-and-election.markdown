@@ -1,6 +1,6 @@
 ---
 title: "⛏️ Do you believe that you have the free will to renounce your faith and forfeit salvation? If the answer is no, then you do believe in some form of predestination."
-date: 2024-02-01 2:05:00 -0500
+date: 2024-02-01 2:20:00 -0500
 categories: [Theology, Predestination]
 tags: [election, predestination] # TAG names should always be lowercase
 author: seven_shepherd
@@ -17,12 +17,12 @@ pin: true
 
 1. <a href="#newtonian-determinism">🤖 Determinism & Fatalism</a>
     - 1.1 <a href="#double-predestination">Double Predestination</a>
-    - 1.2 <a href="#unconditional-single-election">Single Election & Inclination</a>
+    - 1.2 <a href="#unconditional-single-election">Uncond. Single Election & Inclination</a>
 2. <a href="#indeterminism">☠️ Indeterminism & Libertarianism</a>
     - 2.1 <a href="#libertarian-free-will">Libertarian Free Will</a>
 3. <a href="#compatibilism">⚖️ Theological Compatibilism</a>
-    - 3.1 <a href="#double-foreknowledge">Double Foreknowledge & Free Will</a>
-    - 3.2 <a href="#asymmetrical-compatibilism">Single Election & Free Will</a>
+    - 3.1 <a href="#double-foreknowledge">Cond. Double Foreknowledge & Free Will</a>
+    - 3.2 <a href="#asymmetrical-compatibilism">Uncond. Single Election & Free Will</a>
 4. <a href="#conclusion">⚖️ Conclusion</a>
 
 ---
@@ -74,22 +74,24 @@ Fatalism suggests that events are predetermined and inevitable, regardless of hu
 
 Individuals who adhere to the doctrine of double predestination can be categorized within determinism. This doctrine asserts that God sovereignly determines both the election of individuals to salvation **and their reprobation** to damnation prior to their existence.
 
-> The dreadful error of hyper-Calvinism is that it involves God in coercing sin. **This does radical violence to the integrity of God’s character**. &mdash; [Dr. R. C. Sproul (Ph.D., Whitefield)](https://youtu.be/-HMb9YjRq8Q), "Chosen by God," Ch. 7. Sproul was a devout <span style="font-weight:bold;color:#FBB917;">5-point Scholastic Calvinist</span>
+> The dreadful error of hyper-Calvinism is that it involves God in coercing sin. **This does radical violence to the integrity of God’s character** (Sproul, 1986, Ch. 7).<sup>1</sup>
 
 > I cannot image a more ready instrument in the hands of Satan for the ruin of souls than a minister who tells sinners it is not their duty to repent of their sins [and] who has the arrogance to call himself a gospel minister, while he teaches that God hates some men infinitely and unchangeably for no reason whatever but simply because he chooses to do so. O my brethren! may the Lord save you from the charmer, and keep you ever deaf to the voice of error. &mdash; In Murray, Spurgeon v. Hyper-Calvinism, 155–56.
 
-Ron Rhodes Against Double Predestination
+<!-- Ron Rhodes Against Double Predestination https://www.youtube.com/embed/sg58iXqJRco?si=82r34cYewJ29lob6 -->
 
-> **3\.** ***Universal, divine, determinism makes God the author of sin and precludes human responsibility.*** In contrast to the Molinist view, on the deterministic view even the movement of the human will is caused by God. God moves people to choose evil, and they cannot do otherwise. God determines their choices and makes them do wrong. If it is evil to make another person do wrong, then on this view God is not only the cause of sin and evil, but becomes evil Himself, which is absurd. By the same token, all human responsibility for sin has been removed. For our choices are not really up to us: God causes us to make them. We cannot be responsible for our actions, for nothing we think or do is up to us.
->
-&mdash; [Molinism vs Calvinism](https://www.reasonablefaith.org/writings/question-answer/molinism-vs.-calvinism)
+> 3\. *Universal, divine, determinism makes God the author of sin and precludes human responsibility.* In contrast to the Molinist view, on the deterministic view even the movement of the human will is caused by God. God moves people to choose evil, and they cannot do otherwise. God determines their choices and makes them do wrong. If it is evil to make another person do wrong, then on this view God is not only the cause of sin and evil, but becomes evil Himself, which is absurd. By the same token, all human responsibility for sin has been removed. For our choices are not really up to us: God causes us to make them. We cannot be responsible for our actions, for nothing we think or do is up to us (Craig, 2010, "Five difficulties" section).<sup>2</sup>
 
-> ... In light of this, the use of this text to promote **“double predestination” seems completely wrong** &mdash; Dr. John C. Lennox (PhD, University of Cambridge; DPhil, Emeritus Professor of Mathematics at the University of Oxford; DSc, Cardiff University), *Determined to Believe?* p. 246.
+> ... In light of this, the use of this text to promote **“double predestination” seems completely wrong** (Lennox, 2018, p. 246).<sup>3</sup>
 
-> There are some who take these texts to mean that in eternity God mysteriously or even arbitrarily chose who was to be a vessel of wrath and who was to be a vessel of mercy; and that choice permanently and unconditionally fixes their destinies. There is a fundamental flaw in this reasoning, even apart from the fact that it makes no moral sense. **The flaw is to assume that, if someone is a vessel of wrath, they can never become a vessel of mercy.** But **that is false**, as Jeremiah’s use of the potter analogy indicates. **Paul was a vessel of wrath who became a vessel of mercy.** Also, in Ephesians, Paul describes the believers as having once been children of wrath, but because they had repented and trusted Christ as Saviour and Lord they had become vessels of mercy (see Ephesians 2:3–4) (Lennox, 2018, p. 272).<sup>1</sup>
+<!-- &mdash; Dr. John C. Lennox (PhD, University of Cambridge; DPhil, Emeritus Professor of Mathematics at the University of Oxford; DSc, Cardiff University), *Determined to Believe?* p. 246. -->
+
+> There are some who take these texts to mean that in eternity God mysteriously or even arbitrarily chose who was to be a vessel of wrath and who was to be a vessel of mercy; and that choice permanently and unconditionally fixes their destinies. There is a fundamental flaw in this reasoning, even apart from the fact that it makes no moral sense. **The flaw is to assume that, if someone is a vessel of wrath, they can never become a vessel of mercy.** But **that is false**, as Jeremiah’s use of the potter analogy indicates. **Paul was a vessel of wrath who became a vessel of mercy.** Also, in Ephesians, Paul describes the believers as having once been children of wrath, but because they had repented and trusted Christ as Saviour and Lord they had become vessels of mercy (see Ephesians 2:3–4) (Lennox, 2018, p. 272).<sup>3</sup>
 
 <small>
-1\. Dr. John C. Lennox (PhD, Mathematics at the University of Cambridge)<br>
+1\. Dr. R. C. Sproul (PhD, Whitefield Theological Seminary)
+2\. Dr. William Lane Craig (PhD, University of Birmingham; ThD, University of Munich)
+2\. Dr. John C. Lennox (PhD, Mathematics at the University of Cambridge)<br>
 </small>
 
 ### 1.2 <a href="#Contents" name="unconditional-single-election">Unconditional Single Election & Freedom of Inclination</a>
@@ -215,6 +217,8 @@ Britannica, T. Editors of Encyclopaedia. (2024, November 15). *Free will*. Encyc
 
 Carson, D. A. (2002). *Divine sovereignty and human responsibility: Biblical perspectives in tension*. Wipf and Stock Publishers.
 
+Craig, W. L. (2010, April 19). *#157 Molinism vs. Calvinism*. Reasonable Faith. https://www.reasonablefaith.org/writings/question-answer/molinism-vs.-calvinism
+
 Demarest, B. (2006). *The cross and salvation*. Crossway Books.
 
 Heiser, M. S. (2021, July 6). *Does Foreknowledge require Predestination?* [Video]. YouTube. https://youtu.be/kwyZxAtTHfc&t=48
@@ -228,6 +232,8 @@ Rhodes, R. (2016, Sep 13). *The Doctrine of Election, Foreknowledge and Freewill
 Ross, H. [@RTBHughRoss]. (2020, September 9). *Question of the Week: Of the main sotierology models within evangelicalism to which do you adhere: Calvinism, Arminianism, or Traditionalism?* Facebook. https://m.facebook.com/RTBHughRoss/posts/3266294876781927/
 
 Smith, C. (2001). *Calvinism, arminianism, & the word of God, a Calvary Chapel perspective*. The Word For Today.
+
+Sproul, R. C. (1986). *Chosen by God*. Tyndale House Publishers.
 
 <!-- Packer, J. I. (2020). *Concise theology*. Crossway. -->
 
