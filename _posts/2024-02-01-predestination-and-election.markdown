@@ -1,6 +1,6 @@
 ---
 title: "⛏️ Do you believe that you have the free will to renounce your faith and forfeit salvation? If the answer is no, then you do believe in some form of predestination."
-date: 2024-02-01 3:00:00 -0500
+date: 2024-02-01 3:10:00 -0500
 categories: [Theology, Predestination]
 tags: [election, predestination] # TAG names should always be lowercase
 author: seven_shepherd
@@ -26,6 +26,7 @@ pin: true
 4. <a href="#conclusion">⚖️ Conclusion</a>
     - 4.1 <a href="#men-as-responsible">Men as Responsible</a>
     - 4.2 <a href="#god-as-sovereign">God as Sovereign</a>
+    - 4.3 <a href="#final-thoughts">Final Thoughts</a>
 
 ---
 
@@ -125,7 +126,6 @@ This view posits that not all events are determined by preceding causes, allowin
 Dr. John C. Polkinghorne, a distinguished professor of Mathematical Physics at Cambridge University, emphasizes in his book *Science and Providence*:
 
 > Inability to predict might be due either to ignorance of hidden causal detail of a conventional kind, or it might be the sign of a true openness to the operation of new forms of causal principle. It is a matter for metaphysical decision which of these alternatives is to be chosen, a point made clearly enough by the existence of both an **indeterministic interpretation (Niels Bohr) and a deterministic interpretation (David Bohm) of quantum theory**, each having the same empirical adequacy in relation to experimental results, so that physics by itself cannot settle the issue between them (Polkinghorne, 2005, p. xi).<sup>2</sup>
-
 
 > I think, from an undue bewitchment by the Newtonian equations from which chaos theory originally sprang. Of course, as they stand, these equations are deterministic in their character, but we know that they are only approximations to reality, since Newtonian thinking is not adequate at the scale of atomic phenomena. Dismissive talk of ‘deterministic chaos’ is, therefore, a highly challengeable metaphysical decision, rather than an established conclusion of physics. It might be thought that understanding could be advanced by a fusion of quantum theory and chaos theory, since the behavior of chaotic systems soon comes ostensibly to depend upon fine detail at a level of accuracy that is rendered inaccessible by Heisenberg’s uncertainty principle (Polkinghorne, 2005, p. xii).<sup>2</sup>
 
@@ -240,6 +240,33 @@ Dr. Carson elaborates on the concept of God's Sovereignty in Chapter 3 of his bo
 
 <small>
 1\. Dr. D. A. Carson (PhD, University of Cambridge)<br>
+</small>
+
+
+### 4.3 <a name="final-thoughts" href="#Contents">Final Thoughts</a>
+
+In the scriptures, we observe the coexistence and a nuanced interplay between determinism, in the form of God's sovereignty, and a degree of free will. However, the question arises: do these two concepts exist simultaneously in a state of constant tension? Heiser (2021) argues convincingly against this notion, stating:
+
+> The fact that God knows possibilities, and all possibilities don't happen. tells you that God's foreknowledge of those possibilities did not result in the predestination of all those possibilities. foreknowledge and predestination are not inextricably linked, **foreknowledge does not necessitate predestination**. God knowing all things real and possible actually undermines that idea (0:48).<sup>3</sup>
+
+At the same time, Drs. Carson (2002), Polkinghorne (2005, p. xi), Polkinghorne reluctantly, Ross (2020), and Rhodes (2016) demonstrate the presence of determinism:
+
+> Arminians will come in and say that God's predetermination or election is based on his foreknowledge, in other words, God looks down through the corridors of time and decides who's going to respond positively to the gospel and then he will elect those individuals to salvation **the problem with that view is that the Bible doesn't indicate that God just knows things in advance but he actually determines things in advance he determines what will happen** (Rhodes, 2016, 2:58).<sup>5</sup>
+
+<!-- If foreknowledge does not necessitate predestination, and God doesn't just know things in advance but determines them, then we have to conclude, due to the axiomatic law of thought, the law of non-contradiction, that ... -->
+
+<!-- If foreknowledge does not necessitate predestination, and if God does not merely possess knowledge of future events but actively determines them, then we must conclude, in accordance with the axiomatic law of thought—specifically, the law of non-contradiction—that God has determined not to determine all the time but only when he desires. -->
+
+What if conditional election is correct regarding salvation, but incorrect concerning other instances where God may have chosen to implement a deterministic framework? If foreknowledge does not necessitate predestination, and if God does not merely possess knowledge of future events but actively determines them, then we must conclude, in accordance with the axiomatic law of thought&mdash;specifically, the law of non-contradiction&mdash;that God chooses to exercise His determinative power selectively or in a state of flux, rather than continuously in a constant state. Compatibilism remains the relevant term, but its application is selective in my theory; thus, I would refer to it as "Selective Compatibilism." I believe that my conclusions align cohesively with those of Ross's Transcendent Compatibilism, although they may lean more toward the concept of prescient foreknowledge rather than foreordination.
+
+<!-- I think my conclusions and the conclusions of Ross's Transcendent Compatibilism may work cohesively, though it would lean more toward prescience than foreordination. -->
+
+<small>
+1\. Dr. D. A. Carson (PhD, University of Cambridge)<br>
+2\. Dr. John C. Polkinghorne (Prof, Mathematical Physics at Cambridge; PhD, Quantum Field Theory at Cambridge; PhD, Theoretical Elementary Particle Physics from Trinity College)<br>
+3\. Dr. Michael S. Heiser (PhD, Hebrew Bible and Semitic Languages at the University of Wisconsin-Madison)<br>
+4\. Dr. Hugh Ross (PhD, Astrophysicist at the University of Toronto)<br>
+5\. Dr. Ron Rhodes (ThD, Dallas Theological Seminary)
 </small>
 
 <br>
