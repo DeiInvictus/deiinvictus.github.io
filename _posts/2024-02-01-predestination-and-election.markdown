@@ -1,6 +1,6 @@
 ---
 title: "⛏️ Do you believe that you have the free will to renounce your faith and forfeit salvation? If the answer is no, then you do believe in some form of predestination."
-date: 2024-02-01 2:20:00 -0500
+date: 2024-02-01 2:25:00 -0500
 categories: [Theology, Predestination]
 tags: [election, predestination] # TAG names should always be lowercase
 author: seven_shepherd
@@ -89,9 +89,9 @@ Individuals who adhere to the doctrine of double predestination can be categoriz
 > There are some who take these texts to mean that in eternity God mysteriously or even arbitrarily chose who was to be a vessel of wrath and who was to be a vessel of mercy; and that choice permanently and unconditionally fixes their destinies. There is a fundamental flaw in this reasoning, even apart from the fact that it makes no moral sense. **The flaw is to assume that, if someone is a vessel of wrath, they can never become a vessel of mercy.** But **that is false**, as Jeremiah’s use of the potter analogy indicates. **Paul was a vessel of wrath who became a vessel of mercy.** Also, in Ephesians, Paul describes the believers as having once been children of wrath, but because they had repented and trusted Christ as Saviour and Lord they had become vessels of mercy (see Ephesians 2:3–4) (Lennox, 2018, p. 272).<sup>3</sup>
 
 <small>
-1\. Dr. R. C. Sproul (PhD, Whitefield Theological Seminary)
-2\. Dr. William Lane Craig (PhD, University of Birmingham; ThD, University of Munich)
-2\. Dr. John C. Lennox (PhD, Mathematics at the University of Cambridge)<br>
+1\. Dr. R. C. Sproul (PhD, Whitefield Theological Seminary)<br>
+2\. Dr. William Lane Craig (PhD, University of Birmingham; ThD, University of Munich)<br>
+2\. Dr. John C. Lennox (PhD, Mathematics at the University of Cambridge)
 </small>
 
 ### 1.2 <a href="#Contents" name="unconditional-single-election">Unconditional Single Election & Freedom of Inclination</a>
