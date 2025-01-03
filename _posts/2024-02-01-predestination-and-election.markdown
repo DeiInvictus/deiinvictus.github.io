@@ -1,6 +1,6 @@
 ---
 title: "⛏️ Do you believe that you have the free will to renounce your faith and forfeit salvation? If the answer is no, then you do believe in some form of predestination."
-date: 2024-02-01 2:30:00 -0500
+date: 2024-02-01 2:35:00 -0500
 categories: [Theology, Predestination]
 tags: [election, predestination] # TAG names should always be lowercase
 author: seven_shepherd
@@ -26,7 +26,6 @@ pin: true
 4. <a href="#conclusion">⚖️ Conclusion</a>
     - 4.1 <a href="#men-as-responsible">Men as Responsible</a>
     - 4.2 <a href="#god-as-sovereign">God as Sovereign</a>
-
 
 ---
 
@@ -181,15 +180,14 @@ Reformed variants of asymmetrical Compatibilism assert a definitive emphasis on 
 
 <!-- > [@20:25](https://youtu.be/uuUKE5resPs?si=h3FO_qxcKIjM7uF7&t=1225) ... head of Christ and that no flesh should be able to glory in its own sight but whoever makes an appearance before the throne of the Lord his glory will be in the lord of hosts now some may say that's the sovereignty of God hallelujah **but what about my free will, well it's not as free as you think it is, you are free to make choices but you are not free to enforce all of them** ... there is freedom but it's quite limited. In lots of respects, you have not chosen me I've chosen you means that God had the last word ...&mdash; [Dr. Walter Martin (PhD, University of California Coast)](https://youtu.be/uuUKE5resPs?si=h3FO_qxcKIjM7uF7&t=1225) -->
 
-> If what Carson means is that that John believes in both God’s sovereignty and human responsibility, and that both must be held equally firmly, however paradoxical the resulting tension may appear to us, then **that would be fine**. However, the term “compatibilism”, as we mentioned earlier, is normally used by philosophers who hold that human freedom and responsibility is compatible with determinism – a very different matter; unless, of course, one interprets sovereignty as determinism (Lennox, 2018, p. 101).<sup>3</sup>
+> If what Carson means is that that John believes in both God’s sovereignty and human responsibility, and that both must be held equally firmly, however paradoxical the resulting tension may appear to us, then **that would be fine**. However, the term “compatibilism”, as we mentioned earlier, is normally used by philosophers who hold that human freedom and responsibility is compatible with determinism – a very different matter; unless, of course, one interprets sovereignty as determinism (Lennox, 2018, p. 101).<sup>2</sup>
 
-> I wrote an entire book addressing the posed question: Beyond the Cosmos, now in its third edition. ... In that book I explain why each of Calvinism, Arminianism, and Traditionalism are inadequate by themselves to address all that the Bible teaches on sotierology and our relationship with Christ. I point out, for example, that **the Bible teaches that both divine predetermination and human free will simultaneously operate.** <span style="font-weight:bold;color:darkred;">I explain why there is no possible resolution of this paradox within the spacetime dimensions of the universe.</span> However, the Bible teaches and the spacetime theorems prove that God created the cosmic spacetime dimensions and in no way is limited by them. <span style="font-weight:bold;color:green;">I show three different ways how the paradox of divine predetermination and human free will can be resolved in the extra- and trans-dimensional context of God.</span> I also show how several other biblical paradoxes can be resolved from God’s extra-/trans-dimensional perspective (Ross, 2020, para. 2).<sup>4</sup>
+> I wrote an entire book addressing the posed question: Beyond the Cosmos, now in its third edition. ... In that book I explain why each of Calvinism, Arminianism, and Traditionalism are inadequate by themselves to address all that the Bible teaches on sotierology and our relationship with Christ. I point out, for example, that **the Bible teaches that both divine predetermination and human free will simultaneously operate.** <span style="font-weight:bold;color:darkred;">I explain why there is no possible resolution of this paradox within the spacetime dimensions of the universe.</span> However, the Bible teaches and the spacetime theorems prove that God created the cosmic spacetime dimensions and in no way is limited by them. <span style="font-weight:bold;color:green;">I show three different ways how the paradox of divine predetermination and human free will can be resolved in the extra- and trans-dimensional context of God.</span> I also show how several other biblical paradoxes can be resolved from God’s extra-/trans-dimensional perspective (Ross, 2020, para. 2).<sup>3</sup>
 
 <small>
 1\. Dr. Ron Rhodes (ThD, Dallas Theological Seminary)<br>
-2\. Dr. Bruce Demarest (PhD, University of Manchester)<br>
-3\. Dr. John C. Lennox (PhD, Mathematics at the University of Cambridge)<br>
-4\. Dr. Hugh Ross (PhD, Astrophysicist at the University of Toronto)
+2\. Dr. John C. Lennox (PhD, Mathematics at the University of Cambridge)<br>
+3\. Dr. Hugh Ross (PhD, Astrophysicist at the University of Toronto)
 </small>
 
 ## IV. <a name="conclusion" href="#Contents">⚖️ Conclusion</a>
