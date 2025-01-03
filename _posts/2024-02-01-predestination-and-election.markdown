@@ -1,6 +1,6 @@
 ---
 title: "⛏️ Do you believe that you have the free will to renounce your faith and forfeit salvation? If the answer is no, then you do believe in some form of predestination."
-date: 2024-02-01 2:45:00 -0500
+date: 2024-02-01 3:00:00 -0500
 categories: [Theology, Predestination]
 tags: [election, predestination] # TAG names should always be lowercase
 author: seven_shepherd
@@ -114,7 +114,7 @@ In contrast to Reformed compatibilism, which advocates for unconditional single 
 
 <sup>🟡 Demonstrated as possible by Heisenberg's Uncertainty Principle.</sup>
 
-This view posits that not all events are determined by preceding causes, allowing for randomness or chance. Indeterminism opens the door for a form of free will, as it suggests that some events (including human decisions) can occur without being predetermined.
+This view posits that not all events are determined by preceding causes, allowing for randomness or chance. Indeterminism opens the door for a form of free will, as it suggests that some events (including human decisions) can occur without being predetermined. Dr. Michio Kaku, a theoretical physicist and co-founder of string field theory, emphasizes the implications of Heisenberg's Uncertainty Principle on free will:
 
 > ... Heisenberg then comes along and proposes the Heisenberg Uncertainty Principle and says: &ldquo;Nonsense. There is uncertainty. You don’t know where the electron is. It could be here, here or many places simultaneously.&rdquo; This of course Einstein hated because he said God doesn’t play dice with the universe. Well hey, get used to it. Einstein was wrong. God does play dice. Every time we look at an electron it moves. There is uncertainty with regards to the position of the electron.
 >
@@ -129,15 +129,15 @@ Dr. John C. Polkinghorne, a distinguished professor of Mathematical Physics at C
 
 > I think, from an undue bewitchment by the Newtonian equations from which chaos theory originally sprang. Of course, as they stand, these equations are deterministic in their character, but we know that they are only approximations to reality, since Newtonian thinking is not adequate at the scale of atomic phenomena. Dismissive talk of ‘deterministic chaos’ is, therefore, a highly challengeable metaphysical decision, rather than an established conclusion of physics. It might be thought that understanding could be advanced by a fusion of quantum theory and chaos theory, since the behavior of chaotic systems soon comes ostensibly to depend upon fine detail at a level of accuracy that is rendered inaccessible by Heisenberg’s uncertainty principle (Polkinghorne, 2005, p. xii).<sup>2</sup>
 
-In Chapter Two, Dr. John C. Polkinghorne emphasizes that our understanding of the universe reveals an openness to the future, challenging the constraints of mechanical determinism and suggesting a more dynamic and less machine-like nature of reality.
+In Chapter Two, Dr. John C. Polkinghorne emphasizes that our understanding of the universe reveals an openness to the future, challenging the constraints of mechanical determinism and suggesting a more dynamic and less machine-like nature of reality:
 
 > We now understand that even at those macroscopic levels where classical physics gives an adequate account, there is an openness to the future which relaxes the **unrelenting grip of mechanical determinism**. The universe may not look like an organism, but it looks even less like a machine (Polkinghorne, 2005, p. 37).<sup>2</sup>
 
-In Chapter 5, Dr. John C. Polkinghorne addresses the problem of evil, presenting the free-will defense as a response to atheist critiques, emphasizing that the immediate source of suffering lies in the exercise of human will.
+In Chapter 5, Dr. John C. Polkinghorne addresses the problem of evil, presenting the free-will defense as a response to atheist critiques, emphasizing that the immediate source of suffering lies in the exercise of human will:
 
 > Dreadful as the resulting sufferings are, their immediate source is clear. They result from the exercise of human will. Men and women are directly responsible for them. That responsibility may be diffused, for we are all subject to the pressures of society and of our upbringings, but it is primarily located in humanity. **The classic answer to the allowed existence of moral evil is the free-will defense**— the claim that it is better for God to have created a world of freely choosing beings, with the possibility of their voluntary response to him and to each other, as well as the possibility of sinful selfishness, than to have created a world of blindly obedient automata (Polkinghorne, 2005, p. 76.).<sup>2</sup>
 
-In Chapter 7, Dr. John C. Polkinghorne explores the nature of time, arguing that while traditional views may suggest time is an illusion in a deterministic universe, modern quantum theory reveals that successive acts of measurement lead to genuinely new states, emphasizing a dynamic understanding of time.
+In Chapter 7, Dr. John C. Polkinghorne explores the nature of time, arguing that while traditional views may suggest time is an illusion in a deterministic universe, modern quantum theory reveals that successive acts of measurement lead to genuinely new states, emphasizing a dynamic understanding of time:
 
 > Time does not elapse; the world line is not traversed. It is simply there. Spacetime diagrams are great chunks of frozen history. Not only can God take an atemporal view of such a universe; it is really the only right perspective from which to consider it. Just before his death Einstein wrote the astonishing words: “For us convinced physicists, the distinction between past, present and future is an illusion, though a persistent one.”
 >
