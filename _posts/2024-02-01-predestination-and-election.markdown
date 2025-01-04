@@ -1,6 +1,6 @@
 ---
 title: "⛏️ Do you believe that you have the free will to renounce your faith and forfeit salvation? If the answer is no, then you do believe in some form of predestination."
-date: 2024-02-01 3:35:00 -0500
+date: 2024-02-01 3:40:00 -0500
 categories: [Theology, Predestination]
 tags: [election, predestination] # TAG names should always be lowercase
 author: seven_shepherd
@@ -250,7 +250,7 @@ Both Heisenberg's Uncertainty Principle and, potentially, Gödel's incompletenes
 
 <!-- Demarest (2006) highlights that the term for "predestined" in the Golden Chain, proginōskō, when attributed to God, can signify either prescience, as interpreted by Arminians, or foreloving/foreordaining, as understood by Calvinists. He asserts: -->
 
-Demarest (2006) elucidates that the term "predestined," rendered as proginōskō in the Golden Chain, can convey two distinct meanings when ascribed to God: it may denote prescience, as interpreted by Arminians, or it may imply foreloving and foreordaining, as understood by Calvinists. He contends:
+Demarest (2006) elucidates that the term "foreknew," rendered as proginōskō in the Golden Chain, can convey two distinct meanings when ascribed to God: it may denote prescience, as interpreted by Arminians, or it may imply foreloving and foreordaining, as understood by Calvinists. He contends:
 
 > In Rom 8:28-30 Paul delineated the full circle of salvation, which clinched his argument concerning Christians’ hope of heavenly glory (vv. 18-27).
 >
