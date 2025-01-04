@@ -1,6 +1,6 @@
 ---
 title: "⛏️ Do you believe that you have the free will to renounce your faith and forfeit salvation? If the answer is no, then you do believe in some form of predestination."
-date: 2024-02-01 3:25:00 -0500
+date: 2024-02-01 3:30:00 -0500
 categories: [Theology, Predestination]
 tags: [election, predestination] # TAG names should always be lowercase
 author: seven_shepherd
@@ -80,7 +80,7 @@ Individuals who adhere to the doctrine of double predestination can be categoriz
 
 > The dreadful error of hyper-Calvinism is that it involves God in coercing sin. **This does radical violence to the integrity of God’s character** (Sproul, 1986, Ch. 7).<sup>1</sup>
 
-> I cannot image a more ready instrument in the hands of Satan for the ruin of souls than a minister who tells sinners it is not their duty to repent of their sins [and] who has the arrogance to call himself a gospel minister, while he teaches that God hates some men infinitely and unchangeably for no reason whatever but simply because he chooses to do so. O my brethren! may the Lord save you from the charmer, and keep you ever deaf to the voice of error. &mdash; In Murray, Spurgeon v. Hyper-Calvinism, 155–56.
+> I cannot imagine a more ready instrument in the hands of Satan for the ruin of souls than a minister who tells sinners it is not their duty to repent of their sins [and] who has the arrogance to call himself a gospel minister, while he teaches that God hates some men infinitely and unchangeably for no reason whatever but simply because he chooses to do so. O my brethren! may the Lord save you from the charmer, and keep you ever deaf to the voice of error. &mdash; In Murray, Spurgeon v. Hyper-Calvinism, 155–56.
 
 <!-- Ron Rhodes Against Double Predestination https://www.youtube.com/embed/sg58iXqJRco?si=82r34cYewJ29lob6 -->
 
@@ -114,13 +114,13 @@ In contrast to Reformed compatibilism, which advocates for unconditional single 
 
 ## II. <a name="indeterminism" href="#Contents">☠️ Indeterminism & Libertarianism</a>
 
-<small>
+<div style="font-size:0.7rem;">
 Conclusions:<br>
-<ul>
-    <li>🟡 1. Heisenberg's Uncertainty Principle does not "prove" indeterminism in the classical sense, but it does imply that at the quantum level, there are fundamental limits to predictability.</li>
-    <li>🔴 2. See <a href="#libertarian-free-will">Libertarian Free Will</a> below.</li>
-</ul>
-</small>
+  <ul>
+      <li>🟡 1. Heisenberg's Uncertainty Principle does not "prove" indeterminism in the classical sense, but it does imply that at the quantum level, there are fundamental limits to predictability.</li>
+      <li>🔴 2. See <a href="#libertarian-free-will">Libertarian Free Will</a> below.</li>
+  </ul>
+</div>
 
 This view posits that not all events are determined by preceding causes, allowing for randomness or chance. Indeterminism opens the door for a form of free will, as it suggests that some events (including human decisions) can occur without being predetermined. Dr. Michio Kaku, a theoretical physicist and co-founder of string field theory, emphasizes the implications of Heisenberg's Uncertainty Principle on free will:
 
@@ -166,13 +166,13 @@ Dr. Michael S. Heiser, who holds a PhD in Hebrew Bible and Semitic Languages fro
 
 ### 3.1 <a name="libertarian-free-will" href="#Contents">Libertarian Free Will</a>
 
-<small>
+<div style="font-size:0.7rem;">
 Discredited by:<br>
-<ul>
-    <li>🔴 1. Violating Scripture.</li>
-    <li>🔴 2. The "intelligibility" objection.</li>
-</ul>
-</small>
+  <ul>
+      <li>🔴 1. Violating Scripture.</li>
+      <li>🔴 2. The "intelligibility" objection.</li>
+  </ul>
+</div>
 
 Libertarianism extends this concept to an illogical extreme. For Christians, the difficulty presented by **libertarian free will** stems from its total disregard for God's sovereignty and its profound neglect of Scriptural teachings. Libertarianism contradicts Ephesians 1:13-14 by ignorantly asserting that individuals can nullify their own divine seal through the exercise of their free will, that they can essentially snatch themselves from God's hand (John 10:28-29), and that they somehow have the free will to overpower God himself (Romans 8:38-39).
 
@@ -180,14 +180,14 @@ Libertarianism extends this concept to an illogical extreme. For Christians, the
 
 ## III. <a name="compatibilism" href="#Contents">⚖️ Theological Compatibilism</a>
 
-<small>
+<div style="font-size:0.7rem;">
 Highly likely, as it:<br>
-<ul>
-    <li>🟢 1. Accounts for God's Sovereign Choice.</li>
-    <li>🟢 2. Accounts for free will via Heisenberg's Uncertainty Principle.</li>
-    <li>🟢 3. Avoids the <a href="#libertarian-free-will">“intelligibility” objection.</a></li>
-</ul>
-</small>
+  <ul>
+      <li>🟢 1. Accounts for God's Sovereign Choice.</li>
+      <li>🟢 2. Accounts for free will via Heisenberg's Uncertainty Principle.</li>
+      <li>🟢 3. Avoids the <a href="#libertarian-free-will">“intelligibility” objection.</a></li>
+  </ul>
+</div>
 
 Compatibilism recognizes God's sovereignty alongside Heisenberg's Uncertainty Principle. Compatibilism argues that determinism (God's sovereignty) and free will are not mutually exclusive, in other words, they exist at the same time. Compatibilists believe that individuals can be considered free in their choices, even if those choices are determined by prior causes. They redefine free will to fit within a deterministic framework, or in this context, free will is reconceptualized to align with God's sovereignty. **This is where you will find the world's brightest theologians and biblical language scholars.**
 
