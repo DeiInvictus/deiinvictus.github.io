@@ -1,6 +1,6 @@
 ---
 title: "⛏️ Do you believe that you have the free will to renounce your faith and forfeit salvation? If the answer is no, then you do believe in some form of predestination."
-date: 2024-02-01 3:15:00 -0500
+date: 2024-02-01 3:20:00 -0500
 categories: [Theology, Predestination]
 tags: [election, predestination] # TAG names should always be lowercase
 author: seven_shepherd
@@ -282,9 +282,9 @@ At the same time, Drs. Carson (2002), Polkinghorne (2005, p. xi), Polkinghorne r
 
 <!-- If foreknowledge does not necessitate predestination, and if God does not merely possess knowledge of future events but actively determines them, then we must conclude, in accordance with the axiomatic law of thought—specifically, the law of non-contradiction—that God has determined not to determine all the time but only when he desires. -->
 
-What if conditional election is correct regarding salvation, but incorrect concerning other instances where God may have chosen to implement a more deterministic and unconditional framework? If foreknowledge does not necessitate predestination, and if God does not merely possess knowledge of future events but actively determines them, then we must conclude, in accordance with the axiomatic laws of thought&mdash;specifically, the law of non-contradiction&mdash;that God chooses to exercise His determinative power selectively or in a state of flux, rather than continuously in a constant state. Compatibilism remains the relevant term, but its application is selective in my theory; thus, I would refer to it as "Selective Compatibilism." I believe that my conclusions align cohesively with those of Ross's Transcendent Compatibilism, although they may lean more toward the concept of prescient foreknowledge rather than foreordination.
+What if conditional election is correct regarding salvation, but incorrect concerning other instances where God may have chosen to implement a more deterministic and unconditional framework? If foreknowledge does not necessitate predestination, and if God does not merely possess knowledge of future events but actively determines them, then we must conclude, in accordance with the axiomatic laws of thought&mdash;specifically, the law of non-contradiction&mdash;that God chooses to exercise His determinative power selectively or in a state of flux, rather than continuously in a constant state.
 
-
+<!-- Compatibilism remains the relevant term, but its application is selective in my theory; thus, I would refer to it as "Selective Compatibilism." I believe that my conclusions align cohesively with those of Ross's Transcendent Compatibilism, although they may lean more toward the concept of prescient foreknowledge rather than foreordination. -->
 
 <!-- I think my conclusions and the conclusions of Ross's Transcendent Compatibilism may work cohesively, though it would lean more toward prescience than foreordination. -->
 
