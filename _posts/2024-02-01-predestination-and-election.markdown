@@ -1,6 +1,6 @@
 ---
 title: "⛏️ Do you believe that you have the free will to renounce your faith and forfeit salvation? If the answer is no, then you do believe in some form of predestination."
-date: 2024-02-01 3:30:00 -0500
+date: 2024-02-01 3:35:00 -0500
 categories: [Theology, Predestination]
 tags: [election, predestination] # TAG names should always be lowercase
 author: seven_shepherd
@@ -114,7 +114,7 @@ In contrast to Reformed compatibilism, which advocates for unconditional single 
 
 ## II. <a name="indeterminism" href="#Contents">☠️ Indeterminism & Libertarianism</a>
 
-<div style="font-size:0.7rem;">
+<div style="font-size:0.8rem;">
 Conclusions:<br>
   <ul>
       <li>🟡 1. Heisenberg's Uncertainty Principle does not "prove" indeterminism in the classical sense, but it does imply that at the quantum level, there are fundamental limits to predictability.</li>
@@ -166,7 +166,7 @@ Dr. Michael S. Heiser, who holds a PhD in Hebrew Bible and Semitic Languages fro
 
 ### 3.1 <a name="libertarian-free-will" href="#Contents">Libertarian Free Will</a>
 
-<div style="font-size:0.7rem;">
+<div style="font-size:0.8rem;">
 Discredited by:<br>
   <ul>
       <li>🔴 1. Violating Scripture.</li>
@@ -180,7 +180,7 @@ Libertarianism extends this concept to an illogical extreme. For Christians, the
 
 ## III. <a name="compatibilism" href="#Contents">⚖️ Theological Compatibilism</a>
 
-<div style="font-size:0.7rem;">
+<div style="font-size:0.8rem;">
 Highly likely, as it:<br>
   <ul>
       <li>🟢 1. Accounts for God's Sovereign Choice.</li>
