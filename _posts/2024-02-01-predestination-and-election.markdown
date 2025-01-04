@@ -1,6 +1,6 @@
 ---
 title: "⛏️ Do you believe that you have the free will to renounce your faith and forfeit salvation? If the answer is no, then you do believe in some form of predestination."
-date: 2024-02-01 3:10:00 -0500
+date: 2024-02-01 3:15:00 -0500
 categories: [Theology, Predestination]
 tags: [election, predestination] # TAG names should always be lowercase
 author: seven_shepherd
@@ -24,9 +24,10 @@ pin: true
     - 3.1 <a href="#double-foreknowledge">Cond. Double Foreknowledge & Free Will</a>
     - 3.2 <a href="#asymmetrical-compatibilism">Uncond. Single Election & Free Will</a>
 4. <a href="#conclusion">⚖️ Conclusion</a>
-    - 4.1 <a href="#men-as-responsible">Men as Responsible</a>
-    - 4.2 <a href="#god-as-sovereign">God as Sovereign</a>
-    - 4.3 <a href="#final-thoughts">Final Thoughts</a>
+    - 4.1 <a href="#proginosko">On Proginōskō</a>
+    - 4.2 <a href="#men-as-responsible">Men as Responsible</a>
+    - 4.3 <a href="#god-as-sovereign">God as Sovereign</a>
+    - 4.4 <a href="#final-thoughts">Final Thoughts</a>
 
 ---
 
@@ -103,9 +104,9 @@ Individuals who adhere to the doctrine of double predestination can be categoriz
 
 In contrast to Reformed compatibilism, which advocates for unconditional single election in conjunction with free will, this perspective promotes unconditional single election alongside the concept of freedom of inclination. This distinction positions it within the determinist camp.
 
-> The Roman and Arminian views posit sinful men and women as the ultimate determiners of their own salvation, whereas Augustinians and Reformed identify God as the ultimate and efficient cause of eternal blessedness. According to the former traditions, the distinction between the saved and the unsaved is grounded in the choice of the creature; according to the latter, the distinction is grounded in the good pleasure and will of God, however unclear the rationale thereof may be to us mortals. The weight of biblical and historical evidence rests in favor of a single unconditional election to life. This position holds that out of the mass of fallen and responsible humanity—for reasons known to himself—God in grace chose some to be saved and to permit the others to persist in their sin. **Against the symmetrical view of Romanists and Arminians (double foreknowledge) and Hyper-Calvinists and Barthians (double predestination), <span style="color:ForestGreen">the biblical evidence leads us to posit an asymmetrical view of soteriological purpose—namely, unconditional election to life and conditional election to damnation</span>. When we speak about damnation, we mean that God predestines persons not to sin and disobedience but to the condemnation that issues from sin** (Demarest, 2006, pp. 135-138).<sup>1</sup>
+> The Roman and Arminian views posit sinful men and women as the ultimate determiners of their own salvation, whereas Augustinians and Reformed identify God as the ultimate and efficient cause of eternal blessedness. According to the former traditions, the distinction between the saved and the unsaved is grounded in the choice of the creature; according to the latter, the distinction is grounded in the good pleasure and will of God, however unclear the rationale thereof may be to us mortals. The weight of biblical and historical evidence rests in favor of a single unconditional election to life. This position holds that out of the mass of fallen and responsible humanity—for reasons known to himself—God in grace chose some to be saved and to permit the others to persist in their sin. **Against the symmetrical view of Romanists and Arminians (double foreknowledge) and Hyper-Calvinists and Barthians (double predestination), <span style="color:ForestGreen">the biblical evidence leads us to posit an asymmetrical view of soteriological purpose—namely, unconditional election to life and conditional election to damnation</span>. When we speak about damnation, we mean that God predestines persons not to sin and disobedience but to the condemnation that issues from sin** (Demarest, 2006, pp. 137-138).<sup>1</sup>
 
-<!-- > Concerning this doctrine of election to life, we concur with the carefully measured conclusion of Jewett, who wrote: “In my judgment, this Augustinian approach reflects a much more impressive biblical and exegetical effort than does the Pelagian and Arminian view.”<sup>146</sup> We do not wish to blow the importance of this debated doctrine of predestination out of proportion. But neither do we neglect what is undoubtedly a significant biblical theme. The following section will discuss the practical relevance of the doctrine of election for the life of Christian believers (Demarest, 2006, pp. 135-138). -->
+<!-- > Concerning this doctrine of election to life, we concur with the carefully measured conclusion of Jewett, who wrote: “In my judgment, this Augustinian approach reflects a much more impressive biblical and exegetical effort than does the Pelagian and Arminian view.”<sup>146</sup> We do not wish to blow the importance of this debated doctrine of predestination out of proportion. But neither do we neglect what is undoubtedly a significant biblical theme. The following section will discuss the practical relevance of the doctrine of election for the life of Christian believers (Demarest, 2006, p. 138). -->
 
 <small>
 1\. Dr. Bruce Demarest (PhD, University of Manchester)
@@ -222,7 +223,31 @@ Reformed variants of asymmetrical Compatibilism assert a definitive emphasis on 
 
 Both Heisenberg's Uncertainty Principle and, potentially, Gödel's incompleteness theorems indicate that there are inherent limits to what can be known or measured in both physics and mathematics, thereby negating Newtonian determinism. Given that Scripture affirms God's absolute sovereignty while also holding individuals accountable for their actions, compatibilism emerges as the most logical conclusion.
 
-### 4.1 <a name="men-as-responsible" href="#Contents">Men as Responsible</a>
+### 4.1 <a name="proginosko" href="#Contents">On Proginōskō</a>
+
+![Proginōskō](/assets/images/greek/BDAG/proginosko.png)
+
+<sup>BDAG, the world's most authoritative Greek lexicon, indicates that the first meaning is applied only to 2 Peter 3:17, whereas the second meaning is applied to Rom. 8:29; Rom. 9-11; 11:2; 1Pet. 1:20; and Acts 26:5.</sup>
+
+<!-- Demarest (2006) highlights that the term for "predestined" in the Golden Chain, proginōskō, when attributed to God, can signify either prescience, as interpreted by Arminians, or foreloving/foreordaining, as understood by Calvinists. He asserts: -->
+
+Demarest (2006) elucidates that the term "predestined," rendered as proginōskō in the Golden Chain, can convey two distinct meanings when ascribed to God: it may denote prescience, as interpreted by Arminians, or it may imply foreloving and foreordaining, as understood by Calvinists. He contends:
+
+> In Rom 8:28-30 Paul delineated the full circle of salvation, which clinched his argument concerning Christians’ hope of heavenly glory (vv. 18-27).
+>
+>> And we know that in all things God works for the good of those who love him, who have been called according to his purpose. For those God foreknew he also predestined to be conformed to the likeness of his Son, that he might be the firstborn among many brothers. And those he predestined, he also called; those he called, he also justified; those he justified, he also glorified.
+>
+> We observe, first, that the foundation of the Christian’s calling to salvation is God’s prothesis, meaning “purpose,” “resolve,” or “decision” (Rom 9:11; Eph 1:11; 3:11; 2 Tim 1:9). The believer’s hope of future glory is grounded not in his own will but in the sovereign, pre-temporal purpose of God.
+>
+> The first of the aorist verbs in the passage is the word proginōskō, to “foreknow,” “choose beforehand.”<sup>111</sup> With humans as subject the word means to “know beforehand” (Acts 26:5; 2 Pet 3:17). **With God as subject the verb could mean either prescience or foreloving/foreordaining (Rom 8:29; 11:2; 1 Pet 1:20)**. The foundational verbs yāda‘ and ginōskō often mean to “perceive,” “understand,” and “know.” But they also mean “to set regard upon, to know with particular interest, delight, affection, and action. (Cf. Gen 18:19; Exod 2:25; Ps 1:6; 144:3; Jer 1:5; Amos 3:2; Hos 13:5; Matt 7:23; 1 Cor 8:3; Gal 4:9; 2 Tim 2:19; 1 John 3:1).”<sup>112</sup> The verb ginōskō thus can convey God’s intimate acquaintance with his people, specifically the fact that they are “foreloved” or “chosen.” This latter sense is evident in the following Pauline sayings: “the man who loves God is known by God” (1 Cor 8:3); “but now that you know God—or rather are known by God” (Gal 4:9); and “the Lord knows those that are his” (2 Tim 2:19).
+>
+> The verb proginōskō in Rom 8:29 and 11:2 contextually could be taken in either of the two senses, i.e., prescience or foreordination. But given the strongly relational Hebrew background to the word, the unambiguous sense of proginōskō in 1 Pet 1:20 (see below) and prognōsis in Acts 2:23 and 1 Pet 1:2 (see below), and the whole tenor of Paul’s theology, the probable meaning of proginōskō with God as subject is to “know intimately” or “forelove.”<sup>113</sup> F.F. Bruce concurs with this judgment. Concerning Rom 8:29, he wrote, “the words ‘whom he did foreknow’ have the connotation of electing grace which is frequently implied by the verb ‘to know’ in the Old Testament. When God takes knowledge of his people in this special way, he sets his choice upon them.”<sup>114</sup> To the preceding considerations we add that the biblical language of foreknowledge is always used of saints, never of the unsaved. Moreover, what God “foreknows” is the saints themselves, not any decision or action of theirs. Thus divine election is according to foreknowledge (foreloving), not simply according to foresight (prescience) (pp. 127-128).<sup>1</sup>
+
+<small>
+1\. Dr. Bruce Demarest (PhD, University of Manchester)
+</small>
+
+### 4.2 <a name="men-as-responsible" href="#Contents">Men as Responsible</a>
 
 Dr. Carson elaborates on the concept of human responsibility in Chapter 3 of his book *Divine Sovereignty and Human Responsibility: Biblical Perspectives in Tension*. The following are section headings:
 
@@ -232,7 +257,7 @@ Dr. Carson elaborates on the concept of human responsibility in Chapter 3 of his
 1\. Dr. D. A. Carson (PhD, University of Cambridge)<br>
 </small>
 
-### 4.2 <a name="god-as-sovereign" href="#Contents">God as Sovereign</a>
+### 4.3 <a name="god-as-sovereign" href="#Contents">God as Sovereign</a>
 
 Dr. Carson elaborates on the concept of God's Sovereignty in Chapter 3 of his book *Divine Sovereignty and Human Responsibility: Biblical Perspectives in Tension*, stating that:
 
@@ -243,7 +268,7 @@ Dr. Carson elaborates on the concept of God's Sovereignty in Chapter 3 of his bo
 </small>
 
 
-### 4.3 <a name="final-thoughts" href="#Contents">Final Thoughts</a>
+### 4.4 <a name="final-thoughts" href="#Contents">Final Thoughts</a>
 
 In the scriptures, we observe the coexistence and a nuanced interplay between determinism, in the form of God's sovereignty, and a degree of free will. However, the question arises: do these two concepts exist simultaneously in a state of constant tension? Heiser (2021) argues convincingly against this notion, stating:
 
@@ -257,9 +282,13 @@ At the same time, Drs. Carson (2002), Polkinghorne (2005, p. xi), Polkinghorne r
 
 <!-- If foreknowledge does not necessitate predestination, and if God does not merely possess knowledge of future events but actively determines them, then we must conclude, in accordance with the axiomatic law of thought—specifically, the law of non-contradiction—that God has determined not to determine all the time but only when he desires. -->
 
-What if conditional election is correct regarding salvation, but incorrect concerning other instances where God may have chosen to implement a deterministic framework? If foreknowledge does not necessitate predestination, and if God does not merely possess knowledge of future events but actively determines them, then we must conclude, in accordance with the axiomatic law of thought&mdash;specifically, the law of non-contradiction&mdash;that God chooses to exercise His determinative power selectively or in a state of flux, rather than continuously in a constant state. Compatibilism remains the relevant term, but its application is selective in my theory; thus, I would refer to it as "Selective Compatibilism." I believe that my conclusions align cohesively with those of Ross's Transcendent Compatibilism, although they may lean more toward the concept of prescient foreknowledge rather than foreordination.
+What if conditional election is correct regarding salvation, but incorrect concerning other instances where God may have chosen to implement a more deterministic and unconditional framework? If foreknowledge does not necessitate predestination, and if God does not merely possess knowledge of future events but actively determines them, then we must conclude, in accordance with the axiomatic laws of thought&mdash;specifically, the law of non-contradiction&mdash;that God chooses to exercise His determinative power selectively or in a state of flux, rather than continuously in a constant state. Compatibilism remains the relevant term, but its application is selective in my theory; thus, I would refer to it as "Selective Compatibilism." I believe that my conclusions align cohesively with those of Ross's Transcendent Compatibilism, although they may lean more toward the concept of prescient foreknowledge rather than foreordination.
+
+
 
 <!-- I think my conclusions and the conclusions of Ross's Transcendent Compatibilism may work cohesively, though it would lean more toward prescience than foreordination. -->
+
+<!-- &mdash; Dr. Bruce Demarest (Ph.D., University of Manchester), The Cross and Salvation, Chapter Three, The Doctrine of Election, III. The Exposition Of The Doctrine of Election. pp. 124-135. -->
 
 <small>
 1\. Dr. D. A. Carson (PhD, University of Cambridge)<br>
