@@ -1,6 +1,6 @@
 ---
 title: "⛏️ Do you believe that you have the free will to renounce your faith and forfeit salvation? If the answer is no, then you do believe in some form of predestination."
-date: 2024-02-01 4:05:00 -0500
+date: 2024-02-01 4:10:00 -0500
 categories: [Theology, Predestination]
 tags: [election, predestination] # TAG names should always be lowercase
 author: seven_shepherd
@@ -59,7 +59,7 @@ Different types of Free Will:
 Unlikely, yet not beyond the realm of possibility:<br>
   <ul>
       <li>🔴 1. Fundamentally at odds with Heisenberg's Uncertainty Principle.</li>
-      <li>🔴 2. Fundamentally at odds with Niels Bohr's Indeterministic interpretation.</li>
+      <li>🔴 2. Fundamentally at odds with Niels Bohr's Indeterministic interpretation of quantum theory.</li>
       <li>🟢 3. In harmony with David Bohm's deterministic interpretation of quantum theory, known as Bohmian mechanics.</li>
   </ul>
 </div>
@@ -85,7 +85,7 @@ Fatalism suggests that events are predetermined and inevitable, regardless of hu
 Unlikely, yet not beyond the realm of possibility:<br>
   <ul>
       <li>🔴 1. Fundamentally at odds with Heisenberg's Uncertainty Principle.</li>
-      <li>🔴 2. Fundamentally at odds with Niels Bohr's Indeterministic interpretation.</li>
+      <li>🔴 2. Fundamentally at odds with Niels Bohr's Indeterministic interpretation of quantum theory.</li>
       <li>🟢 3. In harmony with David Bohm's deterministic interpretation of quantum theory, known as Bohmian mechanics.</li>
   </ul>
 </div>
@@ -118,7 +118,7 @@ Individuals who adhere to the doctrine of double predestination can be categoriz
 Unlikely, yet not beyond the realm of possibility:<br>
   <ul>
       <li>🟡 1. In considerable tension with Heisenberg's Uncertainty Principle.</li>
-      <li>🟡 2. In considerable tension with Niels Bohr's Indeterministic interpretation.</li>
+      <li>🟡 2. In considerable tension with Niels Bohr's Indeterministic interpretation of quantum theory.</li>
       <li>🟢 3. In harmony with David Bohm's deterministic interpretation of quantum theory, known as Bohmian mechanics.</li>
   </ul>
 </div>
@@ -143,7 +143,7 @@ The concept of freedom of inclination permits individuals to act freely only wit
 Conclusions:<br>
   <ul>
       <li>🟢 1. Heisenberg's Uncertainty Principle does not "prove" indeterminism in the classical sense, but it does imply that at the quantum level, there are fundamental limits to predictability.</li>
-      <li>🟢 2. In harmony with with Niels Bohr's Indeterministic interpretation.</li>
+      <li>🟢 2. In harmony with with Niels Bohr's Indeterministic interpretation of quantum theory.</li>
       <li>🔴 3. Fundamentally at odds with David Bohm's deterministic interpretation of quantum theory, known as Bohmian mechanics.</li>
       <li>🔴 4. Libertarianism violates the the <a href="#libertarian-free-will">“intelligibility” objection</a>.</li>
   </ul>
@@ -210,9 +210,9 @@ Libertarianism extends this concept to an illogical extreme. For Christians, the
 <div style="font-size:0.8rem;">
 Highly likely, as it:<br>
   <ul>
-      <li>🟢 1. Accounts for God's Sovereign Choice.</li>
-      <li>🟢 2. In harmony with Free will via Heisenberg's Uncertainty Principle.</li>
-      <li>🟢 3. In harmony with Niels Bohr's Indeterministic interpretation.</li>
+      <li>🟢 1. Accounts for God's sovereign choice & free will.</li>
+      <li>🟢 2. In harmony with Heisenberg's Uncertainty Principle.</li>
+      <li>🟢 3. In harmony with Niels Bohr's Indeterministic interpretation of quantum theory.</li>
       <li>🟢 4. In harmony with David Bohm's deterministic interpretation of quantum theory, known as Bohmian mechanics.</li>
       <li>🟢 5. Avoids the <a href="#libertarian-free-will">“intelligibility” objection.</a></li>
   </ul>
@@ -331,7 +331,7 @@ At the same time, Drs. Carson (2002), Polkinghorne (2005, p. xi), Polkinghorne r
 
 <!-- If foreknowledge does not necessitate predestination, and if God does not merely possess knowledge of future events but actively determines them, then we must conclude, in accordance with the axiomatic law of thought—specifically, the law of non-contradiction—that God has determined not to determine all the time but only when he desires. -->
 
-What if conditional election is correct regarding salvation, but incorrect concerning other instances where God may have chosen to implement a more deterministic and unconditional framework? If foreknowledge does not necessitate predestination, and if God does not merely possess knowledge of future events but actively determines them, then we must conclude, in accordance with the axiomatic laws of thought&mdash;specifically, the law of non-contradiction&mdash;that God chooses to exercise His determinative power selectively or in a state of flux, rather than continuously in a constant state.
+It's possible that conditional election is correct regarding salvation, but incorrect concerning other instances where God may have chosen to implement a more deterministic and unconditional framework. If foreknowledge does not necessitate predestination, and if God does not merely possess knowledge of future events but actively determines them, then we must conclude, in accordance with the axiomatic laws of thought&mdash;specifically, the law of non-contradiction&mdash;that God chooses to exercise His determinative power selectively or in a state of flux, rather than continuously in a constant state.
 
 <!-- Compatibilism remains the relevant term, but its application is selective in my theory; thus, I would refer to it as "Selective Compatibilism." I believe that my conclusions align cohesively with those of Ross's Transcendent Compatibilism, although they may lean more toward the concept of prescient foreknowledge rather than foreordination. -->
 
