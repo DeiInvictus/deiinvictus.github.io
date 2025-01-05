@@ -1,6 +1,6 @@
 ---
 title: "⛏️ Do you believe that you have the free will to renounce your faith and forfeit salvation? If the answer is no, then you do believe in some form of predestination."
-date: 2024-02-01 3:50:00 -0500
+date: 2024-02-01 4:05:00 -0500
 categories: [Theology, Predestination]
 tags: [election, predestination] # TAG names should always be lowercase
 author: seven_shepherd
@@ -55,7 +55,14 @@ Different types of Free Will:
 
 ## I. <a name="newtonian-determinism" href="#Contents">🤖 Determinism & Fatalism</a>
 
-<sup>🔴 Discredited by Heisenberg's Uncertainty Principle.</sup>
+<div style="font-size:0.8rem;">
+Unlikely, yet not beyond the realm of possibility:<br>
+  <ul>
+      <li>🔴 1. Fundamentally at odds with Heisenberg's Uncertainty Principle.</li>
+      <li>🔴 2. Fundamentally at odds with Niels Bohr's Indeterministic interpretation.</li>
+      <li>🟢 3. In harmony with David Bohm's deterministic interpretation of quantum theory, known as Bohmian mechanics.</li>
+  </ul>
+</div>
 
 Many of history's most brilliant thinkers, including **Newton, Leibniz, and Einstein**, subscribed to the philosophy of determinism. This view holds that all events, including human actions, are determined by preceding events in accordance with the laws of nature. Free will is an illusion, and thus, moral responsibility is also negated. However, this understanding was fundamentally shaken by the advent of Heisenberg's Uncertainty Principle.
 
@@ -74,7 +81,14 @@ Fatalism suggests that events are predetermined and inevitable, regardless of hu
 
 ### 1.1 <a href="#Contents" name="double-predestination">Double Predestination</a>
 
-<sup>🔴 Discredited by Heisenberg's Uncertainty Principle.</sup>
+<div style="font-size:0.8rem;">
+Unlikely, yet not beyond the realm of possibility:<br>
+  <ul>
+      <li>🔴 1. Fundamentally at odds with Heisenberg's Uncertainty Principle.</li>
+      <li>🔴 2. Fundamentally at odds with Niels Bohr's Indeterministic interpretation.</li>
+      <li>🟢 3. In harmony with David Bohm's deterministic interpretation of quantum theory, known as Bohmian mechanics.</li>
+  </ul>
+</div>
 
 Individuals who adhere to the doctrine of double predestination can be categorized within determinism. This doctrine asserts that God sovereignly determines both the election of individuals to salvation **and their reprobation** to damnation prior to their existence.
 
@@ -100,9 +114,20 @@ Individuals who adhere to the doctrine of double predestination can be categoriz
 
 ### 1.2 <a href="#Contents" name="unconditional-single-election">Unconditional Single Election & Freedom of Inclination</a>
 
-<sup>🟡 Heisenberg's Uncertainty Principle places significant strain on the concept of Freedom of Inclination.</sup>
+<div style="font-size:0.8rem;">
+Unlikely, yet not beyond the realm of possibility:<br>
+  <ul>
+      <li>🟡 1. In considerable tension with Heisenberg's Uncertainty Principle.</li>
+      <li>🟡 2. In considerable tension with Niels Bohr's Indeterministic interpretation.</li>
+      <li>🟢 3. In harmony with David Bohm's deterministic interpretation of quantum theory, known as Bohmian mechanics.</li>
+  </ul>
+</div>
 
-In contrast to Reformed compatibilism, which advocates for unconditional single election in conjunction with free will, this perspective promotes unconditional single election alongside the concept of freedom of inclination. This distinction positions it within the determinist camp.
+<!-- <sup>🟡 Heisenberg's Uncertainty Principle places significant strain on the concept of Freedom of Inclination.</sup> -->
+
+The concept of freedom of inclination permits individuals to act freely only within the confines of their depravity; without divine election and regeneration, the unregenerate are unable to choose salvation and are consequently called slaves of depravity. This viewpoint remains fundamentally deterministic, because this is a death sentence for the unelect. Hopefully, you win the election lottery.
+
+> Volitionally the unconverted consistently exercise their wills against God and his purposes. Peter wrote that reprobates promise the unwary freedom, “while they themselves are slaves of depravity—for a man is a slave to whatever has mastered him” (2 Pet 2:19) (Demarest, 2006, p. 74).<sup>1</sup>
 
 > The Roman and Arminian views posit sinful men and women as the ultimate determiners of their own salvation, whereas Augustinians and Reformed identify God as the ultimate and efficient cause of eternal blessedness. According to the former traditions, the distinction between the saved and the unsaved is grounded in the choice of the creature; according to the latter, the distinction is grounded in the good pleasure and will of God, however unclear the rationale thereof may be to us mortals. The weight of biblical and historical evidence rests in favor of a single unconditional election to life. This position holds that out of the mass of fallen and responsible humanity—for reasons known to himself—God in grace chose some to be saved and to permit the others to persist in their sin. **Against the symmetrical view of Romanists and Arminians (double foreknowledge) and Hyper-Calvinists and Barthians (double predestination), <span style="color:ForestGreen">the biblical evidence leads us to posit an asymmetrical view of soteriological purpose—namely, unconditional election to life and conditional election to damnation</span>. When we speak about damnation, we mean that God predestines persons not to sin and disobedience but to the condemnation that issues from sin** (Demarest, 2006, pp. 137-138).<sup>1</sup>
 
@@ -117,8 +142,10 @@ In contrast to Reformed compatibilism, which advocates for unconditional single 
 <div style="font-size:0.8rem;">
 Conclusions:<br>
   <ul>
-      <li>🟡 1. Heisenberg's Uncertainty Principle does not "prove" indeterminism in the classical sense, but it does imply that at the quantum level, there are fundamental limits to predictability.</li>
-      <li>🔴 2. See <a href="#libertarian-free-will">Libertarian Free Will</a> below.</li>
+      <li>🟢 1. Heisenberg's Uncertainty Principle does not "prove" indeterminism in the classical sense, but it does imply that at the quantum level, there are fundamental limits to predictability.</li>
+      <li>🟢 2. In harmony with with Niels Bohr's Indeterministic interpretation.</li>
+      <li>🔴 3. Fundamentally at odds with David Bohm's deterministic interpretation of quantum theory, known as Bohmian mechanics.</li>
+      <li>🔴 4. Libertarianism violates the the <a href="#libertarian-free-will">“intelligibility” objection</a>.</li>
   </ul>
 </div>
 
@@ -167,10 +194,10 @@ Dr. Michael S. Heiser, who holds a PhD in Hebrew Bible and Semitic Languages fro
 ### 3.1 <a name="libertarian-free-will" href="#Contents">Libertarian Free Will</a>
 
 <div style="font-size:0.8rem;">
-Discredited by:<br>
+Discredited entirely:<br>
   <ul>
-      <li>🔴 1. Violating Scripture.</li>
-      <li>🔴 2. The "intelligibility" objection.</li>
+      <li>🔴 1. Discredited by Scripture.</li>
+      <li>🔴 2. Discredited by the "intelligibility" objection.</li>
   </ul>
 </div>
 
@@ -184,8 +211,10 @@ Libertarianism extends this concept to an illogical extreme. For Christians, the
 Highly likely, as it:<br>
   <ul>
       <li>🟢 1. Accounts for God's Sovereign Choice.</li>
-      <li>🟢 2. Accounts for free will via Heisenberg's Uncertainty Principle.</li>
-      <li>🟢 3. Avoids the <a href="#libertarian-free-will">“intelligibility” objection.</a></li>
+      <li>🟢 2. In harmony with Free will via Heisenberg's Uncertainty Principle.</li>
+      <li>🟢 3. In harmony with Niels Bohr's Indeterministic interpretation.</li>
+      <li>🟢 4. In harmony with David Bohm's deterministic interpretation of quantum theory, known as Bohmian mechanics.</li>
+      <li>🟢 5. Avoids the <a href="#libertarian-free-will">“intelligibility” objection.</a></li>
   </ul>
 </div>
 
