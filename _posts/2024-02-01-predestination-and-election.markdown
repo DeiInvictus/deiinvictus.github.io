@@ -1,6 +1,6 @@
 ---
 title: "⛏️ Do you believe that you have the free will to renounce your faith and forfeit salvation? If the answer is no, then you do believe in some form of predestination."
-date: 2024-02-01 4:15:00 -0500
+date: 2024-02-01 4:25:00 -0500
 categories: [Theology, Predestination]
 tags: [election, predestination] # TAG names should always be lowercase
 author: seven_shepherd
@@ -56,9 +56,9 @@ Different types of Free Will:
 ## I. <a name="newtonian-determinism" href="#Contents">🤖 Determinism & Fatalism</a>
 
 <div style="font-size:0.8rem;">
-Unlikely, yet not beyond the realm of possibility:<br>
+Highly Unlikely:<br>
   <ul>
-      <li>🔴 1. Fundamentally at odds with Heisenberg's Uncertainty Principle.</li>
+      <li>🔴 1. Fundamentally at odds with Heisenberg's Uncertainty Principle (1927).</li>
       <li>🔴 2. Fundamentally at odds with Niels Bohr's Indeterministic interpretation of quantum theory.</li>
       <li>🟢 3. In harmony with David Bohm's deterministic interpretation of quantum theory, known as Bohmian mechanics.</li>
   </ul>
@@ -82,7 +82,7 @@ Fatalism suggests that events are predetermined and inevitable, regardless of hu
 ### 1.1 <a href="#Contents" name="double-predestination">Double Predestination</a>
 
 <div style="font-size:0.8rem;">
-Unlikely, yet not beyond the realm of possibility:<br>
+Highly Unlikely:<br>
   <ul>
       <li>🔴 1. Fundamentally at odds with Heisenberg's Uncertainty Principle.</li>
       <li>🔴 2. Fundamentally at odds with Niels Bohr's Indeterministic interpretation of quantum theory.</li>
@@ -139,9 +139,11 @@ This notion is reminiscent of and echoes Aristotle's beliefs, as articulated in 
 
 <!-- (Singer & Eddon, 2022, para. 2). -->
 
-Demerest articulates this asymmetrical view effectively:
+Demarest (2006) articulates this asymmetrical view effectively:
 
-> The Roman and Arminian views posit sinful men and women as the ultimate determiners of their own salvation, whereas Augustinians and Reformed identify God as the ultimate and efficient cause of eternal blessedness. According to the former traditions, the distinction between the saved and the unsaved is grounded in the choice of the creature; according to the latter, the distinction is grounded in the good pleasure and will of God, however unclear the rationale thereof may be to us mortals. The weight of biblical and historical evidence rests in favor of a single unconditional election to life. This position holds that out of the mass of fallen and responsible humanity—for reasons known to himself—God in grace chose some to be saved and to permit the others to persist in their sin. **Against the symmetrical view of Romanists and Arminians (double foreknowledge) and Hyper-Calvinists and Barthians (double predestination), <span style="color:ForestGreen">the biblical evidence leads us to posit an asymmetrical view of soteriological purpose—namely, unconditional election to life and conditional election to damnation</span>. When we speak about damnation, we mean that God predestines persons not to sin and disobedience but to the condemnation that issues from sin** (Demarest, 2006, pp. 137-138).<sup>1</sup>
+> The Roman and Arminian views posit sinful men and women as the ultimate determiners of their own salvation, whereas Augustinians and Reformed identify God as the ultimate and efficient cause of eternal blessedness. According to the former traditions, the distinction between the saved and the unsaved is grounded in the choice of the creature; according to the latter, the distinction is grounded in the good pleasure and will of God, however unclear the rationale thereof may be to us mortals. The weight of biblical and historical evidence rests in favor of a single unconditional election to life. This position holds that out of the mass of fallen and responsible humanity—for reasons known to himself—God in grace chose some to be saved and to permit the others to persist in their sin. **Against the symmetrical view of Romanists and Arminians (double foreknowledge) and Hyper-Calvinists and Barthians (double predestination), <span style="color:ForestGreen">the biblical evidence leads us to posit an asymmetrical view of soteriological purpose—namely, unconditional election to life and conditional election to damnation</span>. When we speak about damnation, we mean that God predestines persons not to sin and disobedience but to the condemnation that issues from sin** (pp. 137-138).<sup>1</sup>
+
+<!-- (Demarest, 2006, pp. 137-138) -->
 
 <!-- > Concerning this doctrine of election to life, we concur with the carefully measured conclusion of Jewett, who wrote: “In my judgment, this Augustinian approach reflects a much more impressive biblical and exegetical effort than does the Pelagian and Arminian view.”<sup>146</sup> We do not wish to blow the importance of this debated doctrine of predestination out of proportion. But neither do we neglect what is undoubtedly a significant biblical theme. The following section will discuss the practical relevance of the doctrine of election for the life of Christian believers (Demarest, 2006, p. 138). -->
 
@@ -152,12 +154,12 @@ Demerest articulates this asymmetrical view effectively:
 ## II. <a name="indeterminism" href="#Contents">☠️ Indeterminism & Libertarianism</a>
 
 <div style="font-size:0.8rem;">
-Conclusions:<br>
+Indeterminism partly; libertarianism discredited:<br>
   <ul>
       <li>🟢 1. Heisenberg's Uncertainty Principle does not "prove" indeterminism in the classical sense, but it does imply that at the quantum level, there are fundamental limits to predictability.</li>
       <li>🟢 2. In harmony with with Niels Bohr's Indeterministic interpretation of quantum theory.</li>
       <li>🔴 3. Fundamentally at odds with David Bohm's deterministic interpretation of quantum theory, known as Bohmian mechanics.</li>
-      <li>🔴 4. Libertarianism violates the the <a href="#libertarian-free-will">“intelligibility” objection</a>.</li>
+      <li>🔴 4. Libertarianism violates the <a href="#libertarian-free-will">“intelligibility” objection</a>.</li>
   </ul>
 </div>
 
