@@ -1,6 +1,6 @@
 ---
 title: "⛏️ Do you believe that you have the free will to renounce your faith and forfeit salvation? If the answer is no, then you do believe in some form of predestination."
-date: 2024-02-01 4:25:00 -0500
+date: 2024-02-01 4:30:00 -0500
 categories: [Theology, Predestination]
 tags: [election, predestination] # TAG names should always be lowercase
 author: seven_shepherd
@@ -41,7 +41,7 @@ Any intelligent examination of the Bible leads to a belief in the doctrine of el
 
 - Double Predestination: &ldquo;God cast the die, and some of you are destined to lose the game.&rdquo;
 - Single Unconditional Election: &ldquo;Some of you are foreordained to come to faith; the rest have condemned themselves to hell.&rdquo;
-- Conditonal Election (double foreknowledge): &ldquo;The only way to find out if you were elected before time is to come to genuine faith.&rdquo;
+- Conditional Election (double foreknowledge): &ldquo;The only way to find out if you were elected before time is to come to genuine faith.&rdquo;
 
 Different types of Free Will:
 
@@ -53,16 +53,17 @@ Different types of Free Will:
 - Libertarian Free Will: &ldquo;I possess the power to choose heaven, yet I can also forfeit my salvation and shatter my seal.&rdquo; -->
 
 
+
 ## I. <a name="newtonian-determinism" href="#Contents">🤖 Determinism & Fatalism</a>
 
-<div style="font-size:0.8rem;">
+<!-- <div style="font-size:0.8rem;">
 Highly Unlikely:<br>
   <ul>
       <li>🔴 1. Fundamentally at odds with Heisenberg's Uncertainty Principle (1927).</li>
       <li>🔴 2. Fundamentally at odds with Niels Bohr's Indeterministic interpretation of quantum theory.</li>
       <li>🟢 3. In harmony with David Bohm's deterministic interpretation of quantum theory, known as Bohmian mechanics.</li>
   </ul>
-</div>
+</div> -->
 
 Many of history's most brilliant thinkers, including **Newton, Leibniz, and Einstein**, subscribed to the philosophy of determinism. This view holds that all events, including human actions, are determined by preceding events in accordance with the laws of nature. Free will is an illusion, and thus, moral responsibility is also negated. However, this understanding was fundamentally shaken by the advent of Heisenberg's Uncertainty Principle.
 
@@ -81,14 +82,14 @@ Fatalism suggests that events are predetermined and inevitable, regardless of hu
 
 ### 1.1 <a href="#Contents" name="double-predestination">Double Predestination</a>
 
-<div style="font-size:0.8rem;">
+<!-- <div style="font-size:0.8rem;">
 Highly Unlikely:<br>
   <ul>
       <li>🔴 1. Fundamentally at odds with Heisenberg's Uncertainty Principle.</li>
       <li>🔴 2. Fundamentally at odds with Niels Bohr's Indeterministic interpretation of quantum theory.</li>
       <li>🟢 3. In harmony with David Bohm's deterministic interpretation of quantum theory, known as Bohmian mechanics.</li>
   </ul>
-</div>
+</div> -->
 
 Individuals who adhere to the doctrine of double predestination can be categorized within determinism. This doctrine asserts that God sovereignly determines both the election of individuals to salvation **and their reprobation** to damnation prior to their existence.
 
@@ -114,14 +115,14 @@ Individuals who adhere to the doctrine of double predestination can be categoriz
 
 ### 1.2 <a href="#Contents" name="unconditional-single-election">Unconditional Single Election & Freedom of Inclination</a>
 
-<div style="font-size:0.8rem;">
+<!-- <div style="font-size:0.8rem;">
 Unlikely, yet not beyond the realm of possibility:<br>
   <ul>
       <li>🟡 1. In considerable tension with Heisenberg's Uncertainty Principle.</li>
       <li>🟡 2. In considerable tension with Niels Bohr's Indeterministic interpretation of quantum theory.</li>
       <li>🟢 3. In harmony with David Bohm's deterministic interpretation of quantum theory, known as Bohmian mechanics.</li>
   </ul>
-</div>
+</div> -->
 
 <!-- <sup>🟡 Heisenberg's Uncertainty Principle places significant strain on the concept of Freedom of Inclination.</sup> -->
 
@@ -153,7 +154,7 @@ Demarest (2006) articulates this asymmetrical view effectively:
 
 ## II. <a name="indeterminism" href="#Contents">☠️ Indeterminism & Libertarianism</a>
 
-<div style="font-size:0.8rem;">
+<!-- <div style="font-size:0.8rem;">
 Indeterminism partly; libertarianism discredited:<br>
   <ul>
       <li>🟢 1. Heisenberg's Uncertainty Principle does not "prove" indeterminism in the classical sense, but it does imply that at the quantum level, there are fundamental limits to predictability.</li>
@@ -161,7 +162,7 @@ Indeterminism partly; libertarianism discredited:<br>
       <li>🔴 3. Fundamentally at odds with David Bohm's deterministic interpretation of quantum theory, known as Bohmian mechanics.</li>
       <li>🔴 4. Libertarianism violates the <a href="#libertarian-free-will">“intelligibility” objection</a>.</li>
   </ul>
-</div>
+</div> -->
 
 This view posits that not all events are determined by preceding causes, allowing for randomness or chance. Indeterminism opens the door for a form of free will, as it suggests that some events (including human decisions) can occur without being predetermined. Dr. Michio Kaku, a theoretical physicist and co-founder of string field theory, emphasizes the implications of Heisenberg's Uncertainty Principle on free will:
 
@@ -210,18 +211,17 @@ Dr. Michael S. Heiser, who holds a PhD in Hebrew Bible and Semitic Languages fro
 <div style="font-size:0.8rem;">
 Discredited entirely:<br>
   <ul>
-      <li>🔴 1. Discredited by Scripture.</li>
       <li>🔴 2. Discredited by the "intelligibility" objection.</li>
   </ul>
 </div>
 
-Libertarianism extends this concept to an illogical extreme. For Christians, the difficulty presented by **libertarian free will** stems from its total disregard for God's sovereignty and its profound neglect of Scriptural teachings. Libertarianism contradicts Ephesians 1:13-14 by ignorantly asserting that individuals can nullify their own divine seal through the exercise of their free will, that they can essentially snatch themselves from God's hand (John 10:28-29), and that they somehow have the free will to overpower God himself (Romans 8:38-39).
+Libertarianism extends this concept to an illogical extreme. For Christians, the difficulty presented by **libertarian free will** stems from its total disregard for God's sovereignty and its profound neglect of Scriptural teachings. Libertarianism contradicts Ephesians 1:13-14 by incorrectly asserting that individuals can nullify their own divine seal through the exercise of their free will, that they can essentially snatch themselves from God's hand (John 10:28-29), and that they somehow have the free will to overpower God himself (Romans 8:38-39).
 
 > Libertarianism is vulnerable to what is called the “intelligibility” objection, which points out that people can have no more control over a purely random action than they have over an action that is deterministically inevitable; in neither case does free will enter the picture. Hence, **if human actions are indeterministic, free will does not exist**. (Britannica, 2024, para. 5).
 
 ## III. <a name="compatibilism" href="#Contents">⚖️ Theological Compatibilism</a>
 
-<div style="font-size:0.8rem;">
+<!-- <div style="font-size:0.8rem;">
 Highly likely, as it:<br>
   <ul>
       <li>🟢 1. Accounts for God's sovereign choice & free will.</li>
@@ -230,7 +230,7 @@ Highly likely, as it:<br>
       <li>🟢 4. In harmony with David Bohm's deterministic interpretation of quantum theory, known as Bohmian mechanics.</li>
       <li>🟢 5. Avoids the <a href="#libertarian-free-will">“intelligibility” objection.</a></li>
   </ul>
-</div>
+</div> -->
 
 Compatibilism recognizes God's sovereignty alongside Heisenberg's Uncertainty Principle. Compatibilism argues that determinism (God's sovereignty) and free will are not mutually exclusive, in other words, they exist at the same time. Compatibilists believe that individuals can be considered free in their choices, even if those choices are determined by prior causes. They redefine free will to fit within a deterministic framework, or in this context, free will is reconceptualized to align with God's sovereignty. **This is where you will find the world's brightest theologians and biblical language scholars.**
 
@@ -276,7 +276,7 @@ Reformed variants of asymmetrical Compatibilism assert a definitive emphasis on 
 > I wrote an entire book addressing the posed question: Beyond the Cosmos, now in its third edition. ... In that book I explain why each of Calvinism, Arminianism, and Traditionalism are inadequate by themselves to address all that the Bible teaches on sotierology and our relationship with Christ. I point out, for example, that **the Bible teaches that both divine predetermination and human free will simultaneously operate.** <span style="font-weight:bold;color:darkred;">I explain why there is no possible resolution of this paradox within the spacetime dimensions of the universe.</span> However, the Bible teaches and the spacetime theorems prove that God created the cosmic spacetime dimensions and in no way is limited by them. <span style="font-weight:bold;color:green;">I show three different ways how the paradox of divine predetermination and human free will can be resolved in the extra- and trans-dimensional context of God.</span> I also show how several other biblical paradoxes can be resolved from God’s extra-/trans-dimensional perspective (Ross, 2020, para. 2).<sup>4</sup>
 
 <small>
-1\. Dr. Bruce Demarest (PhD, University of Manchester)
+1\. Dr. Bruce Demarest (PhD, University of Manchester)<br>
 2\. Dr. Ron Rhodes (ThD, Dallas Theological Seminary)<br>
 3\. Dr. John C. Lennox (PhD, Mathematics at the University of Cambridge)<br>
 4\. Dr. Hugh Ross (PhD, Astrophysicist at the University of Toronto)
