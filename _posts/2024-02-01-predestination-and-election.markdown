@@ -1,6 +1,6 @@
 ---
 title: "⛏️ Do you believe that you have the free will to renounce your faith and forfeit salvation? If the answer is no, then you do believe in some form of predestination."
-date: 2024-02-01 4:40:00 -0500
+date: 2024-02-01 4:45:00 -0500
 categories: [Theology, Predestination]
 tags: [election, predestination] # TAG names should always be lowercase
 author: seven_shepherd
@@ -184,21 +184,21 @@ This view posits that not all events are determined by preceding causes, allowin
 >
 > So what does that mean for free will? It means in some sense we do have some kind of free will. No one can determine your future events given your past history. There is always the wildcard. There is always the possibility of uncertainty in whatever we do.
 >
-> So when I look at myself in a mirror I say to myself what I'm looking at is not really me. It looks like me, but it’s not really me at all. It’s not me today now. It’s me a billionth of a second ago because it takes a billionth of a second for light to go from me to the mirror and back (Kaku, 2011, 0:42).<sup>1</sup>
+> So when I look at myself in a mirror I say to myself what I'm looking at is not really me. It looks like me, but it’s not really me at all. It’s not me today now. It’s me a billionth of a second ago because it takes a billionth of a second for light to go from me to the mirror and back (Kaku, 2011, 0:42).<sup>2</sup>
 
 Dr. John C. Polkinghorne, a distinguished professor of Mathematical Physics at Cambridge University, emphasizes in his book *Science and Providence*:
 
-> The twentieth-century discovery of intrinsic unpredictabilities present in physical process, both at the microscopic level of quantum theory and at the macroscopic level of chaos theory, had brought about the demise of a merely mechanical picture of the physical world, whose workings were no longer seen as being wholly tame and controllable. Yet, unpredictability is an epistemological property, concerned with what can or cannot be known, and it carries no logical entailment of a necessary ontological conclusion concerning what is actually the case. Inability to predict might be due either to ignorance of hidden causal detail of a conventional kind, or it might be the sign of a true openness to the operation of new forms of causal principle. It is a matter for metaphysical decision which of these alternatives is to be chosen, a point made clearly enough by the existence of both an **indeterministic interpretation (Niels Bohr) and a deterministic interpretation (David Bohm) of quantum theory**, each having the same empirical adequacy in relation to experimental results, so that **physics by itself cannot settle the issue between them** (Polkinghorne, 2005, p. xi).<sup>2</sup>
+> The twentieth-century discovery of intrinsic unpredictabilities present in physical process, both at the microscopic level of quantum theory and at the macroscopic level of chaos theory, had brought about the demise of a merely mechanical picture of the physical world, whose workings were no longer seen as being wholly tame and controllable. Yet, unpredictability is an epistemological property, concerned with what can or cannot be known, and it carries no logical entailment of a necessary ontological conclusion concerning what is actually the case. Inability to predict might be due either to ignorance of hidden causal detail of a conventional kind, or it might be the sign of a true openness to the operation of new forms of causal principle. It is a matter for metaphysical decision which of these alternatives is to be chosen, a point made clearly enough by the existence of both an **indeterministic interpretation (Niels Bohr) and a deterministic interpretation (David Bohm) of quantum theory**, each having the same empirical adequacy in relation to experimental results, so that **physics by itself cannot settle the issue between them** (Polkinghorne, 2005, p. xi).<sup>1</sup>
 
-> I think, from an undue bewitchment by the Newtonian equations from which chaos theory originally sprang. Of course, as they stand, these equations are deterministic in their character, but we know that they are only approximations to reality, since Newtonian thinking is not adequate at the scale of atomic phenomena. Dismissive talk of ‘deterministic chaos’ is, therefore, a highly challengeable metaphysical decision, rather than an established conclusion of physics. It might be thought that understanding could be advanced by a fusion of quantum theory and chaos theory, since the behavior of chaotic systems soon comes ostensibly to depend upon fine detail at a level of accuracy that is **rendered inaccessible by Heisenberg’s uncertainty principle** (Polkinghorne, 2005, p. xii).<sup>2</sup>
+> I think, from an undue bewitchment by the Newtonian equations from which chaos theory originally sprang. Of course, as they stand, these equations are deterministic in their character, but we know that they are only approximations to reality, since Newtonian thinking is not adequate at the scale of atomic phenomena. Dismissive talk of ‘deterministic chaos’ is, therefore, a highly challengeable metaphysical decision, rather than an established conclusion of physics. It might be thought that understanding could be advanced by a fusion of quantum theory and chaos theory, since the behavior of chaotic systems soon comes ostensibly to depend upon fine detail at a level of accuracy that is **rendered inaccessible by Heisenberg’s uncertainty principle** (Polkinghorne, 2005, p. xii).<sup>1</sup>
 
 In Chapter Two, Dr. John C. Polkinghorne emphasizes that our understanding of the universe reveals an openness to the future, challenging the constraints of mechanical determinism and suggesting a more dynamic and less machine-like nature of reality:
 
-> We now understand that even at those macroscopic levels where classical physics gives an adequate account, there is an openness to the future which relaxes the **unrelenting grip of mechanical determinism**. The universe may not look like an organism, but it looks even less like a machine (Polkinghorne, 2005, p. 37).<sup>2</sup>
+> We now understand that even at those macroscopic levels where classical physics gives an adequate account, there is an openness to the future which relaxes the **unrelenting grip of mechanical determinism**. The universe may not look like an organism, but it looks even less like a machine (Polkinghorne, 2005, p. 37).<sup>1</sup>
 
 In Chapter 5, Dr. John C. Polkinghorne addresses the problem of evil, presenting the free-will defense as a response to atheist critiques, emphasizing that the immediate source of suffering lies in the exercise of human will:
 
-> Dreadful as the resulting sufferings are, their immediate source is clear. They result from the exercise of human will. Men and women are directly responsible for them. That responsibility may be diffused, for we are all subject to the pressures of society and of our upbringings, but it is primarily located in humanity. **The classic answer to the allowed existence of moral evil is the free-will defense**— the claim that it is better for God to have created a world of freely choosing beings, with the possibility of their voluntary response to him and to each other, as well as the possibility of sinful selfishness, than to have created a world of blindly obedient automata (Polkinghorne, 2005, p. 76.).<sup>2</sup>
+> Dreadful as the resulting sufferings are, their immediate source is clear. They result from the exercise of human will. Men and women are directly responsible for them. That responsibility may be diffused, for we are all subject to the pressures of society and of our upbringings, but it is primarily located in humanity. **The classic answer to the allowed existence of moral evil is the free-will defense**— the claim that it is better for God to have created a world of freely choosing beings, with the possibility of their voluntary response to him and to each other, as well as the possibility of sinful selfishness, than to have created a world of blindly obedient automata (Polkinghorne, 2005, p. 76.).<sup>1</sup>
 
 In Chapter 7, Dr. John C. Polkinghorne explores the nature of time, arguing that while traditional views may suggest time is an illusion in a deterministic universe, modern quantum theory reveals that successive acts of measurement lead to genuinely new states, emphasizing a dynamic understanding of time:
 
@@ -208,15 +208,15 @@ In Chapter 7, Dr. John C. Polkinghorne explores the nature of time, arguing that
 >
 > In his attitude, Einstein was the last of the great ancients rather than the first of the great moderns. It is notorious that he rejected the radical indeterminism of probabilistic quantum theory. He could not stomach a God who played dice. Yet that is the picture of subatomic process to which almost all physicists subscribe today ...
 >
-> Thus quantum theory does not encourage the view that the flux of time is an illusion. Successive acts of measurement bring about genuinely new states of the system (Polkinghorne, 2005, pp. 89-90).<sup>2</sup>
+> Thus quantum theory does not encourage the view that the flux of time is an illusion. Successive acts of measurement bring about genuinely new states of the system (Polkinghorne, 2005, pp. 89-90).<sup>1</sup>
 
 Dr. Michael S. Heiser, who holds a PhD in Hebrew Bible and Semitic Languages from the University of Wisconsin-Madison, argues that God's foreknowledge of all possibilities does not necessitate predestination, emphasizing that these concepts are not inextricably linked:
 
 > The fact that God knows possibilities, and all possibilities don't happen. tells you that God's foreknowledge of those possibilities did not result in the predestination of all those possibilities. foreknowledge and predestination are not inextricably linked, **foreknowledge does not necessitate predestination**. God knowing all things real and possible actually undermines that idea (Heiser, 2021, 0:48).<sup>3</sup>
 
 <small>
-1\. Dr. Michio Kaku (PhD, University of California, Berkeley)<br>
-2\. Dr. John C. Polkinghorne (Prof, Mathematical Physics at Cambridge; PhD, Quantum Field Theory at Cambridge; PhD, Theoretical Elementary Particle Physics from Trinity College)<br>
+1\. Dr. John C. Polkinghorne (Prof, Mathematical Physics at Cambridge; PhD, Quantum Field Theory at Cambridge; PhD, Theoretical Elementary Particle Physics from Trinity College)<br>
+2\. Dr. Michio Kaku (PhD, University of California, Berkeley)<br>
 3\. Dr. Michael S. Heiser (PhD, Hebrew Bible and Semitic Languages at the University of Wisconsin-Madison)<br>
 </small>
 
