@@ -1,6 +1,6 @@
 ---
 title: "⛏️ Do you believe that you have the free will to renounce your faith and forfeit salvation? If the answer is no, then you do believe in some form of predestination."
-date: 2024-02-01 4:45:00 -0500
+date: 2024-02-01 4:55:00 -0500
 categories: [Theology, Predestination]
 tags: [election, predestination] # TAG names should always be lowercase
 author: seven_shepherd
@@ -86,7 +86,7 @@ Fatalism suggests that events are predetermined and inevitable, regardless of hu
 
 <div style="font-size:0.78em;">
   <ul>
-      <li>🔴 &ldquo;The dreadful error of hyper-Calvinism is that it involves God in coercing sin. <span style="font-weight:bold;">This does radical violence to the integrity of God’s character</span>&rdquo; (Sproul, 1986, Ch. 7).<sup>1</sup>
+      <li>🔴 &ldquo;The dreadful error of hyper-Calvinism is that it involves God in coercing sin. <span style="font-weight:bold;">This does radical violence to the integrity of God’s character</span>&rdquo; (Sproul, 1986, Ch. 7).<sup>1</sup></li>
   </ul>
 </div>
 
