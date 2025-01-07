@@ -1,6 +1,6 @@
 ---
 title: "⛏️ Do you believe that you have the free will to renounce your faith and forfeit salvation? If the answer is no, then you do believe in some form of predestination."
-date: 2024-02-01 4:55:00 -0500
+date: 2024-02-01 5:00:00 -0500
 categories: [Theology, Predestination]
 tags: [election, predestination] # TAG names should always be lowercase
 author: seven_shepherd
@@ -237,7 +237,7 @@ Libertarianism extends this concept to an illogical extreme. For Christians, the
 
 <div style="font-size:0.78em;">
   <ul>
-      <li>🟢 In complete harmony with Scripture and Physics.
+      <li>🟢 In complete harmony with Scripture and Physics.</li>
   </ul>
 </div>
 
