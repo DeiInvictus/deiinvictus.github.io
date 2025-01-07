@@ -1,6 +1,6 @@
 ---
 title: "⛏️ Do you believe that you have the free will to renounce your faith and forfeit salvation? If the answer is no, then you do believe in some form of predestination."
-date: 2024-02-01 4:30:00 -0500
+date: 2024-02-01 4:40:00 -0500
 categories: [Theology, Predestination]
 tags: [election, predestination] # TAG names should always be lowercase
 author: seven_shepherd
@@ -52,24 +52,23 @@ Different types of Free Will:
 - Molinism: In the divine tapestry of time, I am granted the freedom to choose, while God’s perfect foreknowledge weaves my decisions into His sovereign plan.
 - Libertarian Free Will: &ldquo;I possess the power to choose heaven, yet I can also forfeit my salvation and shatter my seal.&rdquo; -->
 
-
-
 ## I. <a name="newtonian-determinism" href="#Contents">🤖 Determinism & Fatalism</a>
 
-<!-- <div style="font-size:0.8rem;">
-Highly Unlikely:<br>
+<div style="font-size:0.78em;">
   <ul>
-      <li>🔴 1. Fundamentally at odds with Heisenberg's Uncertainty Principle (1927).</li>
-      <li>🔴 2. Fundamentally at odds with Niels Bohr's Indeterministic interpretation of quantum theory.</li>
-      <li>🟢 3. In harmony with David Bohm's deterministic interpretation of quantum theory, known as Bohmian mechanics.</li>
+      <li>🟡 &ldquo;It is a matter for metaphysical decision which of these alternatives is to be chosen, a point made clearly enough by the existence of both an <span style="font-weight:bold;">indeterministic interpretation (Niels Bohr) and a deterministic interpretation (David Bohm) of quantum theory</span>, each having the same empirical adequacy in relation to experimental results, so that <span style="font-weight:bold;">physics by itself cannot settle the issue between them</span>&rdquo; (Polkinghorne, 2005, p. xi).<sup>1</sup></li>
   </ul>
-</div> -->
+</div>
+
+<!-- <li>🔴 1. Fundamentally at odds with Heisenberg's Uncertainty Principle (1927).</li>
+<li>🔴 2. Fundamentally at odds with Niels Bohr's Indeterministic interpretation of quantum theory.</li>
+<li>🟢 3. In harmony with David Bohm's deterministic interpretation of quantum theory, known as Bohmian mechanics.</li> -->
 
 Many of history's most brilliant thinkers, including **Newton, Leibniz, and Einstein**, subscribed to the philosophy of determinism. This view holds that all events, including human actions, are determined by preceding events in accordance with the laws of nature. Free will is an illusion, and thus, moral responsibility is also negated. However, this understanding was fundamentally shaken by the advent of Heisenberg's Uncertainty Principle.
 
 > Newtonian Determinism says that the universe is a clock, a gigantic clock that’s wound up in the beginning of time and has been ticking ever since according to Newton’s laws of motion. So what you’re going to eat 10 years from now on January 1st has already been fixed. It’s already known using Newton’s laws of motion. Einstein believed in that. Einstein was a determinist.
 >
-> Does that mean that a murderer, this horrible mass murderer isn’t really guilty of his works because he was already preordained billions of years ago? Einstein said well yeah, in some sense that’s true that even mass murderers were predetermined, but he said, they should still be placed in jail ... (Kaku, 2011).<sup>1</sup>
+> Does that mean that a murderer, this horrible mass murderer isn’t really guilty of his works because he was already preordained billions of years ago? Einstein said well yeah, in some sense that’s true that even mass murderers were predetermined, but he said, they should still be placed in jail ... (Kaku, 2011).<sup>2</sup>
 
 Fatalism suggests that events are predetermined and inevitable, regardless of human actions. It often implies a sense of resignation to fate, where individuals believe that they cannot change the outcome of events.
 
@@ -78,9 +77,18 @@ Fatalism suggests that events are predetermined and inevitable, regardless of hu
 
 > Later doctrines of fatalism may be described loosely as synonymous with determinism, but it is useful to make a distinction. Whereas determinism can be represented as compatible with moral responsibility, fatalism properly understood would reduce practical ethics to nothing but the advice that humans should resign themselves indifferently to the course of events. Strict fatalism, therefore, is not to be sought in the major Christian controversies arising from differences between Augustinian and Pelagian, semi-Pelagian, or Molinist doctrine on free will, on grace, and on predestination. Among Christians, the Quietists, with their uncritical reliance on inspiration, may be regarded as having approached more closely to the fatalistic norm of behaviour than any of the commonly recognized partisans of determinism, such as Calvinists or Jansenists (Britannica, 2017, para. 2).
 
-<small>1. Dr. Michio Kaku (PhD, University of California, Berkeley).</small>
+<small>
+1\. Dr. John C. Polkinghorne (Prof, Mathematical Physics at Cambridge; PhD, Quantum Field Theory at Cambridge; PhD, Theoretical Elementary Particle Physics from Trinity College)<br>
+2\. Dr. Michio Kaku (PhD, University of California, Berkeley).
+</small>
 
 ### 1.1 <a href="#Contents" name="double-predestination">Double Predestination</a>
+
+<div style="font-size:0.78em;">
+  <ul>
+      <li>🔴 &ldquo;The dreadful error of hyper-Calvinism is that it involves God in coercing sin. <span style="font-weight:bold;">This does radical violence to the integrity of God’s character</span>&rdquo; (Sproul, 1986, Ch. 7).<sup>1</sup>
+  </ul>
+</div>
 
 <!-- <div style="font-size:0.8rem;">
 Highly Unlikely:<br>
@@ -110,7 +118,7 @@ Individuals who adhere to the doctrine of double predestination can be categoriz
 <small>
 1\. Dr. R. C. Sproul (PhD, Whitefield Theological Seminary)<br>
 2\. Dr. William Lane Craig (PhD, University of Birmingham; ThD, University of Munich)<br>
-2\. Dr. John C. Lennox (PhD, Mathematics at the University of Cambridge)
+3\. Dr. John C. Lennox (PhD, Mathematics at the University of Cambridge)
 </small>
 
 ### 1.2 <a href="#Contents" name="unconditional-single-election">Unconditional Single Election & Freedom of Inclination</a>
@@ -154,6 +162,12 @@ Demarest (2006) articulates this asymmetrical view effectively:
 
 ## II. <a name="indeterminism" href="#Contents">☠️ Indeterminism & Libertarianism</a>
 
+<div style="font-size:0.78em;">
+  <ul>
+      <li>🟡 &ldquo;It is a matter for metaphysical decision which of these alternatives is to be chosen, a point made clearly enough by the existence of both an <span style="font-weight:bold;">indeterministic interpretation (Niels Bohr) and a deterministic interpretation (David Bohm) of quantum theory</span>, each having the same empirical adequacy in relation to experimental results, so that <span style="font-weight:bold;">physics by itself cannot settle the issue between them</span>&rdquo; (Polkinghorne, 2005, p. xi).<sup>1</sup></li>
+  </ul>
+</div>
+
 <!-- <div style="font-size:0.8rem;">
 Indeterminism partly; libertarianism discredited:<br>
   <ul>
@@ -166,7 +180,7 @@ Indeterminism partly; libertarianism discredited:<br>
 
 This view posits that not all events are determined by preceding causes, allowing for randomness or chance. Indeterminism opens the door for a form of free will, as it suggests that some events (including human decisions) can occur without being predetermined. Dr. Michio Kaku, a theoretical physicist and co-founder of string field theory, emphasizes the implications of Heisenberg's Uncertainty Principle on free will:
 
-> ... Heisenberg then comes along and proposes the Heisenberg Uncertainty Principle and says: &ldquo;Nonsense. There is uncertainty. You don’t know where the electron is. It could be here, here or many places simultaneously.&rdquo; This of course Einstein hated because he said God doesn’t play dice with the universe. Well hey, get used to it. Einstein was wrong. God does play dice. Every time we look at an electron it moves. There is uncertainty with regards to the position of the electron.
+> ... Heisenberg then comes along and proposes the **Heisenberg Uncertainty Principle** and says: &ldquo;Nonsense. There is uncertainty. You don’t know where the electron is. It could be here, here or many places simultaneously.&rdquo; This of course Einstein hated because he said God doesn’t play dice with the universe. Well hey, get used to it. Einstein was wrong. God does play dice. Every time we look at an electron it moves. There is uncertainty with regards to the position of the electron.
 >
 > So what does that mean for free will? It means in some sense we do have some kind of free will. No one can determine your future events given your past history. There is always the wildcard. There is always the possibility of uncertainty in whatever we do.
 >
@@ -176,7 +190,7 @@ Dr. John C. Polkinghorne, a distinguished professor of Mathematical Physics at C
 
 > The twentieth-century discovery of intrinsic unpredictabilities present in physical process, both at the microscopic level of quantum theory and at the macroscopic level of chaos theory, had brought about the demise of a merely mechanical picture of the physical world, whose workings were no longer seen as being wholly tame and controllable. Yet, unpredictability is an epistemological property, concerned with what can or cannot be known, and it carries no logical entailment of a necessary ontological conclusion concerning what is actually the case. Inability to predict might be due either to ignorance of hidden causal detail of a conventional kind, or it might be the sign of a true openness to the operation of new forms of causal principle. It is a matter for metaphysical decision which of these alternatives is to be chosen, a point made clearly enough by the existence of both an **indeterministic interpretation (Niels Bohr) and a deterministic interpretation (David Bohm) of quantum theory**, each having the same empirical adequacy in relation to experimental results, so that **physics by itself cannot settle the issue between them** (Polkinghorne, 2005, p. xi).<sup>2</sup>
 
-> I think, from an undue bewitchment by the Newtonian equations from which chaos theory originally sprang. Of course, as they stand, these equations are deterministic in their character, but we know that they are only approximations to reality, since Newtonian thinking is not adequate at the scale of atomic phenomena. Dismissive talk of ‘deterministic chaos’ is, therefore, a highly challengeable metaphysical decision, rather than an established conclusion of physics. It might be thought that understanding could be advanced by a fusion of quantum theory and chaos theory, since the behavior of chaotic systems soon comes ostensibly to depend upon fine detail at a level of accuracy that is rendered inaccessible by Heisenberg’s uncertainty principle (Polkinghorne, 2005, p. xii).<sup>2</sup>
+> I think, from an undue bewitchment by the Newtonian equations from which chaos theory originally sprang. Of course, as they stand, these equations are deterministic in their character, but we know that they are only approximations to reality, since Newtonian thinking is not adequate at the scale of atomic phenomena. Dismissive talk of ‘deterministic chaos’ is, therefore, a highly challengeable metaphysical decision, rather than an established conclusion of physics. It might be thought that understanding could be advanced by a fusion of quantum theory and chaos theory, since the behavior of chaotic systems soon comes ostensibly to depend upon fine detail at a level of accuracy that is **rendered inaccessible by Heisenberg’s uncertainty principle** (Polkinghorne, 2005, p. xii).<sup>2</sup>
 
 In Chapter Two, Dr. John C. Polkinghorne emphasizes that our understanding of the universe reveals an openness to the future, challenging the constraints of mechanical determinism and suggesting a more dynamic and less machine-like nature of reality:
 
@@ -217,9 +231,15 @@ Discredited entirely:<br>
 
 Libertarianism extends this concept to an illogical extreme. For Christians, the difficulty presented by **libertarian free will** stems from its total disregard for God's sovereignty and its profound neglect of Scriptural teachings. Libertarianism contradicts Ephesians 1:13-14 by incorrectly asserting that individuals can nullify their own divine seal through the exercise of their free will, that they can essentially snatch themselves from God's hand (John 10:28-29), and that they somehow have the free will to overpower God himself (Romans 8:38-39).
 
-> Libertarianism is vulnerable to what is called the “intelligibility” objection, which points out that people can have no more control over a purely random action than they have over an action that is deterministically inevitable; in neither case does free will enter the picture. Hence, **if human actions are indeterministic, free will does not exist**. (Britannica, 2024, para. 5).
+> Libertarianism is vulnerable to what is called the “intelligibility” objection, which points out that people can have no more control over a purely random action than they have over an action that is deterministically inevitable; in neither case does free will enter the picture. Hence, **if human actions are indeterministic, free will does not exist** (Britannica, 2024, para. 5).
 
 ## III. <a name="compatibilism" href="#Contents">⚖️ Theological Compatibilism</a>
+
+<div style="font-size:0.78em;">
+  <ul>
+      <li>🟢 In complete harmony with Scripture and Physics.
+  </ul>
+</div>
 
 <!-- <div style="font-size:0.8rem;">
 Highly likely, as it:<br>
@@ -232,7 +252,11 @@ Highly likely, as it:<br>
   </ul>
 </div> -->
 
-Compatibilism recognizes God's sovereignty alongside Heisenberg's Uncertainty Principle. Compatibilism argues that determinism (God's sovereignty) and free will are not mutually exclusive, in other words, they exist at the same time. Compatibilists believe that individuals can be considered free in their choices, even if those choices are determined by prior causes. They redefine free will to fit within a deterministic framework, or in this context, free will is reconceptualized to align with God's sovereignty. **This is where you will find the world's brightest theologians and biblical language scholars.**
+Compatibilism recognizes God's sovereignty alongside a limited version of free will. Compatibilism argues that determinism (God's sovereignty) and free will are not mutually exclusive, in other words, they exist at the same time. They redefine free will to fit within a deterministic framework, or in this context, free will is reconceptualized to align with God's sovereignty. **This is where you will find the world's brightest theologians and biblical language scholars.**
+
+<!-- Heisenberg's Uncertainty Principle. -->
+
+<!-- Compatibilists believe that individuals can be considered free in their choices, even if those choices are determined by prior causes. -->
 
 > I believe that **the doctrine of election is absolutely true** while at the same time it's true that human beings have a free will **this is an idea known as compatibilism** in theological circles (Rhodes, 2016, 1:58).
 
