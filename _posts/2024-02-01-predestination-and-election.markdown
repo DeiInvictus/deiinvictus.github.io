@@ -1,6 +1,6 @@
 ---
 title: "⛏️ Do you believe that you have the free will to renounce your faith and forfeit salvation? If the answer is no, then you do believe in some form of predestination."
-date: 2024-02-01 5:00:00 -0500
+date: 2024-02-01 5:05:00 -0500
 categories: [Theology, Predestination]
 tags: [election, predestination] # TAG names should always be lowercase
 author: seven_shepherd
@@ -225,7 +225,7 @@ Dr. Michael S. Heiser, who holds a PhD in Hebrew Bible and Semitic Languages fro
 <div style="font-size:0.8rem;">
 Discredited entirely:<br>
   <ul>
-      <li>🔴 2. Discredited by the "intelligibility" objection.</li>
+      <li>🔴 Discredited by the "intelligibility" objection.</li>
   </ul>
 </div>
 
