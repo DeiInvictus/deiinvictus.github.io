@@ -1,6 +1,6 @@
 ---
 title: "⛏️ Do you believe that you have the free will to renounce your faith and forfeit salvation? If the answer is no, then you do believe in some form of predestination."
-date: 2024-02-01 5:10:00 -0500
+date: 2024-02-01 5:15:00 -0500
 categories: [Theology, Predestination]
 tags: [election, predestination] # TAG names should always be lowercase
 author: seven_shepherd
@@ -106,7 +106,7 @@ Individuals who embrace the doctrine of double predestination, which is the most
 >
 >> III. By the decree of God, for the manifestation of **His glory**, some men and angels<sup>6</sup> are predestinated unto everlasting life; and others **foreordained to everlasting death**.<sup>7</sup>
 >>
->> <sup>6</sup>1Ti 5:21; Mat 25:41
+>> <sup>6</sup>1Ti 5:21; Mat 25:41<br>
 >> <sup>7</sup>Rom 9:22,23; Eph 1:5,6; Pro 16:4
 >
 > ...
@@ -119,7 +119,7 @@ Individuals who embrace the doctrine of double predestination, which is the most
 
 <!-- *Westminster Confession of Faith*. (2021). Versa Press. (Original work published 1647) -->
 
-For those marked as vessels of wrath, the chilling truth is that your eternity in hell&mdash;engulfed in flames and unending torment&mdash;was preordained by God before your existence. This fate is not a mere consequence of your actions; it is a divine decree, a grim reality that magnifies God's glory in the most unsettling and terrifying way imaginable.
+For those marked as vessels of wrath, the chilling truth is that their eternity in hell&mdash;engulfed in flames and unending torment&mdash;was preordained by God before their existence. This fate is not a mere consequence of their actions; it is a divine decree, a grim reality that magnifies God's glory in the most unsettling and terrifying way imaginable.
 
 > The dreadful error of hyper-Calvinism is that it involves God in coercing sin. **This does radical violence to the integrity of God’s character** (Sproul, 1986, Ch. 7).<sup>1</sup>
 
