@@ -1,6 +1,6 @@
 ---
 title: "⛏️ Do you believe that you have the free will to renounce your faith and forfeit salvation? If the answer is no, then you do believe in some form of predestination."
-date: 2024-02-01 5:05:00 -0500
+date: 2024-02-01 5:10:00 -0500
 categories: [Theology, Predestination]
 tags: [election, predestination] # TAG names should always be lowercase
 author: seven_shepherd
@@ -99,7 +99,27 @@ Highly Unlikely:<br>
   </ul>
 </div> -->
 
-Individuals who adhere to the doctrine of double predestination can be categorized within determinism. This doctrine asserts that God sovereignly determines both the election of individuals to salvation **and their reprobation** to damnation prior to their existence.
+Individuals who embrace the doctrine of double predestination, which is the most deterministic soteriology, hold an unyielding and chilling view of divine sovereignty. This doctrine asserts that God, in His absolute authority, has predetermined the fate of every individual&mdash;determining their election to salvation **and their reprobation to eternal damnation**, all before they even draw their first breath. In this harrowing soteriology, the vessels of wrath and the vessels of mercy (Rom. 9:22-23) are fixed and irrevocably established... even before the very foundations of the earth were laid.
+
+> <span style="font-size:1.4rem;">Chapter III.</span><br>
+> Of God's Eternal Decree
+>
+>> III. By the decree of God, for the manifestation of **His glory**, some men and angels<sup>6</sup> are predestinated unto everlasting life; and others **foreordained to everlasting death**.<sup>7</sup>
+>>
+>> <sup>6</sup>1Ti 5:21; Mat 25:41
+>> <sup>7</sup>Rom 9:22,23; Eph 1:5,6; Pro 16:4
+>
+> ...
+>
+>> VII. The rest of mankind **God was pleased**, according to the unsearchable counsel of His own will, whereby He extends or withholds mercy, as He pleases, **for the glory of His sovereign power** over His creatures, to pass by; and **to ordain them to dishonor and wrath** for their sin, **to the praise of His glorious justice**.<sup>17</sup>
+>>
+>> <sup>17</sup>Mat 11:25,26; Rom 9:17,18,21,22; 2Ti 2:19,20; Jd 4 NET; 1Pe 2:8
+>
+> (Westminster Confession of Faith, 1647/2021, pp. 27-30).
+
+<!-- *Westminster Confession of Faith*. (2021). Versa Press. (Original work published 1647) -->
+
+For those marked as vessels of wrath, the chilling truth is that your eternity in hell&mdash;engulfed in flames and unending torment&mdash;was preordained by God before your existence. This fate is not a mere consequence of your actions; it is a divine decree, a grim reality that magnifies God's glory in the most unsettling and terrifying way imaginable.
 
 > The dreadful error of hyper-Calvinism is that it involves God in coercing sin. **This does radical violence to the integrity of God’s character** (Sproul, 1986, Ch. 7).<sup>1</sup>
 
@@ -424,6 +444,8 @@ Singer, P. & Eddon, M. (2022, August 3). *Free will and moral responsibility*. E
 Smith, C. (2001). *Calvinism, arminianism, & the word of God, a Calvary Chapel perspective*. The Word For Today.
 
 Sproul, R. C. (1986). *Chosen by God*. Tyndale House Publishers.
+
+*Westminster Confession of Faith*. (2021). Versa Press. (Original work published 1647)
 
 <!-- Packer, J. I. (2020). *Concise theology*. Crossway. -->
 
