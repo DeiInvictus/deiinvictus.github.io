@@ -1,6 +1,6 @@
 ---
 title: "⛏️ Do you believe that you have the free will to renounce your faith and forfeit salvation? If the answer is no, then you do believe in some form of predestination."
-date: 2024-02-01 5:25:00 -0500
+date: 2024-02-01 5:30:00 -0500
 categories: [Theology, Predestination]
 tags: [election, predestination] # TAG names should always be lowercase
 author: seven_shepherd
@@ -296,7 +296,7 @@ Chuck Smith also taught the Wesleyan Foreknowledge view of election.
 
 ### 3.2 <a name="asymmetrical-compatibilism" href="#Contents">Single Unconditional Election & Free Will</a>
 
-Reformed variants of asymmetrical Compatibilism assert a definitive emphasis on foreordination rather than foreknowledge. They maintain that we possess free will, but rather than associating it with a prescient foreknowledge, they align it with unconditional single election. While supralapsarian high-Calvinists advocate for a symmetrical double foreordination and Arminians support a symmetrical double prescient foreknowledge, this perspective asserts that foreordination applies solely to election, with conditional election pertaining to reprobation, as Demarest (2006) asserts, "unconditional election to life and conditional election to damnation" (p. 138).<sup>1</sup> The distinction between this asymmetry and that of infralapsarian orthodox Calvinists lies in the fact that this model contrasts God's sovereignty with a limited version of free will, rather than with freedom of inclination.
+Reformed variants of asymmetrical Compatibilism assert a definitive emphasis on foreordination rather than prescience. They maintain that we possess free will, but rather than associating it with a prescient foreknowledge, they align it with foreordaining foreknowledge (a.k.a. unconditional single election). While supralapsarian high-Calvinists advocate for a symmetrical double foreordination and Arminians support a symmetrical double prescient foreknowledge, this perspective asserts that foreordination applies solely to election, with conditional election pertaining to reprobation, as Demarest (2006) asserts, "unconditional election to life and conditional election to damnation" (p. 138).<sup>1</sup> The distinction between this asymmetry and that of infralapsarian orthodox Calvinists lies in the fact that this model contrasts God's sovereignty with a limited version of free will, rather than with freedom of inclination.
 
 <!-- In layman's terms, there's single unconditional election and free will. -->
 
