@@ -1,6 +1,6 @@
 ---
 title: "⛏️ Do you believe that you have the free will to renounce your faith and forfeit salvation? If the answer is no, then you do believe in some form of predestination."
-date: 2024-02-01 5:15:00 -0500
+date: 2024-02-01 5:25:00 -0500
 categories: [Theology, Predestination]
 tags: [election, predestination] # TAG names should always be lowercase
 author: seven_shepherd
@@ -18,7 +18,7 @@ pin: true
 1. <a href="#newtonian-determinism">🤖 Determinism & Fatalism</a>
     - 1.1 <a href="#double-predestination">Double Predestination</a>
     - 1.2 <a href="#unconditional-single-election">Uncond. Single Election & Inclination</a>
-2. <a href="#indeterminism">☠️ Indeterminism & Libertarianism</a>
+2. <a href="#indeterminism">🤖 Indeterminism & Libertarianism</a>
     - 2.1 <a href="#libertarian-free-will">Libertarian Free Will</a>
 3. <a href="#compatibilism">⚖️ Theological Compatibilism</a>
     - 3.1 <a href="#double-foreknowledge">Cond. Double Foreknowledge & Free Will</a>
@@ -143,16 +143,11 @@ For those marked as vessels of wrath, the chilling truth is that their eternity 
 
 ### 1.2 <a href="#Contents" name="unconditional-single-election">Unconditional Single Election & Freedom of Inclination</a>
 
-<!-- <div style="font-size:0.8rem;">
-Unlikely, yet not beyond the realm of possibility:<br>
+<div style="font-size:0.78em;">
   <ul>
-      <li>🟡 1. In considerable tension with Heisenberg's Uncertainty Principle.</li>
-      <li>🟡 2. In considerable tension with Niels Bohr's Indeterministic interpretation of quantum theory.</li>
-      <li>🟢 3. In harmony with David Bohm's deterministic interpretation of quantum theory, known as Bohmian mechanics.</li>
+      <li>🟡 This does not involve God in coercing sin. This is the only deterministic option that is possible.</li>
   </ul>
-</div> -->
-
-<!-- <sup>🟡 Heisenberg's Uncertainty Principle places significant strain on the concept of Freedom of Inclination.</sup> -->
+</div>
 
 The concept of freedom of inclination permits individuals to act freely only within the confines of their depravity; without divine election and regeneration, the unregenerate are unable to choose salvation and are consequently called slaves of depravity. This viewpoint remains fundamentally deterministic, because this is a death sentence for the unelect. Hopefully, you win the election lottery.
 
@@ -180,7 +175,7 @@ Demarest (2006) articulates this asymmetrical view effectively:
 1\. Dr. Bruce Demarest (PhD, University of Manchester)
 </small>
 
-## II. <a name="indeterminism" href="#Contents">☠️ Indeterminism & Libertarianism</a>
+## II. <a name="indeterminism" href="#Contents">🤖 Indeterminism & Libertarianism</a>
 
 <div style="font-size:0.78em;">
   <ul>
@@ -301,7 +296,9 @@ Chuck Smith also taught the Wesleyan Foreknowledge view of election.
 
 ### 3.2 <a name="asymmetrical-compatibilism" href="#Contents">Single Unconditional Election & Free Will</a>
 
-Reformed variants of asymmetrical Compatibilism assert a definitive emphasis on foreordination rather than foreknowledge. They maintain that we possess free will, but rather than associating it with a prescient foreknowledge, they align it with unconditional single election. While supralapsarian high-Calvinists advocate for a symmetrical double foreordination and Arminians support a symmetrical double prescient foreknowledge, this perspective asserts that foreordination applies solely to election, with conditional election pertaining to reprobation, as Demarest (2006) asserts, "unconditional election to life and conditional election to damnation" (p. 138).<sup>1</sup> The distinction between this asymmetry and that of infralapsarian orthodox Calvinists lies in the fact that this model contrasts God's sovereignty with free will, rather than with freedom of inclination. In layman's terms, there's single unconditional election and free will.
+Reformed variants of asymmetrical Compatibilism assert a definitive emphasis on foreordination rather than foreknowledge. They maintain that we possess free will, but rather than associating it with a prescient foreknowledge, they align it with unconditional single election. While supralapsarian high-Calvinists advocate for a symmetrical double foreordination and Arminians support a symmetrical double prescient foreknowledge, this perspective asserts that foreordination applies solely to election, with conditional election pertaining to reprobation, as Demarest (2006) asserts, "unconditional election to life and conditional election to damnation" (p. 138).<sup>1</sup> The distinction between this asymmetry and that of infralapsarian orthodox Calvinists lies in the fact that this model contrasts God's sovereignty with a limited version of free will, rather than with freedom of inclination.
+
+<!-- In layman's terms, there's single unconditional election and free will. -->
 
 <!-- Whereas supralapsarian high-Calvinists believe in a symmetrical double foreordination, and the Arminians believe in a symmetrical double prescient foreknowledge, this view posits foreordination only in election and foreknowledge in reprobation. The difference between this asymmetry and that of the infralapsarian orthodox Calvinists is that this form of asymmetry is between God's sovereignty and free will instead of God's sovereignty and freedom of inclination. -->
 
@@ -368,7 +365,15 @@ Dr. Carson elaborates on the concept of human responsibility in Chapter 3 of his
 
 Dr. Carson elaborates on the concept of God's Sovereignty in Chapter 3 of his book *Divine Sovereignty and Human Responsibility: Biblical Perspectives in Tension*, stating that:
 
-> Chapter Three, GOD AS SOVEREIGN. ... Chance is excluded; and if here and there we read of something that might be considered a chance event, it is not really thought of apart from God's direction (1 Sam. 6.9; 20.26; 1 Kgs. 22.34; Ruth 2.3; 2 Chr. 18.33). Hence the lot is used to discover Yahweh's will, 'and is didactically recognised as under His control' (Prov. 16.33; cf. Josh. 7.16; 14.2; 18.6; 1 Sam. 10.19-21; Jonah 1.7). ... Human thoughts and decisions are often attributed directly to God's determining (e.g. 2 Sam. 24.1; Isa. 19.13f.; 37.7; Prov. 21.1; Ezra 1.1; 7.6, 27f.; Neh. 2.11f.). ... Examples are so numerous that only a few instances may be cited. Micaiah's description of the heavenly courts and the selection of a lying spirit whose success is guaranteed (1 Kgs. 22.19-22; 2 Chr. 18.18-22), the inciting of David to evil purpose (2 Sam. 24.1), the selling of Joseph into slavery (Gen. 50.20), the sending forth of evil spirits to their appointed tasks (e.g. Judg. 9.23ff.; 1 Sam. 16.14; 18.10), the prologue of Job, not to mention the specific remarks of the prophets (e.g. Does evil (rā'āh) befall a city, unless the LORD has done it?" Amos 3.6; cf. Isa. 14.24-7; 45.7), all clamour for attention. ... God is also said to control the minds of his people for good. Sometimes he is **petitioned to do so**. Such expressions are particularly common in the prophets who look forward to the new covenant (cf. Jer. 31.31-4; 32.40; Ezek. 11.19f.; 36.22ff.; Zeph. 3.9-13; etc.), but are certainly not restricted to such a framework (e.g. 1 Chr. 29.17-19). ... Yahweh is holy, sovereign, full of special regard for his elect, and personally ruling in the affairs of men. This view of God makes the perplexity of his people understandable when, from the human perspective, it appears that Yahweh has dealt harshly (Ruth 1.20f.), unfairly (Job 3ff.), or without due consideration of the wickedness of other men (Habbakuk; Ps. 73). It prompts a cry like that in Isaiah 63.17: 'O LORD, why dost thou make us err from thy ways, and harden our heart, so that we fear thee not? Return for the sake of thy servants, for the tribes of thy heritage. (Cf. also Isa. 64.76.). ... Concluding remarks: The idea that God really is the sovereign disposer of all is consistently woven into the fabric of the Old Testament, even if there is relatively infrequent explicit reflection on the sovereignty-responsibility tension. Taken as a whole, the all-embracing activity of the sovereign God in the Old Testament must be distinguished from deism, which cuts the world off from him; from cosmic dualism, which divides the control of the world between God and other(s); from determinism, which posits such a direct and rigid control, or such an impersonal one, that human responsibility is destroyed; from indeterminism and chance, which deny either the existence or the rationality of a sovereign God; and from pantheism, which virtually identifies God with the world ... (Carson, 2002, pp. 24-38).<sup>1</sup>
+> Chance is excluded; and if here and there we read of something that might be considered a chance event, it is not really thought of apart from God's direction (1 Sam. 6.9; 20.26; 1 Kgs. 22.34; Ruth 2.3; 2 Chr. 18.33). Hence the lot is used to discover Yahweh's will, 'and is didactically recognised as under His control' (Prov. 16.33; cf. Josh. 7.16; 14.2; 18.6; 1 Sam. 10.19-21; Jonah 1.7) (Carson, 2002, pp. 25-26).<sup>1</sup>
+
+> Human thoughts and decisions are often attributed directly to God's determining (e.g. 2 Sam. 24.1; Isa. 19.13f.; 37.7; Prov. 21.1; Ezra 1.1; 7.6, 27f.; Neh. 2.11f.) (Carson, 2002, p. 27).<sup>1</sup>
+
+> Examples are so numerous that only a few instances may be cited. Micaiah's description of the heavenly courts and the selection of a lying spirit whose success is guaranteed (1 Kgs. 22.19-22; 2 Chr. 18.18-22), the inciting of David to evil purpose (2 Sam. 24.1), the selling of Joseph into slavery (Gen. 50.20), the sending forth of evil spirits to their appointed tasks (e.g. Judg. 9.23ff.; 1 Sam. 16.14; 18.10), the prologue of Job, not to mention the specific remarks of the prophets (e.g. Does evil (rā'āh) befall a city, unless the LORD has done it?" Amos 3.6; cf. Isa. 14.24-7; 45.7), all clamour for attention (Carson, 2002, p. 29).<sup>1</sup>
+
+> ... God is also said to control the minds of his people for good. Sometimes he is **petitioned to do so**. Such expressions are particularly common in the prophets who look forward to the new covenant (cf. Jer. 31.31-4; 32.40; Ezek. 11.19f.; 36.22ff.; Zeph. 3.9-13; etc.), but are certainly not restricted to such a framework (e.g. 1 Chr. 29.17-19) (Carson, 2002, p. 29).<sup>1</sup>
+
+> Yahweh is holy, sovereign, full of special regard for his elect, and personally ruling in the affairs of men. This view of God makes the perplexity of his people understandable when, from the human perspective, it appears that Yahweh has dealt harshly (Ruth 1.20f.), unfairly (Job 3ff.), or without due consideration of the wickedness of other men (Habbakuk; Ps. 73). It prompts a cry like that in Isaiah 63.17: 'O LORD, why dost thou make us err from thy ways, and harden our heart, so that we fear thee not? Return for the sake of thy servants, for the tribes of thy heritage. (Cf. also Isa. 64.7f.) (Carson, 2002, p. 30).<sup>1</sup>
 
 <small>
 1\. Dr. D. A. Carson (PhD, University of Cambridge)<br>
@@ -396,6 +401,8 @@ It's possible that conditional election is correct regarding salvation, but inco
 <!-- I think my conclusions and the conclusions of Ross's Transcendent Compatibilism may work cohesively, though it would lean more toward prescience than foreordination. -->
 
 <!-- &mdash; Dr. Bruce Demarest (Ph.D., University of Manchester), The Cross and Salvation, Chapter Three, The Doctrine of Election, III. The Exposition Of The Doctrine of Election. pp. 124-135. -->
+
+> Concluding remarks: The idea that God really is the sovereign disposer of all is consistently woven into the fabric of the Old Testament, even if there is relatively infrequent explicit reflection on the sovereignty-responsibility tension. Taken as a whole, the all-embracing activity of the sovereign God in the Old Testament must be distinguished from deism, which cuts the world off from him; from cosmic dualism, which divides the control of the world between God and other(s); from determinism, which posits such a direct and rigid control, or such an impersonal one, that human responsibility is destroyed; from indeterminism and chance, which deny either the existence or the rationality of a sovereign God; and from pantheism, which virtually identifies God with the world (Carson, 2002, p. 35).<sup>1</sup>
 
 <small>
 1\. Dr. D. A. Carson (PhD, University of Cambridge)<br>
