@@ -1,6 +1,6 @@
 ---
 title: "⛏️ Free Will, Predestination, Election, and Reprobation"
-date: 2024-02-01 5:40:00 -0500
+date: 2024-02-01 5:45:00 -0500
 categories: [Theology, Predestination]
 tags: [free will, predestination, election, reprobation] # TAG names should always be lowercase
 author: seven_shepherd
@@ -11,7 +11,7 @@ pin: true
 
 ![Free Will Debate](/assets/images/philosophy/compatibilism.png)
 
-> <small>**For many are called, but few are chosen.**” &mdash; Jesus in Matthew 22:14 (cf. Acts 13:48,2:23; Mt 22:14; Eph 1:4,11; Jn 15:16,18-19; Jn 6:44,65; Ro 8:29-30; 9:11-16; 1Pe 1:2; 2 Pe 1:10; Re 13:8,17:8; Lk 24:45+1Cor 2:14; Jn 17:9, and Ro 10:9+1Cor 12:3+Lk 6:46)</small>
+> <small>&ldquo;**For many are called, but few are chosen.**&rdquo; &mdash; Jesus in Matthew 22:14 (cf. Acts 13:48,2:23; Mt 22:14; Eph 1:4,11; Jn 15:16,18-19; Jn 6:44,65; Ro 8:29-30; 9:11-16; 1Pe 1:2; 2 Pe 1:10; Re 13:8,17:8; Lk 24:45+1Cor 2:14; Jn 17:9, and Ro 10:9+1Cor 12:3+Lk 6:46)</small>
 
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/Jint5kjoy6I?si=8F9Ao0TkqlvfQtEw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
 
