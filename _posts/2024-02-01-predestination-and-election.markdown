@@ -1,8 +1,8 @@
 ---
-title: "⛏️ Do you believe that you have the free will to renounce your faith and forfeit salvation? If the answer is no, then you do believe in some form of predestination."
-date: 2024-02-01 5:30:00 -0500
+title: "⛏️ Free Will, Predestination, Election, and Reprobation"
+date: 2024-02-01 5:40:00 -0500
 categories: [Theology, Predestination]
-tags: [election, predestination] # TAG names should always be lowercase
+tags: [free will, predestination, election, reprobation] # TAG names should always be lowercase
 author: seven_shepherd
 published: true
 comments: false
@@ -10,6 +10,8 @@ pin: true
 ---
 
 ![Free Will Debate](/assets/images/philosophy/compatibilism.png)
+
+> <small>**For many are called, but few are chosen.**” &mdash; Jesus in Matthew 22:14 (cf. Acts 13:48,2:23; Mt 22:14; Eph 1:4,11; Jn 15:16,18-19; Jn 6:44,65; Ro 8:29-30; 9:11-16; 1Pe 1:2; 2 Pe 1:10; Re 13:8,17:8; Lk 24:45+1Cor 2:14; Jn 17:9, and Ro 10:9+1Cor 12:3+Lk 6:46)</small>
 
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/Jint5kjoy6I?si=8F9Ao0TkqlvfQtEw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
 
@@ -33,9 +35,40 @@ pin: true
 
 <br>
 
-Any intelligent examination of the Bible leads to a belief in the doctrine of election. As Articulated by Jesus in the book of Matthew:
+I'd like to start out by asking you a few questions; we'll call it the free will test, if you will:
 
-> **For many are called, but few are chosen.**” &mdash; Jesus in Matthew 22:14 (cf. Acts 13:48,2:23; Mt 22:14; Eph 1:4,11; Jn 15:16,18-19; Jn 6:44,65; Ro 8:29-30; 9:11-16; 1Pe 1:2; 2 Pe 1:10; Re 13:8,17:8; Lk 24:45+1Cor 2:14; Jn 17:9, and Ro 10:9+1Cor 12:3+Lk 6:46)
+<!-- 1. **Environmental Influences**: We do not choose the circumstances of our upbringing, including socioeconomic status and cultural background.
+1. **Past Experiences**: We cannot change or control our past experiences or traumas.
+2. **Cognitive Biases**: These biases operate subconsciously and influence our thinking without our awareness.
+3. **Addiction**: The compulsive nature of addiction can overpower individual will.
+4. **Mental Health**: We cannot control the onset of mental health conditions or their effects on our behavior.
+5.  **Cultural Norms**: We are shaped by the cultural values and norms we are born into, which we do not choose.
+6.  **Legal Constraints**: Laws and regulations are imposed by society and are beyond individual control.
+7.  **Randomness and Chance**: Unpredictable events and circumstances occur without our influence. -->
+
+1. Did you have the free will to choose your birthplace, such as the United States, Canada, China, India, Brazil, Nigeria, or Germany?
+2. Did you have a choice in being born as a Caucasian (White), African (Black), Asian, Hispanic or Latino, Indigenous Peoples, Pacific Islander, or Middle Eastern?
+3. Did you have any influence over the socioeconomic conditions into which you would be born?
+4. Did you choose your relatives, including your grandparents, parents, or siblings?
+5. Did you have a free will choice over your inherited genetic disorders, like cystic fibrosis, Huntington's disease, and sickle cell anemia? All are determined by specific genetic mutations that individuals inherit from their parents, and they cannot choose to avoid these conditions.
+6. Did you have a choice in your physical traits? Characteristics such as eye color, hair color, and height are largely determined by genetics. Individuals have no control over the specific combination of genes they inherit that dictate these traits.
+7. Do you have a choice in your predisposition to diseases, such as breast cancer (e.g., BRCA1 and BRCA2 gene mutations) or heart disease? These are inherited and cannot be chosen or altered by the individual.
+8. Did you have a choice regarding your intelligence, knowing that while environmental factors play a role, genetics significantly influence cognitive abilities and intellectual potential?
+9. Did you have any control over the determination of your aptitudes, including your natural talents and abilities in music, mathematics, sports, and language?
+10. Do you have a choice over the outcome of randomness, chance, or catastrophe?
+11. Do you have the free will to save yourself with a works-based sinner's prayer, kicking down the gates of heaven and proclaiming yourself justified by your own choices?
+12. Finally, do you believe that you have the free will to renounce your faith and forfeit salvation?
+
+If you find yourself answering "no" to any of these questions, it may invite you to reflect on the possibility of embracing some form of predestination as a meaningful framework for understanding the complexities of existence. Dr. Walter Martin (2017), a theologian with 5 degrees, articulates further:
+
+<!-- Predestination encompasses intricate concepts such as election and reprobation. Consequently, when I contend that a rigorous and scholarly examination of biblical texts leads to a substantiated belief in the doctrine of election, I am delineating a critical distinction: **not all theological interpretations of this doctrine hold equal weight or validity**. This differentiation is essential for a nuanced understanding of the complexities inherent in the discourse surrounding predestination.  -->
+
+> ... and that no flesh should be able to glory in its own sight, but whoever makes an appearance before the throne of the Lord, his glory will be in the Lord of hosts. Now some may say, "That's the sovereignty of God, hallelujah, **but what about my free will?" Well, it's not as free as you think it is. You are free to make choices, but you are not free to enforce all of them**. ... There is freedom, but it's quite limited. In lots of respects, you have not chosen me; I've chosen you means that God has the last word" (20:25).
+
+<!-- > Free will carried many a soul to hell, but never a soul to heaven. &mdash; Charles Spurgeon -->
+
+
+<!-- &mdash; [Dr. Walter Martin (PhD, University of California Coast)](https://youtu.be/uuUKE5resPs?si=h3FO_qxcKIjM7uF7&t=1225) -->
 
 <!-- Let's explore the various concepts of predestination, briefly summarized:
 
@@ -440,11 +473,15 @@ Kaku, M. (2011, May 20). *Michio Kaku: Why Physics Ends the Free Will Debate* [V
 
 Lennox, J. C. (2018). *Determined to believe?: The sovereignty of God, freedom, faith, and human responsibility*. Zondervan.
 
-Polkinghorne, J. C. (2005). *Science and providence: God’s interaction with the world* (Templeton Foundation Press ed.). Templeton Foundation Press.
+Martin, W. (2017, Jul 9). *The Mystery of Predestination* [Video]. YouTube. https://youtu.be/uuUKE5resPs&t=1225
+
+Polkinghorne, J. C. (2005). *Science and providence: God’s interaction with the world*. (Templeton Foundation Press ed.). Templeton Foundation Press.
 
 Rhodes, R. (2016, Sep 13). *The Doctrine of Election, Foreknowledge and Freewill* [Video]. YouTube. https://youtu.be/pTuY7ZZ_6jk&t=118
 
-Ross, H. [@RTBHughRoss]. (2020, September 9). *Question of the Week: Of the main sotierology models within evangelicalism to which do you adhere: Calvinism, Arminianism, or Traditionalism?* Facebook. https://m.facebook.com/RTBHughRoss/posts/3266294876781927/
+Ross, H. (2017). *Beyond the cosmos: The transdimensionality of God* (3rd ed.). Reasons to Believe.
+
+Ross, H. [@RTBHughRoss]. (2020, September 9). *Question of the Week: Of the main sotierology models within evangelicalism to which do you adhere: Calvinism, Arminianism, or Traditionalism?*. Facebook. https://m.facebook.com/RTBHughRoss/posts/3266294876781927/
 
 Singer, P. & Eddon, M. (2022, August 3). *Free will and moral responsibility*. Encyclopedia Britannica. https://www.britannica.com/topic/free-will-and-moral-responsibility
 
