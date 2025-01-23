@@ -1,0 +1,63 @@
+---
+title: "A Person Without Common Sense Sees Wisdom in All Experiences"
+date: 2024-01-22 1:00:00 -0500
+categories: [Meditations, Wisdom]
+tags: [wisdom, knowledge, intelligence, experience] # TAG names should always be lowercase
+author: seven_shepherd
+published: true
+comments: false
+pin: true
+---
+
+# God's Wisdom vs. Earthly, Unspiritual, and Demonic Wisdom
+
+I have concluded that a person without common sense sees wisdom in all experiences.
+
+> If you are wise and understand God’s ways, prove it by living an honorable life, doing good works with the humility that comes from wisdom. <sup>14</sup> But if you are bitterly jealous and there is selfish ambition in your heart, don’t cover up the truth with boasting and lying. <sup>15</sup> For jealousy and selfishness are not God’s kind of wisdom. Such things are earthly, unspiritual, and demonic. <sup>16</sup> For wherever there is jealousy and selfish ambition, there you will find disorder and evil of every kind.
+>
+> <sup>17</sup> But the wisdom from above is first of all pure. It is also peace loving, gentle at all times, and willing to yield to others. It is full of mercy and the fruit of good deeds. It shows no favoritism and is always sincere. <sup>18</sup> And those who are peacemakers will plant seeds of peace and reap a harvest of righteousness (New Living Translation, 2015, Jas. 3:13-18).
+
+
+<!-- Their theology breeds hypocrisy and ignorance, endangering the lives of innocent children. -->
+
+<br>
+
+---
+
+<br>
+
+<div style="text-align:center;">References</div>
+
+<span></span>
+
+*New Living Translation*. (2015). Tyndale House Publishers.
+
+<br>
+
+---
+
+<br>
+
+*Together in action, united in spirit, aligned in purpose.*
+
+<!-- *But they delight in the law of the Lord, meditating on it day and night.* -->
+
+<!-- > Finally, brethren, whatever things are true, whatever things are noble, whatever things are just, whatever things are pure, whatever things are lovely, whatever things are of good report, if there is any virtue and if there is anything praiseworthy—meditate on these things &mdash; Philippians 4:8. -->
+
+<script>
+    var refTagger = {
+        settings: {
+            bibleVersion: 'NLT',
+            tooltipStyle: 'dark'
+        }
+    };
+
+    (function(d, t) {
+        var n=d.querySelector('[nonce]');
+        refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce'));
+        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        g.src = 'https://api.reftagger.com/v2/RefTagger.js';
+        g.nonce = refTagger.settings.nonce;
+        s.parentNode.insertBefore(g, s);
+    }(document, 'script'));
+</script>
