@@ -1,6 +1,6 @@
 ---
 title: "A Person Without Common Sense Sees Wisdom in All Experiences"
-date: 2024-01-22 1:00:00 -0500
+date: 2024-01-22 1:10:00 -0500
 categories: [Meditations, Wisdom]
 tags: [wisdom, knowledge, intelligence, experience] # TAG names should always be lowercase
 author: seven_shepherd
@@ -9,7 +9,7 @@ comments: false
 pin: true
 ---
 
-# God's Wisdom vs. Earthly, Unspiritual, and Demonic Wisdom
+## God's Wisdom vs. Earthly, Unspiritual, and Demonic Wisdom
 
 I have concluded that a person without common sense sees wisdom in all experiences.
 
