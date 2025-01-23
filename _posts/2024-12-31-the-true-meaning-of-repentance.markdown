@@ -1,6 +1,6 @@
 ---
 title: "The True Meaning of Repentance"
-date: 2024-01-22 1:30:00 -0500
+date: 2024-01-22 1:35:00 -0500
 categories: [Theology, Repentance]
 tags: [repent, repentance, penitent, penitence] # TAG names should always be lowercase
 author: seven_shepherd
@@ -22,11 +22,14 @@ Jesus commanded people to turn away from their sins in repentance (Acts 3:26; cf
 Justification is by faith apart from the works of the law (Rom 3:28), but a faith that does not grow the fruit of obedience **by the power and indwelling of the Holy Spirit**, is not true faith; it is a dead faith, and James rejects salvation by a dead and superficial faith (James 2:14-26). Genuine faith always *&ldquo;results&rdquo;* in the fruits of the faith (Ga 5:22-23 NLT; Jn 15:4-5; 1Cor 3:6-7), **denying this, denies His transformative power**.
 
 > The times of ignorance God overlooked, but now <span style="font-size:1.2em;font-weight:bold;color:Red;">he commands</span> all people everywhere to <span style="font-weight:bold;color:Goldenrod;">repent</span>, &mdash; Acts 17:30 ESV
+>
 >> <sup style="font-weight:bold;">3</sup> And <span style="font-weight:bold;color:DarkOrchid;">we can be sure</span> that we know him if we obey his commandments. <sup style="font-weight:bold;">4</sup> <span style="font-weight:bold;color:FireBrick;">If someone claims, “I know God,” but doesn’t obey God’s commandments, that person is <span style="font-size:1.2em;color:Red;">a liar</span> and is <span style="font-size:1.2em;color:Red;">not living in the truth</span>.</span> <sup style="font-weight:bold;">5</sup> But those who obey God’s word truly show how completely they love him. <span style="font-weight:bold;color:DarkOrchid;">That is how we know we are living in him.</span> <sup style="font-weight:bold;">6</sup> Those who say they live in God should live their lives as Jesus did. &mdash; 1 John 2:3-6 NLT ([**article**](https://sevenshepherd.github.io/1-John-2-4/))
 
 Repentance is the &ldquo;*resulting*&rdquo; fruit of genuine saving faith. Repentance is a heartfelt sorrow for sin, a renouncing of it, and a sincere commitment to forsake it and walk in obedience to Christ (Acts 3:19,26; 26:18,20; 3:19; Mt 3:8 NLT; Rev 2:5). It's the indwelling of the Holy Spirit that *&ldquo;produces&rdquo;* these changes, and rest assured, if your faith is genuine, they will come (Ga 5:22-23 NLT; Jn 15:4-5; 1Cor 3:6-7).
 
 > <sup style="font-weight:bold;">5</sup> “Yes, I am the vine; you are the branches. <span style="font-weight:bold;color:ForestGreen;">Those who remain in me, and I in them, <span style="font-size:1.2em;color:YellowGreen;">will</span> produce much fruit.</span> For apart from me you can do nothing. &mdash; [Jesus teaching &ldquo;resulting&rdquo; fruit-bearing in John 15:5 (NLT),](https://sevenshepherd.github.io/fruits/) <span style="font-weight:bold;color:Goldenrod;">Approximately A.D. 30</span>.
+>
+>> Everyone who goes on ahead and does not abide in the teaching of Christ, does not have God. Whoever abides in the teaching has both the Father and the Son (2 John 1:9).
 
 ℹ️ Disclaimer: Everyone has sin (1 Jn 1:8–10), but not everyone pursues lifestyles of indulgent sin (1Jn 3:6-10). Though we may stumble, make mistakes, and God forbid backslide, there is no such thing as a born again Christian that &ldquo;*practices*&rdquo; sin (habitually and continually pursuing a lifestyle of sin).
 
