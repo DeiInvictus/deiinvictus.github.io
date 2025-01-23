@@ -1,6 +1,6 @@
 ---
-title: "⛏️ Free Will, Predestination, Election, and Reprobation"
-date: 2024-02-01 5:45:00 -0500
+title: "⛏️ “For many are called, but few are chosen.” — Jesus"
+date: 2024-02-01 6:00:00 -0500
 categories: [Theology, Predestination]
 tags: [free will, predestination, election, reprobation] # TAG names should always be lowercase
 author: seven_shepherd
@@ -35,7 +35,7 @@ pin: true
 
 <br>
 
-I'd like to start out by asking you a few questions; we'll call it the free will test, if you will:
+<!-- I'd like to start out by asking you a few questions; we'll call it the free will test, if you will: -->
 
 <!-- 1. **Environmental Influences**: We do not choose the circumstances of our upbringing, including socioeconomic status and cultural background.
 1. **Past Experiences**: We cannot change or control our past experiences or traumas.
@@ -46,7 +46,7 @@ I'd like to start out by asking you a few questions; we'll call it the free will
 6.  **Legal Constraints**: Laws and regulations are imposed by society and are beyond individual control.
 7.  **Randomness and Chance**: Unpredictable events and circumstances occur without our influence. -->
 
-1. Did you have the free will to choose your birthplace, such as the United States, Canada, China, India, Brazil, Nigeria, or Germany?
+<!-- 1. Did you have the free will to choose your birthplace, such as the United States, Canada, China, India, Brazil, Nigeria, or Germany?
 2. Did you have a choice in being born as a Caucasian (White), African (Black), Asian, Hispanic or Latino, Indigenous Peoples, Pacific Islander, or Middle Eastern?
 3. Did you have any influence over the socioeconomic conditions into which you would be born?
 4. Did you choose your relatives, including your grandparents, parents, or siblings?
@@ -57,16 +57,13 @@ I'd like to start out by asking you a few questions; we'll call it the free will
 9. Did you have any control over the determination of your aptitudes, including your natural talents and abilities in music, mathematics, sports, and language?
 10. Do you have a choice over the outcome of randomness, chance, or catastrophe?
 11. Do you have the free will to save yourself with a works-based sinner's prayer, kicking down the gates of heaven and proclaiming yourself justified by your own choices?
-12. Finally, do you believe that you have the free will to renounce your faith and forfeit salvation?
+12. Finally, do you believe that you have the free will to renounce your faith and forfeit salvation? -->
 
-If you find yourself answering "no" to any of these questions, it may invite you to reflect on the possibility of embracing some form of predestination as a meaningful framework for understanding the complexities of existence. Dr. Walter Martin (2017), a theologian with 5 degrees, articulates further:
-
-<!-- Predestination encompasses intricate concepts such as election and reprobation. Consequently, when I contend that a rigorous and scholarly examination of biblical texts leads to a substantiated belief in the doctrine of election, I am delineating a critical distinction: **not all theological interpretations of this doctrine hold equal weight or validity**. This differentiation is essential for a nuanced understanding of the complexities inherent in the discourse surrounding predestination.  -->
+I'd like to start out by asking you a few questions; we'll call it the free will test, if you will. Do you believe you had free will in choosing your birthplace, ethnicity, socioeconomic conditions, relatives, genetic disorders (e.g., cystic fibrosis), genetic physical traits such as height, eye color, or a receding hairline, as well as predispositions to diseases, intelligence, natural aptitudes, and the outcomes of randomness, chance, or catastrophe? If you answered "no" to these questions, the good news is you're still sane. What if I asked, do you have the free will to save yourself by reciting a works-based sinner's prayer? Could you kick down the gates of heaven and proclaim yourself justified in the sight of God by your own free will choices? Finally, **do you believe that you have the free will to renounce your faith and forfeit salvation?** Dr. Walter Martin (2017), a theologian with 5 degrees, articulates the limitations of free will further:
 
 > ... and that no flesh should be able to glory in its own sight, but whoever makes an appearance before the throne of the Lord, his glory will be in the Lord of hosts. Now some may say, "That's the sovereignty of God, hallelujah, **but what about my free will?" Well, it's not as free as you think it is. You are free to make choices, but you are not free to enforce all of them**. ... There is freedom, but it's quite limited. In lots of respects, you have not chosen me; I've chosen you means that God has the last word" (20:25).
 
-<!-- > Free will carried many a soul to hell, but never a soul to heaven. &mdash; Charles Spurgeon -->
-
+I would submit to you that any intelligent examination of scripture leads to a belief in the doctrine of election. When I contend that a rigorous and scholarly examination of biblical texts leads to a substantiated belief in the doctrine of election, I am delineating a critical distinction: Belief in election to life does not necessarily entail an acceptance of foreordained damnation. In fact, it does not even require one to subscribe to the concept of foreordination in any form. Rather, election to life can be understood in a singular, prescient context, emphasizing a divine awareness of foreknown relationship rather than foreordination. As we explore the various concepts of predestination, I am reminded of the truism that free will saves no one; we are justified by the gift of faith, not by our works-based choices, as Spurgeon eloquently observes, "Free will carried many a soul to hell, but never a soul to heaven." At the same time not a single soul should ever say that faith is a work, "And to **the one who does not work but believes in** him who justifies the ungodly, his faith is counted as righteousness," (ESV Study Bible, 2008, Rom. 4:5).
 
 <!-- &mdash; [Dr. Walter Martin (PhD, University of California Coast)](https://youtu.be/uuUKE5resPs?si=h3FO_qxcKIjM7uF7&t=1225) -->
 
@@ -466,6 +463,8 @@ Carson, D. A. (2002). *Divine sovereignty and human responsibility: Biblical per
 Craig, W. L. (2010, April 19). *#157 Molinism vs. Calvinism*. Reasonable Faith. https://www.reasonablefaith.org/writings/question-answer/molinism-vs.-calvinism
 
 Demarest, B. (2006). *The cross and salvation*. Crossway Books.
+
+*ESV Study Bible* (ESV Text Edition: 2016). (2008). Crossway.
 
 Heiser, M. S. (2021, July 6). *Does Foreknowledge require Predestination?* [Video]. YouTube. https://youtu.be/kwyZxAtTHfc&t=48
 
