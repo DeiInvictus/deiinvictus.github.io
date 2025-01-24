@@ -1,6 +1,6 @@
 ---
 title: "The True Meaning of Repentance"
-date: 2024-01-22 1:45:00 -0500
+date: 2024-01-22 1:50:00 -0500
 categories: [Theology, Repentance]
 tags: [repent, repentance, penitent, penitence] # TAG names should always be lowercase
 author: seven_shepherd
@@ -57,7 +57,7 @@ The message that <span style="font-style:italic;">&ldquo;There is forgiveness of
 - Repent or Perish (Lk 13:3; Mt 3:10).
 - Unrepentant sin not tolerated by the Apostles and not a one time event (Lk 17:3-4; 1 Cor. 5:11-13).
 
-The world's most authoritative Greek lexicons show that the true meaning of [metanoéō](/assets/images/greek/metanoeo.png) falls under the second meaning of &ldquo;*feel remorse, repent, be converted in a (religio-)ethical sense.*&rdquo; [metánoia](/assets/images/greek/metanoia.png) also falls under the second meaning of &ldquo;*repentance, turning about, conversion*&rdquo; as taught by Christ & The Apostles (Ac 3:19,26; 26:20; Mt 3:8 NLT; Rev 2:5).
+The world's most authoritative Greek lexicons show that the true meaning of [metanoéō](/assets/images/greek/BDAG/metanoeo.png) falls under the second meaning of &ldquo;*feel remorse, repent, be converted in a (religio-)ethical sense.*&rdquo; [metánoia](/assets/images/greek/BDAG/metanoia.png) also falls under the second meaning of &ldquo;*repentance, turning about, conversion*&rdquo; as taught by Christ & The Apostles (Ac 3:19,26; 26:20; Mt 3:8 NLT; Rev 2:5).
 
 <!-- > The call to repent was the first and fundamental summons in the preaching of John the Baptist (Matt. 3:2), Jesus (**Matt. 4:17**), the Twelve (Mark 6:12), Peter at Pentecost (Acts 2:38), Paul to the Gentiles (Acts 17:30; 26:20), and the glorified Christ to five of the seven churches in Asia (Rev. 2:5, 16, 22; 3:3, 19). It was part of Jesus’ summary of the gospel that was to be taken to the world (Luke 24:47).
 >
