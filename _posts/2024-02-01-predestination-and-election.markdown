@@ -1,6 +1,6 @@
 ---
 title: "⛏️ “For many are called, but few are chosen.” — Jesus"
-date: 2024-02-01 6:00:00 -0500
+date: 2024-02-01 6:05:00 -0500
 categories: [Theology, Predestination]
 tags: [free will, predestination, election, reprobation] # TAG names should always be lowercase
 author: seven_shepherd
@@ -63,7 +63,7 @@ I'd like to start out by asking you a few questions; we'll call it the free will
 
 > ... and that no flesh should be able to glory in its own sight, but whoever makes an appearance before the throne of the Lord, his glory will be in the Lord of hosts. Now some may say, "That's the sovereignty of God, hallelujah, **but what about my free will?" Well, it's not as free as you think it is. You are free to make choices, but you are not free to enforce all of them**. ... There is freedom, but it's quite limited. In lots of respects, you have not chosen me; I've chosen you means that God has the last word" (20:25).
 
-I would submit to you that any intelligent examination of scripture leads to a belief in the doctrine of election. When I contend that a rigorous and scholarly examination of biblical texts leads to a substantiated belief in the doctrine of election, I am delineating a critical distinction: Belief in election to life does not necessarily entail an acceptance of foreordained damnation. In fact, it does not even require one to subscribe to the concept of foreordination in any form. Rather, election to life can be understood in a singular, prescient context, emphasizing a divine awareness of foreknown relationship rather than foreordination. As we explore the various concepts of predestination, I am reminded of the truism that free will saves no one; we are justified by the gift of faith, not by our works-based choices, as Spurgeon eloquently observes, "Free will carried many a soul to hell, but never a soul to heaven." At the same time not a single soul should ever say that faith is a work, "And to **the one who does not work but believes in** him who justifies the ungodly, his faith is counted as righteousness," (ESV Study Bible, 2008, Rom. 4:5).
+I would submit to you that any intelligent examination of scripture leads to a belief in the doctrine of election. When I contend that a rigorous and scholarly examination of biblical texts leads to a substantiated belief in the doctrine of election, I am delineating a critical distinction: Belief in election to life does not necessarily entail an acceptance of foreordained damnation. In fact, it does not even require one to subscribe to the concept of foreordination in any form. Rather, election to life can be understood in a singular, prescient context, emphasizing a divine awareness of foreknown relationship rather than foreordination. As we explore the various concepts of predestination, I am reminded of the truism that free will saves no one; we are justified by the gift of faith, not by our works-based choices, as Spurgeon so eloquently observes, "Free will carried many a soul to hell, but never a soul to heaven." At the same time not a single soul should ever say that faith is a work, "And to **the one who does not work but believes in** him who justifies the ungodly, his faith is counted as righteousness," (ESV Study Bible, 2008, Rom. 4:5).
 
 <!-- &mdash; [Dr. Walter Martin (PhD, University of California Coast)](https://youtu.be/uuUKE5resPs?si=h3FO_qxcKIjM7uF7&t=1225) -->
 
@@ -265,7 +265,7 @@ Dr. Michael S. Heiser, who holds a PhD in Hebrew Bible and Semitic Languages fro
 3\. Dr. Michael S. Heiser (PhD, Hebrew Bible and Semitic Languages at the University of Wisconsin-Madison)<br>
 </small>
 
-### 3.1 <a name="libertarian-free-will" href="#Contents">Libertarian Free Will</a>
+### 2.1 <a name="libertarian-free-will" href="#Contents">Libertarian Free Will</a>
 
 <div style="font-size:0.8rem;">
 Discredited entirely:<br>
