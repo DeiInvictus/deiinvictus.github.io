@@ -1,12 +1,12 @@
 ---
 title: "The True Meaning of Repentance"
-date: 2024-01-22 2:05:00 -0500
+date: 2024-01-22 2:10:00 -0500
 categories: [Theology, Repentance]
 tags: [repent, repentance, penitent, penitence] # TAG names should always be lowercase
 author: seven_shepherd
 published: true
 comments: false
-pin: true
+pin: false
 ---
 
 
