@@ -1,6 +1,6 @@
 ---
 title: "🧬 Protestants Dominate the Sciences"
-date: 2022-05-10 03:25:00 -0500
+date: 2022-05-10 03:30:00 -0500
 categories: [Science, Protestants]
 tags: [science, protestant, newton, leibniz, faraday, maxwell, tesla, einstein, gödel, planck, schrödinger] # TAG names should always be lowercase
 author: seven_shepherd
@@ -56,7 +56,7 @@ In a profound analysis by Baruch Shalev, it is revealed that between 1901 and 20
     - 1.20 <a href="#nelson">Edward Nelson (1932&ndash;2014)</a>
     - 1.21 <a href="#becker">Ulrich Becker (1938&ndash;2020)</a>
     - 1.22 <a href="#taylor">Joseph H. Taylor, Jr. (1941&ndash;Present)</a>
-    - 1.23 <a href="#Fornæss">John Erik Fornæss (1946&ndash;Present)</a>
+    - 1.23 <a href="#fornæss">John Erik Fornæss (1946&ndash;Present)</a>
     - 1.24 <a href="#collins">Francis S. Collins (1950&ndash;Present)</a>
 2. <a href="#catholics">Catholic & Orthodox</a>
     - 2.1 <a href="#mendel">Gregor Mendel (1822&ndash;1884)</a>
@@ -560,6 +560,13 @@ Winner of the 1945 Nobel Prize in Medicine and Physiology
 that the development and survival of the fittest is entirely a consequence of chance mutations,
 or even that nature carries out experiments by trial and error through mutations in order to create living systems better fitted to survive,
 seems to me a hypothesis based on no evidence and irreconcilable with the facts."
+
+## <a name="anfinsen" href="#Contents">Christian B. Anfinsen Jr.</a>
+
+<span style="font-style:italic;font-weight:bold;">March 26, 1916 – May 14, 1995</span>
+
+> under construction
+
 
 ## <a name="kaku" href="#Contents">Michio Kaku</a>
 
