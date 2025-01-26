@@ -1,6 +1,6 @@
 ---
 title: "A Person Without Common Sense Sees Wisdom in All Experiences"
-date: 2024-01-22 1:15:00 -0500
+date: 2025-01-22 1:25:00 -0500
 categories: [Meditations, Wisdom]
 tags: [wisdom, knowledge, intelligence, experience] # TAG names should always be lowercase
 author: seven_shepherd
