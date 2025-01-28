@@ -1,6 +1,6 @@
 ---
-title: "⛏️ “For many are called, but few are chosen.” — Jesus"
-date: 2024-02-01 6:05:00 -0500
+title: "Chosen by God"
+date: 2024-02-01 6:15:00 -0500
 categories: [Theology, Predestination]
 tags: [free will, predestination, election, reprobation] # TAG names should always be lowercase
 author: seven_shepherd
@@ -8,6 +8,8 @@ published: true
 comments: false
 pin: true
 ---
+
+<!-- ⛏️ “For many are called, but few are chosen.” — Jesus -->
 
 ![Free Will Debate](/assets/images/philosophy/compatibilism.png)
 
@@ -311,7 +313,9 @@ Compatibilism recognizes God's sovereignty alongside a limited version of free w
 
 ### 3.1 <a name="double-foreknowledge" href="#Contents">Double Foreknowledge & Free Will</a>
 
-The double foreknowledge espoused by Romanists and Arminians, as articulated in Conditional Election&mdash;commonly referred to as Wesleyan Foreknowledge&mdash;can be interpreted as a variant of Compatibilism, as it posits that God predestines individuals based on His foreknowledge of their foreseen faith, even prior to their existence. The only way to know if you are one of the elect is to come to faith. Dr. Rhodes (2016) articulates their perspective as follows:
+<!-- as articulated in Conditional Election&mdash;commonly referred to as Wesleyan Foreknowledge&mdash; -->
+
+The double foreknowledge&mdash;often referred to as conditional election&mdash;espoused by Romanists and Arminians can be interpreted as a variant of Compatibilism, as it posits that God predestines individuals based on His foreknowledge of their foreseen faith, even prior to their existence. The only way to know if you are one of the elect is to come to faith. Dr. Rhodes (2016) articulates their perspective as follows:
 
 > Arminians will come in and say that God's predetermination or election is based on his foreknowledge, in other words, God looks down through the corridors of time and decides who's going to respond positively to the gospel and then he will elect those individuals to salvation ... (2:58).
 
