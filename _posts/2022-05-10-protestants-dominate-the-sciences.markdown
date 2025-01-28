@@ -1,6 +1,6 @@
 ---
 title: "🧬 Protestants Dominate the Sciences"
-date: 2022-05-10 03:30:00 -0500
+date: 2022-05-10 03:35:00 -0500
 categories: [Science, Protestants]
 tags: [science, protestant, newton, leibniz, faraday, maxwell, tesla, einstein, gödel, planck, schrödinger] # TAG names should always be lowercase
 author: seven_shepherd
@@ -21,9 +21,9 @@ I am meticulously and gradually organizing this information to ensure it is form
 
 <!-- According to 100 Years of Nobel Prize (2005), a review of Nobel prizes awarded between 1901 and 2000, 65.4% of Nobel Prize Laureates have identified Christianity as their religious preference (427 prizes). Overall, Christians have won a total of 78.3% of all the Nobel Prizes in Peace, 72.5% in Chemistry, 65.3% in Physics, 62% in Medicine, 54% in Economics. -->
 
-In a profound analysis by Baruch Shalev, it is revealed that between 1901 and 2000, an astonishing 65.4% of Nobel Prize laureates were either Christians or hailed from a Christian background, illuminating the indelible influence of Christian thought on the pinnacle of human achievement. Among these luminaries, an extraordinary 78.3% of Nobel laureates in Peace, 72.5% in Chemistry, 65.3% in Physics, 62% in Medicine, 54% in Economics, and 49.5% in Literature proudly identified as Christians or possessed Christian roots. This remarkable representation not only underscores the monumental contributions of these intellectual titans but also celebrates their pivotal role in shaping the course of human progress and enlightenment.
+In a profound analysis conducted by Dr. Baruch Shalev (2001/2002), a geneticist from the University of Reading, it is revealed that between 1901 and 2000, an astonishing 65.4% of Nobel Prize laureates were either Christians or hailed from a Christian background, illuminating the indelible influence of Christian thought on the pinnacle of human achievement. Among these luminaries, an extraordinary 78.3% of Nobel laureates in Peace, 72.5% in Chemistry, 65.3% in Physics, 62% in Medicine, 54% in Economics, and 49.5% in Literature proudly identified as Christians or possessed Christian roots. This remarkable representation not only underscores the monumental contributions of these intellectual titans but also celebrates their pivotal role in shaping the course of human progress and enlightenment.
 
-> A review of the Nobel awards between 1901 and 2000 reveals that 654 Laureates belong to 28 different religions. Most (65.4%) have identified Christianity in its various forms as their religious preference. While separating Roman Catholic from Protestants among Christians proved difficult in some cases, available information suggests that **more Protestants were involved in the scientific categories** and more Catholics were involved in the Literature and Peace categories (Shalev, 2001/2002, p. 57).<sup>1</sup>
+> A review of the Nobel awards between 1901 and 2000 reveals that 654 Laureates belong to 28 different religions. Most (65.4%) have identified Christianity in its various forms as their religious preference. While separating Roman Catholic from Protestants among Christians proved difficult in some cases, available information suggests that **more Protestants were involved in the scientific categories** and more Catholics were involved in the Literature and Peace categories (p. 57).<sup>1</sup>
 
 > <small>1. Baruch Aba Shalev is a geneticist headquartered in Israel. He earned his Bachelor of Science degree from the Hebrew University of Jerusalem, and his Masters from the University of California, Davis. His Ph.D. in genetics was awarded by the University of Reading in the United Kingdom (Amazon, n.d., "About the author" section).</small>
 
@@ -52,16 +52,18 @@ In a profound analysis by Baruch Shalev, it is revealed that between 1901 and 20
     - 1.16 <a href="#townes">Charles H. Townes (1915&ndash;2015)</a>
     - 1.17 <a href="#eigen">Manfred Eigen (1927&ndash;2019)</a>
     - 1.18 <a href="#kistiakowsky">Vera Kistiakowsky (1928&ndash;2021)</a>
-    - 1.19 <a href="#polkinghorne">John C. Polkinghorne (1930&ndash;2021)</a>
-    - 1.20 <a href="#nelson">Edward Nelson (1932&ndash;2014)</a>
-    - 1.21 <a href="#becker">Ulrich Becker (1938&ndash;2020)</a>
-    - 1.22 <a href="#taylor">Joseph H. Taylor, Jr. (1941&ndash;Present)</a>
-    - 1.23 <a href="#fornæss">John Erik Fornæss (1946&ndash;Present)</a>
-    - 1.24 <a href="#collins">Francis S. Collins (1950&ndash;Present)</a>
+    - 1.19 <a href="#arber">Werner Arber (1929&ndash;Present)</a>
+    - 1.20 <a href="#polkinghorne">John C. Polkinghorne (1930&ndash;2021)</a>
+    - 1.21 <a href="#nelson">Edward Nelson (1932&ndash;2014)</a>
+    - 1.22 <a href="#becker">Ulrich Becker (1938&ndash;2020)</a>
+    - 1.23 <a href="#taylor">Joseph H. Taylor, Jr. (1941&ndash;Present)</a>
+    - 1.24 <a href="#fornæss">John Erik Fornæss (1946&ndash;Present)</a>
+    - 1.25 <a href="#collins">Francis S. Collins (1950&ndash;Present)</a>
 2. <a href="#catholics">Catholic & Orthodox</a>
     - 2.1 <a href="#mendel">Gregor Mendel (1822&ndash;1884)</a>
     - 2.2 <a href="#pasteur">Louis Pasteur (1822&ndash;1895)</a>
     - 2.3 <a href="#tesla">Nikola Tesla (1856&ndash;1943)</a>
+    - 2.4 <a href="#werner">Alfred Werner (1866&ndash;1919)</a>
 3. <a href="#deists">Deists</a>
     - 3.1 <a href="#einstein">**Albert Einstein** (1879&ndash;1955)</a>
     - 3.2 <a href="#chain">Ernst Boris Chain (1906&ndash;1979)</a>
@@ -402,6 +404,17 @@ Vera Kistiakowsky, an experimental nuclear physicist and professor at MIT, ident
 
 > “The exquisite order displayed by our scientific understanding of the physical world calls for the divine.”
 
+> **One physicist who takes the strong anthropic principle seriously, and claims that it is a sign of a God, is Vera Kistiakowsky, a physicist at MIT. She says, “The exquisite order displayed by our scientific understanding of the physical world calls for the divine.”** A scientist who seconds that opinion is John Polkinghorne, a particle physicist who gave up his position at Cambridge University and became a priest of the Church of England. He writes that the universe is “not just ‘any old world,’ but it’s special and finely tuned for life because it is the creation of a Creator who wills that it should be so.” Indeed, Isaac Newton himself, who introduced the concept of immutable laws which guided the planets and stars without divine intervention, believed that the elegance of these laws pointed to the existence of God (Kaku, 2005, p. 248).
+
+## <a name="arber" href="#Contents">Werner Arber</a>
+
+<span style="font-style:italic;font-weight:bold;">3 June 1929</span>
+
+Nobel Prize for Physiology/Medicine, restriction enzymes and molecular genetics, University of Basel. Pope Benedict XVI appointed him as President of the Pontifical Academy of Sciences in January 2011, making him the first Protestant to hold the position:
+
+> "I do not think our civilization has succeeded in discovering and explaining all the principles acting in the universe. I include the concept of God among these principles. I am happy to accept the concept without trying to define it precisely. I know that the concept of God helped me to master many questions in life; it guides me in critical situations and I see it confirmed in many deep insights into the beauty of the functioning of the living world."
+
+
 ## <a name="polkinghorne" href="#Contents">John C. Polkinghorne</a>
 
 <span style="font-style:italic;font-weight:bold;">16 October 1930 – 9 March 2021</span>
@@ -409,6 +422,8 @@ Vera Kistiakowsky, an experimental nuclear physicist and professor at MIT, ident
 Theoretical elementary particle physics, President, Queens College, Cambridge University:
 
 > I take God very seriously indeed. I am a Christian believer (indeed, an ordained Anglican priest), and I believe that God exists and has made Himself known in Jesus Christ.
+
+> One physicist who takes the strong anthropic principle seriously, and claims that it is a sign of a God, is Vera Kistiakowsky, a physicist at MIT. She says, “The exquisite order displayed by our scientific understanding of the physical world calls for the divine.” **A scientist who seconds that opinion is John Polkinghorne, a particle physicist who gave up his position at Cambridge University and became a priest of the Church of England. He writes that the universe is “not just ‘any old world,’ but it’s special and finely tuned for life because it is the creation of a Creator who wills that it should be so.”** Indeed, Isaac Newton himself, who introduced the concept of immutable laws which guided the planets and stars without divine intervention, believed that the elegance of these laws pointed to the existence of God (Kaku, 2005, p. 248).
 
 ## <a name="nelson" href="#Contents">Edward Nelson</a>
 
@@ -519,6 +534,12 @@ My Inventions (1919)
 Chapter 5 : The Influences That Shape Our Destiny
 
 The gift of mental power comes from God, Divine Being, and if we concentrate our minds on that truth, we become in tune with this great power. My Mother had taught me to seek all truth in the Bible.
+
+## <a name="werner" href="#Contents">Alfred Werner</a>
+
+<span style="font-style:italic;font-weight:bold;">12 December 1866 – 15 November 1919</span>
+
+> under construction
 
 # <a name="deists" href="#Contents">Deists</a>
 
@@ -668,11 +689,13 @@ Faraday, M. (1999). *The philosopher's tree: A selection of Michael Faraday's wr
 
 Foley, A. L. (1910). Recent developments in physical science. *The Popular Science Monthly*, 76, 456.
 
-<!-- Kaku, M. (2021, July 29). *Dr. Michio Kaku answers physics questions from Twitter*. [Video]. WIRED. https://youtu.be/bUmULlGACEI?t=430 -->
-
 Jean, R. V., & Barabé, D. (1998). Symmetry in plants. World Scientific Pub Co Inc.
 
+Kaku, M. (2005). *Parallel worlds: A journey through creation, higher dimensions, and the future of the cosmos*. Doubleday.
+
 Kaku, M. (2021, July 29). *Dr. Michio Kaku answers physics questions from Twitter*. WIRED. https://www.wired.com/video/watch/tech-support-dr-michio-kaku-answers-physics-questions-from-twitter
+
+<!-- Kaku, M. (2021, July 29). *Dr. Michio Kaku answers physics questions from Twitter*. [Video]. WIRED. https://youtu.be/bUmULlGACEI?t=430 -->
 
 Leahy, M. P. (2007). *Letter to an atheist*. Harpeth River Press.
 
