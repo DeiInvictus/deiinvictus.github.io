@@ -1,6 +1,6 @@
 ---
 title: "🧬 Protestants Dominate the Sciences"
-date: 2022-05-10 03:35:00 -0500
+date: 2022-05-10 03:40:00 -0500
 categories: [Science, Protestants]
 tags: [science, protestant, newton, leibniz, faraday, maxwell, tesla, einstein, gödel, planck, schrödinger] # TAG names should always be lowercase
 author: seven_shepherd
@@ -25,7 +25,7 @@ In a profound analysis conducted by Dr. Baruch Shalev (2001/2002), a geneticist 
 
 > A review of the Nobel awards between 1901 and 2000 reveals that 654 Laureates belong to 28 different religions. Most (65.4%) have identified Christianity in its various forms as their religious preference. While separating Roman Catholic from Protestants among Christians proved difficult in some cases, available information suggests that **more Protestants were involved in the scientific categories** and more Catholics were involved in the Literature and Peace categories (p. 57).<sup>1</sup>
 
-> <small>1. Baruch Aba Shalev is a geneticist headquartered in Israel. He earned his Bachelor of Science degree from the Hebrew University of Jerusalem, and his Masters from the University of California, Davis. His Ph.D. in genetics was awarded by the University of Reading in the United Kingdom (Amazon, n.d., "About the author" section).</small>
+<!-- > <small>1. Baruch Aba Shalev is a geneticist headquartered in Israel. He earned his Bachelor of Science degree from the Hebrew University of Jerusalem, and his Masters from the University of California, Davis. His Ph.D. in genetics was awarded by the University of Reading in the United Kingdom (Amazon, n.d., "About the author" section).</small> -->
 
 <br>
 
@@ -677,7 +677,7 @@ The mathematician and astronomer (1473-1543) who formulated a heliocentric model
 
 <span></span>
 
-Amazon. (n.d.). *About the author*. https://www.amazon.com/stores/author/B001KCGGRI/about?ingress=0&visitId=fd988831-ce13-4a84-915c-0cca0180d37d&ref_=sr_ntt_srch_lnk_4
+<!-- Amazon. (n.d.). *About the author*. https://www.amazon.com/stores/author/B001KCGGRI/about?ingress=0&visitId=fd988831-ce13-4a84-915c-0cca0180d37d&ref_=sr_ntt_srch_lnk_4 -->
 
 Baggot, J. (1991, September 21). *The myth of Michael Faraday: Michael Faraday was not just one of Britain's greatest experimenters. A closer look at the man and his work reveals that he was also a clever theoretician*. New Scientist, (1787). https://www.newscientist.com/article/mg13117874-600-the-myth-of-michael-faraday-michael-faraday-was-not-just-one-of-britains-greatest-experimenters-a-closer-look-at-the-man-and-his-work-reveals-that-he-was-also-a-clever-theoretician/
 
