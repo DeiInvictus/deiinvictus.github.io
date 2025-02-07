@@ -1,6 +1,6 @@
 ---
-title: "Chosen by God"
-date: 2024-02-01 6:15:00 -0500
+title: "God Clearly Does Choose (Based on His Foreknowledge)"
+date: 2024-02-01 6:25:00 -0500
 categories: [Theology, Predestination]
 tags: [free will, predestination, election, reprobation] # TAG names should always be lowercase
 author: seven_shepherd
@@ -19,19 +19,20 @@ pin: true
 
 # <a name="Contents" href="#">Contents</a>
 
-1. <a href="#newtonian-determinism">🤖 Determinism & Fatalism</a>
+1. <a href="#newtonian-determinism">🤖 Hard-Determinism & Fatalism</a>
     - 1.1 <a href="#double-predestination">Double Predestination</a>
-    - 1.2 <a href="#unconditional-single-election">Uncond. Single Election & Inclination</a>
-2. <a href="#indeterminism">🤖 Indeterminism & Libertarianism</a>
-    - 2.1 <a href="#libertarian-free-will">Libertarian Free Will</a>
-3. <a href="#compatibilism">⚖️ Theological Compatibilism</a>
-    - 3.1 <a href="#double-foreknowledge">Cond. Double Foreknowledge & Free Will</a>
-    - 3.2 <a href="#asymmetrical-compatibilism">Uncond. Single Election & Free Will</a>
-4. <a href="#conclusion">⚖️ Conclusion</a>
-    - 4.1 <a href="#proginosko">On Proginōskō</a>
-    - 4.2 <a href="#men-as-responsible">Men as Responsible</a>
-    - 4.3 <a href="#god-as-sovereign">God as Sovereign</a>
-    - 4.4 <a href="#final-thoughts">Final Thoughts</a>
+2. <a href="#soft-determinism">⛓️ Soft-Determinism</a>
+    - 2.1 <a href="#unconditional-single-election">Uncond. Single Election & Inclination</a>
+3. <a href="#indeterminism">🤖 Indeterminism & Libertarianism</a>
+    - 3.1 <a href="#libertarian-free-will">Libertarian Free Will</a>
+4. <a href="#compatibilism">⚖️ Theological Compatibilism</a>
+    - 4.2 <a href="#asymmetrical-compatibilism">Uncond. Single Election & Free Will</a>
+    - 4.3 <a href="#double-foreknowledge">Cond. Double Foreknowledge & Free Will</a>
+5. <a href="#conclusion">⚖️ Conclusion</a>
+    - 5.1 <a href="#proginosko">On Proginōskō</a>
+    - 5.2 <a href="#men-as-responsible">Men as Responsible</a>
+    - 5.3 <a href="#god-as-sovereign">God as Sovereign</a>
+    - 5.4 <a href="#final-thoughts">Final Thoughts</a>
 
 ---
 
@@ -173,7 +174,9 @@ For those marked as vessels of wrath, the chilling truth is that their eternity 
 3\. Dr. John C. Lennox (PhD, Mathematics at the University of Cambridge)
 </small>
 
-### 1.2 <a href="#Contents" name="unconditional-single-election">Unconditional Single Election & Freedom of Inclination</a>
+## II. <a name="soft-determinism" href="#Contents">⛓️ Soft-Determinism</a>
+
+### 2.1 <a href="#Contents" name="unconditional-single-election">Unconditional Single Election & Freedom of Inclination</a>
 
 <div style="font-size:0.78em;">
   <ul>
@@ -207,7 +210,7 @@ Demarest (2006) articulates this asymmetrical view effectively:
 1\. Dr. Bruce Demarest (PhD, University of Manchester)
 </small>
 
-## II. <a name="indeterminism" href="#Contents">🤖 Indeterminism & Libertarianism</a>
+## III. <a name="indeterminism" href="#Contents">🤖 Indeterminism & Libertarianism</a>
 
 <div style="font-size:0.78em;">
   <ul>
@@ -267,7 +270,7 @@ Dr. Michael S. Heiser, who holds a PhD in Hebrew Bible and Semitic Languages fro
 3\. Dr. Michael S. Heiser (PhD, Hebrew Bible and Semitic Languages at the University of Wisconsin-Madison)<br>
 </small>
 
-### 2.1 <a name="libertarian-free-will" href="#Contents">Libertarian Free Will</a>
+### 3.1 <a name="libertarian-free-will" href="#Contents">Libertarian Free Will</a>
 
 <div style="font-size:0.8rem;">
 Discredited entirely:<br>
@@ -280,7 +283,7 @@ Libertarianism extends this concept to an illogical extreme. For Christians, the
 
 > Libertarianism is vulnerable to what is called the “intelligibility” objection, which points out that people can have no more control over a purely random action than they have over an action that is deterministically inevitable; in neither case does free will enter the picture. Hence, **if human actions are indeterministic, free will does not exist** (Britannica, 2024, para. 5).
 
-## III. <a name="compatibilism" href="#Contents">⚖️ Theological Compatibilism</a>
+## IV. <a name="compatibilism" href="#Contents">⚖️ Theological Compatibilism</a>
 
 <div style="font-size:0.78em;">
   <ul>
@@ -311,7 +314,7 @@ Compatibilism recognizes God's sovereignty alongside a limited version of free w
 1\. Dr. Ron Rhodes (ThD, Dallas Theological Seminary)<br>
 </small>
 
-### 3.1 <a name="double-foreknowledge" href="#Contents">Double Foreknowledge & Free Will</a>
+### 4.1 <a name="double-foreknowledge" href="#Contents">Double Foreknowledge & Free Will</a>
 
 <!-- as articulated in Conditional Election&mdash;commonly referred to as Wesleyan Foreknowledge&mdash; -->
 
@@ -328,7 +331,7 @@ Chuck Smith also taught the Wesleyan Foreknowledge view of election.
 2\. Chuck Smith (BS, Life Pacific College).
 </small>
 
-### 3.2 <a name="asymmetrical-compatibilism" href="#Contents">Single Unconditional Election & Free Will</a>
+### 4.2 <a name="asymmetrical-compatibilism" href="#Contents">Single Unconditional Election & Free Will</a>
 
 Reformed variants of asymmetrical Compatibilism assert a definitive emphasis on foreordination rather than prescience. They maintain that we possess free will, but rather than associating it with a prescient foreknowledge, they align it with foreordaining foreknowledge (a.k.a. unconditional single election). While supralapsarian high-Calvinists advocate for a symmetrical double foreordination and Arminians support a symmetrical double prescient foreknowledge, this perspective asserts that foreordination applies solely to election, with conditional election pertaining to reprobation, as Demarest (2006) asserts, "unconditional election to life and conditional election to damnation" (p. 138).<sup>1</sup> The distinction between this asymmetry and that of infralapsarian orthodox Calvinists lies in the fact that this model contrasts God's sovereignty with a limited version of free will, rather than with freedom of inclination.
 
@@ -357,11 +360,11 @@ Reformed variants of asymmetrical Compatibilism assert a definitive emphasis on 
 4\. Dr. Hugh Ross (PhD, Astrophysicist at the University of Toronto)
 </small>
 
-## IV. <a name="conclusion" href="#Contents">⚖️ Conclusion</a>
+## V. <a name="conclusion" href="#Contents">⚖️ Conclusion</a>
 
 Both Heisenberg's Uncertainty Principle and, potentially, Gödel's incompleteness theorems indicate that there are inherent limits to what can be known or measured in both physics and mathematics, thereby negating Newtonian determinism. Given that Scripture affirms God's absolute sovereignty while also holding individuals accountable for their actions, compatibilism emerges as the most logical conclusion.
 
-### 4.1 <a name="proginosko" href="#Contents">On Proginōskō</a>
+### 5.1 <a name="proginosko" href="#Contents">On Proginōskō</a>
 
 ![Proginōskō](/assets/images/greek/BDAG/proginosko.png)
 
@@ -385,7 +388,7 @@ Demarest (2006) elucidates that the term "foreknew," rendered as proginōskō in
 1\. Dr. Bruce Demarest (PhD, University of Manchester)
 </small>
 
-### 4.2 <a name="men-as-responsible" href="#Contents">Men as Responsible</a>
+### 5.2 <a name="men-as-responsible" href="#Contents">Men as Responsible</a>
 
 Dr. Carson elaborates on the concept of human responsibility in Chapter 3 of his book *Divine Sovereignty and Human Responsibility: Biblical Perspectives in Tension*. The following are section headings:
 
@@ -395,7 +398,7 @@ Dr. Carson elaborates on the concept of human responsibility in Chapter 3 of his
 1\. Dr. D. A. Carson (PhD, University of Cambridge)<br>
 </small>
 
-### 4.3 <a name="god-as-sovereign" href="#Contents">God as Sovereign</a>
+### 5.3 <a name="god-as-sovereign" href="#Contents">God as Sovereign</a>
 
 Dr. Carson elaborates on the concept of God's Sovereignty in Chapter 3 of his book *Divine Sovereignty and Human Responsibility: Biblical Perspectives in Tension*, stating that:
 
@@ -414,7 +417,7 @@ Dr. Carson elaborates on the concept of God's Sovereignty in Chapter 3 of his bo
 </small>
 
 
-### 4.4 <a name="final-thoughts" href="#Contents">Final Thoughts</a>
+### 5.4 <a name="final-thoughts" href="#Contents">Final Thoughts</a>
 
 In the scriptures, we observe the coexistence and a nuanced interplay between determinism, in the form of God's sovereignty, and a degree of free will. However, the question arises: do these two concepts exist simultaneously in a state of constant tension? Heiser (2021) argues convincingly against this notion, stating:
 
