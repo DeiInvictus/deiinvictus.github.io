@@ -1,6 +1,6 @@
 ---
 title: "A Person Without Common Sense Sees Wisdom in All Experiences"
-date: 2025-01-22 1:25:00 -0500
+date: 2025-01-22 1:30:00 -0500
 categories: [Meditations, Wisdom]
 tags: [wisdom, knowledge, intelligence, experience] # TAG names should always be lowercase
 author: seven_shepherd
@@ -13,9 +13,11 @@ pin: false
 
 I have concluded that a person without common sense sees wisdom in all experiences.
 
-> If you are wise and understand God’s ways, prove it by living an honorable life, doing good works with the humility that comes from wisdom. <sup>14</sup> But if you are bitterly jealous and there is selfish ambition in your heart, don’t cover up the truth with boasting and lying. <sup>15</sup> For jealousy and selfishness are not God’s kind of wisdom. Such things are earthly, unspiritual, and demonic. <sup>16</sup> For wherever there is jealousy and selfish ambition, there you will find disorder and evil of every kind.
->
-> <sup>17</sup> But the wisdom from above is first of all pure. It is also peace loving, gentle at all times, and willing to yield to others. It is full of mercy and the fruit of good deeds. It shows no favoritism and is always sincere. <sup>18</sup> And those who are peacemakers will plant seeds of peace and reap a harvest of righteousness (New Living Translation, 2015, Jas. 3:13-18).
+> If you are wise and understand God’s ways, prove it by living an honorable life, doing good works with the humility that comes from wisdom. <sup>14</sup> But if you are bitterly jealous and there is selfish ambition in your heart, don’t cover up the truth with boasting and lying. <sup>15</sup> For jealousy and selfishness are not **God’s kind of wisdom**. Such things are **earthly, unspiritual, and demonic**. <sup>16</sup> For wherever there is jealousy and selfish ambition, there you will find disorder and evil of every kind (New Living Translation, 2015, Jas. 3:13-18).
+
+
+<!-- >
+> <sup>17</sup> But the wisdom from above is first of all pure. It is also peace loving, gentle at all times, and willing to yield to others. It is full of mercy and the fruit of good deeds. It shows no favoritism and is always sincere. <sup>18</sup> And those who are peacemakers will plant seeds of peace and reap a harvest of righteousness (New Living Translation, 2015, Jas. 3:13-18). -->
 
 
 <!-- Their theology breeds hypocrisy and ignorance, endangering the lives of innocent children. -->
