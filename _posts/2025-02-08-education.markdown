@@ -1,6 +1,6 @@
 ---
 title: "Christians Should Prioritize Education in the Sciences"
-date: 2025-02-08 2:45:00 -0500
+date: 2025-02-08 2:50:00 -0500
 categories: [Meditations, Education]
 tags: [education, ignorance, scripture twisting] # TAG names should always be lowercase
 author: seven_shepherd
@@ -54,6 +54,12 @@ Regardless of your age, pursuing an education is a worthwhile endeavor that can 
 <!-- While age related changes may effect your fluid intelligence (e.g., inductive reasoning and spatial orientation), your crystallized intelligence (e.g., numerical ability, verbal ability) remains intact your entire life, well into one's 80s. In a sense, by concentrating on STEM or writing fields  you can ensure your intellectual skills remain enduring throughout your lifetime. This phenomenon explains why many scientists continue to contribute to their fields well into old age. -->
 
 Although age-related changes may impact your fluid intelligence&mdash;such as inductive reasoning and spatial orientation&mdash;your **crystallized intelligence, which encompasses numerical and verbal abilities, remains stable throughout your life, often well into your 80s.** By focusing on fields such as STEM or writing, you can help ensure that your intellectual skills endure over time. This phenomenon accounts for why many scientists continue to make significant contributions to their disciplines well into their later years.
+
+### Autodidactism is Real but Unrecognized
+
+In my youth, I independently mastered programming to an advanced degree, becoming proficient in several languages before ultimately choosing Python as my preferred medium for personal projects. Unfortunately, society often struggles to grasp the significance of such skills; not only may one face skepticism during the hiring process, but there can also be social ostracism from peers. Those of us who are aware recognize that knowledge can be acquired through self-study, yet we eventually realize that formal validation is often the only pathway to acceptance within a society governed by gatekeepers. It's important to recognize that not everyone approaches self-directed learning with the same level of diligence, and there is often no quick or straightforward way for others to fully assess your abilities. Save yourself time and effort and prove the haters wrong with a degree in Physics, Chemistry, or Computer Science.
+
+<!-- When I was young I taught myself how to program to an advanced level. I could program in multiple languages but I eventually came to settle on Python for recreation. Society doesn't understand concepts such as these very well, not only will you not be taken seriously during the hiring process, but you will be persecuted by your peers. Those of us who know, understand that one can learn anything from books, but eventually we all come to the understanding that proving ourselves formally is the only way to be accepted into a society of gatekeepers. -->
 
 ### Beware the Indoctrination of Seminaries!
 
