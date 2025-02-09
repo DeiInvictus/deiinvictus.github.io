@@ -1,0 +1,61 @@
+---
+title: "Those Who Malign Others Are Projecting Their Own Insecurities and Limitations Upon Those They Envy"
+date: 2025-02-08 1:00:00 -0500
+categories: [Meditations, False Witness]
+tags: [false witness, slander, hate, hatred, envy, jealousy] # TAG names should always be lowercase
+author: seven_shepherd
+published: true
+comments: false
+pin: false
+---
+
+## The Great Pretenders
+
+If you pay close attention, your adversaries will reveal their deepest fears cloaked in their arrogance. When they puff out their chest and boast, it's not confidence&mdash;it's a facade of superiority born from their own insecurities. This bravado is a defense mechanism, a desperate attempt to conceal their vulnerabilities. In truth, they are laying bare their weaknesses for all to see. I've yet to encounter a truly secure individual who feels the need to act in such a manner; as intelligence grows, so too does humility. Those who speak ill of others are merely projecting their own insecurities onto those they envy.
+
+> He knew very well that the religious leaders had arrested Jesus out of envy (New Living Translation, 2015, Matt. 27:18).
+
+
+<!-- Their theology breeds hypocrisy and ignorance, endangering the lives of innocent children. -->
+
+<br>
+
+---
+
+<br>
+
+<div style="text-align:center;">References</div>
+
+<span></span>
+
+*New Living Translation*. (2015). Tyndale House Publishers.
+
+<br>
+
+---
+
+<br>
+
+*Together in action, united in spirit, aligned in purpose.*
+
+<!-- *But they delight in the law of the Lord, meditating on it day and night.* -->
+
+<!-- > Finally, brethren, whatever things are true, whatever things are noble, whatever things are just, whatever things are pure, whatever things are lovely, whatever things are of good report, if there is any virtue and if there is anything praiseworthy—meditate on these things &mdash; Philippians 4:8. -->
+
+<script>
+    var refTagger = {
+        settings: {
+            bibleVersion: 'NLT',
+            tooltipStyle: 'dark'
+        }
+    };
+
+    (function(d, t) {
+        var n=d.querySelector('[nonce]');
+        refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce'));
+        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        g.src = 'https://api.reftagger.com/v2/RefTagger.js';
+        g.nonce = refTagger.settings.nonce;
+        s.parentNode.insertBefore(g, s);
+    }(document, 'script'));
+</script>
