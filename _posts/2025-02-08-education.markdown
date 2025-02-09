@@ -1,6 +1,6 @@
 ---
-title: "When God Prepares a Man He Gives Him an Education"
-date: 2025-02-08 2:20:00 -0500
+title: "Christians Should Prioritize Education in the Sciences"
+date: 2025-02-08 2:35:00 -0500
 categories: [Meditations, Education]
 tags: [education, ignorance, scripture twisting] # TAG names should always be lowercase
 author: seven_shepherd
@@ -11,17 +11,17 @@ pin: false
 
 [Christians](https://deiinvictus.com/posts/protestants-dominate-the-sciences/) have established a formidable presence in the realm of science, a triumph that we must ardently defend and perpetuate for future generations.
 
-### Moses' Secular Education
+### Moses' Egyptian Education
 
 Moses' secular education in the Egyptian court equipped him with skills in leadership, writing, and strategic thinking that were vital for the future role in leading the israelites.
 
 > So Moses was trained in **all the wisdom of the Egyptians** and was powerful in his words and deeds (NET Bible, 2019, Acts 7:22).
 
-### Daniel's Secular Education
+### Daniel's Babylonian Education
 
 Daniel and his friends were educated in the language and literature of the Babylonians. God placed Daniel in a setting that emphasized learning beyond religious instruction, giving him access to knowledge that would prepare him for a prominent role in a secular government while maintaining his faith.
 
-> “Select only strong, healthy, and good-looking young men,” he said. “Make sure they are well versed in every branch of learning, are gifted with knowledge and good judgment, and are suited to serve in the royal palace. Train these young men in the language and literature of Babylon.[a]” 5 The king assigned them a daily ration of food and wine from his own kitchens. They were to be trained for three years, and then they would enter the royal service (New Living Translation, 2015, Dan. 1:4-5).
+> “Select only strong, healthy, and good-looking young men,” he said. **“Make sure they are well versed in every branch of learning, are gifted with knowledge and good judgment**, and are suited to serve in the royal palace. Train these young men in the language and literature of Babylon.[a]” 5 The king assigned them a daily ration of food and wine from his own kitchens. They were to be trained for three years, and then they would enter the royal service (New Living Translation, 2015, Dan. 1:4-5).
 
 ### Are You Making Every Effort?
 
@@ -71,7 +71,9 @@ Paul emphasizes unity in Christ rather than division by allegiance to specific h
 
 ### Recommendations
 
-Enrolling in a reputable and accredited in-state university that offers proctoring will enhance your credibility and ensure that your efforts are acknowledged and respected. This way, you will be less likely to be dismissed, and God can utilize you as a powerful force for good. **I recommend pursuing a degree in STEM or Biblical Language Scholarship**. Avoid pursuing a career as a theologian, as many lack the necessary authority or comprehensive education regarding biblical texts. This has led to the emergence of various cults and heretical sects, often propagated by individuals with insufficient understanding or critical thinking skills.
+Enrolling in a reputable and accredited in-state college to do your basics and then university will enhance your credibility and ensure that your efforts are acknowledged and respected. This way, you will be less likely to be dismissed, and God can utilize you as a powerful force for good. **I recommend pursuing a degree in STEM or Biblical Language Scholarship**. Avoid pursuing a career as a theologian, as many lack the necessary authority or comprehensive education regarding biblical texts. This has led to the emergence of various cults and heretical sects, often propagated by individuals with insufficient understanding or critical thinking skills.
+
+> Wisdom is supreme—so acquire wisdom, and whatever you acquire, acquire understanding! (NET Bible, 2019, Proverbs 4:7).
 
 <!-- ### Knowledge Will be Increased
 
