@@ -1,6 +1,6 @@
 ---
 title: "When God Prepares a Man He Gives Him an Education"
-date: 2025-02-08 2:10:00 -0500
+date: 2025-02-08 2:20:00 -0500
 categories: [Meditations, Education]
 tags: [education, ignorance, scripture twisting] # TAG names should always be lowercase
 author: seven_shepherd
@@ -35,6 +35,8 @@ Many of you walk around with a very dull ax, but [research shows](https://youtu.
 
 > Using a dull ax requires great strength, so sharpen the blade. That’s the value of wisdom; it helps you succeed. (New Living Translation, 2015, Ecc. 10:10)
 
+> My people are destroyed for lack of knowledge; because you have rejected knowledge, I reject you from being a priest to me. And since you have forgotten the law of your God, I also will forget your children (ESV Study Bible, 2008, Hosea 4:6).
+
 ### The Uneducated Twist the Scriptures to Their Own Destruction
 
 The teachings of the untaught are often heretical and they fall easily into false doctrines. Many such people have created their own theologies that breed hypocrisy and ignorance, endangering the lives of innocent children.
@@ -59,7 +61,7 @@ Theological institutions, particularly those that are overly insular, often prio
 
 > I’m not asking you to take them out of the world, but to keep them safe from the evil one. They do not belong to this world any more than I do. Make them holy by your truth; teach them your word, which is truth. Just as you sent me into the world, I am sending them into the world (New Living Translation, 2015, John 17:15-18).
 
-Paul's emphasizes unity in Christ rather than division by allegiance to specific human leaders. If you label yourselves with Catholicism (of the Pope), **Luther**anism (of Martin Luther), **Calvin**ism (of John Calvin), **Arminian**ism (of Jacobus Arminius), **Wesley**anism (of John Wesley), **Amyra**ldism (of Moses Amyraut), **Mol**inism (Luis de Molina), **Chafer**anism (of Lewis Sperry Chafer), you are going directly against the word of God and **your doctrine is not sound**. The Bible warns that some of these people **may** have created divisions because they are devoid of the spirit:
+Paul emphasizes unity in Christ rather than division by allegiance to specific human leaders. If you label yourselves with Catholicism (of the Pope), **Luther**anism (of Martin Luther), **Calvin**ism (of John Calvin), **Arminian**ism (of Jacobus Arminius), **Wesley**anism (of John Wesley), **Amyra**ldism (of Moses Amyraut), **Mol**inism (Luis de Molina), **Chafer**anism (of Lewis Sperry Chafer), you are going directly against the word of God and **your doctrine is not sound**. The Bible warns that some of these people **may** have created divisions because they are devoid of the spirit:
 
 > "What I mean is that each one of you says, “I follow Paul,” or “I follow Apollos,” or “I follow Cephas,” or “I follow Christ.” Is Christ divided? Was Paul crucified for you? Or were you baptized in the name of Paul?" (ESV Study Bible, 2008, 1Cor. 1:12-13)
 
@@ -84,6 +86,8 @@ Enrolling in a reputable and accredited in-state university that offers proctori
 <div style="text-align:center;">References</div>
 
 <span></span>
+
+*ESV Study Bible* (ESV Text Edition: 2016). (2008). Crossway.
 
 *NET Bible: Full notes edition*. (2019). Biblical Studies Press, L.L.C.
 
