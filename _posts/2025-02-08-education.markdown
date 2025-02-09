@@ -1,6 +1,6 @@
 ---
 title: "When God Prepares a Man He Gives Him an Education"
-date: 2025-02-08 2:00:00 -0500
+date: 2025-02-08 2:05:00 -0500
 categories: [Meditations, Education]
 tags: [education, ignorance, scripture twisting] # TAG names should always be lowercase
 author: seven_shepherd
@@ -67,7 +67,9 @@ Paul's emphasizes unity in Christ rather than division by allegiance to specific
 
 <!-- Attend a reputable and accredited in-state university with proctoring; this will bolster your credibility and ensure that your efforts are recognized and respected. No one will be able to dismiss you then and God will be able to use you as an unstoppable force. I recommend something in STEM or Biblical Language Scholarship. Avoid Underwater basketweaving degrees such as theology. -->
 
-Enroll in a reputable and accredited in-state university that offers proctoring; this will enhance your credibility and ensure that your efforts are acknowledged and respected. This way, you will be less likely to be dismissed, and God can utilize you as a powerful force for good. **I recommend pursuing a degree in STEM or Biblical Language Scholarship**. Avoid pursuing a career as a theologian, as many lack the necessary authority or comprehensive education regarding biblical texts. This has led to the emergence of various cults and heretical sects, often propagated by individuals with insufficient understanding.
+### I Highly Recommend
+
+Enrolling in a reputable and accredited in-state university that offers proctoring will enhance your credibility and ensure that your efforts are acknowledged and respected. This way, you will be less likely to be dismissed, and God can utilize you as a powerful force for good. **I recommend pursuing a degree in STEM or Biblical Language Scholarship**. Avoid pursuing a career as a theologian, as many lack the necessary authority or comprehensive education regarding biblical texts. This has led to the emergence of various cults and heretical sects, often propagated by individuals with insufficient understanding.
 
 <!-- ### Knowledge Will be Increased
 
