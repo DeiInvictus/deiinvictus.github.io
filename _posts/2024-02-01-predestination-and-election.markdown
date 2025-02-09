@@ -1,6 +1,6 @@
 ---
 title: "God Clearly Does Choose (Based on His Foreknowledge)"
-date: 2024-02-01 6:25:00 -0500
+date: 2024-02-01 6:30:00 -0500
 categories: [Theology, Predestination]
 tags: [free will, predestination, election, reprobation] # TAG names should always be lowercase
 author: seven_shepherd
@@ -32,7 +32,8 @@ pin: true
     - 5.1 <a href="#proginosko">On Proginōskō</a>
     - 5.2 <a href="#men-as-responsible">Men as Responsible</a>
     - 5.3 <a href="#god-as-sovereign">God as Sovereign</a>
-    - 5.4 <a href="#final-thoughts">Final Thoughts</a>
+    - 5.4 <a href="#free-will-test">Free Will Test</a>
+    - 5.5 <a href="#final-thoughts">Final Thoughts</a>
 
 ---
 
@@ -49,24 +50,21 @@ pin: true
 6.  **Legal Constraints**: Laws and regulations are imposed by society and are beyond individual control.
 7.  **Randomness and Chance**: Unpredictable events and circumstances occur without our influence. -->
 
-<!-- 1. Did you have the free will to choose your birthplace, such as the United States, Canada, China, India, Brazil, Nigeria, or Germany?
-2. Did you have a choice in being born as a Caucasian (White), African (Black), Asian, Hispanic or Latino, Indigenous Peoples, Pacific Islander, or Middle Eastern?
-3. Did you have any influence over the socioeconomic conditions into which you would be born?
-4. Did you choose your relatives, including your grandparents, parents, or siblings?
-5. Did you have a free will choice over your inherited genetic disorders, like cystic fibrosis, Huntington's disease, and sickle cell anemia? All are determined by specific genetic mutations that individuals inherit from their parents, and they cannot choose to avoid these conditions.
-6. Did you have a choice in your physical traits? Characteristics such as eye color, hair color, and height are largely determined by genetics. Individuals have no control over the specific combination of genes they inherit that dictate these traits.
-7. Do you have a choice in your predisposition to diseases, such as breast cancer (e.g., BRCA1 and BRCA2 gene mutations) or heart disease? These are inherited and cannot be chosen or altered by the individual.
-8. Did you have a choice regarding your intelligence, knowing that while environmental factors play a role, genetics significantly influence cognitive abilities and intellectual potential?
-9. Did you have any control over the determination of your aptitudes, including your natural talents and abilities in music, mathematics, sports, and language?
-10. Do you have a choice over the outcome of randomness, chance, or catastrophe?
-11. Do you have the free will to save yourself with a works-based sinner's prayer, kicking down the gates of heaven and proclaiming yourself justified by your own choices?
-12. Finally, do you believe that you have the free will to renounce your faith and forfeit salvation? -->
+<!--  -->
 
-I'd like to start out by asking you a few questions; we'll call it the free will test, if you will. Do you believe you had free will in choosing your birthplace, ethnicity, socioeconomic conditions, relatives, genetic disorders (e.g., cystic fibrosis), genetic physical traits such as height, eye color, or a receding hairline, as well as predispositions to diseases, intelligence, natural aptitudes, and the outcomes of randomness, chance, or catastrophe? If you answered "no" to these questions, the good news is you're still sane. What if I asked, do you have the free will to save yourself by reciting a works-based sinner's prayer? Could you kick down the gates of heaven and proclaim yourself justified in the sight of God by your own free will choices? Finally, **do you believe that you have the free will to renounce your faith and forfeit salvation?** Dr. Walter Martin (2017), a theologian with 5 degrees, articulates the limitations of free will further:
+Many of you might start to ponder the thought-provoking question of how free our wills actually are. None of us had any free will or agency over where we’d be born, our ethnicity, our socioeconomic status, who our relatives would be, what genetic predispositions and genetic disorders we may be vulnerable to, or genetic physical traits such as height, eye color, intelligence, and natural aptitudes. We certainly don’t have any control over purely random actions, chance, or catastrophic events. Can you save yourself by reciting a works-based sinner's prayer or declare yourself justified before God through your own free will choices? **Do you believe that you have the free will to renounce your faith and forfeit salvation?** (See <a href="#free-will-test">Free Will Test</a>). If you answered "no" to these questions, the good news is you're still sane. Nevertheless, we do exercise a limited form of free will in our decision-making processes. Dr. Walter Martin (2017), a theologian with 5 degrees, articulates the limitations of free will:
 
-> ... and that no flesh should be able to glory in its own sight, but whoever makes an appearance before the throne of the Lord, his glory will be in the Lord of hosts. Now some may say, "That's the sovereignty of God, hallelujah, **but what about my free will?" Well, it's not as free as you think it is. You are free to make choices, but you are not free to enforce all of them**. ... There is freedom, but it's quite limited. In lots of respects, you have not chosen me; I've chosen you means that God has the last word" (20:25).
+> ... and that no flesh should be able to glory in its own sight, but whoever makes an appearance before the throne of the Lord, his glory will be in the Lord of hosts. Now some may say, "That's the sovereignty of God, hallelujah, **but what about my free will?" Well, it's not as free as you think it is. You are free to make choices, but you are not free to enforce all of them**. ... There is freedom, but it's quite limited. In lots of respects, "you have not chosen me; I've chosen you" means that God has the last word" (20:25).
 
-I would submit to you that any intelligent examination of scripture leads to a belief in the doctrine of election. When I contend that a rigorous and scholarly examination of biblical texts leads to a substantiated belief in the doctrine of election, I am delineating a critical distinction: Belief in election to life does not necessarily entail an acceptance of foreordained damnation. In fact, it does not even require one to subscribe to the concept of foreordination in any form. Rather, election to life can be understood in a singular, prescient context, emphasizing a divine awareness of foreknown relationship rather than foreordination. As we explore the various concepts of predestination, I am reminded of the truism that free will saves no one; we are justified by the gift of faith, not by our works-based choices, as Spurgeon so eloquently observes, "Free will carried many a soul to hell, but never a soul to heaven." At the same time not a single soul should ever say that faith is a work, "And to **the one who does not work but believes in** him who justifies the ungodly, his faith is counted as righteousness," (ESV Study Bible, 2008, Rom. 4:5).
+I would submit to you that any intelligent examination of scripture leads to a belief in the doctrine of election. When I contend that a rigorous and scholarly examination of biblical texts leads to a substantiated belief in the doctrine of election, I am delineating a critical distinction: Belief in election to life does not necessarily entail an acceptance of foreordained damnation. In fact, it does not even require one to subscribe to the concept of foreordination in any form. Rather, election to life can be understood in a singular, prescient context, emphasizing a divine awareness of foreknown relationship rather than foreordination.
+
+> "Free will carried many a soul to hell, but never a soul to heaven" (Spurgeon).
+
+<!-- If you answered "no" to these questions, the good news is you're still sane. What if I asked, do you have the free will to save yourself by reciting a works-based sinner's prayer? Could you kick down the gates of heaven and proclaim yourself justified in the sight of God by your own free will choices? Finally, **do you believe that you have the free will to renounce your faith and forfeit salvation?** Dr. Walter Martin (2017), a theologian with 5 degrees, articulates the limitations of free will further: -->
+
+<!--  -->
+
+<!-- As we explore the various concepts of predestination, I am reminded of the truism that free will saves no one; we are justified by the gift of faith, not by our works-based choices, as Spurgeon so eloquently observes, "Free will carried many a soul to hell, but never a soul to heaven." At the same time not a single soul should ever say that faith is a work, "And to **the one who does not work but believes in** him who justifies the ungodly, his faith is counted as righteousness," (ESV Study Bible, 2008, Rom. 4:5). -->
 
 <!-- &mdash; [Dr. Walter Martin (PhD, University of California Coast)](https://youtu.be/uuUKE5resPs?si=h3FO_qxcKIjM7uF7&t=1225) -->
 
@@ -416,8 +414,25 @@ Dr. Carson elaborates on the concept of God's Sovereignty in Chapter 3 of his bo
 1\. Dr. D. A. Carson (PhD, University of Cambridge)<br>
 </small>
 
+### 5.5 <a name="free-will-test" href="#Contents">Free will Test</a>
 
-### 5.4 <a name="final-thoughts" href="#Contents">Final Thoughts</a>
+I'd like to start out by asking you a few questions; we'll call it the free will test, if you will:
+
+1. Did you have the free will to choose your birthplace, such as the United States, Canada, China, India, Brazil, Nigeria, or Germany?
+2. Did you have a choice in being born as a Caucasian (White), African (Black), Asian, Hispanic or Latino, Indigenous Peoples, Pacific Islander, or Middle Eastern?
+3. Did you have any influence over the socioeconomic conditions into which you would be born?
+4. Did you choose your relatives, including your grandparents, parents, or siblings?
+5. Did you have a free will choice over your inherited genetic disorders, like cystic fibrosis, Huntington's disease, and sickle cell anemia? All are determined by specific genetic mutations that individuals inherit from their parents, and they cannot choose to avoid these conditions.
+6. Did you have a choice in your physical traits? Characteristics such as eye color, hair color, and height are largely determined by genetics. Individuals have no control over the specific combination of genes they inherit that dictate these traits.
+7. Do you have a choice in your predisposition to diseases, such as breast cancer (e.g., BRCA1 and BRCA2 gene mutations) or heart disease? These are inherited and cannot be chosen or altered by the individual.
+8. Did you have a choice regarding your intelligence, knowing that while environmental factors play a role, genetics significantly influence cognitive abilities and intellectual potential?
+9. Did you have any control over the determination of your aptitudes, including your natural talents and abilities in music, mathematics, sports, and language?
+10. Do you have a choice over the outcome of randomness, chance, or catastrophe?
+11. Can you save yourself by reciting a works-based sinner's prayer or declare yourself justified before God through your own free will choices?
+12. **Finally, do you believe that you have the free will to renounce your faith and forfeit salvation?**
+
+
+### 5.6 <a name="final-thoughts" href="#Contents">Final Thoughts</a>
 
 In the scriptures, we observe the coexistence and a nuanced interplay between determinism, in the form of God's sovereignty, and a degree of free will. However, the question arises: do these two concepts exist simultaneously in a state of constant tension? Heiser (2021) argues convincingly against this notion, stating:
 
