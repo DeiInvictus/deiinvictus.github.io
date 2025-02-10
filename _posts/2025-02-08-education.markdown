@@ -1,6 +1,6 @@
 ---
 title: "Christians Should Prioritize Education in the Sciences"
-date: 2025-02-08 2:55:00 -0500
+date: 2025-02-08 3:00:00 -0500
 categories: [Meditations, Education]
 tags: [education, ignorance, scripture twisting] # TAG names should always be lowercase
 author: seven_shepherd
@@ -57,7 +57,7 @@ Although age-related changes may impact your fluid intelligence&mdash;such as in
 
 ### Autodidactism is Real but Unrecognized
 
-In my youth, I independently mastered programming to an advanced degree, becoming proficient in several languages before ultimately choosing Python as my preferred medium for personal projects. Unfortunately, society often struggles to grasp the significance of such skills; not only may one face skepticism during the hiring process, but there can also be social ostracism from peers. Those of us who are aware recognize that knowledge can be acquired through self-study, yet we eventually realize that formal validation is often the only pathway to acceptance within a society governed by gatekeepers. It's important to recognize that not everyone approaches self-directed learning with the same level of diligence, and there is often no quick or straightforward way for others to fully assess your abilities. Save yourself time and effort and prove the haters wrong with a degree in Physics, Chemistry, or Computer Science.
+In my youth, I independently taught myself how to program to an advanced degree, becoming proficient in a handful of languages before ultimately choosing Python as my preferred medium for personal projects. Unfortunately, society often struggles to grasp the significance of such skills; not only may one face skepticism during the hiring process, but there can also be social ostracism from peers. Those of us who are aware recognize that knowledge can be acquired through self-study, yet we eventually realize that formal validation is often the only pathway to acceptance within a society governed by gatekeepers. It's important to recognize that not everyone approaches self-directed learning with the same level of diligence, and there is often no quick or straightforward way for others to fully assess your abilities. Save yourself time and effort and prove the haters wrong with a degree in Physics, Chemistry, or Computer Science. I lead by example, having achieved a place on the President's List in Physics.
 
 <!-- When I was young I taught myself how to program to an advanced level. I could program in multiple languages but I eventually came to settle on Python for recreation. Society doesn't understand concepts such as these very well, not only will you not be taken seriously during the hiring process, but you will be persecuted by your peers. Those of us who know, understand that one can learn anything from books, but eventually we all come to the understanding that proving ourselves formally is the only way to be accepted into a society of gatekeepers. -->
 
