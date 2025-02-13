@@ -1,12 +1,12 @@
 ---
 title: "The Old Ways — The Ancient Paths"
-date: 2024-12-26 02:45:00 -0500
+date: 2024-12-26 02:50:00 -0500
 categories: [Declaration, Statement]
 tags: [religion, history, theology] # TAG names should always be lowercase
 author: grand_master
 published: true
 comments: false
-pin: false
+pin: true
 ---
 
 <!-- ## Introduction -->

@@ -1,6 +1,6 @@
 ---
 title: "Christians Should Prioritize Education in the Sciences"
-date: 2025-02-08 3:15:00 -0500
+date: 2025-02-08 3:25:00 -0500
 categories: [Meditations, Education]
 tags: [education, ignorance, scripture twisting] # TAG names should always be lowercase
 author: seven_shepherd
@@ -58,7 +58,7 @@ The teachings of the untaught are often heretical and they fall easily into fals
 
 ### Beware the Indoctrination of Seminaries!
 
-Theological institutions, particularly those that are overly insular, often prioritize indoctrination over genuine education. Each seminary tends to promote its own specific theological perspective, which can foster a disconnect from the broader societal context and hinder one's capacity to effectively address secular issues. In contrast, the Bible advocates for active engagement with the world while upholding one's faith.
+Theological institutions, particularly those that are overly insular, often prioritize indoctrination over genuine education. Each seminary tends to promote its own specific theological perspective, which can foster a disconnect from reality and hinder one's capacity to effectively address scriptural issues. In contrast, the Bible advocates for active engagement with the world while upholding one's faith.
 
 > I’m not asking you to take them out of the world, but to keep them safe from the evil one. They do not belong to this world any more than I do. Make them holy by your truth; teach them your word, which is truth. Just as you sent me into the world, I am sending them into the world (New Living Translation, 2015, John 17:15-18).
 
