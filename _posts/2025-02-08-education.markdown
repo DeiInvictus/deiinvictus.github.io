@@ -1,6 +1,6 @@
 ---
 title: "Christians Should Prioritize Education in the Sciences"
-date: 2025-02-08 3:05:00 -0500
+date: 2025-02-08 3:15:00 -0500
 categories: [Meditations, Education]
 tags: [education, ignorance, scripture twisting] # TAG names should always be lowercase
 author: seven_shepherd
@@ -37,7 +37,9 @@ Regardless of your age, pursuing an education is a worthwhile endeavor that can 
 
 ### Autodidactism is Real but Unrecognized
 
-In my youth, I independently taught myself how to program to an advanced degree, becoming proficient in a handful of languages before ultimately choosing Python as my preferred medium for personal projects. Unfortunately, society often struggles to grasp concepts such as autodidactism; not only may one face skepticism during the hiring process, but there can also be social ostracism from peers. Those of us who are aware recognize that knowledge can be acquired through self-study, yet we eventually realize that formal validation is often the only pathway to acceptance within a society governed by gatekeepers. It's important to recognize that not everyone approaches self-directed learning with the same level of diligence, and there is often no quick or straightforward way for others to fully assess your abilities. Save yourself time and effort and realize that, **unlike** justification, society is meritocratic.
+In my youth, I independently taught myself how to program to an advanced degree, becoming proficient in a handful of languages before ultimately choosing Python as my preferred medium for personal projects. Unfortunately, society often struggles to grasp concepts such as autodidactism; not only may one face skepticism during the hiring process, but there can also be social ostracism from peers. Those of us who are aware recognize that knowledge can be acquired through self-study, yet we eventually realize that formal validation is often the only pathway to acceptance within a society governed by gatekeepers. It's important to recognize that not everyone approaches self-directed learning with the same level of diligence, and there is often no quick or straightforward way for others to fully assess your abilities. Save yourself time and effort and realize that, **unlike** justification, society is meritocratic, status-oriented, and will not take you at your word.
+
+<!-- The Apostle James also teaches that we justify ourselves "in the sight of men" by our good works and that these are **evidence** of genuine faith (Jas. 2:14-27; cf. 1Jn 2:3-4; 3:9). Logically, if we are attempting to impart knowledge or be taken seriously, we need to show people what we are capable of. -->
 
 <!-- When I was young I taught myself how to program to an advanced level. I could program in multiple languages but I eventually came to settle on Python for recreation. Society doesn't understand concepts such as these very well, not only will you not be taken seriously during the hiring process, but you will be persecuted by your peers. Those of us who know, understand that one can learn anything from books, but eventually we all come to the understanding that proving ourselves formally is the only way to be accepted into a society of gatekeepers. -->
 
