@@ -1,6 +1,6 @@
 ---
 title: "Christians Should Prioritize Education in the Sciences"
-date: 2025-02-08 3:00:00 -0500
+date: 2025-02-08 3:05:00 -0500
 categories: [Meditations, Education]
 tags: [education, ignorance, scripture twisting] # TAG names should always be lowercase
 author: seven_shepherd
@@ -9,7 +9,7 @@ comments: false
 pin: false
 ---
 
-[Christians](https://deiinvictus.com/posts/protestants-dominate-the-sciences/) have established a formidable presence in the realm of science, a triumph that we must ardently defend and perpetuate for future generations. From Newton, Leibniz, and Maxwell to Kistiakowsky and Polkinghorne, Protestants have dominated the sciences as well as the Nobel Prize for over a hundred years. This excellence can also be traced to the ancient past. It is up to us to carry on this legacy!
+Christians have established a formidable presence in the realm of science, a triumph that we must ardently defend and perpetuate for future generations. From Newton, Leibniz, and Maxwell to Kistiakowsky and Polkinghorne, [Protestants have dominated the sciences as well as the Nobel Prize for over a hundred years](https://deiinvictus.com/posts/protestants-dominate-the-sciences/). This excellence can also be traced to the ancient past. It is up to us to carry on this legacy!
 
 ### Moses' Egyptian Education
 
@@ -23,25 +23,11 @@ Daniel and his friends were educated in the language and literature of the Babyl
 
 > “Select only strong, healthy, and good-looking young men,” he said. **“Make sure they are well versed in every branch of learning, are gifted with knowledge and good judgment**, and are suited to serve in the royal palace. Train these young men in the language and literature of Babylon.[a]” 5 The king assigned them a daily ration of food and wine from his own kitchens. They were to be trained for three years, and then they would enter the royal service (New Living Translation, 2015, Dan. 1:4-5).
 
-### Are You Making Every Effort?
+### Crystallized Intelligence Never Fades
 
-If you're not getting your education then **you are not making every effort**, nor are you presenting yourself as a proven worker unto God.
+<!-- While age related changes may effect your fluid intelligence (e.g., inductive reasoning and spatial orientation), your crystallized intelligence (e.g., numerical ability, verbal ability) remains intact your entire life, well into one's 80s. In a sense, by concentrating on STEM or writing fields  you can ensure your intellectual skills remain enduring throughout your lifetime. This phenomenon explains why many scientists continue to contribute to their fields well into old age. -->
 
-> Make every effort to present yourself before God as a proven worker who does not need to be ashamed, teaching the message of truth accurately (NET Bible, 2019, 2Tim. 2:15).
-
-### Is Your Axe Dull?
-
-Many of you walk around with a very dull ax, but [research shows](https://youtu.be/GWSZ1DKjNzY) that you can change your intelligence through study.
-
-> Using a dull ax requires great strength, so sharpen the blade. That’s the value of wisdom; it helps you succeed. (New Living Translation, 2015, Ecc. 10:10)
-
-> My people are destroyed for lack of knowledge; because you have rejected knowledge, I reject you from being a priest to me. And since you have forgotten the law of your God, I also will forget your children (ESV Study Bible, 2008, Hosea 4:6).
-
-### The Uneducated Twist the Scriptures to Their Own Destruction
-
-The teachings of the untaught are often heretical and they fall easily into false doctrines. Many such people have created their own theologies that breed hypocrisy and ignorance, endangering the lives of innocent children.
-
-> <sup style="font-weight:bold;">16</sup> He writes about ·this <span style="color:LightSteelBlue;">[<sup>L</sup> these things]</span> in all his letters. Some things in Paul’s letters are hard to understand, and people who are ·ignorant <span style="color:LightSteelBlue;">[untaught]</span> and ·weak in faith <span style="color:LightSteelBlue;">[unstable]</span> ·explain these things falsely <span style="color:LightSteelBlue;">[<sup>L</sup> twist/distort them]</span>. They also ·falsely explain <span style="color:LightSteelBlue;">[<sup>L</sup> twist; distort]</span> the other Scriptures, ·but they are destroying themselves by doing this <span style="color:LightSteelBlue;">[or which will lead to their destruction]</span> (Expanded Bible, 2011, 2Pet. 3:16).
+Although age-related changes may impact your fluid intelligence, such as inductive reasoning and spatial orientation, your **crystallized intelligence, which encompasses numerical and verbal abilities, remains stable throughout your life, often well into your 80s.** By focusing on fields such as STEM or writing, you can help ensure that your intellectual skills endure over time. This phenomenon accounts for why many scientists continue to make significant contributions to their disciplines well into their later years.
 
 ### Your Age Does Not Matter
 
@@ -49,17 +35,24 @@ Regardless of your age, pursuing an education is a worthwhile endeavor that can 
 
 > Intellectual growth should commence at birth and cease only at death (Einstein).
 
-### Crystallized Intelligence Never Fades
-
-<!-- While age related changes may effect your fluid intelligence (e.g., inductive reasoning and spatial orientation), your crystallized intelligence (e.g., numerical ability, verbal ability) remains intact your entire life, well into one's 80s. In a sense, by concentrating on STEM or writing fields  you can ensure your intellectual skills remain enduring throughout your lifetime. This phenomenon explains why many scientists continue to contribute to their fields well into old age. -->
-
-Although age-related changes may impact your fluid intelligence&mdash;such as inductive reasoning and spatial orientation&mdash;your **crystallized intelligence, which encompasses numerical and verbal abilities, remains stable throughout your life, often well into your 80s.** By focusing on fields such as STEM or writing, you can help ensure that your intellectual skills endure over time. This phenomenon accounts for why many scientists continue to make significant contributions to their disciplines well into their later years.
-
 ### Autodidactism is Real but Unrecognized
 
-In my youth, I independently taught myself how to program to an advanced degree, becoming proficient in a handful of languages before ultimately choosing Python as my preferred medium for personal projects. Unfortunately, society often struggles to grasp the significance of such skills; not only may one face skepticism during the hiring process, but there can also be social ostracism from peers. Those of us who are aware recognize that knowledge can be acquired through self-study, yet we eventually realize that formal validation is often the only pathway to acceptance within a society governed by gatekeepers. It's important to recognize that not everyone approaches self-directed learning with the same level of diligence, and there is often no quick or straightforward way for others to fully assess your abilities. Save yourself time and effort and prove the haters wrong with a degree in Physics, Chemistry, or Computer Science. I lead by example, having achieved a place on the President's List in Physics.
+In my youth, I independently taught myself how to program to an advanced degree, becoming proficient in a handful of languages before ultimately choosing Python as my preferred medium for personal projects. Unfortunately, society often struggles to grasp concepts such as autodidactism; not only may one face skepticism during the hiring process, but there can also be social ostracism from peers. Those of us who are aware recognize that knowledge can be acquired through self-study, yet we eventually realize that formal validation is often the only pathway to acceptance within a society governed by gatekeepers. It's important to recognize that not everyone approaches self-directed learning with the same level of diligence, and there is often no quick or straightforward way for others to fully assess your abilities. Save yourself time and effort and realize that, **unlike** justification, society is meritocratic.
 
 <!-- When I was young I taught myself how to program to an advanced level. I could program in multiple languages but I eventually came to settle on Python for recreation. Society doesn't understand concepts such as these very well, not only will you not be taken seriously during the hiring process, but you will be persecuted by your peers. Those of us who know, understand that one can learn anything from books, but eventually we all come to the understanding that proving ourselves formally is the only way to be accepted into a society of gatekeepers. -->
+
+### Are You Making Every Effort?
+
+If you're not getting your education, then **you are not making every effort**, nor are you presenting yourself as a proven worker unto God. This is especially true for anyone who intends to teach biblical doctrine. Never make an uneducated teacher your guide; that is the epitome of the blind leading the blind. Do not be fearful of intellectual hard labor.
+
+> Make every effort to present yourself before God as a proven worker who does not need to be ashamed, teaching the message of truth accurately (NET Bible, 2019, 2Tim. 2:15).
+
+### The Uneducated Twist the Scriptures to Their Own Destruction
+
+The teachings of the untaught are often heretical and they fall easily into false doctrines. Many such people have created their own theologies that breed hypocrisy and ignorance, endangering the lives of innocent children.
+
+> <sup style="font-weight:bold;">16</sup> He writes about ·this <span style="color:LightSteelBlue;">[<sup>L</sup> these things]</span> in all his letters. Some things in Paul’s letters are hard to understand, and people who are ·ignorant <span style="color:LightSteelBlue;">[untaught]</span> and ·weak in faith <span style="color:LightSteelBlue;">[unstable]</span> ·explain these things falsely <span style="color:LightSteelBlue;">[<sup>L</sup> twist/distort them]</span>. They also ·falsely explain <span style="color:LightSteelBlue;">[<sup>L</sup> twist; distort]</span> the other Scriptures, ·but they are destroying themselves by doing this <span style="color:LightSteelBlue;">[or which will lead to their destruction]</span> (Expanded Bible, 2011, 2Pet. 3:16).
+
 
 ### Beware the Indoctrination of Seminaries!
 
@@ -71,13 +64,23 @@ Paul emphasizes unity in Christ rather than division by allegiance to specific h
 
 > "What I mean is that each one of you says, “I follow Paul,” or “I follow Apollos,” or “I follow Cephas,” or “I follow Christ.” Is Christ divided? Was Paul crucified for you? Or were you baptized in the name of Paul?" (ESV Study Bible, 2008, 1Cor. 1:12-13)
 
-> These people are the ones who are creating divisions among you. They follow their natural instincts because **they do not have God’s Spirit in them** (New Living Translation, 2015, Jude 19).
+<!-- > These people are the ones who are creating divisions among you. They follow their natural instincts because **they do not have God’s Spirit in them** (New Living Translation, 2015, Jude 19). -->
 
 <!-- Attend a reputable and accredited in-state university with proctoring; this will bolster your credibility and ensure that your efforts are recognized and respected. No one will be able to dismiss you then and God will be able to use you as an unstoppable force. I recommend something in STEM or Biblical Language Scholarship. Avoid Underwater basketweaving degrees such as theology. -->
 
+Avoid pursuing a career as a theologian from a seminary, as many lack the necessary authority or comprehensive education regarding biblical texts. This has led to the emergence of various cults and heretical sects, often propagated by individuals with insufficient understanding or critical thinking skills.
+
+### Sharpen Your Ax!
+
+Many people are content to walk around with a very dull ax, this should not be so! [Research shows](https://youtu.be/GWSZ1DKjNzY) that you can change your intelligence through study, and the Bible encourages that you do so.
+
+> Using a dull ax requires great strength, so sharpen the blade. That’s the value of wisdom; it helps you succeed. (New Living Translation, 2015, Ecc. 10:10)
+
+> My people are destroyed for lack of knowledge; because you have rejected knowledge, I reject you from being a priest to me. And since you have forgotten the law of your God, I also will forget your children (ESV Study Bible, 2008, Hosea 4:6).
+
 ### Recommendations
 
-Enrolling in a reputable and accredited in-state college to do your basics and then university will enhance your credibility and ensure that your efforts are acknowledged and respected. This way, you will be less likely to be dismissed, and God can utilize you as a powerful force for good. **I recommend pursuing a degree in STEM or Biblical Language Scholarship**. Avoid pursuing a career as a theologian, as many lack the necessary authority or comprehensive education regarding biblical texts. This has led to the emergence of various cults and heretical sects, often propagated by individuals with insufficient understanding or critical thinking skills.
+Enrolling in a reputable and **accredited in-state** college to complete your basics and then transfer to a university, will enhance your credibility and ensure that your efforts are acknowledged and respected. This way, you will be less likely to be dismissed, and God can utilize you as a powerful force for good. **I recommend pursuing a degree in STEM; fields such as Physics, Mathematics, Engineering, Computer Science, Chemistry, and Biochemistry are excellent options.** I lead by example, having achieved a place on the President's List in Physics. If you're set on biblical studies, aim for Biblical Language Scholarship not theology (1John 2:27; cf. John 15:4-5 ESV).
 
 > Wisdom is supreme—so acquire wisdom, and whatever you acquire, acquire understanding! (NET Bible, 2019, Proverbs 4:7).
 
