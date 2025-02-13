@@ -1,6 +1,6 @@
 ---
 title: "Christians Should Prioritize Education in the Sciences"
-date: 2025-02-08 3:35:00 -0500
+date: 2025-02-08 3:40:00 -0500
 categories: [Meditations, Education]
 tags: [education, ignorance, scripture twisting] # TAG names should always be lowercase
 author: seven_shepherd
@@ -37,7 +37,7 @@ Regardless of your age, pursuing an education is a worthwhile endeavor that can 
 
 ### Autodidactism is Real but Unrecognized
 
-In my youth, I independently taught myself how to program to an advanced degree, becoming proficient in a handful of languages before ultimately choosing Python as my preferred medium for personal projects. Unfortunately, society often struggles to grasp concepts such as autodidactism; not only may one face skepticism during the hiring process, but there can also be social ostracism from peers. Those of us who are aware recognize that knowledge can be acquired through self-study, yet we eventually realize that formal validation is often the only pathway to acceptance within a society governed by gatekeepers. It's important to recognize that not everyone approaches self-directed learning with the same level of diligence, and there is often no quick or straightforward way for others to fully assess your abilities. Save yourself time and effort and realize that, **unlike** justification, society is meritocratic, status-oriented, and will not take you at your word.
+In my youth, I independently taught myself how to program to an advanced degree, becoming proficient in a handful of languages before ultimately choosing Python as my preferred medium for personal projects. Unfortunately, society often struggles to grasp concepts such as [autodidactism](https://en.wikipedia.org/wiki/List_of_autodidacts); not only may one face skepticism during the hiring process, but there can also be social ostracism from peers. Those of us who are aware recognize that knowledge can be acquired through self-study, yet we eventually realize that formal validation is often the only pathway to acceptance within a society governed by gatekeepers. It's important to recognize that not everyone approaches self-directed learning with the same level of diligence, and there is often no quick or straightforward way for others to fully assess your abilities. Save yourself time and effort and realize that, **unlike** justification, society is meritocratic, status-oriented, and will not take you at your word.
 
 > This is what I also observed about wisdom on earth, and it is a great burden to me: There was once a small city with a few men in it, and a mighty king attacked it, besieging it and building strong siege works against it. However, a poor but wise man lived in the city, and <span style="font-weight:bold;">he could have delivered the city by his wisdom, but no one listened to that poor man</span>. So I concluded that wisdom is better than might, but <span style="font-weight:bold;">a poor man’s wisdom is despised</span>; no one ever listens to his advice (Ecclesiastes 9:13-16 NET).
 
