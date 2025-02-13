@@ -1,6 +1,6 @@
 ---
 title: "Christians Should Prioritize Education in the Sciences"
-date: 2025-02-08 3:30:00 -0500
+date: 2025-02-08 3:35:00 -0500
 categories: [Meditations, Education]
 tags: [education, ignorance, scripture twisting] # TAG names should always be lowercase
 author: seven_shepherd
@@ -39,9 +39,10 @@ Regardless of your age, pursuing an education is a worthwhile endeavor that can 
 
 In my youth, I independently taught myself how to program to an advanced degree, becoming proficient in a handful of languages before ultimately choosing Python as my preferred medium for personal projects. Unfortunately, society often struggles to grasp concepts such as autodidactism; not only may one face skepticism during the hiring process, but there can also be social ostracism from peers. Those of us who are aware recognize that knowledge can be acquired through self-study, yet we eventually realize that formal validation is often the only pathway to acceptance within a society governed by gatekeepers. It's important to recognize that not everyone approaches self-directed learning with the same level of diligence, and there is often no quick or straightforward way for others to fully assess your abilities. Save yourself time and effort and realize that, **unlike** justification, society is meritocratic, status-oriented, and will not take you at your word.
 
-> <sup style="font-weight:bold;">13</sup> This is what I also observed about wisdom on earth, and it is a great burden to me: <sup style="font-weight:bold;">14</sup> There was once a small city with a few men in it, and a mighty king attacked it, besieging it and building strong siege works against it. <sup style="font-weight:bold;">15</sup> However, a poor but wise man lived in the city, and <span style="font-weight:bold;color:crimson;">he could have delivered the city by his wisdom, but no one listened to that poor man</span>. <sup style="font-weight:bold;">16</sup> So I concluded that wisdom is better than might, but <span style="font-weight:bold;color:crimson;">a poor man’s wisdom is despised</span>; no one ever listens to his advice (Ecclesiastes 9:13-16 NET).
->>
->> g. Ecclesiastes 9:15 **tn** Or “he delivered.” The verb וּמִלַּט (umillat, from מָלַט, malat, “to deliver”) is functioning either in an indicative sense (past definite action: “he delivered”) or in a modal sense (past potential: “he could have delivered”). The literal meaning of זָכַר (zakhar, “to remember”) in the following line harmonizes with the indicative: “but no one remembered that poor man [afterward].” However, the modal is supported by v. 16: “A poor man’s wisdom is despised; no one ever listens to his advice.” This approach must nuance זָכַר (“to remember”) as “[no one] listened to [that poor man].” Most translations favor the indicative approach: “he delivered” or “he saved” (KJV, RSV, NRSV, NAB, ASV, NASB, MLB, NIV); however, some adopt the modal nuance: “he might have saved” (NEB, NJPS, NASB margin).
+> This is what I also observed about wisdom on earth, and it is a great burden to me: There was once a small city with a few men in it, and a mighty king attacked it, besieging it and building strong siege works against it. However, a poor but wise man lived in the city, and <span style="font-weight:bold;">he could have delivered the city by his wisdom, but no one listened to that poor man</span>. So I concluded that wisdom is better than might, but <span style="font-weight:bold;">a poor man’s wisdom is despised</span>; no one ever listens to his advice (Ecclesiastes 9:13-16 NET).
+
+<!-- >>
+>> g. Ecclesiastes 9:15 NET **tn** Or “he delivered.” The verb וּמִלַּט (umillat, from מָלַט, malat, “to deliver”) is functioning either in an indicative sense (past definite action: “he delivered”) or in a modal sense (past potential: “he could have delivered”). The literal meaning of זָכַר (zakhar, “to remember”) in the following line harmonizes with the indicative: “but no one remembered that poor man [afterward].” However, the modal is supported by v. 16: “A poor man’s wisdom is despised; no one ever listens to his advice.” This approach must nuance זָכַר (“to remember”) as “[no one] listened to [that poor man].” Most translations favor the indicative approach: “he delivered” or “he saved” (KJV, RSV, NRSV, NAB, ASV, NASB, MLB, NIV); however, some adopt the modal nuance: “he might have saved” (NEB, NJPS, NASB margin). -->
 
 <!-- The Apostle James also teaches that we justify ourselves "in the sight of men" by our good works and that these are **evidence** of genuine faith (Jas. 2:14-27; cf. 1Jn 2:3-4; 3:9). Logically, if we are attempting to impart knowledge or be taken seriously, we need to show people what we are capable of. -->
 
@@ -74,7 +75,7 @@ Paul emphasizes unity in Christ rather than division by allegiance to specific h
 
 <!-- Attend a reputable and accredited in-state university with proctoring; this will bolster your credibility and ensure that your efforts are recognized and respected. No one will be able to dismiss you then and God will be able to use you as an unstoppable force. I recommend something in STEM or Biblical Language Scholarship. Avoid Underwater basketweaving degrees such as theology. -->
 
-Avoid pursuing a career as a theologian from a seminary, as many lack the necessary authority or comprehensive education regarding biblical texts. This has led to the emergence of various cults and heretical sects, often propagated by individuals with insufficient understanding or critical thinking skills.
+Avoid pursuing a career as a theologian from a seminary, as many lack the necessary authority or comprehensive education regarding biblical texts. This has led to the emergence of various cults and heretical sects, often propagated by individuals with insufficient understanding or critical thinking skills. If you are committed to pursuing biblical studies, it may be worthwhile to explore Biblical Language Scholarship from a reputable institution, rather than opting for more accessible theological texts that anyone with the spirit can read and understand. (1John 2:27 ESV; cf. John 15:4-5 ESV).
 
 ### Sharpen Your Ax!
 
@@ -86,7 +87,7 @@ Many people are content to walk around with a very dull ax, this should not be s
 
 ### Recommendations
 
-Enrolling in a reputable and **accredited in-state** college to complete your basics and then transfer to a university, will enhance your credibility and ensure that your efforts are acknowledged and respected. This way, you will be less likely to be dismissed, and God can utilize you as a powerful force for good. **I recommend pursuing a degree in STEM; fields such as Physics, Mathematics, Engineering, Computer Science, Chemistry, and Biochemistry are excellent options.** I lead by example, having achieved a place on the President's List in Physics. If you're set on biblical studies, aim for Biblical Language Scholarship not theology (1John 2:27; cf. John 15:4-5 ESV).
+Enrolling in a reputable and **accredited in-state** college to complete your basics and then transfer to a university, will enhance your credibility and ensure that your efforts are acknowledged and respected. This way, you will be less likely to be dismissed, and God can utilize you as a powerful force for good. **I recommend pursuing a degree in STEM; fields such as Physics, Mathematics, Engineering, Computer Science, Chemistry, and Biochemistry are excellent options.** I lead by example, having achieved a place on the President's List in Physics.
 
 > Wisdom is supreme—so acquire wisdom, and whatever you acquire, acquire understanding! (NET Bible, 2019, Proverbs 4:7).
 
