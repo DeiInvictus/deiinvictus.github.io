@@ -1,6 +1,6 @@
 ---
 title: "Christians Should Prioritize Education in the Sciences"
-date: 2025-02-08 4:30:00 -0500
+date: 2025-02-08 4:35:00 -0500
 categories: [Meditations, Education]
 tags: [education, ignorance, scripture twisting] # TAG names should always be lowercase
 author: seven_shepherd
@@ -81,7 +81,7 @@ Paul emphasizes unity in Christ rather than division by allegiance to specific h
 
 <!-- Attend a reputable and accredited in-state university with proctoring; this will bolster your credibility and ensure that your efforts are recognized and respected. No one will be able to dismiss you then and God will be able to use you as an unstoppable force. I recommend something in STEM or Biblical Language Scholarship. Avoid Underwater basketweaving degrees such as theology. -->
 
-Avoid pursuing a career as a theologian from a seminary, as many lack the necessary authority or comprehensive education regarding biblical texts. This has led to the emergence of various cults and heretical sects, often propagated by individuals with insufficient understanding or critical thinking skills. If you are committed to pursuing biblical studies, it may be worthwhile to explore Biblical Language Scholarship from a reputable institution, rather than opting for more accessible theological texts that anyone with the spirit can read and understand. (1John 2:27 ESV; cf. John 15:4-5 ESV).
+Avoid pursuing a career as a theologian from a seminary, as many lack the necessary authority or comprehensive education regarding biblical texts. This has led to the emergence of various sects, often propagated by individuals with insufficient understanding or critical thinking skills (1John 2:27 ESV; cf. John 15:4-5 ESV).
 
 ### Sharpen Your Ax!
 
