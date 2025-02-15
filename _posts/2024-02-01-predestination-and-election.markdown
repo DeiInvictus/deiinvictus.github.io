@@ -1,6 +1,6 @@
 ---
 title: "God Clearly Does Choose (Based on His Foreknowledge)"
-date: 2024-02-01 6:30:00 -0500
+date: 2024-02-01 6:35:00 -0500
 categories: [Theology, Predestination]
 tags: [free will, predestination, election, reprobation] # TAG names should always be lowercase
 author: seven_shepherd
@@ -414,7 +414,7 @@ Dr. Carson elaborates on the concept of God's Sovereignty in Chapter 3 of his bo
 1\. Dr. D. A. Carson (PhD, University of Cambridge)<br>
 </small>
 
-### 5.5 <a name="free-will-test" href="#Contents">Free will Test</a>
+### 5.4 <a name="free-will-test" href="#Contents">Free will Test</a>
 
 I'd like to start out by asking you a few questions; we'll call it the free will test, if you will:
 
@@ -432,7 +432,7 @@ I'd like to start out by asking you a few questions; we'll call it the free will
 12. **Finally, do you believe that you have the free will to renounce your faith and forfeit salvation?**
 
 
-### 5.6 <a name="final-thoughts" href="#Contents">Final Thoughts</a>
+### 5.5 <a name="final-thoughts" href="#Contents">Final Thoughts</a>
 
 In the scriptures, we observe the coexistence and a nuanced interplay between determinism, in the form of God's sovereignty, and a degree of free will. However, the question arises: do these two concepts exist simultaneously in a state of constant tension? Heiser (2021) argues convincingly against this notion, stating:
 
