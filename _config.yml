@@ -16,7 +16,7 @@ timezone: America/Chicago
 
 title: Ordo Dei Invictus # the main title
 
-tagline: “Veritas vincit” (The truth conquers)
+tagline: “Veritas vincit”
 
 # “who alone has immortality, who dwells in unapproachable light, whom no one has ever seen or can see. To him be honor and eternal dominion. Amen.” (1Tim 6:16) # it will display as the subtitle
 
@@ -117,7 +117,7 @@ theme_mode: dark # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: /assets/OrdoDeiInvictusInsignia.png
+avatar: /assets/OrdoDeiInvictusInsigniaInfinity.png
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
