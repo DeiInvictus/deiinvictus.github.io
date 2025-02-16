@@ -7,7 +7,7 @@ order: 4
 <!-- > Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
 {: .prompt-tip } -->
 
-![OrdoDeiInvictus](/assets/OrdoDeiInvictusInsigniaInfinity.png)
+![OrdoDeiInvictus](/assets/OrdoDeiInvictusInsigniaInfinityGold.png)
 
 <!-- Hail, I am Grand Master of [Ordo Dei Invictus](https://deiinvictus.com); I bid thee welcome and glad tidings. Hark, for the Lord of Destiny has set before your eyes the opportunity to join our noble cause. -->
 
