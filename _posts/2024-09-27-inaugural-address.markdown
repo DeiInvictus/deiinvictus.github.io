@@ -1,8 +1,8 @@
 ---
-title: "Inaugural Campaign Against Heresy: The Rise of Ordo Dei Invictus"
-date: 2024-09-27 02:30:00 -0500
-categories: [Edict, Proclamation]
-tags: [grandmaster, inaugural] # TAG names should always be lowercase
+title: "Inaugural Campaign Against Heresy"
+date: 2024-09-27 02:35:00 -0500
+categories: [Order, Campaigns]
+tags: [campaigns] # TAG names should always be lowercase
 author: grand_master
 published: true
 comments: false
