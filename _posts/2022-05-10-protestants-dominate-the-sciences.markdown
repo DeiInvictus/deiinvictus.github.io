@@ -1,6 +1,6 @@
 ---
-title: "🧬 Protestants Dominate the Sciences"
-date: 2022-05-10 03:40:00 -0500
+title: "Protestants Dominate the Sciences"
+date: 2022-05-10 03:45:00 -0500
 categories: [Science, Protestants]
 tags: [science, protestant, newton, leibniz, faraday, maxwell, tesla, einstein, gödel, planck, schrödinger] # TAG names should always be lowercase
 author: seven_shepherd
