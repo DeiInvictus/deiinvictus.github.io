@@ -1,6 +1,6 @@
 ---
 title: "Inaugural Campaign Against Heresy"
-date: 2024-09-27 02:35:00 -0500
+date: 2024-09-27 02:40:00 -0500
 categories: [Order, Campaigns]
 tags: [campaigns] # TAG names should always be lowercase
 author: grand_master
