@@ -1,10 +1,10 @@
 ---
 title: "Those Who Malign Others Are Projecting Their Own Insecurities and Limitations Upon Those They Envy"
-date: 2025-02-08 1:00:00 -0500
+date: 2025-02-08 1:05:00 -0500
 categories: [Meditations, False Witness]
 tags: [false witness, slander, hate, hatred, envy, jealousy] # TAG names should always be lowercase
 author: seven_shepherd
-published: true
+published: false
 comments: false
 pin: false
 ---
@@ -14,9 +14,6 @@ pin: false
 If you pay close attention, your adversaries will reveal their deepest fears cloaked in their arrogance. When they puff out their chest and boast, it's not confidence&mdash;it's a facade of superiority born from their own insecurities. This bravado is a defense mechanism, a desperate attempt to conceal their vulnerabilities. In truth, they are laying bare their weaknesses for all to see. I've yet to encounter a truly secure individual who feels the need to act in such a manner; as intelligence grows, so too does humility. Those who speak ill of others are merely projecting their own insecurities onto those they envy.
 
 > He knew very well that the religious leaders had arrested Jesus out of envy (New Living Translation, 2015, Matt. 27:18).
-
-
-<!-- Their theology breeds hypocrisy and ignorance, endangering the lives of innocent children. -->
 
 <br>
 
