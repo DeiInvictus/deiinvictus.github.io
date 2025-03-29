@@ -1,13 +1,15 @@
 ---
-title: "Christians Should Prioritize Education in the Sciences"
-date: 2025-02-08 5:00:00 -0500
-categories: [Meditations, Education]
-tags: [education, ignorance, scripture twisting] # TAG names should always be lowercase
+title: "Campaign for Science and Progress"
+date: 2025-02-08 5:05:00 -0500
+categories: [Order, Campaigns]
+tags: [science, progress, education, ignorance, scripture twisting] # TAG names should always be lowercase
 author: seven_shepherd
 published: true
 comments: false
 pin: false
 ---
+
+![InfinityEmblem](/assets/OrdoDeiInvictusInsigniaInfinityGold.png)
 
 Christians have established a formidable presence in the realm of science, a triumph that we must ardently defend and perpetuate for future generations. From Newton, Leibniz, and Maxwell to Kistiakowsky and Polkinghorne, [Protestants have dominated the sciences as well as the Nobel Prize for hundreds of years](https://deiinvictus.com/posts/protestants-dominate-the-sciences/). This excellence can also be traced to the ancient past. It is up to us to carry on this legacy!
 
