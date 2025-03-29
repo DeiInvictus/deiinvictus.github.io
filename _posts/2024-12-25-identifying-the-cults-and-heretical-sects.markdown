@@ -1,7 +1,7 @@
 ---
 title: "Identifying the Cults & Heretical Sects"
-date: 2024-12-25 02:20:00 -0500
-categories: [Declaration, Statement]
+date: 2024-12-25 02:30:00 -0500
+categories: [Theology, Heresy]
 tags: [cult, heresy, sect] # TAG names should always be lowercase
 author: grand_master
 published: true
@@ -55,7 +55,7 @@ Given the general familiarity with the concept of a cult, this article seeks to 
 
 1. Verses against legalism (Eph 2:8-10; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28).
 2. Verses against antinomianism (1 Jn 3:6-10; 5:18; Jd 4 NET; Ro 6:1-2,15; 3:8,31; Heb 10:26-31; 6:4-6; Lk 9:62).
-3. Verses for obedience &ldquo;*after*&rdquo; justification (1Jn 2:3-6; 3:6-10; 5:3-4 Jn 14:15,21; 15:10).
+3. Verses for obedience &ldquo;*after*&rdquo; justification (1Jn 2:3-6; 3:6-10; 5:3-4 Jn 14:15,21; 15:10; Heb. 5:9).
 4. Verses for Godly dispositions of Love (1 Jn 2:9-11; 3:10; 4:8,20; Jn 13:34-35).
 5. Verses for Godly and Holy lives (Heb 12:14; 1 Tim 6:3-4; 2 Tim 3:12; Titus 2:11-12; Gal 5:22-23).
 6. Verses for good works &ldquo;*after*&rdquo; justification (James 2:14-26; Eph 2:10).
@@ -88,7 +88,7 @@ Given the general familiarity with the concept of a cult, this article seeks to 
 
 ### <a name="dispensational" href="#contents">2.4 Dispensational Antinomianism</a>
 
-While most forms of Dispensationalism lead to antinomianism, not all forms of Dispensationalism are antinomian. Safe teachers will acknowledge that we are no longer under the law (Ro 6:1-2,14-15; Gal 3:23-25; Gal 5:18; Col 2:14), **but we still uphold the law (Romans 3:31)**. For teachers who understand the scriptures and still teach Dispensationalism without the antinomianism: Chuck Smith, Ron Rhodes, and MacArthur are safe.
+While most forms of Dispensationalism lead to antinomianism, not all forms of Dispensationalism are antinomian. Safe teachers will acknowledge that we are no longer under the law (Ro 6:1-2,14-15; Gal 3:23-25; Gal 5:18; Col 2:14), **but we still uphold the law (Romans 3:31)**. For teachers who understand the scriptures and still teach Dispensationalism without the antinomianism: Chuck Smith, Ron Rhodes, Skip Heitzig, and MacArthur are safe.
 
 > **Dispensational antinomianism** holds that keeping the moral law is at no stage necessary for Christians, since we live under a dispensation of grace, not of law. Romans 3:31 and 1 Corinthians 6:9–11 clearly show, however, that law-keeping is a continuing obligation for Christians. ‘I am not free from God’s law but am under Christ’s law,’ says Paul (1 Cor. 9:21) (Packer, 2020, p. 193).<sup>1</sup>
 
