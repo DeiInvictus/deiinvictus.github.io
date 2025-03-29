@@ -1,6 +1,6 @@
 ---
 title: "Inaugural Campaign Against Heresy: The Rise of Ordo Dei Invictus"
-date: 2024-09-27 02:25:00 -0500
+date: 2024-09-27 02:30:00 -0500
 categories: [Edict, Proclamation]
 tags: [grandmaster, inaugural] # TAG names should always be lowercase
 author: grand_master
@@ -18,7 +18,7 @@ The Faithful Remnant: Rising Against Heretical Deception
 A Campagin against heresy
 -->
 
-![array](/assets/array.webp)
+![array](/assets/OrdoDeiInvictusInsignia.png)
 
 Dear brothers and sisters,
 
