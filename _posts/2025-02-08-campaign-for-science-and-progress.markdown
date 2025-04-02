@@ -1,6 +1,6 @@
 ---
 title: "Campaign for Science and Progress"
-date: 2025-02-08 5:05:00 -0500
+date: 2025-02-08 5:15:00 -0500
 categories: [Order, Campaigns]
 tags: [science, progress, education, ignorance, scripture twisting] # TAG names should always be lowercase
 author: seven_shepherd
@@ -95,9 +95,35 @@ Many people are content to walk around with a very dull ax, this should not be s
 
 ### Recommendations
 
-Enrolling in a reputable and **accredited in-state** college to complete your basics and then transfer to a university, will enhance your credibility and ensure that your efforts are acknowledged and respected. This way, you will be less likely to be dismissed, and God can utilize you as a powerful force for good. **I recommend pursuing a degree in STEM; fields such as Physics, Mathematics, Engineering, Computer Science, Chemistry, and Biochemistry are excellent options.** I lead by example, having achieved a place on the President's List in Physics.
+Enrolling in a reputable and **regionally accredited in-state college** to complete your basics and then transfer to a university, will enhance your credibility and ensure that your efforts are acknowledged and respected. This way, you will be less likely to be dismissed, and God can utilize you as a powerful force for good. **I recommend pursuing a degree in STEM; fields such as Physics, Mathematics, Engineering, Computer Science, Chemistry, and Biochemistry are excellent options.** I lead by example, having achieved a place on the President's List in Physics.
 
 > Wisdom is supreme—so acquire wisdom, and whatever you acquire, acquire understanding! (NET Bible, 2019, Proverbs 4:7).
+
+Recommendations (basics/college):
+
+A compilation of the largest regionally accredited colleges located near key centers that ensure that these institutions meet rigorous educational standards and that their credits are transferable to other colleges and universities. Community colleges are the best places to learn fundamental math.
+
+- **Alabama / Rocket City (Silicon Valley 2.0)**
+  - Calhoun Community College (SACSCOC)
+- **California / Silicon Valley**
+  - De Anza College (ACCJC/WASC)
+  - Foothill College (ACCJC/WASC)
+- **Florida / Near Kennedy Space Center (KSC)**
+  - Eastern Florida State College (SACSCOC)
+- **Massachusetts / Greater Boston (Science & Engineering Hub)**
+  - Bunker Hill Community College (NECHE)
+- **Texas / Houston (Near Johnson Space Center)**
+  - Houston Community College (SACSCOC)
+
+Recommendations (university):
+
+After completing a two-year program at a community college, consider transferring to an in-state university; meanwhile, prestigious institutions like Harvard, MIT, and UPenn have recently expanded their financial aid to offer full scholarships to students from low-income backgrounds
+
+- **Massachusetts / Cambridge (Science & Technology Hub)**
+  - Massachusetts Institute of Technology (NEASC)
+  - Harvard University (NECHE)
+- **Pennsylvania / Philadelphia (Ivy League Research Center)**
+  - University of Pennsylvania (MSCHE)
 
 <!-- ### Knowledge Will be Increased
 
