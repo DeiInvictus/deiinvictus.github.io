@@ -1,6 +1,6 @@
 ---
 title: "Campaign for Science and Progress"
-date: 2025-02-08 5:40:00 -0500
+date: 2025-02-08 5:45:00 -0500
 categories: [Order, Campaigns]
 tags: [science, progress, education, ignorance, scripture twisting] # TAG names should always be lowercase
 author: seven_shepherd
@@ -105,7 +105,7 @@ Yes, an AS degree in science is infinitely more impressive! But why stop there?
 
 ### Recommendations
 
-Enrolling in a reputable and regionally accredited in-state college to complete your basics and then transfer to a university for your bachelor's degree will enhance your credibility to the highest level and ensure that your efforts are acknowledged and respected. This way, you will be less likely to be dismissed, and God can utilize you as a powerful force for good. Those who would deride and dismiss you at this level only showcase their own ignorance. **I recommend pursuing a degree in STEM; fields such as Physics, Astronomy/Astrophysics, Mathematics, Chemistry, Nuclear Engineering, Aerospace Engineering, Chemical Engineering, Electrical Engineering, Mechanical Engineering, Computer Science, and Biochemistry are excellent options**. I lead by example, having earned a place on the President's List multiple times in Physics at a college that has been regionally accredited for over 50 years.
+Enrolling in a reputable and **regionally accredited in-state college** to complete your basics and then transfer to a university for your bachelor's degree will enhance your credibility to the highest level and ensure that your efforts are acknowledged and respected. This way, you will be less likely to be dismissed, and God can utilize you as a powerful force for good. **I recommend pursuing a degree in STEM; fields such as Physics, Astronomy/Astrophysics, Mathematics, Chemistry, Nuclear Engineering, Aerospace Engineering, Chemical Engineering, Electrical Engineering, Mechanical Engineering, Computer Science, and Biochemistry are excellent options**. I lead by example, having earned a place on the President's List multiple times in Physics at a college that has been regionally accredited for over 50 years.
 
 > Wisdom is supreme—so acquire wisdom, and whatever you acquire, acquire understanding! (NET Bible, 2019, Proverbs 4:7).
 
