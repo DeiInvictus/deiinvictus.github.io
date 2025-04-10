@@ -1,6 +1,6 @@
 ---
 title: "Campaign for Science and Progress"
-date: 2025-02-08 5:25:00 -0500
+date: 2025-02-08 5:35:00 -0500
 categories: [Order, Campaigns]
 tags: [science, progress, education, ignorance, scripture twisting] # TAG names should always be lowercase
 author: seven_shepherd
@@ -97,7 +97,7 @@ Many people are content to walk around with a very dull ax, this should not be s
 
 The study of mathematics serves as a testament to one's ability to think critically and approach problems with a logical mindset. An Associate of Science degree in STEM fields, for instance, provides a comprehensive foundation in various mathematical and scientific disciplines, including **college algebra, college chemistry I w/ labs, college chemistry II w/ labs, trigonometry, calculus I, calculus II, calculus III, physics w/ calculus I, physics w/ calculus II**. By comparison, a PhD in theology, and other underwater basket weaving majors, stops at algebra.
 
-Yes, an AS degree in science is infinitely more impressive!
+Yes, an AS degree in science is infinitely more impressive! But why stop there?
 
 <!-- In contrast, certain fields of study, such as theology or other less quantitatively oriented majors, may not require the same level of mathematical rigor, with their mathematical coursework often culminating in algebra. This distinction highlights the unique demands and intellectual challenges inherent to STEM fields, which can help foster a strong foundation in critical thinking, problem-solving, and analytical reasoning. -->
 
@@ -105,7 +105,7 @@ Yes, an AS degree in science is infinitely more impressive!
 
 ### Recommendations
 
-Enrolling in a reputable and **regionally accredited in-state college** to complete your basics and then transfer to a university, will enhance your credibility and ensure that your efforts are acknowledged and respected. This way, you will be less likely to be dismissed, and God can utilize you as a powerful force for good. **I recommend pursuing a degree in STEM; fields such as Physics, Astronomy/Astrophysics, Mathematics, Chemistry, Nuclear Engineering, Aerospace Engineering, Chemical Engineering, Electrical Engineering, Mechanical Engineering, Computer Science, and Biochemistry are excellent options.** I lead by example, having earned a place on the President's multiple times in Physics at a college that has been regionally accredited since the 1970s.
+Enrolling in a reputable and **regionally accredited in-state college** to complete your basics and then transfer to a university, will enhance your credibility to the highest level and ensure that your efforts are acknowledged and respected. This way, you will be less likely to be dismissed, and God can utilize you as a powerful force for good. Those who would deride and dismiss you at this level only showcase their own ignorance. **I recommend pursuing a degree in STEM; fields such as Physics, Astronomy/Astrophysics, Mathematics, Chemistry, Nuclear Engineering, Aerospace Engineering, Chemical Engineering, Electrical Engineering, Mechanical Engineering, Computer Science, and Biochemistry are excellent options.** I lead by example, having earned a place on the President's list multiple times in Physics at a college that has been regionally accredited for over 50 years.
 
 > Wisdom is supreme—so acquire wisdom, and whatever you acquire, acquire understanding! (NET Bible, 2019, Proverbs 4:7).
 
