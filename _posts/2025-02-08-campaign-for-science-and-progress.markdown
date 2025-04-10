@@ -1,6 +1,6 @@
 ---
 title: "Campaign for Science and Progress"
-date: 2025-02-08 5:15:00 -0500
+date: 2025-02-08 5:25:00 -0500
 categories: [Order, Campaigns]
 tags: [science, progress, education, ignorance, scripture twisting] # TAG names should always be lowercase
 author: seven_shepherd
@@ -93,15 +93,23 @@ Many people are content to walk around with a very dull ax, this should not be s
 
 > My people are destroyed for lack of knowledge; because you have rejected knowledge, I reject you from being a priest to me. And since you have forgotten the law of your God, I also will forget your children (ESV Study Bible, 2008, Hosea 4:6).
 
+### Even an AS Degree in STEM is More Impressive Than a PhD Outside of the Sciences
+
+The study of mathematics serves as a testament to one's ability to think critically and approach problems with a logical mindset. An Associate of Science degree in STEM fields, for instance, provides a comprehensive foundation in various mathematical and scientific disciplines, including **college algebra, college chemistry I w/ labs, college chemistry II w/ labs, trigonometry, calculus I, calculus II, calculus III, physics w/ calculus I, physics w/ calculus II**. By comparison, a PhD in theology, and other underwater basket weaving majors, stops at algebra.
+
+Yes, an AS degree in science is infinitely more impressive!
+
+<!-- In contrast, certain fields of study, such as theology or other less quantitatively oriented majors, may not require the same level of mathematical rigor, with their mathematical coursework often culminating in algebra. This distinction highlights the unique demands and intellectual challenges inherent to STEM fields, which can help foster a strong foundation in critical thinking, problem-solving, and analytical reasoning. -->
+
+
+
 ### Recommendations
 
-Enrolling in a reputable and **regionally accredited in-state college** to complete your basics and then transfer to a university, will enhance your credibility and ensure that your efforts are acknowledged and respected. This way, you will be less likely to be dismissed, and God can utilize you as a powerful force for good. **I recommend pursuing a degree in STEM; fields such as Physics, Mathematics, Engineering, Computer Science, Chemistry, and Biochemistry are excellent options.** I lead by example, having achieved a place on the President's List in Physics.
+Enrolling in a reputable and **regionally accredited in-state college** to complete your basics and then transfer to a university, will enhance your credibility and ensure that your efforts are acknowledged and respected. This way, you will be less likely to be dismissed, and God can utilize you as a powerful force for good. **I recommend pursuing a degree in STEM; fields such as Physics, Astronomy/Astrophysics, Mathematics, Chemistry, Nuclear Engineering, Aerospace Engineering, Chemical Engineering, Electrical Engineering, Mechanical Engineering, Computer Science, and Biochemistry are excellent options.** I lead by example, having earned a place on the President's multiple times in Physics at a college that has been regionally accredited since the 1970s.
 
 > Wisdom is supreme—so acquire wisdom, and whatever you acquire, acquire understanding! (NET Bible, 2019, Proverbs 4:7).
 
-Recommendations (basics/college):
-
-A compilation of the largest regionally accredited colleges located near key centers that ensure that these institutions meet rigorous educational standards and that their credits are transferable to other colleges and universities. Community colleges are the best places to learn fundamental math.
+<!-- A compilation of the largest regionally accredited colleges located near key centers that ensure that these institutions meet rigorous educational standards and that their credits are transferable to other colleges and universities. Community colleges are the best places to learn fundamental math.
 
 - **Alabama / Rocket City (Silicon Valley 2.0)**
   - Calhoun Community College (SACSCOC)
@@ -115,15 +123,13 @@ A compilation of the largest regionally accredited colleges located near key cen
 - **Texas / Houston (Near Johnson Space Center)**
   - Houston Community College (SACSCOC)
 
-Recommendations (university):
-
 After completing a two-year program at a community college, consider transferring to an in-state university; meanwhile, prestigious institutions like Harvard, MIT, and UPenn have recently expanded their financial aid to offer full scholarships to students from low-income backgrounds
 
 - **Massachusetts / Cambridge (Science & Technology Hub)**
   - Massachusetts Institute of Technology (NEASC)
   - Harvard University (NECHE)
 - **Pennsylvania / Philadelphia (Ivy League Research Center)**
-  - University of Pennsylvania (MSCHE)
+  - University of Pennsylvania (MSCHE) -->
 
 <!-- ### Knowledge Will be Increased
 
