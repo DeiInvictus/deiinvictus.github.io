@@ -1,10 +1,10 @@
 ---
 title: "Campaign for Science and Progress"
-date: 2025-02-08 5:45:00 -0500
+date: 2025-02-08 5:50:00 -0500
 categories: [Order, Campaigns]
 tags: [science, progress, education, ignorance, scripture twisting] # TAG names should always be lowercase
 author: seven_shepherd
-published: true
+published: false
 comments: false
 pin: false
 ---
@@ -93,7 +93,7 @@ Many people are content to walk around with a very dull ax, this should not be s
 
 > My people are destroyed for lack of knowledge; because you have rejected knowledge, I reject you from being a priest to me. And since you have forgotten the law of your God, I also will forget your children (ESV Study Bible, 2008, Hosea 4:6).
 
-### Even an AS Degree in STEM is More Impressive Than a PhD Outside of the Sciences
+### Even an AS Degree in STEM Is More Impressive Than a PhD Outside of the Sciences
 
 The study of mathematics serves as a testament to one's ability to think critically and approach problems with a logical mindset. An Associate of Science degree in STEM fields, for instance, provides a comprehensive foundation in various mathematical and scientific disciplines, including **college algebra, college chemistry I w/ labs, college chemistry II w/ labs, trigonometry, calculus I, calculus II, calculus III, physics w/ calculus I, physics w/ calculus II**. By comparison, a PhD in theology, and other underwater basket weaving majors, stops at algebra.
 
