@@ -1,7 +1,7 @@
 ---
-title: "[Book Review] “Free Grace” Theology: 5 Ways It Diminishes the Gospel"
-date: 2025-04-25 01:00:00 -0500
-categories: [Theology, Heresy]
+title: "[Review] “Free Grace” Theology: 5 Ways It Diminishes the Gospel"
+date: 2025-04-25 01:10:00 -0500
+categories: [Reviews, Books]
 tags: [cult, heresy, sect] # TAG names should always be lowercase
 authors: [SevenShepherd]
 published: true
@@ -11,7 +11,7 @@ pin: false
 
 ⚠️ <span style="color:DarkGoldenrod;">This article is under construction. We will update periodically. Watch for the removal of this sentence for completion.</span>
 
-This is a review of a book written by a concerned Cambridge-educated research professor, Dr. Wayne Grudem, and endorsed by members of Dallas Theological Seminary. This book exposes a new sect, also known as Chaferanism, which emerged in the 80s claiming to provide new insights into salvation that contradicted Scripture, altered key lexicon meanings, went against hundreds of years of Protestant teachings, and thousands of years of Christianity.
+This is a review of a book written by a concerned Cambridge-educated research professor, Dr. Wayne Grudem, and endorsed by members of Dallas Theological Seminary. This book exposes a new sect, also known as Chaferanism, which emerged in the 80s claiming to provide new insights into salvation that contradicted Scripture, altered key lexicon meanings, went against hundreds of years of Protestant teachings, and thousands of years of Christianity. I've also provided corrections from C.S. Lewis and Chuck Smith&mdash;two Protestant leaders for Christ who's teachings stand against this misguided movement.
 
 <!-- This movement teaches the abuse of the precious grace of our god, twisting it into a license to sin (Jd 4 NET), and has even silenced the words of Christ on repentance and the evidences of fruit bearing. -->
 
@@ -37,9 +37,25 @@ This is a review of a book written by a concerned Cambridge-educated research pr
 
 ## False Assurance
 
+Assurance comes from the nature change of regeneration, the contrition of repentance and desire to turn away from sin, as well as the the progressive fruit-bearing of abiding in Christ and sanctification. Those who practice sin have no assurance of salvation. These are all attributes of a living faith:
+
+> Do not be deceived, if you are walking after the flesh and involved in the things of the flesh, <span style="font-weight:bold;color:red;">you have no assurance of being in the Kingdom of Heaven</span> &mdash; [**Chuck Smith (YouTube Short)**](https://youtube.com/shorts/aBG9kH-z8Q8?si=_jqYQqF6bgbN9TZZ)
+
+It will help you to make the distinction between **(1)** justification, which is by faith apart from the works of the law (Eph 2:8-10; Rom 3:28), and **(2)** assurance of salvation, which is predicated upon an evidence-based faith (1Jn 2:3-6 NLT; Jn 14:15,21). &ldquo;*we can be sure that we know him if we obey his commandments.*... *That is how we know we are living in him.*&rdquo;
+
 ## Underemphasizing Trust in the Person of Christ
 
 ## Unlikely Interpretations
+
+## Carnal Christianity
+
+<!-- > <sup style="font-weight:bold;">6</sup> No one who abides in him keeps on sinning; no one who keeps on sinning has either seen him or known him. <sup style="font-weight:bold;">7</sup> <span style="font-weight:bold;color:GoldenRod;">Little children, let no one deceive you.</span> <span style="font-weight:bold;color:#3EA055;">Whoever practices righteousness is righteous, as he is righteous.</span> <sup style="font-weight:bold;">8</sup> <span style="font-weight:bold;color:OrangeRed;">Whoever makes a practice of sinning is of the devil</span>, for the devil has been sinning from the beginning. The reason the Son of God appeared was to destroy the works of the devil. <sup style="font-weight:bold;">9</sup> <span style="font-weight:bold;color:OrangeRed;">No one born of God makes a practice of sinning</span>, for God's seed abides in him; and <span style="font-weight:bold;color:OrangeRed;">he cannot keep on sinning</span>, because he has been born of God. <sup style="font-weight:bold;">10</sup> <span style="font-size:1.2em;font-weight:bold;color:GoldenRod;">By this it is evident</span> <span style="font-size:1.2em;font-weight:bold;color:#3EA055;">who are the children of God</span>, and <span style="font-size:1.2em;font-weight:bold;color:Red;">who are the children of the devil</span>: <span style="font-weight:bold;color:DarkOrchid;">whoever does not practice righteousness is not of God</span>, nor is the one who does not love his brother. &mdash; 1 John 3:6-10 ESV -->
+
+While Grudem's book includes only five examples, Chuck Smith (2000) contributes a sixth example, along with the corresponding correction from his C2000 commentary on 1 John 3:6–8:
+
+> 1Jn 3:6 Whosoever abides in him does not **practice** sin: and whosoever **practices** sin has not seen him, neither known him. Pretty powerful words. It should cause us to examine our own lives. **If I am living a life of practicing sin, I really don’t know Him. I really haven’t seen Him. If I really know Him, then I’m gonna be free from the practice of sin.**
+>
+> 1Jn 3:8 **He that is practicing sin is of the devil**; for the devil sinneth from the beginning. And for this purpose the Son of God was manifested, that he might destroy the works of the devil. So again, don’t deceive yourself. <span style="font-weight:bold;color:orangered;">If you are <span style="font-size:1.2em;color:red;">practicing</span> sin, living in sin, you are not of God; you are a part of that rebellion against God, led by Satan.</span> (1Jn 3:6-8)
 
 ## Conclusion
 
