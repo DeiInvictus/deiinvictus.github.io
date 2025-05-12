@@ -1,10 +1,10 @@
 ---
 title: "Campaign for Science and Progress"
-date: 2025-02-08 5:50:00 -0500
+date: 2025-02-08 6:00:00 -0500
 categories: [Order, Campaigns]
-tags: [science, progress, education, ignorance, scripture twisting] # TAG names should always be lowercase
+tags: [science, progress, education] # TAG names should always be lowercase
 author: seven_shepherd
-published: false
+published: true
 comments: false
 pin: false
 ---
@@ -105,7 +105,7 @@ Yes, an AS degree in science is infinitely more impressive! But why stop there?
 
 ### Recommendations
 
-Enrolling in a reputable and **regionally accredited in-state college** to complete your basics and then transfer to a university for your bachelor's degree will enhance your credibility to the highest level and ensure that your efforts are acknowledged and respected. This way, you will be less likely to be dismissed, and God can utilize you as a powerful force for good. **I recommend pursuing a degree in STEM; fields such as Physics, Astronomy/Astrophysics, Mathematics, Chemistry, Nuclear Engineering, Aerospace Engineering, Chemical Engineering, Electrical Engineering, Mechanical Engineering, Computer Science, and Biochemistry are excellent options**. I lead by example, having earned a place on the President's List multiple times in Physics at a college that has been regionally accredited for over 50 years.
+Enrolling in a reputable and **regionally accredited in-state college (which is the higest form of accreditation)** to complete your basics and then transfer to a university for your bachelor's degree will enhance your credibility to the highest level and ensure that your efforts are acknowledged and respected. This way, you will be less likely to be dismissed, and God can utilize you as a powerful force for good. **I recommend pursuing a degree in STEM; fields such as Physics, Astronomy/Astrophysics, Mathematics, Chemistry, Nuclear Engineering, Aerospace Engineering, Chemical Engineering, Electrical Engineering, Mechanical Engineering, Computer Science, and Biochemistry are excellent options**. I lead by example, having earned a place on the President's List multiple times in Physics at a college that has been regionally accredited for over 50 years.
 
 > Wisdom is supreme—so acquire wisdom, and whatever you acquire, acquire understanding! (NET Bible, 2019, Proverbs 4:7).
 
@@ -134,6 +134,11 @@ After completing a two-year program at a community college, consider transferrin
 <!-- ### Knowledge Will be Increased
 
 > But thou, O Daniel, shut up the words, and seal the book, even to the time of the end: many shall run to and fro, and **knowledge shall be increased**. &mdash; Daniel 12:4 KJV -->
+
+## Why Christians More Than Ever Should Attend Harvard and MIT
+
+In summary, there is a critical need for a robust Christian presence in secular ivy league institutions. Additionally, an Ivy League education in the hard sciences is not only free from political bias but also represents a powerful tool for Christians. When our brothers and sisters in Christ achieve this level of academic excellence, their perspectives and arguments become exceptionally compelling and nearly impossible to contest. Those who bad mouth education are devoid of intelligence, do not follow them into the abyss of their ignorance. Those who malign elite schools are filled with jealousy, pay them no attention. Instead, Lead our people with the unique mind that God has given you.
+
 
 <br>
 
