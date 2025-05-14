@@ -1,6 +1,6 @@
 ---
 title: "Campaign for Science and Progress"
-date: 2022-05-10 04:00:00 -0500
+date: 2022-05-10 04:05:00 -0500
 categories: [Order, Campaigns]
 tags: [science, progress, education, protestant, newton, leibniz, faraday, maxwell, tesla, einstein, gödel, planck, schrödinger] # TAG names should always be lowercase
 author: seven_shepherd
@@ -29,9 +29,6 @@ Christians have established a formidable presence in the realm of science, a tri
 <!-- Daniel and his friends were educated in the language and literature of the Babylonians. God placed Daniel in a setting that emphasized learning beyond religious instruction, giving him access to knowledge that would prepare him for a prominent role in a secular government while maintaining his faith. -->
 
 <!-- > “Select only strong, healthy, and good-looking young men,” he said. **“Make sure they are well versed in every branch of learning, are gifted with knowledge and good judgment**, and are suited to serve in the royal palace. Train these young men in the language and literature of Babylon.[a]” 5 The king assigned them a daily ration of food and wine from his own kitchens. They were to be trained for three years, and then they would enter the royal service (New Living Translation, 2015, Dan. 1:4-5). -->
-
-
-
 
 ![christians-dominate-the-sciences.png](/assets/images/science/christians-dominate-the-sciences.png)
 
@@ -684,7 +681,7 @@ The mathematician and astronomer (1473-1543) who formulated a heliocentric model
 
 > “To know the mighty works of God, to comprehend His wisdom and majesty and power; to appreciate, in degree, the wonderful workings of His laws, surely all this must be a pleasing and acceptable mode of worship to the Most High, to whom ignorance cannot be more grateful than knowledge.”
 
-# Campaign for Science and Progress
+<!-- # Campaign for Science and Progress
 
 ![InfinityEmblem](/assets/OrdoDeiInvictusInsigniaInfinityGold.png)
 
@@ -700,7 +697,7 @@ Moses' secular education in the Egyptian court equipped him with skills in leade
 
 Daniel and his friends were educated in the language and literature of the Babylonians. God placed Daniel in a setting that emphasized learning beyond religious instruction, giving him access to knowledge that would prepare him for a prominent role in a secular government while maintaining his faith.
 
-> “Select only strong, healthy, and good-looking young men,” he said. **“Make sure they are well versed in every branch of learning, are gifted with knowledge and good judgment**, and are suited to serve in the royal palace. Train these young men in the language and literature of Babylon.[a]” 5 The king assigned them a daily ration of food and wine from his own kitchens. They were to be trained for three years, and then they would enter the royal service (New Living Translation, 2015, Dan. 1:4-5).
+> “Select only strong, healthy, and good-looking young men,” he said. **“Make sure they are well versed in every branch of learning, are gifted with knowledge and good judgment**, and are suited to serve in the royal palace. Train these young men in the language and literature of Babylon.[a]” 5 The king assigned them a daily ration of food and wine from his own kitchens. They were to be trained for three years, and then they would enter the royal service (New Living Translation, 2015, Dan. 1:4-5). -->
 
 <br>
 
