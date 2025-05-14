@@ -1,10 +1,10 @@
 ---
 title: "Campaign for Science and Progress"
-date: 2025-02-08 6:00:00 -0500
+date: 2025-02-08 6:05:00 -0500
 categories: [Order, Campaigns]
 tags: [science, progress, education] # TAG names should always be lowercase
 author: seven_shepherd
-published: true
+published: false
 comments: false
 pin: false
 ---
