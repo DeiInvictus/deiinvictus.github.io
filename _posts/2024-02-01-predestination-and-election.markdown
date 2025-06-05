@@ -1,6 +1,6 @@
 ---
 title: "God Clearly Does Choose (Based on His Foreknowledge)"
-date: 2024-02-01 6:40:00 -0500
+date: 2024-02-01 6:45:00 -0500
 categories: [Theology, Predestination]
 tags: [free will, predestination, election, reprobation] # TAG names should always be lowercase
 author: seven_shepherd
@@ -26,8 +26,8 @@ pin: true
 3. <a href="#indeterminism">🤖 Indeterminism & Libertarianism</a>
     - 3.1 <a href="#libertarian-free-will">Libertarian Free Will</a>
 4. <a href="#compatibilism">⚖️ Theological Compatibilism</a>
-    - 4.2 <a href="#asymmetrical-compatibilism">Uncond. Single Election & Free Will</a>
-    - 4.3 <a href="#double-foreknowledge">Cond. Double Foreknowledge & Free Will</a>
+    - 4.1 <a href="#asymmetrical-compatibilism">Uncond. Single Election & Free Will</a>
+    - 4.2 <a href="#double-foreknowledge">Cond. Double Foreknowledge & Free Will</a>
 5. <a href="#conclusion">⚖️ Conclusion</a>
     - 5.1 <a href="#proginosko">On Proginōskō</a>
     - 5.2 <a href="#men-as-responsible">Men as Responsible</a>
