@@ -1,6 +1,6 @@
 ---
 title: "God Clearly Does Choose (Based on His Foreknowledge)"
-date: 2024-02-01 6:35:00 -0500
+date: 2024-02-01 6:40:00 -0500
 categories: [Theology, Predestination]
 tags: [free will, predestination, election, reprobation] # TAG names should always be lowercase
 author: seven_shepherd
@@ -318,11 +318,11 @@ Compatibilism recognizes God's sovereignty alongside a limited version of free w
 
 The double foreknowledge&mdash;often referred to as conditional election&mdash;espoused by Romanists and Arminians can be interpreted as a variant of Compatibilism, as it posits that God predestines individuals based on His foreknowledge of their foreseen faith, even prior to their existence. The only way to know if you are one of the elect is to come to faith. Dr. Rhodes (2016) articulates their perspective as follows:
 
-> Arminians will come in and say that God's predetermination or election is based on his foreknowledge, in other words, God looks down through the corridors of time and decides who's going to respond positively to the gospel and then he will elect those individuals to salvation ... (2:58).
+> Arminians will come in and say that God's predetermination or election is based on his foreknowledge, in other words, God looks down through the corridors of time and decides who's going to respond positively to the gospel and then he will elect those individuals to salvation ... (2:58).<sup>1</sup>
 
 Chuck Smith also taught the Wesleyan Foreknowledge view of election.
 
-> **We believe that God chose the believer** before the foundation of the world (Ephesians 1:4-6), and **based on His foreknowledge**, has **predestined the believer** to be conformed to the image of His Son (Romans 8:29-30). We believe that God offers salvation to all who will call on His name. Romans 10:13 says, &ldquo; For whosoever shall call on the name of the Lord shall be saved.&rdquo; We also believe that God calls to Himself those who will believe in His Son, Jesus Christ (1 Corinthians 1:9). However, the Bible also teaches that an invitation (or call) is given to all, but only a few accept it. We see this balance throughout scripture. Revelation 22:17 states, &ldquo;... And whosoever will, let him take the water of life freely.&rdquo; 1 Peter 1:2 tells us we are, &ldquo;Elect according to the foreknowledge of God the Father, through sanctification of the Spirit, unto obedience and sprinkling of the blood of Jesus Christ. ...&rdquo; Matthew 22:14 says, <span style="font-weight:bold;">&ldquo;For many are called, but few are chosen (elected).&rdquo;</span> <span style="font-weight:bold;color:#3EA055;">God clearly does choose</span>, but man must also accept God's invitation to salvation (Smith, 2001, p. 10).<sup>1</sup>
+> **We believe that God chose the believer** before the foundation of the world (Ephesians 1:4-6), and **based on His foreknowledge**, has **predestined the believer** to be conformed to the image of His Son (Romans 8:29-30). We believe that God offers salvation to all who will call on His name. Romans 10:13 says, &ldquo; For whosoever shall call on the name of the Lord shall be saved.&rdquo; We also believe that God calls to Himself those who will believe in His Son, Jesus Christ (1 Corinthians 1:9). However, the Bible also teaches that an invitation (or call) is given to all, but only a few accept it. We see this balance throughout scripture. Revelation 22:17 states, &ldquo;... And whosoever will, let him take the water of life freely.&rdquo; 1 Peter 1:2 tells us we are, &ldquo;Elect according to the foreknowledge of God the Father, through sanctification of the Spirit, unto obedience and sprinkling of the blood of Jesus Christ. ...&rdquo; Matthew 22:14 says, <span style="font-weight:bold;">&ldquo;For many are called, but few are chosen (elected).&rdquo;</span> <span style="font-weight:bold;color:#3EA055;">God clearly does choose</span>, but man must also accept God's invitation to salvation (Smith, 2001, p. 10).<sup>2</sup>
 
 <small>
 1\. Dr. Ron Rhodes (ThD, Dallas Theological Seminary)<br>
