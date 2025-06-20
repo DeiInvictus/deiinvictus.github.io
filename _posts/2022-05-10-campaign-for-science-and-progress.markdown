@@ -1,6 +1,6 @@
 ---
 title: "Campaign for Science and Progress"
-date: 2022-05-10 04:10:00 -0500
+date: 2022-05-10 04:15:00 -0500
 categories: [Order, Campaigns]
 tags: [science, progress, education, protestant, newton, leibniz, faraday, maxwell, tesla, einstein, gödel, planck, schrödinger] # TAG names should always be lowercase
 author: seven_shepherd
@@ -99,6 +99,8 @@ In a profound analysis conducted by Dr. Baruch Shalev (2001/2002), a geneticist 
     - 2.2 <a href="#pasteur">Louis Pasteur (1822&ndash;1895)</a>
     - 2.3 <a href="#tesla">Nikola Tesla (1856&ndash;1943)</a>
     - 2.4 <a href="#werner">Alfred Werner (1866&ndash;1919)</a>
+
+## Secular Voices on Christianity
 3. <a href="#deists">Deists</a>
     - 3.1 <a href="#einstein">**Albert Einstein** (1879&ndash;1955)</a>
     - 3.2 <a href="#chain">Ernst Boris Chain (1906&ndash;1979)</a>
@@ -107,10 +109,6 @@ In a profound analysis conducted by Dr. Baruch Shalev (2001/2002), a geneticist 
 4. <a href="#miscellaneous">Miscellaneous Quotes</a>
     - 4.1 <a href="#schrodinger">Erwin Schrödinger (1887&ndash;1961)</a>
     - 4.2 <a href="#darwin">Charles Darwin (1809&ndash;1882)</a>
-
-
-
-
 
 <!-- - 1.25 <a href="#meyer">Stephen C. Meyer (1958&ndash;Present)</a> -->
 
