@@ -1,9 +1,9 @@
 ---
 title: "Believers Who Are Poor Are Blessed With Spiritual Riches. The Rich Are Spiritually Poor, Humiliated, And In a Lowly State"
-date: 2024-12-12 01:05:00 -0500
+date: 2024-12-12 01:10:00 -0500
 categories: [Theology, Poverty]
-tags: [poverty, poor, impoverished, blessed] # TAG names should always be lowercase
-author: grand_master
+tags: [poverty, poor, impoverished, blessed]
+author: seven_shepherd
 published: true
 comments: false
 pin: true
@@ -56,7 +56,7 @@ Your vindication is coming.
 
 > JAMES—NOTE ON 1:9–11 The Place of Rich and Poor before God. Both poverty and riches bring enormous pressure on a person to focus on the world rather than on Christ. Thus James exhorts the poor to boast (or glory) in their high status in Christ. **The lowly brother will be exalted or vindicated by God.** In contrast, James exhorts the rich to boast in their humiliation, (1) by realizing that **their wealth is temporary and that it brings them no advantage before God**, and (2) by identifying with the poor in their affliction. The church is to be a “countercultural” community, which reverses the values of the world (cf. 2:2–4). Given the context, James seems to be saying that the challenges of poverty and wealth may be one of the greatest “trials” for Christians, as would be suggested by his immediate emphasis (see 1:12) on the “blessed” status of those who remain “steadfast under trial.” James also echoes Jesus’ warning that **“You cannot serve God and money”** (Matt. 6:24).
 >
-> &mdash; The [**ESV Study Bible**]() has over 200+ biblical scholars ([100+](https://www.esv.org/translation/) ESV; 95 Study); 9 countries, 20 denominations, 50 seminaries, colleges, and universities, including Universities of Cambridge, Oxford, London, Japan, California, MIT, Duke, Westminister, Dallas, etc. 20,000 study notes, 80,000 cross-references, 200+ charts, 50+ articles, 240 full-color maps and illustrations. Textual Basis: Masoretic Text BHS '83, DSS, LXX, SP, S, Vg; UBS5, NA28. **Note on James 1:9-11.**
+> &mdash; The **ESV Study Bible** has over 200+ biblical scholars ([100+](https://www.esv.org/translation/) ESV; 95 Study); 9 countries, 20 denominations, 50 seminaries, colleges, and universities, including Universities of Cambridge, Oxford, London, Japan, California, MIT, Duke, Westminister, Dallas, etc. 20,000 study notes, 80,000 cross-references, 200+ charts, 50+ articles, 240 full-color maps and illustrations. Textual Basis: Masoretic Text BHS '83, DSS, LXX, SP, S, Vg; UBS5, NA28. **Note on James 1:9-11.**
 
 ## Christ Does Not Want the Poor to Worry About Anything
 
