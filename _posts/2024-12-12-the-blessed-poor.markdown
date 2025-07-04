@@ -1,6 +1,6 @@
 ---
 title: "The Lord Is Our Shepherd, We Lack Nothing. Those Who Insist Otherwise Lack Faith."
-date: 2024-12-12 01:20:00 -0500
+date: 2024-12-12 01:25:00 -0500
 categories: [Theology, Poverty]
 tags: [poverty, poor, impoverished, blessed]
 author: seven_shepherd
@@ -16,6 +16,8 @@ pin: true
 <!-- —Believers in Poverty Should Glory in Their Spiritual Wealth, for God Has Elevated and Honored Them -->
 
 ![poor-knight](/assets/poor-knight.png)
+
+<sup>Ordo Dei Invictus&mdash;“The Unconquered Order of God”&mdash;is a noble chivalric brotherhood sworn to uplift the poor and defend the downtrodden with unwavering faith and steel-forged resolve.</sup>
 
 ## Believers who are poor or in lowly circumstances should glory that God has made them spiritually rich, exalting them to a high position. God has honored them.
 
