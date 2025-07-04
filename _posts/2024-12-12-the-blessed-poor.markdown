@@ -1,6 +1,6 @@
 ---
 title: "The Lord Is Our Shepherd, We Lack Nothing. Those Who Insist Otherwise Lack Faith."
-date: 2024-12-12 01:25:00 -0500
+date: 2024-12-12 01:30:00 -0500
 categories: [Theology, Poverty]
 tags: [poverty, poor, impoverished, blessed]
 author: seven_shepherd
@@ -17,7 +17,7 @@ pin: true
 
 ![poor-knight](/assets/poor-knight.png)
 
-<sup>Ordo Dei Invictus&mdash;“The Unconquered Order of God”&mdash;is a noble chivalric brotherhood sworn to uplift the poor and defend the downtrodden with unwavering faith and steel-forged resolve.</sup>
+<sup>Ordo Dei Invictus&mdash;“Order of the Unconquered God”&mdash;is a noble chivalric brotherhood sworn to uplift the poor and defend the downtrodden with unwavering faith and steel-forged resolve.</sup>
 
 ## Believers who are poor or in lowly circumstances should glory that God has made them spiritually rich, exalting them to a high position. God has honored them.
 
@@ -70,15 +70,15 @@ It's time for you to recognize that Christ (Mt 8:20) & the Apostles were poor, b
 
 ### John the Baptist Lived off of Locusts In The Desert and Was Beheaded For Telling People to Turn From Their Sins
 
-> Now John wore a garment of camel's hair and a leather belt around his waist, and his food was locusts and wild honey (Matt. 3:4).
+> Now John wore a garment of camel's hair and a leather belt around his waist, and his food was locusts and wild honey (ESV Study Bible, 2008, Matt. 3:4).
 
 ### The Poor Will Be Vindicated by God Himself!
 
 What they do to you, they do to Christ!
 
-> And the King will answer them, ‘Truly, I say to you, as you did it to one of the least of these my brothers, you did it to me.’ (Matt. 25:40).
+> And the King will answer them, ‘Truly, I say to you, as you did it to one of the least of these my brothers, you did it to me.’ (ESV Study Bible, 2008, Matt. 25:40).
 
-> For he who avenges blood is mindful of them; he does not forget the cry of the afflicted (Psalm 9:12).
+> For he who avenges blood is mindful of them; he does not forget the cry of the afflicted (ESV Study Bible, 2008, Psalm 9:12).
 
 Your vindication is coming.
 
@@ -100,7 +100,7 @@ Personally, I enjoy the story with the modal nuance. Without the modal nuance th
 
 Society pressures, degrades, and humiliates the poor out of ignorance and satanic influence. Do not pay attention to the oppression, marginalization and persecution of the ignorant, spiritually poor, unwise, and hellbound. These material things are absolutely meaningless and temporary!
 
-> Riches do not profit in the day of wrath, but righteousness delivers from death (Proverbs 11:4).
+> Riches do not profit in the day of wrath, but righteousness delivers from death (ESV Study Bible, 2008, Proverbs 11:4).
 
 
 <br>
