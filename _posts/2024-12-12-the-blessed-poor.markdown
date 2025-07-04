@@ -1,6 +1,6 @@
 ---
 title: "The Lord Is Our Shepherd, We Lack Nothing. Those Who Insist Otherwise Lack Faith."
-date: 2024-12-12 01:30:00 -0500
+date: 2024-12-12 01:35:00 -0500
 categories: [Theology, Poverty]
 tags: [poverty, poor, impoverished, blessed]
 author: seven_shepherd
@@ -25,7 +25,14 @@ Realize that you have been blessed with spiritual riches beyond the comprehensio
 
 > <sup style="font-weight:bold;">9</sup> ·<span style="color:ForestGreen;">Believers <span style="color:#bfbfbf;">[Brothers or sisters]</span> who are ·poor <span style="color:#bfbfbf;">[in lowly/humble circumstances]</span> should ·take pride <span style="color:#bfbfbf;">[boast]</span> ·that God has made them spiritually rich <span style="color:#bfbfbf;">[in being raised up; in their exaltation; in their high position]</span>.</span> <sup style="font-weight:bold;">10</sup> <span style="color:Crimson;"><span style="color:#bfbfbf;">[<sup>L</sup> But]</span> Those who are ·rich <span style="color:#bfbfbf;">[wealthy]</span> should ·take pride <span style="color:#bfbfbf;">[boast]</span> ·that God has shown them that they are spiritually poor <span style="color:#bfbfbf;">[in their humiliation; in their lowly state; Jer. 9:23–24]</span>.</span> <span style="color:#bfbfbf;">[<sup>L</sup> Because]</span> The rich will ·die <span style="color:#bfbfbf;">[pass away; wither]</span> like a ·wild flower in the grass <span style="color:#bfbfbf;">[or flower in the field]</span>. <sup style="font-weight:bold;">11</sup> <span style="color:#bfbfbf;">[<sup>L</sup> For]</span> The sun rises with ·burning <span style="color:#bfbfbf;">[scorching]</span> heat and ·dries up <span style="color:#bfbfbf;">[withers]</span> the ·plants <span style="color:#bfbfbf;">[or grass]</span>. The flower falls off, and its beauty is ·gone <span style="color:#bfbfbf;">[destroyed]</span>. In the same way the rich will ·die <span style="color:#bfbfbf;">[<sup>L</sup> wither away]</span> ·while they are still taking care of business <span style="color:#bfbfbf;">[in the midst of their pursuits; <sup>L</sup> in his journeys; Ps. 49:16–17; 103:15–16; Is. 40:6–8]</span> <a href="https://www.biblegateway.com/passage/?search=James+1%3A9-11%3B+2%3A5&version=EXB">(The Expanded Bible, 2011, James 1:9-11 EXB)</a>.
 
-## The Poor Are Chosen To Be Rich With Faith And Inherit The Kingdom Of God
+Your vindication is coming.
+
+>> The Place of Rich and Poor before God. Both poverty and riches bring enormous pressure on a person to focus on the world rather than on Christ. Thus James exhorts the poor to boast (or glory) in their high status in Christ. **The lowly brother will be exalted or vindicated by God.** In contrast, James exhorts the rich to boast in their humiliation, (1) by realizing that **their wealth is temporary and that it brings them no advantage before God**, and (2) by identifying with the poor in their affliction. The church is to be a “countercultural” community, which reverses the values of the world (cf. 2:2–4). Given the context, James seems to be saying that the challenges of poverty and wealth may be one of the greatest “trials” for Christians, as would be suggested by his immediate emphasis (see 1:12) on the “blessed” status of those who remain “steadfast under trial.” James also echoes Jesus’ warning that **“You cannot serve God and money”** (ESV Study Bible, 2008, James 1:9-11 ESV).
+
+<!-- >>
+>> &mdash; The **ESV Study Bible** has over 200+ biblical scholars ([100+](https://www.esv.org/translation/) ESV; 95 Study); 9 countries, 20 denominations, 50 seminaries, colleges, and universities, including Universities of Cambridge, Oxford, London, Japan, California, MIT, Duke, Westminister, Dallas, etc. 20,000 study notes, 80,000 cross-references, 200+ charts, 50+ articles, 240 full-color maps and illustrations. Textual Basis: Masoretic Text BHS '83, DSS, LXX, SP, S, Vg; UBS5, NA28. **Note on James 1:9-11.** -->
+
+### The Poor Are Chosen To Be Rich With Faith And Inherit The Kingdom Of God
 
 Take comfort that you are chosen to be richer and with stronger faith than anyone you know.
 
@@ -41,17 +48,13 @@ Recognize That the subtle slights from the children of the devil (1Jn 3:9-10) co
 >
 >31 “So don’t worry about these things, saying, ‘What will we eat? What will we drink? What will we wear?’ 32 <span style="color:Crimson;">These things dominate the thoughts of unbelievers</span>, but your heavenly Father already knows all your needs. (New Living Translation, 2015, Matt. 6:25-32 NLT).
 
-The Bible shows however, that they are already rich! They are Kings and priests unto the Lord.
-
-> and has made us kings and priests to His God and Father, to Him be glory and dominion forever and ever. Amen (Revelation 1:6 NKJV).
-
 Do not fear for you are of more value than many sparrows.
 
 > Are not two sparrows sold for a penny? And not one of them will fall to the ground apart from your Father. 30 But even the hairs of your head are all numbered. 31 Fear not, therefore; **you are of more value than many sparrows** (ESV Study Bible, 2008, Matt. 10:29-31 ESV)
 
 ## Many forget that Christ and the Apostles Suffered in Poverty
 
-It's time for you to recognize that Christ (Mt 8:20) & the Apostles were poor, beaten, and were brutally treated and eventually murdered. If you flaunt your wealth in pride or believe in the false health & wealth prosperity Gospel, you are lost or being taken advantage of. This happens from a lack of understanding about biblical teaching, God does not look at things the way the world does (Isa 55:8-9; 1 Sam 16:7; James 4:4).
+Recognize that Christ (Mt 8:20) and the Apostles were poor, beaten, and were brutally treated and eventually murdered. If you flaunt your wealth in pride or believe in the false health & wealth prosperity Gospel, you are lost or being taken advantage of. This happens from a lack of understanding about biblical teaching, God does not look at things the way the world does (Isa 55:8-9; 1 Sam 16:7; James 4:4).
 
 <!-- were poor and did not want us to pursue material wealth. -->
 
@@ -80,12 +83,6 @@ What they do to you, they do to Christ!
 
 > For he who avenges blood is mindful of them; he does not forget the cry of the afflicted (ESV Study Bible, 2008, Psalm 9:12).
 
-Your vindication is coming.
-
-> JAMES—NOTE ON 1:9–11 The Place of Rich and Poor before God. Both poverty and riches bring enormous pressure on a person to focus on the world rather than on Christ. Thus James exhorts the poor to boast (or glory) in their high status in Christ. **The lowly brother will be exalted or vindicated by God.** In contrast, James exhorts the rich to boast in their humiliation, (1) by realizing that **their wealth is temporary and that it brings them no advantage before God**, and (2) by identifying with the poor in their affliction. The church is to be a “countercultural” community, which reverses the values of the world (cf. 2:2–4). Given the context, James seems to be saying that the challenges of poverty and wealth may be one of the greatest “trials” for Christians, as would be suggested by his immediate emphasis (see 1:12) on the “blessed” status of those who remain “steadfast under trial.” James also echoes Jesus’ warning that **“You cannot serve God and money”** (Matt. 6:24).
->
-> &mdash; The **ESV Study Bible** has over 200+ biblical scholars ([100+](https://www.esv.org/translation/) ESV; 95 Study); 9 countries, 20 denominations, 50 seminaries, colleges, and universities, including Universities of Cambridge, Oxford, London, Japan, California, MIT, Duke, Westminister, Dallas, etc. 20,000 study notes, 80,000 cross-references, 200+ charts, 50+ articles, 240 full-color maps and illustrations. Textual Basis: Masoretic Text BHS '83, DSS, LXX, SP, S, Vg; UBS5, NA28. **Note on James 1:9-11.**
-
 ## Listen To The Story Of The Poor Wise Man
 
 When people are puffed up in foolish pride over the poor, they display their ignorance and sign their fate. This happens from a lack of understanding about biblical teaching, God does not look at things the way the world does (Isa 55:8-9; 1 Sam 16:7; James 4:4). It is the poor that are wise!
@@ -96,9 +93,11 @@ When people are puffed up in foolish pride over the poor, they display their ign
 
 Personally, I enjoy the story with the modal nuance. Without the modal nuance the story would say that he saved the city but that no one remembered him, whereas with the modal nuance it says, that he could have saved the city but they were destroyed for not listening. It seems like there is more consequence for ignoring wisdom with this approach, but either way, the wisdom of the poor is despised by the world. What do you think will happen if you keep disregarding his message (Proverbs 29:1 NET)?
 
-## Final Words
+## Recognize that you are already rich! You are Kings and priests unto the Lord.
 
-Society pressures, degrades, and humiliates the poor out of ignorance and satanic influence. Do not pay attention to the oppression, marginalization and persecution of the ignorant, spiritually poor, unwise, and hellbound. These material things are absolutely meaningless and temporary!
+Society pressures, degrades, and humiliates the poor out of ignorance and satanic influence. Pay attention to the oppression, marginalization and persecution that comes from the ignorant, spiritually poor, unwise, and hellbound. These material things are absolutely meaningless and temporary!
+
+> and has made us kings and priests to His God and Father, to Him be glory and dominion forever and ever. Amen (Revelation 1:6 NKJV).
 
 > Riches do not profit in the day of wrath, but righteousness delivers from death (ESV Study Bible, 2008, Proverbs 11:4).
 
