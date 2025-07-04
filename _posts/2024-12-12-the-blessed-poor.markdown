@@ -1,6 +1,6 @@
 ---
-title: "Believers Who Are Poor Are Blessed With Spiritual Riches. The Rich Are Spiritually Poor, Humiliated, And In a Lowly State"
-date: 2024-12-12 01:10:00 -0500
+title: "The Lord Is My Shepherd, I Lack Nothing. Anyone Who Insists Otherwise Lacks Faith."
+date: 2024-12-12 01:15:00 -0500
 categories: [Theology, Poverty]
 tags: [poverty, poor, impoverished, blessed]
 author: seven_shepherd
@@ -9,17 +9,43 @@ comments: false
 pin: true
 ---
 
+<!-- The LORD is my Shepherd—therefore I lack nothing. Anyone who insists otherwise betrays a faith too faint to believe Him -->
+
+<!-- Believers Who Are Poor Are Blessed With Spiritual Riches. The Rich Are Spiritually Poor, Humiliated, And In a Lowly State. -->
+
 <!-- —Believers in Poverty Should Glory in Their Spiritual Wealth, for God Has Elevated and Honored Them -->
 
 ![poor-knight](/assets/poor-knight.png)
 
 ## Believers who are poor or in lowly circumstances should glory that God has made them spiritually rich, exalting them to a high position. God has honored them.
 
-> <sup style="font-weight:bold;">9</sup> ·<span style="color:ForestGreen;">Believers <span style="color:#bfbfbf;">[Brothers or sisters]</span> who are ·poor <span style="color:#bfbfbf;">[in lowly/humble circumstances]</span> should ·take pride <span style="color:#bfbfbf;">[boast]</span> ·that God has made them spiritually rich <span style="color:#bfbfbf;">[in being raised up; in their exaltation; in their high position]</span>.</span> <sup style="font-weight:bold;">10</sup> <span style="color:Crimson;"><span style="color:#bfbfbf;">[<sup>L</sup> But]</span> Those who are ·rich <span style="color:#bfbfbf;">[wealthy]</span> should ·take pride <span style="color:#bfbfbf;">[boast]</span> ·that God has shown them that they are spiritually poor <span style="color:#bfbfbf;">[in their humiliation; in their lowly state; Jer. 9:23–24]</span>.</span> <span style="color:#bfbfbf;">[<sup>L</sup> Because]</span> The rich will ·die <span style="color:#bfbfbf;">[pass away; wither]</span> like a ·wild flower in the grass <span style="color:#bfbfbf;">[or flower in the field]</span>. <sup style="font-weight:bold;">11</sup> <span style="color:#bfbfbf;">[<sup>L</sup> For]</span> The sun rises with ·burning <span style="color:#bfbfbf;">[scorching]</span> heat and ·dries up <span style="color:#bfbfbf;">[withers]</span> the ·plants <span style="color:#bfbfbf;">[or grass]</span>. The flower falls off, and its beauty is ·gone <span style="color:#bfbfbf;">[destroyed]</span>. In the same way the rich will ·die <span style="color:#bfbfbf;">[L wither away]</span> ·while they are still taking care of business <span style="color:#bfbfbf;">[in the midst of their pursuits; L in his journeys; Ps. 49:16–17; 103:15–16; Is. 40:6–8]</span> <a href="https://www.biblegateway.com/passage/?search=James+1%3A9-11%3B+2%3A5&version=EXB">(James 1:9-11 EXB)</a>.
+Realize that you have been blessed with spiritual riches beyond the comprehension of those with materialistic gain. No amount of material possessions will be able to bridge the gap between them and you&mdash;no matter how foolish they make themselves appear by oppressing you with empty materialism.
+
+> <sup style="font-weight:bold;">9</sup> ·<span style="color:ForestGreen;">Believers <span style="color:#bfbfbf;">[Brothers or sisters]</span> who are ·poor <span style="color:#bfbfbf;">[in lowly/humble circumstances]</span> should ·take pride <span style="color:#bfbfbf;">[boast]</span> ·that God has made them spiritually rich <span style="color:#bfbfbf;">[in being raised up; in their exaltation; in their high position]</span>.</span> <sup style="font-weight:bold;">10</sup> <span style="color:Crimson;"><span style="color:#bfbfbf;">[<sup>L</sup> But]</span> Those who are ·rich <span style="color:#bfbfbf;">[wealthy]</span> should ·take pride <span style="color:#bfbfbf;">[boast]</span> ·that God has shown them that they are spiritually poor <span style="color:#bfbfbf;">[in their humiliation; in their lowly state; Jer. 9:23–24]</span>.</span> <span style="color:#bfbfbf;">[<sup>L</sup> Because]</span> The rich will ·die <span style="color:#bfbfbf;">[pass away; wither]</span> like a ·wild flower in the grass <span style="color:#bfbfbf;">[or flower in the field]</span>. <sup style="font-weight:bold;">11</sup> <span style="color:#bfbfbf;">[<sup>L</sup> For]</span> The sun rises with ·burning <span style="color:#bfbfbf;">[scorching]</span> heat and ·dries up <span style="color:#bfbfbf;">[withers]</span> the ·plants <span style="color:#bfbfbf;">[or grass]</span>. The flower falls off, and its beauty is ·gone <span style="color:#bfbfbf;">[destroyed]</span>. In the same way the rich will ·die <span style="color:#bfbfbf;">[<sup>L</sup> wither away]</span> ·while they are still taking care of business <span style="color:#bfbfbf;">[in the midst of their pursuits; <sup>L</sup> in his journeys; Ps. 49:16–17; 103:15–16; Is. 40:6–8]</span> <a href="https://www.biblegateway.com/passage/?search=James+1%3A9-11%3B+2%3A5&version=EXB">(James 1:9-11 EXB)</a>.
 
 ## The Poor Are Chosen To Be Rich With Faith And Inherit The Kingdom Of God
 
+Take comfort that you are chosen to be richer and with stronger faith than anyone you know.
+
 > <sup style="font-weight:bold;">5</sup> Listen, my ·dear <span style="color:#bfbfbf;">[<sup>L</sup> beloved]</span> brothers and sisters <span style="color:#bfbfbf;">[<sup>C</sup> fellow believers]</span>! ·God chose <span style="color:#bfbfbf;">[<sup>L</sup> Did not God choose…?]</span> the poor in the world <span style="color:#bfbfbf;">[1 Cor. 1:26–29]</span> to be rich with faith and to ·receive <span style="color:#bfbfbf;">[<sup>L</sup> be heirs of]</span> the kingdom God promised to those who love him <span style="color:#bfbfbf;">[Luke 6:20]</span> <a href="https://www.biblegateway.com/passage/?search=James+1%3A9-11%3B+2%3A5&version=EXB">(James 2:5 EXB)</a>.
+
+## Those Who Preach Christ Yet Crush the Poor Are No Christians at All but Children of the Devil&mdash;Their Faith a Hollow Boast Masking Ruthless Unbelief.
+
+Recognize That the subtle slights from the children of the devil (1Jn 3:9-10) come from their lack of faith. Christ would rather you focus on self-actualization than on ways to eat and to clothe yourself&mdash;he will provide those things as you become who you were meant to be. Do no become distracted by the workers of iniquity (Matt. 7:21-23). **The bible equates worry about everyday needs to the faithless, the pagans, and the unbelievers.**
+
+>25 “That is why I tell you not to worry about everyday life—whether you have enough food and drink, or enough clothes to wear. Isn’t life more than food, and your body more than clothing? 26 Look at the birds. They don’t plant or harvest or store food in barns, for your heavenly Father feeds them. And aren’t you far more valuable to him than they are? 27 Can all your worries add a single moment to your life?
+>
+>28 “And why worry about your clothing? Look at the lilies of the field and how they grow. They don’t work or make their clothing, 29 yet Solomon in all his glory was not dressed as beautifully as they are. 30 And if God cares so wonderfully for wildflowers that are here today and thrown into the fire tomorrow, he will certainly care for you. <span style="color:Crimson;">Why do you have so little faith?</span>
+>
+>31 “So don’t worry about these things, saying, ‘What will we eat? What will we drink? What will we wear?’ 32 <span style="color:Crimson;">These things dominate the thoughts of unbelievers</span>, but your heavenly Father already knows all your needs. (Matt. 6:25-32 NLT).
+
+The Bible shows however, that they are already rich! They are Kings and priests unto the Lord.
+
+> and has made us kings and priests to His God and Father, to Him be glory and dominion forever and ever. Amen (Revelation 1:6 NKJV).
+
+Do not fear for you are of more value than many sparrows.
+
+> Are not two sparrows sold for a penny? And not one of them will fall to the ground apart from your Father. 30 But even the hairs of your head are all numbered. 31 Fear not, therefore; **you are of more value than many sparrows** (Matt. 10:29-31 ESV)
 
 ## Many forget that Christ and the Apostles Suffered in Poverty
 
@@ -57,20 +83,6 @@ Your vindication is coming.
 > JAMES—NOTE ON 1:9–11 The Place of Rich and Poor before God. Both poverty and riches bring enormous pressure on a person to focus on the world rather than on Christ. Thus James exhorts the poor to boast (or glory) in their high status in Christ. **The lowly brother will be exalted or vindicated by God.** In contrast, James exhorts the rich to boast in their humiliation, (1) by realizing that **their wealth is temporary and that it brings them no advantage before God**, and (2) by identifying with the poor in their affliction. The church is to be a “countercultural” community, which reverses the values of the world (cf. 2:2–4). Given the context, James seems to be saying that the challenges of poverty and wealth may be one of the greatest “trials” for Christians, as would be suggested by his immediate emphasis (see 1:12) on the “blessed” status of those who remain “steadfast under trial.” James also echoes Jesus’ warning that **“You cannot serve God and money”** (Matt. 6:24).
 >
 > &mdash; The **ESV Study Bible** has over 200+ biblical scholars ([100+](https://www.esv.org/translation/) ESV; 95 Study); 9 countries, 20 denominations, 50 seminaries, colleges, and universities, including Universities of Cambridge, Oxford, London, Japan, California, MIT, Duke, Westminister, Dallas, etc. 20,000 study notes, 80,000 cross-references, 200+ charts, 50+ articles, 240 full-color maps and illustrations. Textual Basis: Masoretic Text BHS '83, DSS, LXX, SP, S, Vg; UBS5, NA28. **Note on James 1:9-11.**
-
-## Christ Does Not Want the Poor to Worry About Anything
-
-> “That is why I tell you not to worry about everyday life—whether you have enough food and drink, or enough clothes to wear. Isn’t life more than food, and your body more than clothing? 26 Look at the birds. They don’t plant or harvest or store food in barns, for your heavenly Father feeds them. And aren’t you far more valuable to him than they are? 27 Can all your worries add a single moment to your life?
->
-> 28 “And why worry about your clothing? Look at the lilies of the field and how they grow. They don’t work or make their clothing, 29 yet Solomon in all his glory was not dressed as beautifully as they are (Matt. 6:25-29 NLT).
-
-The Bible shows however, that they are already rich! They are Kings and priests unto the Lord.
-
-> and has made us kings and priests to His God and Father, to Him be glory and dominion forever and ever. Amen (Revelation 1:6 NKJV).
-
-Do not fear for you are of more value than many sparrows.
-
-> Are not two sparrows sold for a penny? And not one of them will fall to the ground apart from your Father. 30 But even the hairs of your head are all numbered. 31 Fear not, therefore; **you are of more value than many sparrows** (Matt. 10:29-31 ESV)
 
 ## Listen To The Story Of The Poor Wise Man
 
