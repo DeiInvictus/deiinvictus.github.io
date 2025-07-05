@@ -1,6 +1,6 @@
 ---
 title: "The Lord Is Our Shepherd, We Lack Nothing. Those Who Insist Otherwise Lack Faith."
-date: 2024-12-12 01:40:00 -0500
+date: 2024-12-12 01:45:00 -0500
 categories: [Meditations, Poverty]
 tags: [poverty, poor, impoverished, blessed]
 author: seven_shepherd
@@ -64,7 +64,7 @@ Society pressures, degrades, and humiliates the poor out of ignorance and satani
 
 > And Jesus said to him, “Foxes have holes, and birds of the air have nests, but the Son of Man has nowhere to lay his head” (ESV Study Bible, 2008, Matthew 8:20 ESV).
 
-> He was despised and rejected by men, a man of sorrows and acquainted with grief; and as one from whom men hide their faces he was despised, and we esteemed him not. (ESV Study Bible, 2008, Isaiah 53:3 ESV)</span>
+> He was despised and rejected by men, a man of sorrows and acquainted with grief; and as one from whom men hide their faces he was despised, and we esteemed him not. (ESV Study Bible, 2008, Isaiah 53:3 ESV)
 
 > And the King will answer them, ‘Truly, I say to you, as you did it to one of the least of these my brothers, <span style="font-weight:bold;color:Crimson;">you did it to me</span>.’ (ESV Study Bible, 2008, Matt. 25:40).
 
