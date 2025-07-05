@@ -1,6 +1,6 @@
 ---
 title: "Campaign for Science and Progress"
-date: 2022-05-10 04:15:00 -0500
+date: 2022-05-10 04:25:00 -0500
 categories: [Order, Campaigns]
 tags: [science, progress, education, protestant, newton, leibniz, faraday, maxwell, tesla, einstein, gödel, planck, schrödinger] # TAG names should always be lowercase
 author: seven_shepherd
@@ -17,7 +17,7 @@ pin: True
 
 I am meticulously and gradually organizing this information to ensure it is formatted correctly for citation. This sentence will be deleted upon completion.
 
-![InfinityEmblem](/assets/emblems/emblem_transparent.png)
+![InfinityEmblem](/assets/emblems/emblem.png)
 
 Christians have established a formidable presence in the realm of science, a triumph that we must ardently defend and perpetuate for future generations. From Newton, Leibniz, and Maxwell to Kistiakowsky and Polkinghorne, Protestants have dominated the sciences as well as the Nobel Prize for hundreds of years. This excellence can also be traced to the ancient past. Moses' secular Egyptian education in the Egyptian court provided him with leadership, writing, and strategic thinking skills&mdash;qualities that would later be crucial for his role in leading the Israelites (Acts 7:22). Similarly, Daniel's secular Babylonian education prepared him and his companions for influential positions within a secular government (Daniel 1:4-5). God intentionally placed Daniel in an environment that valued broader learning beyond just religious instruction, granting him the knowledge and skills necessary for significant secular influence&mdash;all while he maintained his steadfast faith. It is our responsibility to continue this legacy.
 

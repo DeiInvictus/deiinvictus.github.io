@@ -1,6 +1,6 @@
 ---
 title: "Inaugural Campaign Against Heresy"
-date: 2024-09-27 02:45:00 -0500
+date: 2024-09-27 02:50:00 -0500
 categories: [Order, Campaigns]
 tags: [campaigns] # TAG names should always be lowercase
 author: grand_master
@@ -18,7 +18,7 @@ The Faithful Remnant: Rising Against Heretical Deception
 A Campagin against heresy
 -->
 
-![array](/assets/emblems/emblem_transparent.png)
+![array](/assets/emblems/emblem.png)
 
 Dear brothers and sisters,
 
