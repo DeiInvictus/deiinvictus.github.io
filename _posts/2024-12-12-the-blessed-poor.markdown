@@ -1,6 +1,6 @@
 ---
 title: "The Lord Is Our Shepherd, We Lack Nothing. Those Who Insist Otherwise Lack Faith."
-date: 2024-12-12 01:45:00 -0500
+date: 2024-12-12 01:50:00 -0500
 categories: [Meditations, Poverty]
 tags: [poverty, poor, impoverished, blessed]
 author: seven_shepherd
@@ -46,7 +46,7 @@ Christ would rather you focus on self-actualization than on ways to eat and to c
 >
 ><sup style="font-weight:bold;">31</sup> “So don’t worry about these things, saying, ‘What will we eat? What will we drink? What will we wear?’ 32 <span style="color:Goldenrod;">These things dominate the thoughts of unbelievers</span>, but your heavenly Father already knows all your needs. (New Living Translation, 2015, Matt. 6:25-32 NLT).
 
-> Are not two sparrows sold for a penny? And not one of them will fall to the ground apart from your Father. <sup style="font-weight:bold;">30</sup> But even the hairs of your head are all numbered. 31 Fear not, therefore; <span style="color:Goldenrod;">you are of more value than many sparrows</span> (ESV Study Bible, 2008, Matt. 10:29-31 ESV)
+> Are not two sparrows sold for a penny? And not one of them will fall to the ground apart from your Father. <sup style="font-weight:bold;">30</sup> But even the hairs of your head are all numbered. 31 Fear not, therefore; <span style="font-weight:bold;">you are of more value than many sparrows</span> (ESV Study Bible, 2008, Matt. 10:29-31 ESV)
 
 ## Listen To The Story Of The Poor Wise Man
 
@@ -70,11 +70,11 @@ Society pressures, degrades, and humiliates the poor out of ignorance and satani
 
 > For he who avenges blood is mindful of them; he does not forget the cry of the afflicted (ESV Study Bible, 2008, Psalm 9:12).
 
-- Christ Jesus suffered in poverty, was brutally beaten, and crucified (Mt 8:20; Isaiah 53:3 ESV).
+- Christ Jesus suffered in poverty, was brutally beaten, and crucified (Mt 8:20; Isaiah 53:3 ESV) for telling people to turn from their sins and trust in God (Ac 3:26,19; 26:20; Mark 1:14-15).
 - **What they do to you, they do to Christ; ergo, he is attacked and oppressed even today! (Matt. 25:40).**
 - The Apostles suffered in poverty, were brutally beaten, and eventually murdered (2Cor. 11:24-27 NLT).
-- John the Baptist Lived off of Locusts In The Desert and Was Beheaded For Telling People to Turn From Their Sins (Matt. 3:4).
-- The poor are hidden Kings and priests unto the Lord who have been chosen to inherit the Kingdom of heaven (Revelation 1:6 NKJV; James 2:5)
+- John the Baptist lived off of locusts in the desert and was beheaded for telling people to turn from their sins (Matt. 3:4; Mt 3:8 NLT).
+- The poor are hidden kings and priests unto the Lord who have been chosen to inherit the Kingdom of heaven (Revelation 1:6 NKJV; James 2:5)
 
 
 <!-- > <sup style="font-weight:bold;">3</sup> He was despised and rejected by men,<br>
