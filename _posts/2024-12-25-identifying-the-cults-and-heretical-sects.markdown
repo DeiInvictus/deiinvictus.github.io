@@ -1,6 +1,6 @@
 ---
 title: "Identifying the Cults & Heretical Sects"
-date: 2024-12-25 02:30:00 -0500
+date: 2024-12-25 02:35:00 -0500
 categories: [Theology, Heresy]
 tags: [cult, heresy, sect] # TAG names should always be lowercase
 author: grand_master
@@ -81,6 +81,8 @@ Given the general familiarity with the concept of a cult, this article seeks to 
 ### <a name="christ-centred" href="#contents">2.3 Christ-Centered Antinomianism (e.g. Hyper-Grace)</a>
 
 <!-- ![antinomianism](/assets/meme/antinomianism.jpg) -->
+
+This addresses the rise of the antinomian grace cheapening movements from the 80s.
 
 > **Christ-centred antinomianism** argues that God sees no sin in believers, because they are in Christ, who kept the law for them, and therefore what they actually do makes no difference, provided that they keep believing. **But 1 John 1:8 – 2:1 (expounding 1Jn 1:7) and 1Jn 3:4–10 point in a different direction, showing that <span style="color:Crimson;">it is not possible to be in Christ and at the same time to embrace sin as a way of life</span>** (Packer, 2020, p. 193).<sup>1</sup>
 
