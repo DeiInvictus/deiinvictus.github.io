@@ -1,6 +1,6 @@
 ---
 title: "On the Necessity of Solitude"
-date: 2025-07-11 02:30:00 -0500
+date: 2025-07-11 02:35:00 -0500
 categories: [Original Research, Solitude]
 tags: [solitude, reflection, introspection]
 author: seven_shepherd
@@ -37,7 +37,7 @@ body {
 </style>
 
 
-<p class="titles">Disconnected in a Connected World: The Effects of Digital Connectivity</p>
+<p class="titles">Disconnected in a Connected World</p>
 
 <p style="text-indent:2em;">
 Imagine sitting in a crowded room, surrounded by friends, yet feeling utterly alone as the glow
