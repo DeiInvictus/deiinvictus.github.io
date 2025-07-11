@@ -1,6 +1,6 @@
 ---
 title: "On the Educational Philosophy of Autodidacticism"
-date: 2025-07-11 01:05:00 -0500
+date: 2025-07-11 01:10:00 -0500
 categories: [Original Research, Autodidacticism]
 tags: [autodidacticism, autodidactism, autodidact, education]
 author: seven_shepherd
@@ -37,9 +37,11 @@ body {
 </style>
 
 
-<p style="text-indent:2em;">This original research article was handwritten to demonstrate that economically disadvantaged individuals (e.g., Nikola Tesla, Srinivasa Ramanujan) can be among the most brilliant, diligent, and hardworking. It also demonstrates why self-directed learning must be paired with formal education to avoid the pitfalls of a purely autodidactic approach&mdash;especially for those gifted in the sciences, who often face stringent gatekeeping and barriers to success.</p>
+This original research article was handwritten to demonstrate that economically disadvantaged individuals (e.g., Nikola Tesla, Srinivasa Ramanujan) can be among the most brilliant, diligent, and hardworking. It also demonstrates why self-directed learning must be paired with formal education to avoid the pitfalls of a purely autodidactic approach&mdash;especially for those gifted in the sciences, who often face stringent gatekeeping and barriers to success.
 
 > I have observed something else under the sun. The fastest runner doesn’t always win the race, and the strongest warrior doesn’t always win the battle. The wise sometimes go hungry, and the skillful are not necessarily wealthy. And those who are educated don’t always lead successful lives. It is all decided by chance, by being in the right place at the right time (New Living Translation, 2015, Ecc. 9:11 NLT).
+
+<br>
 
 ---
 
