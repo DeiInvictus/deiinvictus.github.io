@@ -1,6 +1,6 @@
 ---
 title: "On the Necessity of Solitude"
-date: 2025-07-11 02:25:00 -0500
+date: 2025-07-11 02:30:00 -0500
 categories: [Original Research, Solitude]
 tags: [solitude, reflection, introspection]
 author: seven_shepherd
@@ -147,7 +147,7 @@ experience, striving for a harmonious balance that nurtures both the mind and th
 
 <br>
 
----
+<hr>
 
 <br>
 
@@ -175,7 +175,7 @@ https://www.nytimes.com/2012/04/22/opinion/sunday/the-flight-from-conversation.h
 
 <br>
 
----
+<hr>
 
 <br>
 
