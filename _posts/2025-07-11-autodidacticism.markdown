@@ -1,6 +1,6 @@
 ---
 title: "On the Educational Philosophy of Autodidacticism"
-date: 2025-07-05 01:00:00 -0500
+date: 2025-07-11 01:00:00 -0500
 categories: [Meditations, Autodidacticism]
 tags: [autodidacticism, autodidactism, autodidact, education]
 author: seven_shepherd
