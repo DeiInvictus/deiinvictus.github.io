@@ -1,12 +1,12 @@
 ---
 title: "Einstein's Riddle"
-date: 2016-01-01 01:00:00 -0500
-categories: [Puzzles, Logic Puzzle]
-tags: [logic, riddle, einstein]
+date: 2016-01-01 01:05:00 -0500
+categories: [Puzzles, Logic Puzzles]
+tags: [logic, riddle, einstein, python]
 author: seven_shepherd
 published: true
 comments: false
-pin: true
+pin: false
 ---
 
 This is a fun puzzle that was allegedly created by Albert Einstein as a boy. Einstein said that only 2% of the world could solve it. Considering that there are 5!^5 or 24,883,200,000 combinations with only 1 correct outcome. I originally published this on a personal blog in 2016, although I actually derived the solution by hand several years before that. I have provided three solutions below.
@@ -283,7 +283,7 @@ for (k,v), new in zip(variables.items(), (
 
 Full program & output
 
-{% highlight python %}
+```python
 from itertools import permutations
 
 def main():
@@ -340,7 +340,7 @@ def main():
 
 if __name__ == "__main__":
     main()
-{% endhighlight %}
+```
 
 ```
 colors: yellow     blue       red        green      white
@@ -467,7 +467,7 @@ for i in map(list, zip(*ordered)):
 
 Full program & output
 
-{% highlight python %}
+```python
 from constraint import *
 
 def main():
@@ -527,7 +527,7 @@ def main():
 
 if __name__ == "__main__":
     main()
-{% endhighlight %}
+```
 
 ```
 yellow     blue       red        green      white
