@@ -1,20 +1,19 @@
 ---
 title: "The Old Ways — The Ancient Paths"
-date: 2024-12-26 03:00:00 -0500
+date: 2024-12-26 03:05:00 -0500
 categories: [Theology, The Way]
 tags: [religion, history, theology] # TAG names should always be lowercase
 author: grand_master
 published: true
 comments: false
-pin: true
+pin: false
 ---
 
 <!-- ## Introduction -->
 
 ![Followers of the Way](/assets/images/Apostolic%20Age%20followers%20of%20'The%20Way'%20(ἡ%20ὁδός%20-%20hė%20hodós).png)
 
-<sup>
-Apostolic Age Followers of “The Way” (ἡ ὁδός - hė hodós) c. AD 30 to c. AD 100 (1st Century). See Acts 9:2; 19:9, 23; 22:4; 24:14, 22 (c. A.D. 61 &ndash; 64).</sup>
+<sup>Apostolic Age Followers of “The Way” (ἡ ὁδός - hė hodós) c. AD 30 to c. AD 100 (1st Century). See Acts 9:2; 19:9, 23; 22:4; 24:14, 22 (c. A.D. 61 &ndash; 64).</sup>
 
 ---
 

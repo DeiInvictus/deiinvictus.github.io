@@ -1,17 +1,17 @@
 ---
-title: "God Clearly Does Choose (Based on His Foreknowledge)"
-date: 2024-02-01 6:45:00 -0500
+title: "God Clearly Does Choose"
+date: 2024-02-01 6:55:00 -0500
 categories: [Theology, Predestination]
 tags: [free will, predestination, election, reprobation] # TAG names should always be lowercase
 author: seven_shepherd
 published: true
 comments: false
-pin: true
+pin: false
 ---
 
 <!-- ⛏️ “For many are called, but few are chosen.” — Jesus -->
 
-![Free Will Debate](/assets/images/philosophy/compatibilism.png)
+<!-- ![Free Will Debate](/assets/images/philosophy/compatibilism.png) -->
 
 > <small>&ldquo;**For many are called, but few are chosen.**&rdquo; &mdash; Jesus in Matthew 22:14 (cf. Acts 13:48,2:23; Mt 22:14; Eph 1:4,11; Jn 15:16,18-19; Jn 6:44,65; Ro 8:29-30; 9:11-16; 1Pe 1:2; 2 Pe 1:10; Re 13:8,17:8; Lk 24:45+1Cor 2:14; Jn 17:9, and Ro 10:9+1Cor 12:3+Lk 6:46)</small>
 
