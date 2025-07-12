@@ -1,8 +1,8 @@
 ---
 title: "Scientist by the Will of God"
-date: 2025-07-11 04:05:00 -0500
-categories: [Meditations, Providence]
-tags: [providence]
+date: 2025-07-11 04:10:00 -0500
+categories: [Meditations, Purpose]
+tags: [providence, purpose]
 author: seven_shepherd
 published: true
 comments: false
@@ -34,14 +34,19 @@ p.titles {
 body {
   line-height: 2;
 }
+
+a.alterlink {
+  color:Silver;
+  text-decoration:underline;"
+}
 </style>
 
 <p style="text-indent:2em;">
-For the longest time as a youth, I grappled with my purpose&mdash;my raison d’être (i.e., my reason for being). But in His sovereign design the Lord led me into twenty years of ascetic <a href="https://deiinvictus.com/posts/autodidacticism/">autodidacticism</a> where I taught myself a myriad of sciences. There was a time during my journey when Satan sought to lure me away from God's providential plan. It was a time of darkness&mdash;to bring about my ruin&mdash;but God came for me in that brief darkness and drew me out by Name. Just before I stumbled through a door I believed was meant for me, He closed it, steering me back onto the course shaped by years of His preparation. Now He has restored me to my true calling, guiding me from a posture of holy separation into a sphere of purposeful influence. After decades of steadfast trust, God’s will in my life has been revealed&mdash;and now that His purpose is made manifest, my enemies rage and seethe with deep hatred and hostility. Guided by God’s hand, the will of God will be accomplished in my life, both in this world and the next.</p>
+For the longest time as a youth, I grappled with my purpose&mdash;my raison d’être (i.e., my reason for being). But in His sovereign design the Lord led me into twenty years of ascetic <a class="alterlink" href="https://deiinvictus.com/posts/autodidacticism/">autodidacticism</a> where I taught myself a myriad of sciences. There was a time during my journey when Satan sought to lure me away from God's providential plan. It was a time of darkness&mdash;to bring about my ruin&mdash;but God came for me in that brief darkness and drew me out by Name. Just before I stumbled through a door I believed was meant for me, He closed it, steering me back onto the course shaped by years of His preparation. Now He has restored me to my true calling, guiding me from a posture of holy separation into a sphere of purposeful influence. After decades of steadfast trust, God’s will in my life has been revealed&mdash;and now that His purpose is made manifest, my enemies rage and <a class="alterlink" href="https://deiinvictus.com/posts/envy/">seethe</a> with deep hatred and hostility. Guided by God’s hand, the will of God will be accomplished in my life, both in this world and the next.</p>
 
 > Let’s turn in our Bibles to Ephesians. **Paul, an apostle of Jesus Christ by the will of God**: Now, if you were writing this epistle, take out the name “Paul,” insert your name, and then whatever it is that you are. ... it is a mistake to try to be something that God hasn’t called you to be&mdash;something that God hasn’t **equipped** you for. ... **Whatever God has called you to be&mdash;and equipped you to be&mdash;is God’s highest calling for your life**... So Paul is just declaring his own card: **“What I am, I am by the will of God.”** That’s what’s important (Smith, 1979–1985; C2000 Ephesians 1).
 
-Forged by the weight of countless years and tempered in the fires of unrivaled perseverance, I have come to embrace my unique destiny as both an skilled autodidact and formal academic. In the fiery crucible of [solitude](https://deiinvictus.com/posts/solitude/), God shaped me to reclaim that which darkness once stole. Endowed with [spiritual riches](https://deiinvictus.com/posts/poor/) and thoroughly equipped by God to maintain full honors in Physics, Computer Science, and Engineering. I invite you to join me in [reclaiming the sciences](https://deiinvictus.com/posts/campaign-for-science-and-progress/)&mdash;uniting humanity against the forces of darkness and guiding all into the light of knowledge and salvation.
+Forged by the weight of countless years and tempered in the fires of unrivaled perseverance, I have come to embrace my unique destiny as both an skilled autodidact and formal academic. In the fiery crucible of <a class="alterlink" href="https://deiinvictus.com/posts/solitude/">solitude</a>, God shaped me to reclaim that which darkness once stole. Endowed with <a class="alterlink" href="https://deiinvictus.com/posts/poor/">spiritual riches</a> and thoroughly equipped by God to maintain full honors in Physics, Computer Science, and Engineering. I invite you to join me in <a class="alterlink" href="https://deiinvictus.com/posts/campaign-for-science-and-progress/">reclaiming the sciences</a>&mdash;uniting humanity against the forces of darkness and guiding all into the light of knowledge and salvation.
 
 <!-- fiery crucible of -->
 <!-- the president list every semester, I plan to triple major in Physics, Computer Science, and Engineering. -->
