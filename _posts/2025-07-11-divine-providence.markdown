@@ -1,0 +1,83 @@
+---
+title: "Scientist by the Will of God"
+date: 2025-07-11 03:35:00 -0500
+categories: [Meditations, Providence]
+tags: [providence]
+author: seven_shepherd
+published: true
+comments: false
+pin: true
+---
+
+<style>
+/* in your main CSS (e.g. assets/css/style.css) */
+.references {
+  padding: 0;
+  margin: 0;
+}
+
+.references li {
+  list-style: none;
+  margin-bottom: 1em;           /* space between entries */
+  padding-left: 1.5em;          /* amount of hanging indent */
+  text-indent: -1.5em;          /* pulls first line back */
+  line-height: 2;               /* nicer readability */
+}
+
+p.titles {
+  text-align:center;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-weight:bold;
+}
+
+body {
+  line-height: 2;
+}
+</style>
+
+This is a working article. Check back for updates.
+
+> Let’s turn in our Bibles to Ephesians. **Paul, an apostle of Jesus Christ by the will of God**: Now, if you were writing this epistle, take out the name “Paul,” insert your name, and then whatever it is that you are. ... You see, not all are called to be apostles, not all are called to be pastors, not all are called to be preachers. Also, it is a mistake to try to be something that God hasn’t called you to be&mdash;something that God hasn’t **equipped** you for. I really do not like the phrase, “Oh, he’s following the highest calling of God; he’s gone into the ministry.” The ministry is not the highest calling of God. “Oh, he’s following the highest calling of God; he’s a missionary.” That’s not the highest calling of God. **Whatever God has called you to be&mdash;and equipped you to be&mdash;is God’s highest calling for your life**, and you don’t need to feel like a second-rate heavenly citizen just because you have a job at a service station, you’re a secretary, or you’re blessed by God with the privilege of being a housewife. Whatever it is that God has called you to be is the highest calling of God for your life, and we should be enjoying rather than feeling guilty: “Oh my, you know I’m not in the ministry; I should be in the ministry; I have to work at this job and all.” Hey, be grateful that God has spared you a lot of the pain, deprivation, and grief that ministers often have to go through. So Paul is just declaring his own card: **“What I am, I am by the will of God.”** That’s what’s important (Smith, 1979–1985; C2000 Ephesians 1).
+
+<!-- > Lets turn in our Bibles to Ephesians. **Paul an Apostle of Jesus Christ by the Will of God**. Now, if you were writing this epistle, take out the name Paul, insert your name, and then whatever it is that you are. ... You see not all are called to be Apostles, not all are called to be pastors, not all are called to be preachers. **Also it is a mistake to try to be something that God hasn't called you to be, something that God hasn't equipped you for.** I really do not like the phrase "oh he's following the highest calling of God, he's gone into the ministry," the ministry is not the highest calling of God. "Oh he's following the highest calling of God, he's a missionary," that's not the highest calling of God. **Whatever God has called you to be, and equipped you to be, is God's highest calling for your life** and you don't need to feel like a second rate Heavenly citizen just because you have a job at a service station, or you're a secretary, or you're blessed of God with the privilege of being a housewife. Whatever it is that God has called you to be is the highest calling of God for your life, and we should be enjoying rather than feeling guilty "oh my, you know I'm not in the ministry, I should be in the ministry, I have to work, you know at this job and all." Hey be grateful that God has spared you a lot of the pain, and deprivation, and the grief that ministers often have to go through." So Paul is just declaring his own card, "What I am I am by the will of God." That's what's important (Smith, 1979–1985, C2000 Ephesians 1). -->
+
+<br>
+
+---
+
+<br>
+
+<div style="text-align:center;">References</div>
+
+<span></span>
+
+<ul class="references">
+<li>Smith, C. (1979–1985). *Studies given at Calvary Chapel Costa Mesa* [Audio recordings]. C2000 Ephesians 1. https://resource.cccm.com/calvarychapel/c2k/275%20Ephesians%201.mp3</li>
+</ul>
+
+<br>
+
+---
+
+<br>
+
+Together in action, united in spirit, aligned in purpose. Ordo Dei Invictus.
+
+<script>
+    var refTagger = {
+        settings: {
+            bibleVersion: 'ESV',
+            tooltipStyle: 'dark'
+        }
+    };
+
+    (function(d, t) {
+        var n=d.querySelector('[nonce]');
+        refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce'));
+        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        g.src = 'https://api.reftagger.com/v2/RefTagger.js';
+        g.nonce = refTagger.settings.nonce;
+        s.parentNode.insertBefore(g, s);
+    }(document, 'script'));
+</script>

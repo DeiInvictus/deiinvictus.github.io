@@ -1,6 +1,6 @@
 ---
 title: "Identifying the Cults & Heretical Sects"
-date: 2024-12-25 02:35:00 -0500
+date: 2024-12-25 02:40:00 -0500
 categories: [Theology, Heresy]
 tags: [cult, heresy, sect] # TAG names should always be lowercase
 author: grand_master
@@ -226,7 +226,7 @@ Practice in this sense means a lifelong continual pattern. It speaks of the purs
 
 The Apostle Paul calls on us to examine or test our faith, to see if it is genuine, to see if Jesus is really living in us. If he is, well, then you have a living faith, if not, then you have a dead faith and are disqualified, or fail the test of genuine faith.
 
-> Examine yourselves to see if your faith is genuine. Test yourselves. Surely you know that Jesus Christ is among you; if not, you have failed the test of genuine faith. &mdash; 2 Cor. 13:5 NLT
+> Examine yourselves to see if your faith is genuine. Test yourselves. Surely you know that Jesus Christ is among you; if not, you have failed the test of genuine faith. &mdash; 2 Cor. 13:5 NLT (cf. 2 Peter 1:5–10).
 
 ### <a name="warnings-legalism" href="#contents">4.2 Scriptural Warnings Against Legalism</a>
 
