@@ -1,7 +1,7 @@
 ---
 title: "Einstein's Riddle"
-date: 2016-01-01 01:10:00 -0500
-categories: [Puzzles, Einstein's Riddle]
+date: 2016-01-01 01:25:00 -0500
+categories: [Logic Puzzles, Zebra Puzzles]
 tags: [logic, riddle, einstein, python]
 author: seven_shepherd
 published: true
