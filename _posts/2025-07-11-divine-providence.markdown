@@ -1,6 +1,6 @@
 ---
 title: "Scientist by the Will of God"
-date: 2025-07-11 03:45:00 -0500
+date: 2025-07-11 03:55:00 -0500
 categories: [Meditations, Providence]
 tags: [providence]
 author: seven_shepherd
@@ -60,7 +60,7 @@ Forged by the weight of countless years and tempered in the fiery crucible of ex
 <span></span>
 
 <ul class="references">
-<li>Smith, C. (1979–1985). <em>Studies given at calvary chapel costa mesa<em> [Audio recordings]. C2000 Ephesians 1. https://resource.cccm.com/calvarychapel/c2k/275%20Ephesians%201.mp3</li>
+<li>Smith, C. (1979–1985). <em>Studies given at calvary chapel costa mesa</em> [Audio recordings]. C2000 Ephesians 1. https://resource.cccm.com/calvarychapel/c2k/275%20Ephesians%201.mp3</li>
 </ul>
 
 <br>
