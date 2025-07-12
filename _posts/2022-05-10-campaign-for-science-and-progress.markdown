@@ -1,6 +1,6 @@
 ---
 title: "Campaign for Science and Progress"
-date: 2022-05-10 04:25:00 -0500
+date: 2022-05-10 04:30:00 -0500
 categories: [Order, Campaigns]
 tags: [science, progress, education, protestant, newton, leibniz, faraday, maxwell, tesla, einstein, gödel, planck, schrödinger] # TAG names should always be lowercase
 author: seven_shepherd
@@ -15,11 +15,39 @@ pin: True
     }
 </style> -->
 
+<style>
+/* in your main CSS (e.g. assets/css/style.css) */
+.references {
+  padding: 0;
+  margin: 0;
+}
+
+.references li {
+  list-style: none;
+  margin-bottom: 1em;           /* space between entries */
+  padding-left: 1.5em;          /* amount of hanging indent */
+  text-indent: -1.5em;          /* pulls first line back */
+  line-height: 1.5;             /* nicer readability */
+}
+
+p.titles {
+  text-align:center;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-weight:bold;
+}
+
+body {
+  line-height: 2;
+}
+</style>
+
 I am meticulously and gradually organizing this information to ensure it is formatted correctly for citation. This sentence will be deleted upon completion.
 
 ![InfinityEmblem](/assets/emblems/emblem.png)
 
-Christians have established a formidable presence in the realm of science, a triumph that we must ardently defend and perpetuate for future generations. From Newton, Leibniz, and Maxwell to Kistiakowsky and Polkinghorne, Protestants have dominated the sciences as well as the Nobel Prize for hundreds of years. This excellence can also be traced to the ancient past. Moses' secular Egyptian education in the Egyptian court provided him with leadership, writing, and strategic thinking skills&mdash;qualities that would later be crucial for his role in leading the Israelites (Acts 7:22). Similarly, Daniel's secular Babylonian education prepared him and his companions for influential positions within a secular government (Daniel 1:4-5). God intentionally placed Daniel in an environment that valued broader learning beyond just religious instruction, granting him the knowledge and skills necessary for significant secular influence&mdash;all while he maintained his steadfast faith. It is our responsibility to continue this legacy.
+<p style="text-indent:2em;">
+Christians have established a formidable presence in the realm of science, a triumph that we must ardently defend and perpetuate for future generations. From Newton, Leibniz, and Maxwell to Kistiakowsky and Polkinghorne, Protestants have dominated the sciences as well as the Nobel Prize for hundreds of years. This excellence can also be traced to the ancient past. Moses' secular Egyptian education in the Egyptian court provided him with leadership, writing, and strategic thinking skills&mdash;qualities that would later be crucial for his role in leading the Israelites (Acts 7:22). Similarly, Daniel's secular Babylonian education prepared him and his companions for influential positions within a secular government (Daniel 1:4-5). God intentionally placed Daniel in an environment that valued broader learning beyond just religious instruction, granting him the knowledge and skills necessary for significant secular influence&mdash;all while he maintained his steadfast faith. It is our responsibility to continue this legacy.</p>
 
 <!-- From Moses' secular Egyptian education in the Egyptian court, which equipped him with skills in leadership, writing, and strategic thinking which were vital for the future role in leading the israelites (Acts 7:22), to Daniel's secular Babylonian education which prepared Daniel and his friends for a prominent role in a secular government (Dan. 1:4-5). It is up to us to carry on this legacy! -->
 
@@ -34,7 +62,8 @@ Christians have established a formidable presence in the realm of science, a tri
 
 <!-- According to 100 Years of Nobel Prize (2005), a review of Nobel prizes awarded between 1901 and 2000, 65.4% of Nobel Prize Laureates have identified Christianity as their religious preference (427 prizes). Overall, Christians have won a total of 78.3% of all the Nobel Prizes in Peace, 72.5% in Chemistry, 65.3% in Physics, 62% in Medicine, 54% in Economics. -->
 
-In a profound analysis conducted by Dr. Baruch Shalev (2001/2002), a geneticist from the University of Reading, it is revealed that between 1901 and 2000, an astonishing 65.4% of Nobel Prize laureates were either Christians or hailed from a Christian background, illuminating the indelible influence of Christian thought on the pinnacle of human achievement. Among these luminaries, an extraordinary 78.3% of Nobel laureates in Peace, 72.5% in Chemistry, 65.3% in Physics, 62% in Medicine, 54% in Economics, and 49.5% in Literature proudly identified as Christians or possessed Christian roots. This remarkable representation not only underscores the monumental contributions of these intellectual titans but also celebrates their pivotal role in shaping the course of human progress and enlightenment.
+<p style="text-indent:2em;">
+In a profound analysis conducted by Dr. Baruch Shalev (2001/2002), a geneticist from the University of Reading, it is revealed that between 1901 and 2000, an astonishing 65.4% of Nobel Prize laureates were either Christians or hailed from a Christian background, illuminating the indelible influence of Christian thought on the pinnacle of human achievement. Among these luminaries, an extraordinary 78.3% of Nobel laureates in Peace, 72.5% in Chemistry, 65.3% in Physics, 62% in Medicine, 54% in Economics, and 49.5% in Literature proudly identified as Christians or possessed Christian roots. This remarkable representation not only underscores the monumental contributions of these intellectual titans but also celebrates their pivotal role in shaping the course of human progress and enlightenment.</p>
 
 > A review of the Nobel awards between 1901 and 2000 reveals that 654 Laureates belong to 28 different religions. Most (65.4%) have identified Christianity in its various forms as their religious preference. While separating Roman Catholic from Protestants among Christians proved difficult in some cases, available information suggests that **more Protestants were involved in the scientific categories** and more Catholics were involved in the Literature and Peace categories (p. 57).
 
@@ -162,6 +191,7 @@ The 17th century scientist and philosopher of science who is credited with disco
 <sup>Kneller, G. (1689). *Porträt des Isaac Newton* [Painting]. Isaac Newton Institute.</sup>
 
 <!-- (4 January 1643 to 31 March 1727) -->
+
 
 Isaac Newton stands as one of the most brilliant intellects in history, credited with achieving <span style="font-weight:bold;color:GoldenRod;">the First Great Unification in physics</span> and independently developing Calculus alongside Gottfried Wilhelm Leibniz. His seminal work, Philosophiæ Naturalis Principia Mathematica, is regarded as one of the most significant contributions to the field of science. Additionally, Newton was a deeply devout Christian. Isaac Newton was raised in the Church of England, an Anglican denomination within the broader Protestant tradition.
 
@@ -727,57 +757,82 @@ Daniel and his friends were educated in the language and literature of the Babyl
 
 <span></span>
 
+<ul class="references">
+  <li>Baggot, J. (1991, September 21). <em>The myth of Michael Faraday: Michael Faraday was not just one of Britain's greatest experimenters. A closer look at the man and his work reveals that he was also a clever theoretician</em>. New Scientist, (1787). https://www.newscientist.com/article/mg13117874-600-the-myth-of-michael-faraday-michael-faraday-was-not-just-one-of-britains-greatest-experimenters-a-closer-look-at-the-man-and-his-work-reveals-that-he-was-also-a-clever-theoretician/</li>
+  <li>Campbell, L., Garnett, W., & Rautio, J. C. (2020). The life of James Clerk Maxwell (Illustrated ed.). Independently published. (Original work published 1882)</li>
+  <li>Faraday, M. (1859). <em>Experimental researches in chemistry and physics</em>. Richard Taylor and William Francis.</li>
+  <li>Faraday, M. (1999). <em>The philosopher's tree: A selection of Michael Faraday's writings</em> (P. Day, Ed.). Institute of Physics Publishing.</li>
+  <li>Foley, A. L. (1910). Recent developments in physical science. <em>The Popular Science Monthly</em>, 76, 456.</li>
+  <li>Jean, R. V., & Barabé, D. (1998). Symmetry in plants. World Scientific Pub Co Inc.</li>
+  <li>Kaku, M. (2005). <em>Parallel worlds: A journey through creation, higher dimensions, and the future of the cosmos</em>. Doubleday.</li>
+  <li>Kaku, M. (2021, July 29). <em>Dr. Michio Kaku answers physics questions from Twitter</em>. WIRED. https://www.wired.com/video/watch/tech-support-dr-michio-kaku-answers-physics-questions-from-twitter</li>
+  <li>Leahy, M. P. (2007). <em>Letter to an atheist</em>. Harpeth River Press.</li>
+  <li>Leibniz, G. W. (1951). <em>Leibniz selections</em> (P. Wiener, Ed.). Charles Scribner's Sons. (Original work published 1677)</li>
+  <li>Leibniz, G. W. (1993). <em>Discours de métaphysique et correspondance avec Arnauld</em> (G. Le Roy, Introduction & Commentary). Librarie Philosophique J. Vrin. (Original work published 1686)</li>
+  <li>Leibniz, G. W. (2007). <em>Theodicy: Essays on the goodness of God, the freedom of man and the origin of evil</em> (A. Farrer, Ed.; E. M. Huggard, Trans.). BiblioBazaar. (Original work published 1710)</li>
+  <li>Maxwell, J. C. (2011). <em>The scientific papers of James Clerk Maxwell</em> (W. D. Niven, Ed.). Cambridge University Press.</li>
+  <li>Mendel, G. (1966). Excerpt from a sermon on Easter. In <em>Folia Mendeliana</em> (Vol. 1). Moravian Museum.</li>
+  <li>Nadar, P. (c. 1895). <em>Studio portrait of Louis Pasteur</em> [Photograph]. Photo by Paul Nadar. https://upload.wikimedia.org/wikipedia/commons/a/a6/Louis_Pasteur%2C_foto_av_Paul_Nadar%2C_Crisco_edit.jpg</li>
+  <li><em>NET Bible: Full notes edition</em>. (2019). Biblical Studies Press, L.L.C.</li>
+  <li><em>New Living Translation</em>. (2015). Tyndale House Publishers.</li>
+  <li>Newton, I. (1934). <em>Mathematical principles of natural philosophy and his system of the world</em> (A. Motte, Trans.). University of California Press. (Original work published 1686)</li>
+  <li>Shalev, B. A. (2002). <em>100 years of nobel prizes</em> (2nd ed.). Americas Group.</li>
+  <li>Strickland, L. (2006). <em>The shorter Leibniz texts: A collection of new translations</em> (Illustrated ed.). Bloomsbury Academic.</li>
+  <li>Strickland, L. (2014). <em>Leibniz’s Monadology: A new translation and guide</em> (Originally published in 1714). Edinburgh University Press.</li>
+  <li>Thompson, M. S. (2009). <em>The Fire l' the Flint</em>. Four Courts.</li>
+</ul>
+
 <!-- Amazon. (n.d.). *About the author*. https://www.amazon.com/stores/author/B001KCGGRI/about?ingress=0&visitId=fd988831-ce13-4a84-915c-0cca0180d37d&ref_=sr_ntt_srch_lnk_4 -->
 
-Baggot, J. (1991, September 21). *The myth of Michael Faraday: Michael Faraday was not just one of Britain's greatest experimenters. A closer look at the man and his work reveals that he was also a clever theoretician*. New Scientist, (1787). https://www.newscientist.com/article/mg13117874-600-the-myth-of-michael-faraday-michael-faraday-was-not-just-one-of-britains-greatest-experimenters-a-closer-look-at-the-man-and-his-work-reveals-that-he-was-also-a-clever-theoretician/
+<!-- Baggot, J. (1991, September 21). *The myth of Michael Faraday: Michael Faraday was not just one of Britain's greatest experimenters. A closer look at the man and his work reveals that he was also a clever theoretician*. New Scientist, (1787). https://www.newscientist.com/article/mg13117874-600-the-myth-of-michael-faraday-michael-faraday-was-not-just-one-of-britains-greatest-experimenters-a-closer-look-at-the-man-and-his-work-reveals-that-he-was-also-a-clever-theoretician/ -->
 
-Campbell, L., Garnett, W., & Rautio, J. C. (2020). The life of James Clerk Maxwell (Illustrated ed.). Independently published. (Original work published 1882)
+<!-- Campbell, L., Garnett, W., & Rautio, J. C. (2020). The life of James Clerk Maxwell (Illustrated ed.). Independently published. (Original work published 1882) -->
 
-Faraday, M. (1859). *Experimental researches in chemistry and physics*. Richard Taylor and William Francis.
+<!-- Faraday, M. (1859). *Experimental researches in chemistry and physics*. Richard Taylor and William Francis. -->
 
-Faraday, M. (1999). *The philosopher's tree: A selection of Michael Faraday's writings* (P. Day, Ed.). Institute of Physics Publishing.
+<!-- Faraday, M. (1999). *The philosopher's tree: A selection of Michael Faraday's writings* (P. Day, Ed.). Institute of Physics Publishing. -->
 
-Foley, A. L. (1910). Recent developments in physical science. *The Popular Science Monthly*, 76, 456.
+<!-- Foley, A. L. (1910). Recent developments in physical science. *The Popular Science Monthly*, 76, 456. -->
 
-Jean, R. V., & Barabé, D. (1998). Symmetry in plants. World Scientific Pub Co Inc.
+<!-- Jean, R. V., & Barabé, D. (1998). Symmetry in plants. World Scientific Pub Co Inc. -->
 
-Kaku, M. (2005). *Parallel worlds: A journey through creation, higher dimensions, and the future of the cosmos*. Doubleday.
+<!-- Kaku, M. (2005). *Parallel worlds: A journey through creation, higher dimensions, and the future of the cosmos*. Doubleday. -->
 
-Kaku, M. (2021, July 29). *Dr. Michio Kaku answers physics questions from Twitter*. WIRED. https://www.wired.com/video/watch/tech-support-dr-michio-kaku-answers-physics-questions-from-twitter
+<!-- Kaku, M. (2021, July 29). *Dr. Michio Kaku answers physics questions from Twitter*. WIRED. https://www.wired.com/video/watch/tech-support-dr-michio-kaku-answers-physics-questions-from-twitter -->
 
 <!-- Kaku, M. (2021, July 29). *Dr. Michio Kaku answers physics questions from Twitter*. [Video]. WIRED. https://youtu.be/bUmULlGACEI?t=430 -->
 
-Leahy, M. P. (2007). *Letter to an atheist*. Harpeth River Press.
+<!-- Leahy, M. P. (2007). *Letter to an atheist*. Harpeth River Press. -->
 
-Leibniz, G. W. (1951). *Leibniz selections* (P. Wiener, Ed.). Charles Scribner's Sons. (Original work published 1677)
+<!-- Leibniz, G. W. (1951). *Leibniz selections* (P. Wiener, Ed.). Charles Scribner's Sons. (Original work published 1677) -->
 
-Leibniz, G. W. (1993). *Discours de métaphysique et correspondance avec Arnauld* (G. Le Roy, Introduction & Commentary). Librarie Philosophique J. Vrin. (Original work published 1686)
+<!-- Leibniz, G. W. (1993). *Discours de métaphysique et correspondance avec Arnauld* (G. Le Roy, Introduction & Commentary). Librarie Philosophique J. Vrin. (Original work published 1686) -->
 
-Leibniz, G. W. (2007). *Theodicy: Essays on the goodness of God, the freedom of man and the origin of evil* (A. Farrer, Ed.; E. M. Huggard, Trans.). BiblioBazaar. (Original work published 1710)
+<!-- Leibniz, G. W. (2007). *Theodicy: Essays on the goodness of God, the freedom of man and the origin of evil* (A. Farrer, Ed.; E. M. Huggard, Trans.). BiblioBazaar. (Original work published 1710) -->
 
-Maxwell, J. C. (2011). *The scientific papers of James Clerk Maxwell* (W. D. Niven, Ed.). Cambridge University Press.
+<!-- Maxwell, J. C. (2011). *The scientific papers of James Clerk Maxwell* (W. D. Niven, Ed.). Cambridge University Press. -->
 
-Mendel, G. (1966). Excerpt from a sermon on Easter. In *Folia Mendeliana* (Vol. 1). Moravian Museum.
+<!-- Mendel, G. (1966). Excerpt from a sermon on Easter. In *Folia Mendeliana* (Vol. 1). Moravian Museum. -->
 
-Nadar, P. (c. 1895). *Studio portrait of Louis Pasteur* [Photograph]. Photo by Paul Nadar. https://upload.wikimedia.org/wikipedia/commons/a/a6/Louis_Pasteur%2C_foto_av_Paul_Nadar%2C_Crisco_edit.jpg
+<!-- Nadar, P. (c. 1895). *Studio portrait of Louis Pasteur* [Photograph]. Photo by Paul Nadar. https://upload.wikimedia.org/wikipedia/commons/a/a6/Louis_Pasteur%2C_foto_av_Paul_Nadar%2C_Crisco_edit.jpg -->
 
-*NET Bible: Full notes edition*. (2019). Biblical Studies Press, L.L.C.
+<!-- *NET Bible: Full notes edition*. (2019). Biblical Studies Press, L.L.C. -->
 
-*New Living Translation*. (2015). Tyndale House Publishers.
+<!-- *New Living Translation*. (2015). Tyndale House Publishers. -->
 
-Newton, I. (1934). *Mathematical principles of natural philosophy and his system of the world* (A. Motte, Trans.). University of California Press. (Original work published 1686)
+<!-- Newton, I. (1934). *Mathematical principles of natural philosophy and his system of the world* (A. Motte, Trans.). University of California Press. (Original work published 1686) -->
 
 <!-- Pasteur, L. (1902, October 18). [Quote]. *The Literary Digest*. -->
 
 <!-- Homer. (2018). The odyssey (E. Wilson, Trans.). W. W. Norton & Company. (Original work published ca. 725–675 B.C.E.) -->
 
-Shalev, B. A. (2002). *100 years of nobel prizes* (2nd ed.). Americas Group.
+<!-- Shalev, B. A. (2002). *100 years of nobel prizes* (2nd ed.). Americas Group. -->
 
-Strickland, L. (2006). *The shorter Leibniz texts: A collection of new translations* (Illustrated ed.). Bloomsbury Academic.
+<!-- Strickland, L. (2006). *The shorter Leibniz texts: A collection of new translations* (Illustrated ed.). Bloomsbury Academic. -->
 
-Strickland, L. (2014). *Leibniz’s Monadology: A new translation and guide* (Originally published in 1714). Edinburgh University Press.
+<!-- Strickland, L. (2014). *Leibniz’s Monadology: A new translation and guide* (Originally published in 1714). Edinburgh University Press. -->
 
-Thompson, M. S. (2009). *The Fire l' the Flint*. Four Courts.
+<!-- Thompson, M. S. (2009). *The Fire l' the Flint*. Four Courts. -->
 
 <!-- WIRED. (2021, July 29). *Dr. Michio Kaku answers physics questions from Twitter* [Video]. YouTube. https://youtu.be/bUmULlGACEI?t=430 -->
 
