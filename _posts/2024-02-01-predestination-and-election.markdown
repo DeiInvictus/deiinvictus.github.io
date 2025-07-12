@@ -1,6 +1,6 @@
 ---
 title: "God Clearly Does Choose"
-date: 2024-02-01 6:55:00 -0500
+date: 2024-02-01 7:00:00 -0500
 categories: [Theology, Predestination]
 tags: [free will, predestination, election, reprobation] # TAG names should always be lowercase
 author: seven_shepherd
@@ -8,6 +8,33 @@ published: true
 comments: false
 pin: false
 ---
+
+<style>
+/* in your main CSS (e.g. assets/css/style.css) */
+.references {
+  padding: 0;
+  margin: 0;
+}
+
+.references li {
+  list-style: none;
+  margin-bottom: 1em;           /* space between entries */
+  padding-left: 1.5em;          /* amount of hanging indent */
+  text-indent: -1.5em;          /* pulls first line back */
+  line-height: 1.5;             /* nicer readability */
+}
+
+p.titles {
+  text-align:center;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-weight:bold;
+}
+
+body {
+  line-height: 2;
+}
+</style>
 
 <!-- ⛏️ “For many are called, but few are chosen.” — Jesus -->
 
@@ -52,7 +79,8 @@ pin: false
 
 <!--  -->
 
-Many of you might start to ponder the thought-provoking question of how free our wills actually are. None of us had any free will or agency over where we’d be born, our ethnicity, our socioeconomic status, who our relatives would be, what genetic predispositions and genetic disorders we may be vulnerable to, or genetic physical traits such as height, eye color, intelligence, and natural aptitudes. We certainly don’t have any control over purely random actions, chance, or catastrophic events. Can you save yourself by reciting a works-based sinner's prayer or declare yourself justified before God through your own free will choices? **Do you believe that you have the free will to renounce your faith and forfeit salvation?** (See <a href="#free-will-test">Free Will Test</a>). If you answered "no" to these questions, the good news is you're still sane. Nevertheless, we do exercise a limited form of free will in our decision-making processes. Dr. Walter Martin (2017), a theologian with 5 degrees, articulates the limitations of free will:
+<p style="text-indent:2em;">
+Many of you might start to ponder the thought-provoking question of how free our wills actually are. None of us had any free will or agency over where we’d be born, our ethnicity, our socioeconomic status, who our relatives would be, what genetic predispositions and genetic disorders we may be vulnerable to, or genetic physical traits such as height, eye color, intelligence, and natural aptitudes. We certainly don’t have any control over purely random actions, chance, or catastrophic events. Can you save yourself by reciting a works-based sinner's prayer or declare yourself justified before God through your own free will choices? **Do you believe that you have the free will to renounce your faith and forfeit salvation?** (See <a href="#free-will-test">Free Will Test</a>). If you answered "no" to these questions, the good news is you're still sane. Nevertheless, we do exercise a limited form of free will in our decision-making processes. Dr. Walter Martin (2017), a theologian with 5 degrees, articulates the limitations of free will:</p>
 
 > ... and that no flesh should be able to glory in its own sight, but whoever makes an appearance before the throne of the Lord, his glory will be in the Lord of hosts. Now some may say, "That's the sovereignty of God, hallelujah, **but what about my free will?" Well, it's not as free as you think it is. You are free to make choices, but you are not free to enforce all of them**. ... There is freedom, but it's quite limited. In lots of respects, "you have not chosen me; I've chosen you" means that God has the last word" (20:25).
 
@@ -474,43 +502,64 @@ It's possible that conditional election is correct regarding salvation, but inco
 
 <span></span>
 
+<ul class="references">
+<li>Britannica, T. Editors of Encyclopaedia. (2017, August 31). <em>Fatalism</em>. Encyclopedia Britannica. https://www.britannica.com/topic/fatalism</li>
+<li>Britannica, T. Editors of Encyclopaedia. (2024, November 15). <em>Free will</em>. Encyclopedia Britannica. https://www.britannica.com/topic/free-will</li>
+<li>Carson, D. A. (2002). <em>Divine sovereignty and human responsibility: Biblical perspectives in tension</em>. Wipf and Stock Publishers.</li>
+<li>Craig, W. L. (2010, April 19). <em>#157 Molinism vs. Calvinism</em>. Reasonable Faith. https://www.reasonablefaith.org/writings/question-answer/molinism-vs.-calvinism</li>
+<li>Demarest, B. (2006). <em>The cross and salvation</em>. Crossway Books.</li>
+<li><em>ESV Study Bible</em> (ESV Text Edition: 2016). (2008). Crossway.</li>
+<li>Heiser, M. S. (2021, July 6). <em>Does Foreknowledge require Predestination?</em> [Video]. YouTube. https://youtu.be/kwyZxAtTHfc&t=48</li>
+<li>Kaku, M. (2011, May 20). <em>Michio Kaku: Why physics ends the free will debate</em> [Video]. Big Think. https://youtu.be/Jint5kjoy6I</li>
+<li>Lennox, J. C. (2018). <em>Determined to believe?: The sovereignty of God, freedom, faith, and human responsibility</em>. Zondervan.</li>
+<li>Martin, W. (2017, Jul 9). <em>The mystery of predestination</em> [Video]. YouTube. https://youtu.be/uuUKE5resPs&t=1225</li>
+<li>Polkinghorne, J. C. (2005). <em>Science and providence: God’s interaction with the world</em>. (Templeton Foundation Press ed.). Templeton Foundation Press.</li>
+<li>Rhodes, R. (2016, Sep 13). <em>The doctrine of election, foreknowledge and freewill</em> [Video]. YouTube. https://youtu.be/pTuY7ZZ_6jk&t=118</li>
+<li>Ross, H. (2017). <em>Beyond the cosmos: The transdimensionality of God</em> (3rd ed.). Reasons to Believe.</li>
+<li>Ross, H. [@RTBHughRoss]. (2020, September 9). <em>Question of the Week: Of the main sotierology models within evangelicalism to which do you adhere: Calvinism, Arminianism, or Traditionalism?</em>. Facebook. https://m.facebook.com/RTBHughRoss/posts/3266294876781927/</li>
+<li>Singer, P. & Eddon, M. (2022, August 3). <em>Free will and moral responsibility</em>. Encyclopedia Britannica. https://www.britannica.com/topic/free-will-and-moral-responsibility</li>
+<li>Smith, C. (2001). <em>Calvinism, arminianism, & the word of God, a Calvary Chapel perspective</em>. The Word For Today.</li>
+<li>Sproul, R. C. (1986). <em>Chosen by God</em>. Tyndale House Publishers.</li>
+<li><em>Westminster Confession of Faith</em>. (2021). Versa Press. (Original work published 1647)</li>
+</ul>
+
 <!-- Big Think. (2011, May 20). *Michio Kaku: Why Physics Ends the Free Will Debate* [Video]. YouTube. https://youtu.be/Jint5kjoy6I -->
 
-Britannica, T. Editors of Encyclopaedia. (2017, August 31). *Fatalism*. Encyclopedia Britannica. https://www.britannica.com/topic/fatalism
+<!-- Britannica, T. Editors of Encyclopaedia. (2017, August 31). *Fatalism*. Encyclopedia Britannica. https://www.britannica.com/topic/fatalism -->
 
-Britannica, T. Editors of Encyclopaedia. (2024, November 15). *Free will*. Encyclopedia Britannica. https://www.britannica.com/topic/free-will
+<!-- Britannica, T. Editors of Encyclopaedia. (2024, November 15). *Free will*. Encyclopedia Britannica. https://www.britannica.com/topic/free-will -->
 
-Carson, D. A. (2002). *Divine sovereignty and human responsibility: Biblical perspectives in tension*. Wipf and Stock Publishers.
+<!-- Carson, D. A. (2002). *Divine sovereignty and human responsibility: Biblical perspectives in tension*. Wipf and Stock Publishers. -->
 
-Craig, W. L. (2010, April 19). *#157 Molinism vs. Calvinism*. Reasonable Faith. https://www.reasonablefaith.org/writings/question-answer/molinism-vs.-calvinism
+<!-- Craig, W. L. (2010, April 19). *#157 Molinism vs. Calvinism*. Reasonable Faith. https://www.reasonablefaith.org/writings/question-answer/molinism-vs.-calvinism -->
 
-Demarest, B. (2006). *The cross and salvation*. Crossway Books.
+<!-- Demarest, B. (2006). *The cross and salvation*. Crossway Books. -->
 
-*ESV Study Bible* (ESV Text Edition: 2016). (2008). Crossway.
+<!-- *ESV Study Bible* (ESV Text Edition: 2016). (2008). Crossway. -->
 
-Heiser, M. S. (2021, July 6). *Does Foreknowledge require Predestination?* [Video]. YouTube. https://youtu.be/kwyZxAtTHfc&t=48
+<!-- Heiser, M. S. (2021, July 6). *Does Foreknowledge require Predestination?* [Video]. YouTube. https://youtu.be/kwyZxAtTHfc&t=48 -->
 
-Kaku, M. (2011, May 20). *Michio Kaku: Why Physics Ends the Free Will Debate* [Video]. Big Think. https://youtu.be/Jint5kjoy6I
+<!-- Kaku, M. (2011, May 20). *Michio Kaku: Why Physics Ends the Free Will Debate* [Video]. Big Think. https://youtu.be/Jint5kjoy6I -->
 
-Lennox, J. C. (2018). *Determined to believe?: The sovereignty of God, freedom, faith, and human responsibility*. Zondervan.
+<!-- Lennox, J. C. (2018). *Determined to believe?: The sovereignty of God, freedom, faith, and human responsibility*. Zondervan. -->
 
-Martin, W. (2017, Jul 9). *The Mystery of Predestination* [Video]. YouTube. https://youtu.be/uuUKE5resPs&t=1225
+<!-- Martin, W. (2017, Jul 9). *The Mystery of Predestination* [Video]. YouTube. https://youtu.be/uuUKE5resPs&t=1225 -->
 
-Polkinghorne, J. C. (2005). *Science and providence: God’s interaction with the world*. (Templeton Foundation Press ed.). Templeton Foundation Press.
+<!-- Polkinghorne, J. C. (2005). *Science and providence: God’s interaction with the world*. (Templeton Foundation Press ed.). Templeton Foundation Press. -->
 
-Rhodes, R. (2016, Sep 13). *The Doctrine of Election, Foreknowledge and Freewill* [Video]. YouTube. https://youtu.be/pTuY7ZZ_6jk&t=118
+<!-- Rhodes, R. (2016, Sep 13). *The Doctrine of Election, Foreknowledge and Freewill* [Video]. YouTube. https://youtu.be/pTuY7ZZ_6jk&t=118 -->
 
-Ross, H. (2017). *Beyond the cosmos: The transdimensionality of God* (3rd ed.). Reasons to Believe.
+<!-- Ross, H. (2017). *Beyond the cosmos: The transdimensionality of God* (3rd ed.). Reasons to Believe. -->
 
-Ross, H. [@RTBHughRoss]. (2020, September 9). *Question of the Week: Of the main sotierology models within evangelicalism to which do you adhere: Calvinism, Arminianism, or Traditionalism?*. Facebook. https://m.facebook.com/RTBHughRoss/posts/3266294876781927/
+<!-- Ross, H. [@RTBHughRoss]. (2020, September 9). *Question of the Week: Of the main sotierology models within evangelicalism to which do you adhere: Calvinism, Arminianism, or Traditionalism?*. Facebook. https://m.facebook.com/RTBHughRoss/posts/3266294876781927/ -->
 
-Singer, P. & Eddon, M. (2022, August 3). *Free will and moral responsibility*. Encyclopedia Britannica. https://www.britannica.com/topic/free-will-and-moral-responsibility
+<!-- Singer, P. & Eddon, M. (2022, August 3). *Free will and moral responsibility*. Encyclopedia Britannica. https://www.britannica.com/topic/free-will-and-moral-responsibility -->
 
-Smith, C. (2001). *Calvinism, arminianism, & the word of God, a Calvary Chapel perspective*. The Word For Today.
+<!-- Smith, C. (2001). *Calvinism, arminianism, & the word of God, a Calvary Chapel perspective*. The Word For Today. -->
 
-Sproul, R. C. (1986). *Chosen by God*. Tyndale House Publishers.
+<!-- Sproul, R. C. (1986). *Chosen by God*. Tyndale House Publishers. -->
 
-*Westminster Confession of Faith*. (2021). Versa Press. (Original work published 1647)
+<!-- *Westminster Confession of Faith*. (2021). Versa Press. (Original work published 1647) -->
 
 <!-- Packer, J. I. (2020). *Concise theology*. Crossway. -->
 
