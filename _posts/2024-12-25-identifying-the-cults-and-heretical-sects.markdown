@@ -1,6 +1,6 @@
 ---
 title: "Identifying the Cults & Heretical Sects"
-date: 2024-12-25 02:40:00 -0500
+date: 2024-12-25 02:45:00 -0500
 categories: [Theology, Heresy]
 tags: [cult, heresy, sect] # TAG names should always be lowercase
 author: grand_master
@@ -8,6 +8,34 @@ published: true
 comments: false
 pin: false
 ---
+
+<style>
+/* in your main CSS (e.g. assets/css/style.css) */
+.references {
+  padding: 0;
+  margin: 0;
+}
+
+.references li {
+  list-style: none;
+  margin-bottom: 1em;           /* space between entries */
+  padding-left: 1.5em;          /* amount of hanging indent */
+  text-indent: -1.5em;          /* pulls first line back */
+  line-height: 2;               /* nicer readability */
+}
+
+p.titles {
+  text-align:center;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-weight:bold;
+}
+
+body {
+  line-height: 2;
+}
+</style>
+
 
 <a name="contents" href="#" style="font-size:2.1em;color:White;">Contents</a>
 
@@ -247,30 +275,41 @@ The Bible is against the heresy of legalism, but supports Christ's fruit-bearing
 
 <span></span>
 
-Apologetics Index. (1996). *Cult definition*.<br>
-<span style="margin-left:2.3em;">https://www.cultdefinition.com/#cult-meanings-of-the-term-vary</span>
+<ul class="references">
+<li>Apologetics Index. (1996). <em>Cult definition</em>. https://www.cultdefinition.com/#cult-meanings-of-the-term-vary</li>
+<li>Demarest, B. (2006). <em>The cross and salvation</em>. Crossway Books.</li>
+<li><em>ESV Study Bible</em> (ESV Text Edition: 2016). (2008). Crossway.</li>
+<li><em>NET Bible: Full notes edition</em>. (2019). Biblical Studies Press, L.L.C.</li>
+<li><em>NIV biblical theology study Bible</em>. (2018). Zondervan.</li>
+<li><em>NKJV study Bible</em> (2nd ed., full-color ed.). (2014). Thomas Nelson.</li>
+<li><em>The Jewish annotated New Testament: New Revised Standard Version Bible translation</em>. (2011). Oxford University Press.</li>
+<li><em>The new Oxford annotated Bible</em> (with the Apocrypha). (2018). Oxford University Press.</li>
+<li>Packer, J. I. (2020). <em>Concise theology</em>. Crossway.</li>
+</ul>
 
-Demarest, B. (2006). *The cross and salvation*. Crossway Books.
+<!-- Apologetics Index. (1996). *Cult definition*. https://www.cultdefinition.com/#cult-meanings-of-the-term-vary -->
+
+<!-- Demarest, B. (2006). *The cross and salvation*. Crossway Books. -->
 
 <!-- *The Expanded Bible*. (2011). Thomas Nelson. -->
 
-*ESV Study Bible* (ESV Text Edition: 2016). (2008). Crossway.
+<!-- *ESV Study Bible* (ESV Text Edition: 2016). (2008). Crossway. -->
 
-*NET Bible: Full notes edition*. (2019). Biblical Studies Press, L.L.C.
+<!-- *NET Bible: Full notes edition*. (2019). Biblical Studies Press, L.L.C. -->
 
-*NIV biblical theology study Bible*. (2018). Zondervan.
+<!-- *NIV biblical theology study Bible*. (2018). Zondervan. -->
 
-*NKJV study Bible* (2nd ed., full-color ed.). (2014). Thomas Nelson.
+<!-- *NKJV study Bible* (2nd ed., full-color ed.). (2014). Thomas Nelson. -->
 
-*The Jewish annotated New Testament: New Revised Standard Version Bible translation*. (2011). Oxford University Press.
+<!-- *The Jewish annotated New Testament: New Revised Standard Version Bible translation*. (2011). Oxford University Press. -->
 
-*The new Oxford annotated Bible* (with the Apocrypha). (2018). Oxford University Press.
+<!-- *The new Oxford annotated Bible* (with the Apocrypha). (2018). Oxford University Press. -->
 
 <!-- Oxford University Press. (2018).<br>
 <span style="margin-left:2.3em;">*The new Oxford annotated Bible (with the Apocrypha)*.</span><br>
 <span style="margin-left:2.3em;">Oxford University Press.</span> -->
 
-Packer, J. I. (2020). *Concise theology*. Crossway.
+<!-- Packer, J. I. (2020). *Concise theology*. Crossway. -->
 
 
 
