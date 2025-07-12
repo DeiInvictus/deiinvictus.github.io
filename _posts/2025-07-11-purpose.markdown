@@ -1,6 +1,6 @@
 ---
 title: "Scientist by the Will of God"
-date: 2025-07-11 04:10:00 -0500
+date: 2025-07-11 04:15:00 -0500
 categories: [Meditations, Purpose]
 tags: [providence, purpose]
 author: seven_shepherd
@@ -37,7 +37,6 @@ body {
 
 a.alterlink {
   color:Silver;
-  text-decoration:underline;"
 }
 </style>
 
