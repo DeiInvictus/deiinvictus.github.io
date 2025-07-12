@@ -1,6 +1,6 @@
 ---
 title: "On the Necessity of Solitude"
-date: 2025-07-11 02:35:00 -0500
+date: 2025-07-11 02:40:00 -0500
 categories: [Original Research, Solitude]
 tags: [solitude, reflection, introspection]
 author: seven_shepherd
@@ -156,20 +156,20 @@ experience, striving for a harmonious balance that nurtures both the mind and th
 <span></span>
 
 <ul class="references">
-<li>Aurelius, M. (2006). Meditations (M. Hammond, Trans.). Penguin Classics. (Original work published
+<li>Aurelius, M. (2006). <em>Meditations</em> (M. Hammond, Trans.). Penguin Classics. (Original work published
 ca. 180 AD).</li>
-<li>Dellinger, A. J. (2021, April 3). Personal data of 533 million Facebook users leaks online. Forbes.
+<li>Dellinger, A. J. (2021, April 3). Personal data of 533 million Facebook users leaks online. <em>Forbes</em>.
 https://bit.ly/3CDBP6H</li>
-<li>Deresiewicz, W. (2009, January 30). The end of solitude. Chronicle of Higher
-Education, 55(21), B6–B9.</li>
-<li>Einstein, A. (1950). Out of my later years. Philosophical Library.</li>
-<li>Huxley, A. (1927). Proper studies. Chatto & Windus.</li>
-<li>Schneier, B. (2015a). Data and goliath: The hidden battles to collect your data and control your world.
+<li>Deresiewicz, W. (2009, January 30). The end of solitude. <em>Chronicle of Higher
+Education, 55</em>(21), B6–B9.</li>
+<li>Einstein, A. (1950). <em>Out of my later years</em>. Philosophical Library.</li>
+<li>Huxley, A. (1927). <em>Proper studies</em>. Chatto & Windus.</li>
+<li>Schneier, B. (2015a). <em>Data and goliath: The hidden battles to collect your data and control your world</em>.
 W. W. Norton & Company.</li>
-<li>Schneier, B. (2015b, March 4). The Big Idea: Bruce Schneier. Schneier on Security.
+<li>Schneier, B. (2015b, March 4). <em>The Big Idea: Bruce Schneier</em>. Schneier on Security.
 https://www.schneier.com/essays/archives/2015/03/the_big_idea_bruce_s_1.html</li>
-<li>Tesla, N. (1934, April 8). An inventor's seasoned ideas. The New York Times, p. 9.</li>
-<li>Turkle, S. (2012, April 21). The flight from conversation. The New York Times.
+<li>Tesla, N. (1934, April 8). An inventor's seasoned ideas. <em>The New York Times</em>, p. 9.</li>
+<li>Turkle, S. (2012, April 21). The flight from conversation. <em>The New York Times</em>.
 https://www.nytimes.com/2012/04/22/opinion/sunday/the-flight-from-conversation.html</li>
 </ul>
 
