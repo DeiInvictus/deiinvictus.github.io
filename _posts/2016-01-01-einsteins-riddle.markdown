@@ -1,6 +1,6 @@
 ---
 title: "Einstein's Riddle"
-date: 2016-01-01 01:25:00 -0500
+date: 2016-01-01 01:35:00 -0500
 categories: [Logic Puzzles, Zebra Puzzles]
 tags: [logic, riddle, einstein, python]
 author: seven_shepherd
@@ -9,7 +9,7 @@ comments: false
 pin: false
 ---
 
-This is a fun puzzle that was allegedly created by Albert Einstein as a boy. Einstein said that only 2% of the world could solve it. Considering that there are 5!^5 or 24,883,200,000 combinations with only 1 correct outcome. I originally published this on a personal blog in 2016, although I actually derived the solution by hand several years before that. I have provided three solutions below.
+This is a fun puzzle that was allegedly created by Albert Einstein as a boy. Einstein said that only 2% of the world could solve it. There are 5!^5 or 24,883,200,000 combinations with only 1 correct outcome. I originally published this on a personal blog in 2016, although I actually derived the solution by hand several years before that. I have provided three solutions below.
 
 # **Riddle**
 
