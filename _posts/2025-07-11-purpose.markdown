@@ -47,6 +47,125 @@ For the longest time as a youth, I grappled with my purpose&mdash;my raison d’
 
 Forged by the weight of countless years and tempered in the fires of perseverance, I have come to embrace the gifts God has given me in the sciences&mdash;gifts that culminated in my induction into the honors society. By His grace I’ve been blessed with <a class="alterlink" href="https://deiinvictus.com/posts/poor/">spiritual riches</a>, and in the fiery crucible of <a class="alterlink" href="https://deiinvictus.com/posts/solitude/">solitude</a>, God shaped me to reclaim that which darkness once stole. I invite you to join me in <a class="alterlink" href="https://deiinvictus.com/posts/campaign-for-science-and-progress/">reclaiming the sciences</a>&mdash;uniting humanity against the forces of darkness and guiding all into the light of knowledge and salvation.
 
+<h3>Ascetic, Autodidactic, and Formally Educated Figures in Scripture</h3>
+
+God has used the combination of <a class="alterlink" href="https://deiinvictus.com/posts/autodidacticism/">autodidacticism</a> and formal education simultaneously for powerful effect&mdash;especially with Moses and Daniel. This was the thesis of my <a class="alterlink" href="https://deiinvictus.com/posts/autodidacticism/">recent research article</a>.
+
+<dl>
+  <dt><strong>John the Baptist</strong></dt>
+  <dd>
+    <ul>
+      <li>Lived an ascetic <strong>life</strong> in the wilderness (locusts and wild honey; Mk 1:6)</li>
+      <li>Possibly connected with the Ascetic Essenes’ desert devotion</li>
+      <li>Embraced radical separation to prepare the way for Christ</li>
+    </ul>
+  </dd>
+
+  <dt><strong>Elijah</strong></dt>
+  <dd>
+    <ul>
+      <li>Fled to the wilderness and <strong>lived</strong> in solitude (1 Kg 17–19)</li>
+      <li>Sustained by minimal provision (ravens’ food, brook water)</li>
+      <li>Fasted and endured fear before renewed prophetic calling</li>
+    </ul>
+  </dd>
+
+  <dt><strong>Moses</strong></dt>
+  <dd>
+    <ul>
+      <li>Educated in all the wisdom of Egypt at Pharaoh’s court—and was mighty in words and deeds because of that training (Acts 7:22)</li>
+      <li>Spent <strong>forty years</strong> in Midian’s desert as a shepherd</li>
+      <li>Underwent a solitary crucible before his prophetic commissioning (Ex 3:1–10)</li>
+    </ul>
+  </dd>
+
+  <dt><strong>Daniel</strong></dt>
+  <dd>
+    <ul>
+      <li>Received formal Babylonian education in the literature and language of the Chaldeans (Dan 1:3–5)</li>
+      <li>Skillful in all wisdom and endowed with knowledge and understanding by God (Dan 1:17)</li>
+      <li>Applied God‑given insight to interpret dreams and govern under foreign rulers (Dan 2:21; 6:3)</li>
+    </ul>
+  </dd>
+
+  <dt><strong>Paul</strong></dt>
+  <dd>
+    <ul>
+      <li>Trained under Gamaliel, a leading Pharisaic teacher, in Jerusalem (Acts 22:3)</li>
+      <li>Spent three years in Arabia in reflection and preparation after his Damascus conversion (Gal 1:17)</li>
+      <li>Steeped in Jewish law and rhetoric before launching his apostolic ministry</li>
+    </ul>
+  </dd>
+</dl>
+
+
+
+<!-- <h3>A Small Aside of Ascetics for Biblical Reference</h3>
+
+<dl>
+  <dt><strong>John the Baptist</strong></dt>
+  <dd>
+    <ul>
+      <li>Lived an ascetic <strong>life</strong> in the wilderness (locusts and wild honey; Mk 1:6)</li>
+      <li>Possibly connected with the Essenes’ desert devotion</li>
+      <li>Embraced radical separation to prepare the way for Christ</li>
+    </ul>
+  </dd>
+
+  <dt><strong>Elijah</strong></dt>
+  <dd>
+    <ul>
+      <li>Fled to the wilderness and <strong>lived</strong> in solitude (1 Kg 17–19)</li>
+      <li>Sustained by minimal provision (ravens’ food, brook water)</li>
+      <li>Fasted and endured fear before renewed prophetic calling</li>
+    </ul>
+  </dd>
+
+  <dt><strong>Moses</strong></dt>
+  <dd>
+    <ul>
+      <li>Spent <strong>forty years</strong> in Midian’s desert as a shepherd</li>
+      <li>Lived in isolation away from courtly comforts (Acts 7:22)</li>
+      <li>Underwent a solitary crucible before his prophetic commissioning</li>
+    </ul>
+  </dd>
+</dl>
+
+<h3>A Brief Look at Formally Educated Biblical Leaders</h3>
+<dl>
+  <dt><strong>Daniel</strong></dt>
+  <dd>
+    <ul>
+      <li>Skillful in all wisdom and endowed with knowledge and understanding (Dan 1:17)</li>
+      <li>Learned the literature and language of the Chaldeans, competent to serve in the king’s palace (Dan 1:4–5)</li>
+      <li>Applied God‑given insight to interpret dreams and govern under foreign rulers (Dan 2:21; 6:3)</li>
+    </ul>
+  </dd>
+
+  <dt><strong>Moses</strong></dt>
+  <dd>
+    <ul>
+      <li>Educated “in all the wisdom of the Egyptians” at Pharaoh’s court, and was mighty in words and deeds because of that training (Acts 7:22)</li>
+      <li>Proficient in leadership and debate before his Midianese exile</li>
+    </ul>
+  </dd>
+
+  <dt><strong>Paul</strong></dt>
+  <dd>
+    <ul>
+      <li>Trained under Gamaliel, a leading Pharisaic teacher, in Jerusalem (Acts 22:3)</li>
+      <li>Steeped in Jewish law and rhetoric before his Damascus conversion</li>
+    </ul>
+  </dd>
+</dl> -->
+
+
+
+
+
+
+
+
 <!-- Endowed with <a class="alterlink" href="https://deiinvictus.com/posts/poor/">spiritual riches</a> and thoroughly equipped by God to maintain full honors in Physics, Computer Science, and Engineering.  -->
 
 <!-- fiery crucible of -->
