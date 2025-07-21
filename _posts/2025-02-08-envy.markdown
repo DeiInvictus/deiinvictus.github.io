@@ -1,6 +1,6 @@
 ---
-title: "Those Who Malign Others Are Projecting Their Own Insecurities and Limitations Upon Those They Envy"
-date: 2025-02-08 1:15:00 -0500
+title: "On Envy and Slander"
+date: 2025-02-08 1:20:00 -0500
 categories: [Meditations, Envy]
 tags: [false witness, slander, hate, hatred, envy, jealousy] # TAG names should always be lowercase
 author: seven_shepherd
@@ -9,11 +9,59 @@ comments: false
 pin: false
 ---
 
-## The Great Pretenders
+<style>
+/* in your main CSS (e.g. assets/css/style.css) */
+.references {
+  padding: 0;
+  margin: 0;
+}
 
-If you pay close attention, your adversaries will reveal their deepest fears cloaked in their arrogance. When they puff out their chest and boast, it's not confidence&mdash;it's a facade of superiority born from their own insecurities. This bravado is a defense mechanism, a desperate attempt to conceal their vulnerabilities. In truth, they are laying bare their weaknesses for all to see. I've yet to encounter a truly secure individual who feels the need to act in such a manner; as intelligence grows, so too does humility. Those who speak ill of others are merely projecting their own insecurities onto those they envy.
+.references li {
+  list-style: none;
+  margin-bottom: 1em;           /* space between entries */
+  padding-left: 1.5em;          /* amount of hanging indent */
+  text-indent: -1.5em;          /* pulls first line back */
+  line-height: 2;               /* nicer readability */
+}
+
+p.titles {
+  text-align:center;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-weight:bold;
+}
+
+body {
+  line-height: 2;
+}
+
+a.alterlink {
+  color:Silver;
+}
+</style>
+
+## Those Who Malign Others Are Projecting Their Own Insecurities and Limitations Upon Those They Envy
+
+If you pay close attention, your adversaries will reveal their deepest fears cloaked in their arrogance. When they puff out their chest and boast, it's not confidence&mdash;it's a facade of superiority born from their own insecurities. This bravado is a defense mechanism, a desperate attempt to conceal their vulnerabilities. In truth, they are laying bare their weaknesses for all to see. I've yet to encounter a truly secure individual who feels the need to act in such a manner; as intelligence grows, so too does humility. Those who speak ill of others are merely projecting their own insecurities onto those they envy. As Seneca (1889) vividly illustrates:
+
+> hence comes the State of Mind of those who loathe their idleness complain that they have nothing to do and view the progress of others with the bitterest jealousy for an unhappy sloth favours the growth of envy and those who cannot succeed themselves wish everyone else to be ruined" (Seneca, 1889, p. 257).
+
+<!-- > &mdash; Lucius Annaeus Seneca the Younger in De Tranquillitate Animi ([On the Tranquility of the Mind](https://youtu.be/vl5WDfwY4PY?t=1032)) in his ninth book of the dialogues -->
+
+Jealousy teaches the loser to twist a man's achievements against him. As Greek philosopher Socrates once stated, "When the debate is lost, slander becomes the tool of the losers." Christ was a target of such petty jealousy and willful ignorance:
 
 > He knew very well that the religious leaders had arrested Jesus out of envy (New Living Translation, 2015, Matt. 27:18).
+
+<!-- If people are causing divisions among you, consider these verses (Tit 3:10 NLT; 2Ti 3:1-5 ESV; 2Th 2:3).
+
+- Speaking negatively about or belittling others (Pr 11:12 NLT; Mt 5:22 ESV; Lk 6:45 NLT).
+- Gossiping about others (Pr 16:28 NLT).
+- Slandering other people in the congregation (Pr 11:9 NLT; James 4:11-12; Pr 10:18 ESV; 20:19; 1Pe 2:1; Ps 101:5 ESV).
+- Bearing false witness & lying (Pr 6:16-19).
+- Hatred is equivalent to murder (1Jn 3:15; 1Jn 2:9 NLT; 1Jn 4:20 NLT).
+- Premarital sex, or illicit [drug use](https://www.gotquestions.org/pharmakeia-in-the-Bible.html) (Re 21:8; 22:15; Gal 5:19-21)
+- Speaking profanities and reviling (James 1:26)
+- Demonstrating other works of the flesh. -->
 
 <br>
 
@@ -25,7 +73,10 @@ If you pay close attention, your adversaries will reveal their deepest fears clo
 
 <span></span>
 
-*New Living Translation*. (2015). Tyndale House Publishers.
+<ul class="references">
+<li><em>New Living Translation</em>. (2015). Tyndale House Publishers.</li>
+<li>Seneca, L. A. (1889). <em>Minor dialogues together with the dialogue on Clemency</em> (A. Stewart, Trans.). George Bell and Sons. (Original work published AD 62)</li>
+</ul>
 
 <br>
 
