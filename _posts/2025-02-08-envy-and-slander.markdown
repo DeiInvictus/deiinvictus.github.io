@@ -1,6 +1,6 @@
 ---
 title: "On Envy and Slander"
-date: 2025-02-08 2:15:00 -0500
+date: 2025-02-08 2:25:00 -0500
 categories: [Meditations, Envy]
 tags: [false witness, slander, hate, hatred, envy, jealousy] # TAG names should always be lowercase
 author: seven_shepherd
@@ -57,10 +57,10 @@ Consider this a warning to those who continue in the way of strife:
 
 > There are six things which Yahweh hates, Even seven **which are an abomination to Him**: Haughty eyes, **a lying tongue**, And hands that shed innocent blood, A heart that devises wicked thoughts, Feet that hasten to run to evil, **A false witness who breathes out lies, <span style="color:Crimson;">And one who spreads strife among brothers</span>** (Legacy Standard Bible, 2021, Prov. 6:16-19).
 
-- Those who hate fellow Christians are false Christians (1Jn. 3:15 ESV; 1Jn. 4:20).
+- Those who hate fellow Christians are **false Christians** (1Jn. 3:15 ESV; 1Jn. 4:20).
 - With their words, the **godless** destroy their friends (Prov. 11:9 NLT).
 - Rebuke that person even if they believe (Lk. 17:3-4).
-- Don't even eat with such a person. Remove the **evil person** from among you (1Cor. 5:11-13 NLT).
+- Don't eat with such a person. Remove the **evil person** from among you (1Cor. 5:11-13 NLT).
 - Give them warnings, after that, have nothing more to do with them (Titus 3:10 NLT).
 - Do not associate with the slanderer (Prov. 20:19).
 - Put away all hypocrisy, envy, and all slander (1Pet. 2:1).
