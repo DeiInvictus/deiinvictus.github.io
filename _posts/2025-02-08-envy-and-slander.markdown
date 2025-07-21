@@ -1,6 +1,6 @@
 ---
 title: "On Envy and Slander"
-date: 2025-02-08 1:30:00 -0500
+date: 2025-02-08 1:35:00 -0500
 categories: [Meditations, Envy]
 tags: [false witness, slander, hate, hatred, envy, jealousy] # TAG names should always be lowercase
 author: seven_shepherd
@@ -46,11 +46,33 @@ If you pay close attention, your adversaries will reveal their deepest fears clo
 
 > hence comes the State of Mind of those who loathe their idleness, complain that they have nothing to do, and view the progress of others with the bitterest jealousy: for an unhappy sloth favours the growth of envy, and those who cannot succeed themselves wish everyone else to be ruined" (p. 257).
 
+Jealousy teaches the loser to twist a man's achievements against him. As Greek philosopher Socrates once stated, "When the debate is lost, slander becomes the tool of the losers." Christ was a target of such vicious and petty jealousy and depraved ignorance. It metastasized to such a point that ended in his arrest (Matt. 27:18 NLT). As Werner von Braun (1971), the father of space science, once articulated:
+
+<!-- > He knew very well that the religious leaders had arrested Jesus out of envy (New Living Translation, 2015, Matt. 27:18). -->
+
+> When God became a man Himself, the experience proved to be nothing short of pure agony. In man’s time-honored fashion, they would unleash the whole arsenal of weapons against Him: **misrepresentation, slander, and accusation of treason**. The stage was set for a situation without parallel in the history of the earth. God would visit creatures and they would nail Him to the cross!
+
+Consider this a warning to those who continue in the way of strife:
+
+> There are six things which Yahweh hates, Even seven **which are an abomination to Him**: Haughty eyes, **a lying tongue**, And hands that shed innocent blood, A heart that devises wicked thoughts, Feet that hasten to run to evil, **A false witness who breathes out lies, <span style="color:Crimson;">And one who spreads strife among brothers</span>** (Legacy Standard Bible, 2021, Prov. 6:16-19).
+
+- With their words, the **godless** destroy their friends (Prov. 11:9 NLT).
+- Rebuke that person even if they believe (Lk 17:3-4).
+- Don't even eat with such a person. Remove the **evil person** from among you (1Cor. 5:11-13 NLT).
+- Give them warnings, after that, have nothing more to do with them (Titus 3:10 NLT).
+- Do not associate with the slanderer (Prov. 20:19).
+- Put away all hypocrisy, envy, and all slander (1Pet. 2:1).
+- **God will destroy the slanderer** (Psa. 101:5).
+- **Whoever utters slander is a fool** (Prov. 10:18).
+- By gossip a troublemaker separates the best of friends (Prov. 16:28 NLT).
+- Every careless word will be judged (Matt. 12:36).
+- By speaking evil of others, you judge God's law (Jas. 4:11-12).
+- Evil words come from an **evil heart** (Lk 6:45 NLT; Heb. 3:12).
+- Those who endure persecution will receive the crown of life (Jas. 1:12).
+- **You are in danger of the fires of hell** (Matt. 5:22).
+- An admonition to false teachers (Jer. 23:1-3 KJV).
+
 <!-- > &mdash; Lucius Annaeus Seneca the Younger in De Tranquillitate Animi ([On the Tranquility of the Mind](https://youtu.be/vl5WDfwY4PY?t=1032)) in his ninth book of the dialogues -->
-
-Jealousy teaches the loser to twist a man's achievements against him. As Greek philosopher Socrates once stated, "When the debate is lost, slander becomes the tool of the losers." Christ was a target of such petty jealousy and willful ignorance:
-
-> He knew very well that the religious leaders had arrested Jesus out of envy (New Living Translation, 2015, Matt. 27:18).
 
 <!-- If people are causing divisions among you, consider these verses (Tit 3:10 NLT; 2Ti 3:1-5 ESV; 2Th 2:3).
 
@@ -74,8 +96,10 @@ Jealousy teaches the loser to twist a man's achievements against him. As Greek p
 <span></span>
 
 <ul class="references">
+<li><em>Legacy Standard Bible</em>. (2021). The Lockman Foundation.</li>
 <li><em>New Living Translation</em>. (2015). Tyndale House Publishers.</li>
 <li>Seneca, L. A. (1889). <em>Minor dialogues together with the dialogue on Clemency</em> (A. Stewart, Trans.). George Bell and Sons. (Original work published AD 62)</li>
+<li>von Braun, W. (1971, November 22). <em>Religious Implications of Space Exploration: A Personal View</em> [Lecture]. Belmont Abbey College, North Carolina.</li>
 </ul>
 
 <br>
