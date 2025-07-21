@@ -1,6 +1,6 @@
 ---
 title: "On Envy and Slander"
-date: 2025-02-08 2:05:00 -0500
+date: 2025-02-08 2:10:00 -0500
 categories: [Meditations, Envy]
 tags: [false witness, slander, hate, hatred, envy, jealousy] # TAG names should always be lowercase
 author: seven_shepherd
@@ -47,7 +47,7 @@ If you pay close attention, your adversaries will reveal their deepest fears clo
 
 > hence comes the State of Mind of those who loathe their idleness, complain that they have nothing to do, and view the progress of others with the bitterest jealousy: for an unhappy sloth favours the growth of envy, and those who cannot succeed themselves wish everyone else to be ruined" (p. 257).
 
-Jealousy teaches the loser to twist a man's achievements against him. As Greek philosopher Socrates once stated, "When the debate is lost, slander becomes the tool of the losers." Christ was a target of such vicious and petty jealousy and depraved ignorance. It metastasized to such a point that ended in his arrest (Matt. 27:18 NLT). As Werner von Braun (1971), the father of space science, once articulated:
+Jealousy teaches the loser to twist a man's achievements against him. As Greek philosopher Socrates once stated, "When the debate is lost, slander becomes the tool of the losers." Christ was a target of such vicious and petty jealousy and depraved ignorance. It metastasized to such a point that it culminated in his arrest (Matt. 27:18 NLT). As Werner von Braun (1971), the father of space science, once articulated:
 
 <!-- > He knew very well that the religious leaders had arrested Jesus out of envy (New Living Translation, 2015, Matt. 27:18). -->
 
