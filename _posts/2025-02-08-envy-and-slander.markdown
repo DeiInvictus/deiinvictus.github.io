@@ -1,6 +1,6 @@
 ---
 title: "On Envy and Slander"
-date: 2025-02-08 2:10:00 -0500
+date: 2025-02-08 2:15:00 -0500
 categories: [Meditations, Envy]
 tags: [false witness, slander, hate, hatred, envy, jealousy] # TAG names should always be lowercase
 author: seven_shepherd
@@ -43,11 +43,11 @@ a.alterlink {
 ## Those Who Malign Others Are Projecting Their Own Insecurities and Limitations Upon Those They Envy
 
 <p style="text-indent:2em;">
-If you pay close attention, your adversaries will reveal their deepest fears cloaked in their arrogance. When they puff out their chest and boast, it's not confidence&mdash;it's a facade of superiority born from their own insecurities. This bravado is a defense mechanism, a desperate attempt to conceal their vulnerabilities. In truth, they are laying bare their weaknesses for all to see. I've yet to encounter a truly secure individual who feels the need to act in such a manner; as intelligence grows, so too does humility. Those who speak ill of others are merely projecting their own insecurities onto those they envy. As Seneca (1889) vividly illustrates in his <em>Minor Dialogues, De Tranquillitate Animi</em> (On the Tranquility of the Mind):</p>
+There is a difference between confidence and pride, sharing achievement and boasting. If you pay close attention, your adversaries will reveal their deepest fears cloaked in their arrogance. When they puff out their chest and boast, it's not confidence&mdash;it's a facade of superiority born from their own insecurities. This bravado is a defense mechanism, a desperate attempt to conceal their vulnerabilities. In truth, they are laying bare their weaknesses for all to see. I've yet to encounter a truly secure individual who feels the need to act in such a manner; as intelligence grows, so too does humility. Those who speak ill of others are merely projecting their own insecurities onto those they envy. As Seneca (1889) vividly illustrates in his <em>Minor Dialogues, De Tranquillitate Animi</em> (On the Tranquility of the Mind):</p>
 
 > hence comes the State of Mind of those who loathe their idleness, complain that they have nothing to do, and view the progress of others with the bitterest jealousy: for an unhappy sloth favours the growth of envy, and those who cannot succeed themselves wish everyone else to be ruined" (p. 257).
 
-Jealousy teaches the loser to twist a man's achievements against him. As Greek philosopher Socrates once stated, "When the debate is lost, slander becomes the tool of the losers." Christ was a target of such vicious and petty jealousy and depraved ignorance. It metastasized to such a point that it culminated in his arrest (Matt. 27:18 NLT). As Werner von Braun (1971), the father of space science, once articulated:
+Jealousy teaches the loser to twist a man's achievements against him. As Greek philosopher Socrates once stated, "When the debate is lost, slander becomes the tool of the losers." Christ was the target of such vicious jealousy and depraved ignorance, that it culminated in his arrest (Matt. 27:18 NLT). As Werner von Braun (1971), the father of space science, once articulated:
 
 <!-- > He knew very well that the religious leaders had arrested Jesus out of envy (New Living Translation, 2015, Matt. 27:18). -->
 
@@ -57,8 +57,9 @@ Consider this a warning to those who continue in the way of strife:
 
 > There are six things which Yahweh hates, Even seven **which are an abomination to Him**: Haughty eyes, **a lying tongue**, And hands that shed innocent blood, A heart that devises wicked thoughts, Feet that hasten to run to evil, **A false witness who breathes out lies, <span style="color:Crimson;">And one who spreads strife among brothers</span>** (Legacy Standard Bible, 2021, Prov. 6:16-19).
 
+- Those who hate fellow Christians are false Christians (1Jn. 3:15 ESV; 1Jn. 4:20).
 - With their words, the **godless** destroy their friends (Prov. 11:9 NLT).
-- Rebuke that person even if they believe (Lk 17:3-4).
+- Rebuke that person even if they believe (Lk. 17:3-4).
 - Don't even eat with such a person. Remove the **evil person** from among you (1Cor. 5:11-13 NLT).
 - Give them warnings, after that, have nothing more to do with them (Titus 3:10 NLT).
 - Do not associate with the slanderer (Prov. 20:19).
@@ -68,7 +69,7 @@ Consider this a warning to those who continue in the way of strife:
 - By gossip a troublemaker separates the best of friends (Prov. 16:28 NLT).
 - Every careless word will be judged (Matt. 12:36).
 - By speaking evil of others, you judge God's law (Jas. 4:11-12).
-- Evil words come from an **evil heart** (Lk 6:45 NLT; Heb. 3:12).
+- Evil words come from an **evil heart** (Lk. 6:45 NLT; Heb. 3:12).
 - Those who endure persecution will receive the crown of life (Jas. 1:12).
 - **You are in danger of the fires of hell** (Matt. 5:22).
 - An admonition to false teachers (Jer. 23:1-3 KJV).
